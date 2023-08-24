@@ -1,0 +1,81 @@
+﻿OBJECTID_12;FID_estaco;OBJECTID_1;OBJECTID;OBJECTID_2;ID;NAME;ORIG_FID;LAT_Y;LONG_X;FID_CAOP_A;DICO;Concelho;Distrito;N_Freguesi;NUTSIII;NUTSII;NUTSI;Alt_Max;Alt_Min;Area_ha;Perim_km
+1;64;67;305;305;305;Praias do Sado;67;38,51394494;-8,84209721;18;1512;Setúbal;Setúbal;7;Área Metropolitana de Lisboa;Lisboa;Continente;501;0;23032,5;101
+2;63;66;304;304;304;Setúbal - Praça Quebedo;66;38,52485019;-8,88657873;18;1512;Setúbal;Setúbal;7;Área Metropolitana de Lisboa;Lisboa;Continente;501;0;23032,5;101
+3;62;64;302;302;302;Setúbal;64;38,53068813;-8,88529762;18;1512;Setúbal;Setúbal;7;Área Metropolitana de Lisboa;Lisboa;Continente;501;0;23032,5;101
+4;61;63;301;301;301;Palmela;63;38,5710939;-8,87269486;15;1508;Palmela;Setúbal;4;Área Metropolitana de Lisboa;Lisboa;Continente;391;0;46512,01;157
+5;72;79;0;0;0;Coina;79;38,58499501;-9,05120192;16;1510;Seixal;Setúbal;4;Área Metropolitana de Lisboa;Lisboa;Continente;81;0;9545,17;50
+6;75;82;0;0;0;Penalva;82;38,59022297;-8,99555005;15;1508;Palmela;Setúbal;4;Área Metropolitana de Lisboa;Lisboa;Continente;391;0;46512,01;157
+7;60;62;300;300;300;Venda do Alcaide;62;38,60648243;-8,88885545;15;1508;Palmela;Setúbal;4;Área Metropolitana de Lisboa;Lisboa;Continente;391;0;46512,01;157
+8;70;77;567;567;567;Fogueteiro;77;38,61021667;-9,10129469;16;1510;Seixal;Setúbal;4;Área Metropolitana de Lisboa;Lisboa;Continente;81;0;9545,17;50
+9;73;80;0;0;0;Foros de Amora;80;38,62092499;-9,12852226;16;1510;Seixal;Setúbal;4;Área Metropolitana de Lisboa;Lisboa;Continente;81;0;9545,17;50
+10;71;78;577;577;577;Pinhal Novo;78;38,63010824;-8,91277618;15;1508;Palmela;Setúbal;4;Área Metropolitana de Lisboa;Lisboa;Continente;391;0;46512,01;157
+11;65;70;476;476;476;Poceirão;70;38,63449531;-8,74338317;15;1508;Palmela;Setúbal;4;Área Metropolitana de Lisboa;Lisboa;Continente;391;0;46512,01;157
+12;66;71;477;477;477;Fernando - Pó;71;38,63648;-8,69108;15;1508;Palmela;Setúbal;4;Área Metropolitana de Lisboa;Lisboa;Continente;391;0;46512,01;157
+13;74;81;0;0;0;Corroios;81;38,63659427;-9,15155854;16;1510;Seixal;Setúbal;4;Área Metropolitana de Lisboa;Lisboa;Continente;81;0;9545,17;50
+14;59;61;299;299;299;Penteado;61;38,63829551;-8,95676345;13;1506;Moita;Setúbal;4;Área Metropolitana de Lisboa;Lisboa;Continente;58;0;5525,98;42
+15;58;60;298;298;298;Moita;60;38,64477392;-8,99596164;13;1506;Moita;Setúbal;4;Área Metropolitana de Lisboa;Lisboa;Continente;58;0;5525,98;42
+16;57;59;297;297;297;Alhos Vedros;59;38,6519421;-9,02695214;13;1506;Moita;Setúbal;4;Área Metropolitana de Lisboa;Lisboa;Continente;58;0;5525,98;42
+17;53;55;293;293;293;Barreiro;55;38,65259027;-9,07940695;12;1504;Barreiro;Setúbal;4;Área Metropolitana de Lisboa;Lisboa;Continente;76;0;3639,07;46
+18;56;58;296;296;296;Baixa da Banheira;58;38,65934572;-9,04360046;13;1506;Moita;Setúbal;4;Área Metropolitana de Lisboa;Lisboa;Continente;58;0;5525,98;42
+19;67;72;478;478;478;Pegões;72;38,66224728;-8,61920981;14;1507;Montijo;Setúbal;5;Área Metropolitana de Lisboa;Lisboa;Continente;135;0;34861,64;149
+20;54;56;294;294;294;Barreiro-A;56;38,65965207;-9,07169944;12;1504;Barreiro;Setúbal;4;Área Metropolitana de Lisboa;Lisboa;Continente;76;0;3639,07;46
+21;55;57;295;295;295;Lavradio;57;38,66182445;-9,05830333;12;1504;Barreiro;Setúbal;4;Área Metropolitana de Lisboa;Lisboa;Continente;76;0;3639,07;46
+22;68;73;480;480;480;São João das Craveiras;73;38,66792256;-8,58578415;14;1507;Montijo;Setúbal;5;Área Metropolitana de Lisboa;Lisboa;Continente;135;0;34861,64;149
+23;69;76;566;566;566;Pragal;76;38,66622536;-9,17924625;11;1503;Almada;Setúbal;5;Área Metropolitana de Lisboa;Lisboa;Continente;125;0;7000,89;66
+24;43;45;283;283;283;Santo Amaro;45;38,68689972;-9,31194648;5;1110;Oeiras;Lisboa;5;Área Metropolitana de Lisboa;Lisboa;Continente;199;0;4588,31;43
+25;41;43;281;281;281;Carcavelos;43;38,68781274;-9,33740929;1;1105;Cascais;Lisboa;42;Área Metropolitana de Lisboa;Lisboa;Continente;475;0;9740,17;72
+26;42;44;282;282;282;Oeiras;44;38,68856919;-9,31906291;5;1110;Oeiras;Lisboa;5;Área Metropolitana de Lisboa;Lisboa;Continente;199;0;4588,31;43
+27;40;42;280;280;280;Parede;42;38,68977694;-9,35647809;1;1105;Cascais;Lisboa;42;Área Metropolitana de Lisboa;Lisboa;Continente;475;0;9740,17;72
+28;44;46;284;284;284;Paço de Arcos;46;38,69183269;-9,30205037;5;1110;Oeiras;Lisboa;5;Área Metropolitana de Lisboa;Lisboa;Continente;199;0;4588,31;43
+29;48;50;288;288;288;Belém;50;38,69619492;-9,19739219;2;1106;Lisboa;Lisboa;24;Área Metropolitana de Lisboa;Lisboa;Continente;228;0;10005,43;50
+30;39;41;279;279;279;São Pedro do Estoril;41;38,69536811;-9,37159537;1;1105;Cascais;Lisboa;42;Área Metropolitana de Lisboa;Lisboa;Continente;475;0;9740,17;72
+31;47;49;287;287;287;Algés;49;38,69828532;-9,22900933;5;1110;Oeiras;Lisboa;5;Área Metropolitana de Lisboa;Lisboa;Continente;199;0;4588,31;43
+32;45;47;285;285;285;Caxias;47;38,69877;-9,27442167;5;1110;Oeiras;Lisboa;5;Área Metropolitana de Lisboa;Lisboa;Continente;199;0;4588,31;43
+33;46;48;286;286;286;Cruz Quebrada;48;38,69979713;-9,25211505;5;1110;Oeiras;Lisboa;5;Área Metropolitana de Lisboa;Lisboa;Continente;199;0;4588,31;43
+34;50;52;290;290;290;Alcântara-Mar;52;38,70235631;-9,17403322;2;1106;Lisboa;Lisboa;24;Área Metropolitana de Lisboa;Lisboa;Continente;228;0;10005,43;50
+35;35;37;275;275;275;Cascais;37;38,70086088;-9,41792256;1;1105;Cascais;Lisboa;42;Área Metropolitana de Lisboa;Lisboa;Continente;475;0;9740,17;72
+36;38;40;278;278;278;São João do Estoril;40;38,701251;-9,38595048;1;1105;Cascais;Lisboa;42;Área Metropolitana de Lisboa;Lisboa;Continente;475;0;9740,17;72
+37;37;39;277;277;277;Estoril;39;38,7032497;-9,39870685;1;1105;Cascais;Lisboa;42;Área Metropolitana de Lisboa;Lisboa;Continente;475;0;9740,17;72
+38;51;53;291;291;291;Cais do Sodré;53;38,70599149;-9,1451473;2;1106;Lisboa;Lisboa;24;Área Metropolitana de Lisboa;Lisboa;Continente;228;0;10005,43;50
+39;36;38;276;276;276;Monte Estoril;38;38,70355285;-9,40654549;1;1105;Cascais;Lisboa;42;Área Metropolitana de Lisboa;Lisboa;Continente;475;0;9740,17;72
+40;52;54;292;292;292;Santos;54;38,70626588;-9,1544414;2;1106;Lisboa;Lisboa;24;Área Metropolitana de Lisboa;Lisboa;Continente;228;0;10005,43;50
+41;49;51;289;289;289;Alcântara-Terra;51;38,70748678;-9,17333766;2;1106;Lisboa;Lisboa;24;Área Metropolitana de Lisboa;Lisboa;Continente;228;0;10005,43;50
+42;30;31;266;266;266;Santa Apolónia;31;38,71381803;-9,12303153;2;1106;Lisboa;Lisboa;24;Área Metropolitana de Lisboa;Lisboa;Continente;228;0;10005,43;50
+43;16;17;252;252;252;Rossio;17;38,71515381;-9,14284065;2;1106;Lisboa;Lisboa;24;Área Metropolitana de Lisboa;Lisboa;Continente;228;0;10005,43;50
+44;15;16;251;251;251;Campolide;16;38,73235728;-9,16842013;2;1106;Lisboa;Lisboa;24;Área Metropolitana de Lisboa;Lisboa;Continente;228;0;10005,43;50
+45;21;22;257;257;257;Marvila;22;38,73900964;-9,10882854;2;1106;Lisboa;Lisboa;24;Área Metropolitana de Lisboa;Lisboa;Continente;228;0;10005,43;50
+46;20;21;256;256;256;Chelas;21;38,73910429;-9,11898523;2;1106;Lisboa;Lisboa;24;Área Metropolitana de Lisboa;Lisboa;Continente;228;0;10005,43;50
+47;17;18;253;253;253;Sete Rios;18;38,74024775;-9,1667659;2;1106;Lisboa;Lisboa;24;Área Metropolitana de Lisboa;Lisboa;Continente;228;0;10005,43;50
+48;18;19;254;254;254;Entrecampos;19;38,74448515;-9,14874191;2;1106;Lisboa;Lisboa;24;Área Metropolitana de Lisboa;Lisboa;Continente;228;0;10005,43;50
+49;14;15;250;250;250;Benfica;15;38,74442622;-9,19992253;2;1106;Lisboa;Lisboa;24;Área Metropolitana de Lisboa;Lisboa;Continente;228;0;10005,43;50
+50;19;20;255;255;255;Areeiro;20;38,74568109;-9,13508321;2;1106;Lisboa;Lisboa;24;Área Metropolitana de Lisboa;Lisboa;Continente;228;0;10005,43;50
+51;22;23;258;258;258;Braço de Prata;23;38,74609304;-9,10310529;2;1106;Lisboa;Lisboa;24;Área Metropolitana de Lisboa;Lisboa;Continente;228;0;10005,43;50
+52;13;14;249;249;249;Santa Cruz - Damaia;14;38,74691444;-9,21308607;8;1115;Amadora;Lisboa;6;Área Metropolitana de Lisboa;Lisboa;Continente;258;50;2378,47;30
+53;12;13;248;248;248;Reboleira;13;38,7508176;-9,22272806;8;1115;Amadora;Lisboa;6;Área Metropolitana de Lisboa;Lisboa;Continente;258;50;2378,47;30
+54;8;9;244;244;244;Tercena - Barcarena (Barcarena - Massamá);9;38,75157269;-9,28437232;5;1110;Oeiras;Lisboa;5;Área Metropolitana de Lisboa;Lisboa;Continente;199;0;4588,31;43
+55;10;11;246;246;246;Queluz - Massamá (Queluz - Monte Abraão);11;38,75504161;-9,26576872;6;1111;Sintra;Lisboa;11;Área Metropolitana de Lisboa;Lisboa;Continente;528;0;31922,73;115
+56;9;10;245;245;245;Queluz - Belas (Queluz);10;38,75878551;-9,25659015;6;1111;Sintra;Lisboa;11;Área Metropolitana de Lisboa;Lisboa;Continente;528;0;31922,73;115
+57;11;12;247;247;247;Amadora;12;38,75991977;-9,2359617;8;1115;Amadora;Lisboa;6;Área Metropolitana de Lisboa;Lisboa;Continente;258;50;2378,47;30
+58;23;24;259;259;259;Oriente;24;38,76793925;-9,09903695;2;1106;Lisboa;Lisboa;24;Área Metropolitana de Lisboa;Lisboa;Continente;228;0;10005,43;50
+59;2;3;237;237;237;Cacém;3;38,76639668;-9,29841766;6;1111;Sintra;Lisboa;11;Área Metropolitana de Lisboa;Lisboa;Continente;528;0;31922,73;115
+60;24;25;260;260;260;Moscavide;25;38,77805245;-9,09958891;3;1107;Loures;Lisboa;10;Área Metropolitana de Lisboa;Lisboa;Continente;409;0;16723,99;90
+61;3;4;239;239;239;Rio de Mouro;4;38,7846497;-9,32225604;6;1111;Sintra;Lisboa;11;Área Metropolitana de Lisboa;Lisboa;Continente;528;0;31922,73;115
+62;76;83;0;0;0;Mira Sintra-Meleças;83;38,78965957;-9,31245621;6;1111;Sintra;Lisboa;11;Área Metropolitana de Lisboa;Lisboa;Continente;528;0;31922,73;115
+63;4;5;240;240;240;Mercês;5;38,79320518;-9,3307953;6;1111;Sintra;Lisboa;11;Área Metropolitana de Lisboa;Lisboa;Continente;528;0;31922,73;115
+64;25;26;261;261;261;Sacavém;26;38,79536614;-9,09960058;2;1106;Lisboa;Lisboa;24;Área Metropolitana de Lisboa;Lisboa;Continente;228;0;10005,43;50
+65;5;6;241;241;241;Algueirão - Mem Martins;6;38,79760297;-9,3414364;6;1111;Sintra;Lisboa;11;Área Metropolitana de Lisboa;Lisboa;Continente;528;0;31922,73;115
+66;7;8;243;243;243;Sintra;8;38,79945735;-9,38518393;6;1111;Sintra;Lisboa;11;Área Metropolitana de Lisboa;Lisboa;Continente;528;0;31922,73;115
+67;6;7;242;242;242;Portela de Sintra;7;38,80223234;-9,37666885;6;1111;Sintra;Lisboa;11;Área Metropolitana de Lisboa;Lisboa;Continente;528;0;31922,73;115
+68;26;27;262;262;262;Bobadela;27;38,80725803;-9,09437392;3;1107;Loures;Lisboa;10;Área Metropolitana de Lisboa;Lisboa;Continente;409;0;16723,99;90
+69;77;84;0;0;0;Telhal;0;38,80920754;-9,30257529;6;1111;Sintra;Lisboa;11;Área Metropolitana de Lisboa;Lisboa;Continente;528;0;31922,73;115
+70;1;2;236;236;236;Sabugo;2;38,8308444;-9,29990285;6;1111;Sintra;Lisboa;11;Área Metropolitana de Lisboa;Lisboa;Continente;528;0;31922,73;115
+71;27;28;263;263;263;Santa Iria;28;38,84056453;-9,08052506;3;1107;Loures;Lisboa;10;Área Metropolitana de Lisboa;Lisboa;Continente;409;0;16723,99;90
+72;28;29;264;264;264;Póvoa;29;38,85916931;-9,06447493;7;1114;Vila Franca de Xira;Lisboa;6;Área Metropolitana de Lisboa;Lisboa;Continente;378;0;31819,39;137
+73;78;85;0;0;0;Pedra Furada;0;38,87740786;-9,29387654;6;1111;Sintra;Lisboa;11;Área Metropolitana de Lisboa;Lisboa;Continente;528;0;31922,73;115
+74;29;30;265;265;265;Alverca;30;38,89051889;-9,03342843;7;1114;Vila Franca de Xira;Lisboa;6;Área Metropolitana de Lisboa;Lisboa;Continente;378;0;31819,39;137
+75;79;86;0;0;0;Mafra;0;38,89741;-9,29173;4;1109;Mafra;Lisboa;12;Área Metropolitana de Lisboa;Lisboa;Continente;431;0;29165,5;126
+76;31;32;267;267;267;Alhandra;32;38,92412003;-9,01129431;7;1114;Vila Franca de Xira;Lisboa;6;Área Metropolitana de Lisboa;Lisboa;Continente;378;0;31819,39;137
+77;0;1;235;235;235;Malveira;1;38,92876033;-9,25773366;4;1109;Mafra;Lisboa;12;Área Metropolitana de Lisboa;Lisboa;Continente;431;0;29165,5;126
+78;32;34;269;269;269;Vila Franca de Xira;34;38,95575337;-8,98601618;7;1114;Vila Franca de Xira;Lisboa;6;Área Metropolitana de Lisboa;Lisboa;Continente;378;0;31819,39;137
+79;33;35;270;270;270;Castanheira do Ribatejo;35;38,98906892;-8,96532846;7;1114;Vila Franca de Xira;Lisboa;6;Área Metropolitana de Lisboa;Lisboa;Continente;378;0;31819,39;137
+80;34;36;271;271;271;Carregado;36;39,00557198;-8,95378542;7;1114;Vila Franca de Xira;Lisboa;6;Área Metropolitana de Lisboa;Lisboa;Continente;378;0;31819,39;137

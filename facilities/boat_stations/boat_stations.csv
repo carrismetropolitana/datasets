@@ -1,0 +1,11 @@
+﻿OBJECTID_1;FID_estaco;OBJECTID;SEQ_NUM;POI_NAME;ACT_ADMIN;Tipologia;Nivel;LAT_Y;LONG_X;FID_CAOP_A;DICO;Concelho;Distrito;N_Freguesi;NUTSIII;NUTSII;NUTSI;Alt_Max;Alt_Min;Area_ha;Perim_km
+1;5;0;0;Fluvial Setúbal;SETÚBAL;Estação Fluvial; ;38,52144958;-8,88538476;18;1512;Setúbal;Setúbal;7;Área Metropolitana de Lisboa;Lisboa;Continente;501;0;23032,5;101
+2;0;93;0;Seixal;SEIXAL;Estação Fluvial;2;38,64727;-9,0952;16;1510;Seixal;Setúbal;4;Área Metropolitana de Lisboa;Lisboa;Continente;81;0;9545,17;50
+3;10;0;0;Barreiro;BARREIRO;Estação Fluvial; ;38,65205567;-9,07951222;12;1504;Barreiro;Setúbal;4;Área Metropolitana de Lisboa;Lisboa;Continente;76;0;3639,07;46
+4;3;98;0;Trafaria;ALMADA;Estação Fluvial;2;38,67435277;-9,23071972;11;1503;Almada;Setúbal;5;Área Metropolitana de Lisboa;Lisboa;Continente;125;0;7000,89;66
+5;4;99;0;Porto Brandão;ALMADA;Estação Fluvial;2;38,67795957;-9,20682804;11;1503;Almada;Setúbal;5;Área Metropolitana de Lisboa;Lisboa;Continente;125;0;7000,89;66
+6;1;94;0;Cacilhas;ALMADA;Estação Fluvial;1;38,68806464;-9,14790061;11;1503;Almada;Setúbal;5;Área Metropolitana de Lisboa;Lisboa;Continente;125;0;7000,89;66
+7;11;0;0;Belem;LISBOA;Estação Fluvial; ;38,69497016;-9,19854797;2;1106;Lisboa;Lisboa;24;Área Metropolitana de Lisboa;Lisboa;Continente;228;0;10005,43;50
+8;2;95;0;Montijo;MONTIJO;Estação Fluvial;2;38,70151445;-8,97731697;14;1507;Montijo;Setúbal;5;Área Metropolitana de Lisboa;Lisboa;Continente;135;0;34861,64;149
+9;9;0;0;Cais Sodré;LISBOA;Estação Fluvial; ;38,70518463;-9,14497908;2;1106;Lisboa;Lisboa;24;Área Metropolitana de Lisboa;Lisboa;Continente;228;0;10005,43;50
+10;8;0;0;Terreiro do Paço;LISBOA;Estação Fluvial; ;38,70678741;-9,13342101;2;1106;Lisboa;Lisboa;24;Área Metropolitana de Lisboa;Lisboa;Continente;228;0;10005,43;50

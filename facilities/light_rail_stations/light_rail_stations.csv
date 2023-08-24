@@ -1,0 +1,20 @@
+﻿OBJECTID_1;FID_estaco;OBJECTID;Id;Designacao;Linha_1;Linha_2;Linha_3;Previstas;WTime;NAME;LAT_Y;LONG_X;FID_CAOP_A;DICO;Concelho;Distrito;N_Freguesi;NUTSIII;NUTSII;NUTSI;Alt_Max;Alt_Min;Area_ha;Perim_km
+1;17;18;0;Corroios;1;1;0;0;2;MTS Corroios;38,637163;-9,15101867;16;1510;Seixal;Setúbal;4;Área Metropolitana de Lisboa;Lisboa;Continente;81;0;9545,17;50
+2;18;19;0;Casa do Povo;1;1;0;0;2;MTS Casa do Povo;38,64250155;-9,15183166;16;1510;Seixal;Setúbal;4;Área Metropolitana de Lisboa;Lisboa;Continente;81;0;9545,17;50
+3;16;17;0;Sto. Amaro;1;1;0;0;2;MTS Sto. Amaro;38,64718616;-9,15325705;16;1510;Seixal;Setúbal;4;Área Metropolitana de Lisboa;Lisboa;Continente;81;0;9545,17;50
+4;15;16;0;Laranjeiro;1;1;0;0;2;MTS Laranjeiro;38,6564002;-9,15434541;11;1503;Almada;Setúbal;5;Área Metropolitana de Lisboa;Lisboa;Continente;125;0;7000,89;66
+5;14;15;0;António Gedeão;1;1;0;0;2;MTS António Gedeão;38,66045006;-9,15727554;11;1503;Almada;Setúbal;5;Área Metropolitana de Lisboa;Lisboa;Continente;125;0;7000,89;66
+6;3;4;0;Boa Esperança;0;0;1;0;2;MTS Boa Esperança;38,66380347;-9,19016739;11;1503;Almada;Setúbal;5;Área Metropolitana de Lisboa;Lisboa;Continente;125;0;7000,89;66
+7;0;1;0;Universidade;0;0;1;0;2;MTS Universidade;38,66370174;-9,20913446;11;1503;Almada;Setúbal;5;Área Metropolitana de Lisboa;Lisboa;Continente;125;0;7000,89;66
+8;13;14;0;Parque da Paz;1;1;0;0;2;MTS Parque da Paz;38,66445935;-9,15993184;11;1503;Almada;Setúbal;5;Área Metropolitana de Lisboa;Lisboa;Continente;125;0;7000,89;66
+9;1;2;0;Monte da Caparica;0;0;1;0;2;MTS Monte da Caparica;38,66457013;-9,20021026;11;1503;Almada;Setúbal;5;Área Metropolitana de Lisboa;Lisboa;Continente;125;0;7000,89;66
+10;2;3;0;Fomega;0;0;1;0;2;MTS Fomega;38,66551735;-9,19434211;11;1503;Almada;Setúbal;5;Área Metropolitana de Lisboa;Lisboa;Continente;125;0;7000,89;66
+11;4;5;0;Pragal;0;1;1;0;2;MTS Pragal;38,66636006;-9,180196;11;1503;Almada;Setúbal;5;Área Metropolitana de Lisboa;Lisboa;Continente;125;0;7000,89;66
+12;12;13;0;Cova da Piedade;1;1;0;0;2;MTS Cova da Piedade;38,66701893;-9,16562283;11;1503;Almada;Setúbal;5;Área Metropolitana de Lisboa;Lisboa;Continente;125;0;7000,89;66
+13;5;6;0;Ramalha;0;1;1;0;2;MTS Ramalha;38,6701845;-9,16825855;11;1503;Almada;Setúbal;5;Área Metropolitana de Lisboa;Lisboa;Continente;125;0;7000,89;66
+14;6;7;0;Bento Gonçalves;1;0;1;0;2;MTS Bento Gonçalves;38,67345552;-9,16625356;11;1503;Almada;Setúbal;5;Área Metropolitana de Lisboa;Lisboa;Continente;125;0;7000,89;66
+15;7;8;0;Almada;1;0;1;0;2;MTS Almada;38,67658432;-9,16415514;11;1503;Almada;Setúbal;5;Área Metropolitana de Lisboa;Lisboa;Continente;125;0;7000,89;66
+16;8;9;0;S. João Baptista;1;0;1;0;2;MTS S. João Baptista;38,67935275;-9,15749974;11;1503;Almada;Setúbal;5;Área Metropolitana de Lisboa;Lisboa;Continente;125;0;7000,89;66
+17;9;10;0;Gil Vicente;1;0;1;0;2;MTS Gil Vicente;38,6822575;-9,15238735;11;1503;Almada;Setúbal;5;Área Metropolitana de Lisboa;Lisboa;Continente;125;0;7000,89;66
+18;10;11;0;25 de Abril;1;0;1;0;2;MTS 25 de Abril;38,68421043;-9,14981529;11;1503;Almada;Setúbal;5;Área Metropolitana de Lisboa;Lisboa;Continente;125;0;7000,89;66
+19;11;12;0;Cacilhas;1;0;1;0;2;MTS Cacilhas;38,68719557;-9,14775943;11;1503;Almada;Setúbal;5;Área Metropolitana de Lisboa;Lisboa;Continente;125;0;7000,89;66
