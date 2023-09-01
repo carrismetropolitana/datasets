@@ -2030,3 +2030,54 @@ TEMP_000002,Creche e Jardim de Infância da Freguesia de Moscavide e Portela,38.
 TEMP_000003,Associação Cantinho da Pequenada,38.825739,-9.144982,0,0,0,0,1,2023-08-30,private,,0,0,0,0,0,0,0,0,0,1,TV. Jordão 1-5,,Frielas,,,1107,Loures,11,Lisboa,PT170,AML,,,,
 TEMP_000004,Creche e Jardim de Infância Quintarola,38.826878,-9.097451,0,0,0,0,1,2023-08-30,private,,1,0,0,0,0,0,0,0,0,0,R. do Sol 1,2695-562,São João da Talha,,,1107,Loures,11,Lisboa,PT170,AML,,,,
 TEMP_000005,Colégio Pequenada Feliz,38.806413,-9.137072,0,0,0,0,1,2023-08-30,private,,1,0,0,0,0,0,0,0,0,0,R. Luís Sá,2680-001,Camarate,,,1107,Loures,11,Lisboa,PT170,AML,,,,
+10187,Academia Militar,38.754260,-9.234460,1,0,0,0,,,,,0,0,0,0,0,0,0,0,1,0,,,,,,1115,Amadora,11,Lisboa,PT170,AML,,,,030315|030465|030467|030469|030477|030479|030481|030537|030538|030539|030541|030601|030685|030837|030841|030866|030867
+10188,Escola Superior de Enfermagem de Lisboa,38.756454,-9.147720,1,0,0,0,,,,,0,0,0,0,0,0,0,0,1,0,,,,,,1106,Lisboa,11,Lisboa,PT170,AML,,,,060282|060283|060289|060291
+10189,Escola Superior de Hotelaria e Turismo do Estoril,38.716944,-9.391947,1,0,0,0,,,,,0,0,0,0,0,0,0,0,1,0,,,,,,1105,Cascais,11,Lisboa,PT170,AML,,,,050369|050415|050417
+10190,Escola Superior de Saúde Atlântica,38.741406,-9.284575,1,0,0,0,,,,,0,0,0,0,0,0,0,0,1,0,,,,,,1110,Oeiras,11,Lisboa,PT170,AML,,,,120583|121137|121138|121139|121140|121141|121142|121143|121144
+10191,Escola Superior de Saúde da Cruz Vermelha Portuguesa,38.711433,-9.175043,1,0,0,0,,,,,0,0,0,0,0,0,0,0,1,0,,,,,,1106,Lisboa,11,Lisboa,PT170,AML,,,,060019|060387|060397
+10192,Escola Superior de Saúde do Alcoitão,38.733113,-9.399351,1,0,0,0,,,,,0,0,0,0,0,0,0,0,1,0,,,,,,1105,Cascais,11,Lisboa,PT170,AML,,,,050189|050191|050192|050193|050194|050195|050196
+10193,Escola Superior de Saúde Egas Moniz,38.667367,-9.199239,0,0,1,0,,,,,0,0,0,0,0,0,0,0,1,0,,,,,,1503,Almada,15,Setúbal,PT170,AML,,,,020303|020304|020309|020310|020367
+10194,Escola Superior Náutica Infante D. Henrique,38.690528,-9.300083,1,0,0,0,,,,,0,0,0,0,0,0,0,0,1,0,,,,,,1110,Oeiras,11,Lisboa,PT170,AML,,,,120881|120882|120883|120884
+10195,Instituto Jean Piaget - Campus Universitário de Almada,38.666400,-9.176900,0,0,1,0,,,,,0,0,0,0,0,0,0,0,1,0,,,,,,1503,Almada,15,Setúbal,PT170,AML,,,,020073|020275|020276|020293|020769
+10196,Instituto Politécnico de Lisboa - Escola Superior de Comunicação Social,38.746017,-9.194167,1,0,0,0,,,,,0,0,0,0,0,0,0,0,1,0,,,,,,1106,Lisboa,11,Lisboa,PT170,AML,,,,060055
+10197,Instituto Politécnico de Lisboa - Escola Superior de Música,38.746583,-9.196250,1,0,0,0,,,,,0,0,0,0,0,0,0,0,1,0,,,,,,1106,Lisboa,11,Lisboa,PT170,AML,,,,060053
+10198,Instituto Politécnico de Lisboa - Escola Superior de Teatro e Cinema,38.763383,-9.235000,1,0,0,0,,,,,0,0,0,0,0,0,0,0,1,0,,,,,,1115,Amadora,11,Lisboa,PT170,AML,,,,030095|030097|030103|030119|030121|030123|030124|030125|030126|030169|030171|030173|030175|030247|030249|030331|030687|030842|030843|030863|030873|030874
+10199,Instituto Politécnico de Lisboa - Escola Superior de Tecnologia da Saúde de Lisboa,38.776083,-9.097500,1,0,0,0,,,,,0,0,0,0,0,0,0,0,1,0,,,,,,1106,Lisboa,11,Lisboa,PT170,AML,,,,060199|060200|060201|060202|060203|060211|070581|071311
+10200,Instituto Politécnico de Setúbal - Escola Superior de Ciências Empresariais,38.522680,-8.840711,0,0,0,1,,,,,0,0,0,0,0,0,0,0,1,0,,,,,,1512,Setúbal,15,Setúbal,PT170,AML,,,,160043|160044|160045|160725
+10201,Instituto Politécnico de Setúbal - Escola Superior de Educação,38.520060,-8.837864,0,0,0,1,,,,,0,0,0,0,0,0,0,0,1,0,,,,,,1512,Setúbal,15,Setúbal,PT170,AML,,,,160701|160702|160713|160714|160725
+10202,Instituto Politécnico de Setúbal - Escola Superior de Saúde,38.523145,-8.841675,0,0,0,1,,,,,0,0,0,0,0,0,0,0,1,0,,,,,,1512,Setúbal,15,Setúbal,PT170,AML,,,,160043|160044|160045
+10203,Instituto Politécnico de Setúbal - Escola Superior de Tecnologia de Setúbal,38.521756,-8.838608,0,0,0,1,,,,,0,0,0,0,0,0,0,0,1,0,,,,,,1512,Setúbal,15,Setúbal,PT170,AML,,,,160043|160044|160725
+10204,Instituto Politécnico de Setúbal - Escola Superior de Tecnologia do Barreiro,38.652389,-9.048956,0,0,0,1,,,,,0,0,0,0,0,0,0,0,1,0,,,,,,1504,Barreiro,15,Setúbal,PT170,AML,,,,040021|040023|040025|040161|040163|040164|040165|040167|090239|090240|090243|090275|090313
+10205,Instituto Português de Administração de Marketing de Lisboa,38.760017,-9.193758,1,0,0,0,,,,,0,0,0,0,0,0,0,0,1,0,,,,,,1106,Lisboa,11,Lisboa,PT170,AML,,,,060057|060061|060062|060063|060065|060069|060071|060077|060357|060368|060372|060373|060447
+10206,Instituto Superior de Ciências da Administração,38.708364,-9.146444,1,0,0,0,,,,,0,0,0,0,0,0,0,0,1,0,,,,,,1106,Lisboa,11,Lisboa,PT170,AML,,,,060417|060418|060451|060452
+10207,Instituto Superior de Ciências Educativas,38.806397,-9.191853,0,1,0,0,,,,,0,0,0,0,0,0,0,0,1,0,,,,,,1116,Odivelas,11,Lisboa,PT170,AML,,,,110215|110369|110370|110371|110372|110477|110478|110479|110480|110481|110483|110499|110500|110501|110502|110503|110504|110505|110506|110509|110811|110812|111015
+10208,Instituto Superior de Ciências Policiais e Segurança Interna,38.704298,-9.178399,1,0,0,0,,,,,0,0,0,0,0,0,0,0,1,0,,,,,,1106,Lisboa,11,Lisboa,PT170,AML,,,,060379|060380
+10209,Instituto Superior de Gestão,38.781556,-9.160768,1,0,0,0,,,,,0,0,0,0,0,0,0,0,1,0,,,,,,1106,Lisboa,11,Lisboa,PT170,AML,,,,060161|060163|060173|060187|060347
+10210,Instituto Superior de Gestão Bancária,38.739983,-9.147742,1,0,0,0,,,,,0,0,0,0,0,0,0,0,1,0,,,,,,1106,Lisboa,11,Lisboa,PT170,AML,,,,061216|061217|061218|061219|061220
+10211,Instituto Superior de Novas Profissões,38.781346,-9.160698,1,0,0,0,,,,,0,0,0,0,0,0,0,0,1,0,,,,,,1106,Lisboa,11,Lisboa,PT170,AML,,,,060161|060163|060173|060187|060347
+10212,Instituto Superior de Tecnologias Avançadas de Lisboa,38.768889,-9.160000,1,0,0,0,,,,,0,0,0,0,0,0,0,0,1,0,,,,,,1106,Lisboa,11,Lisboa,PT170,AML,,,,060157
+10213,ISEC Lisboa - Instituto Superior de Educação e Ciências,38.768893,-9.159159,1,0,0,0,,,,,0,0,0,0,0,0,0,0,1,0,,,,,,1106,Lisboa,11,Lisboa,PT170,AML,,,,060157
+10214,Nova School of Business and Economics,38.678220,-9.325388,1,0,0,0,,,,,0,0,0,0,0,0,0,0,1,0,,,,,,1105,Cascais,11,Lisboa,PT170,AML,,,,120793|120794|050005|050421
+10215,Universidade Católica Portuguesa - Medicina,38.751422,-9.311938,1,0,0,0,,,,,0,0,0,0,0,0,0,0,1,0,,,,,,1111,Sintra,11,Lisboa,PT170,AML,,,,121039|170783|170785|170786
+10216,Universidade de Lisboa,38.752619,-9.158519,1,0,0,0,,,public,,0,0,0,0,0,0,0,0,1,0,,,,,,1106,Lisboa,11,Lisboa,PT170,AML,,,,060391|060393
+10217,Universidade de Lisboa - Faculdade de Ciências,38.756028,-9.157000,1,0,0,0,,,public,,0,0,0,0,0,0,0,0,1,0,,,,,,1106,Lisboa,11,Lisboa,PT170,AML,,,,060287|061200
+10218,Universidade de Lisboa - Faculdade de Direito,38.752419,-9.157033,1,0,0,0,,,public,,0,0,0,0,0,0,0,0,1,0,,,,,,1106,Lisboa,11,Lisboa,PT170,AML,,,,060391|060393
+10219,Universidade de Lisboa - Faculdade de Farmácia,38.749169,-9.156944,1,0,0,0,,,public,,0,0,0,0,0,0,0,0,1,0,,,,,,1106,Lisboa,11,Lisboa,PT170,AML,,,,060393
+10220,Universidade de Lisboa - Faculdade de Letras,38.753552,-9.157632,1,0,0,0,,,public,,0,0,0,0,0,0,0,0,1,0,,,,,,1106,Lisboa,11,Lisboa,PT170,AML,,,,060391|060393
+10221,Universidade de Lisboa - Faculdade de Medicina,38.748333,-9.160556,1,0,0,0,,,public,,0,0,0,0,0,0,0,0,1,0,,,,,,1106,Lisboa,11,Lisboa,PT170,AML,,,,060393
+10222,Universidade de Lisboa - Faculdade de Medicina Dentária,38.750269,-9.155739,1,0,0,0,,,public,,0,0,0,0,0,0,0,0,1,0,,,,,,1106,Lisboa,11,Lisboa,PT170,AML,,,,060393
+10223,Universidade de Lisboa - Faculdade de Psicologia,38.752778,-9.155396,1,0,0,0,,,public,,0,0,0,0,0,0,0,0,1,0,,,,,,1106,Lisboa,11,Lisboa,PT170,AML,,,,060391|060393
+10224,Universidade de Lisboa - Instituto de Educação,38.752778,-9.155396,1,0,0,0,,,public,,0,0,0,0,0,0,0,0,1,0,,,,,,1106,Lisboa,11,Lisboa,PT170,AML,,,,060391|060393
+10225,Universidade de Lisboa - Instituto de Geografia e Ordenamento do Território,38.750883,-9.157661,1,0,0,0,,,public,,0,0,0,0,0,0,0,0,1,0,,,,,,1106,Lisboa,11,Lisboa,PT170,AML,,,,060391|060393
+10226,Universidade de Lisboa - Instituto Superior de Economia e Gestão,38.709747,-9.155566,1,0,0,0,,,public,,0,0,0,0,0,0,0,0,1,0,,,,,,1106,Lisboa,11,Lisboa,PT170,AML,,,,060415|060421|062001
+10227,Universidade de Lisboa - Instituto Superior Técnico (Tagus Park),38.736929,-9.302655,1,0,0,0,,,public,,0,0,0,0,0,0,0,0,1,0,,,,,,1110,Oeiras,11,Lisboa,PT170,AML,,,,121103|121104|121105|121106|121125
+10228,Universidade Europeia,38.760017,-9.193758,1,0,0,0,,,private,,0,0,0,0,0,0,0,0,1,0,,,,,,1106,Lisboa,11,Lisboa,PT170,AML,,,,060057|060061|060062|060063|060065|060069|060071|060077|060357|060368|060372|060373|060447
+10229,Universidade Lusíada,38.698056,-9.191667,1,0,0,0,,,private,,0,0,0,0,0,0,0,0,1,0,,,,,,1106,Lisboa,11,Lisboa,PT170,AML,,,,060381
+10230,Universidade Lusófona de Humanidades e Tecnologias,38.757751,-9.152706,1,0,0,0,,,private,,0,0,0,0,0,0,0,0,1,0,,,,,,1106,Lisboa,11,Lisboa,PT170,AML,,,,060283|060287|060289
+10231,Universidade Nova de Lisboa - Faculdade de Ciências e Tecnologia,38.661283,-9.204917,0,0,1,0,,,public,,0,0,0,0,0,0,0,0,1,0,,,,,,1503,Almada,15,Setúbal,PT170,AML,,,,020313|020314|020315|020317|020357|020369|020395|020396
+10232,Universidade Nova de Lisboa - Faculdade de Ciências Sociais e Humanas,38.740383,-9.151083,1,0,0,0,,,public,,0,0,0,0,0,0,0,0,1,0,,,,,,1106,Lisboa,11,Lisboa,PT170,AML,,,,061217|061218|061219|061220
+10233,Universidade Nova de Lisboa - Faculdade de Direito,38.733667,-9.161533,1,0,0,0,,,public,,0,0,0,0,0,0,0,0,1,0,,,,,,1106,Lisboa,11,Lisboa,PT170,AML,,,,060017|060018|060023|060401
+10234,Universidade Nova de Lisboa - Faculdade de Economia,38.732850,-9.159950,1,0,0,0,,,public,,0,0,0,0,0,0,0,0,1,0,,,,,,1106,Lisboa,11,Lisboa,PT170,AML,,,,060017|060018
+10235,Universidade Nova de Lisboa - Instituto de Higiene e Medicina Tropical,38.699517,-9.186050,1,0,0,0,,,public,,0,0,0,0,0,0,0,0,1,0,,,,,,1106,Lisboa,11,Lisboa,PT170,AML,,,,060381|060382
+10236,Universidade Nova de Lisboa - Instituto de Tecnologia Química e Biológica António Xavier,38.695883,-9.321700,1,0,0,0,,,public,,0,0,0,0,0,0,0,0,1,0,,,,,,1110,Oeiras,11,Lisboa,PT170,AML,,,,120821|120875|121197|121198|121199|121200|121201|121203|121237|121305
+10237,Universidade Nova de Lisboa - Instituto Superior de Estatística e Gestão de Informação,38.732250,-9.160617,1,0,0,0,,,public,,0,0,0,0,0,0,0,0,1,0,,,,,,1106,Lisboa,11,Lisboa,PT170,AML,,,,060023|060401
