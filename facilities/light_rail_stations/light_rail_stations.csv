@@ -1,20 +1,20 @@
 id,name,lat,lon,lines,is_active,validation_date,locality,parish_id,parish_name,municipality_id,municipality_name,district_id,district_name,region_id,region_name,stops
-MTS_1,Corroios,38.637163,-9.151019,1|2,1,2023-08-30,Corroios,,,1510,Seixal,15,Setúbal,PT170,AML,
-MTS_2,Casa do Povo,38.642502,-9.151832,1|2,1,2023-08-30,Casa do Povo,,,1510,Seixal,15,Setúbal,PT170,AML,
+MTS_1,Corroios,38.637163,-9.151019,1|2,1,2023-08-30,Corroios,,,1510,Seixal,15,Setúbal,PT170,AML,149996|140089|149997|149999|149998
+MTS_2,Casa do Povo,38.642502,-9.151832,1|2,1,2023-08-30,Casa do Povo,,,1510,Seixal,15,Setúbal,PT170,AML,140707|140789|140704|140703
 MTS_3,Sto. Amaro,38.647186,-9.153257,1|2,1,2023-08-30,Sto. Amaro,,,1510,Seixal,15,Setúbal,PT170,AML,
-MTS_4,Laranjeiro,38.656400,-9.154345,1|2,1,2023-08-30,Laranjeiro,,,1503,Almada,15,Setúbal,PT170,AML,
-MTS_5,António Gedeão,38.660450,-9.157276,1|2,1,2023-08-30,António Gedeão,,,1503,Almada,15,Setúbal,PT170,AML,
-MTS_6,Boa Esperança,38.663803,-9.190167,3,1,2023-08-30,Boa Esperança,,,1503,Almada,15,Setúbal,PT170,AML,
+MTS_4,Laranjeiro,38.656400,-9.154345,1|2,1,2023-08-30,Laranjeiro,,,1503,Almada,15,Setúbal,PT170,AML,020681|020682
+MTS_5,António Gedeão,38.660450,-9.157276,1|2,1,2023-08-30,António Gedeão,,,1503,Almada,15,Setúbal,PT170,AML,020501|020502|020943|020944
+MTS_6,Boa Esperança,38.663803,-9.190167,3,1,2023-08-30,Boa Esperança,,,1503,Almada,15,Setúbal,PT170,AML,020075
 MTS_7,Universidade,38.663702,-9.209134,3,1,2023-08-30,Universidade,,,1503,Almada,15,Setúbal,PT170,AML,
-MTS_8,Parque da Paz,38.664459,-9.159932,1|2,1,2023-08-30,Parque da Paz,,,1503,Almada,15,Setúbal,PT170,AML,
-MTS_9,Monte da Caparica,38.664570,-9.200210,3,1,2023-08-30,Monte da Caparica,,,1503,Almada,15,Setúbal,PT170,AML,
-MTS_10,Fomega,38.665517,-9.194342,3,1,2023-08-30,Fomega,,,1503,Almada,15,Setúbal,PT170,AML,
-MTS_11,Pragal,38.666360,-9.180196,2|3,1,2023-08-30,Pragal,,,1503,Almada,15,Setúbal,PT170,AML,
+MTS_8,Parque da Paz,38.664459,-9.159932,1|2,1,2023-08-30,Parque da Paz,,,1503,Almada,15,Setúbal,PT170,AML,020499|020500
+MTS_9,Monte da Caparica,38.664570,-9.200210,3,1,2023-08-30,Monte da Caparica,,,1503,Almada,15,Setúbal,PT170,AML,020367
+MTS_10,Fomega,38.665517,-9.194342,3,1,2023-08-30,Fomega,,,1503,Almada,15,Setúbal,PT170,AML,020308|020361
+MTS_11,Pragal,38.666360,-9.180196,2|3,1,2023-08-30,Pragal,,,1503,Almada,15,Setúbal,PT170,AML,020073|020275|020276|020769|027997|027998|027999
 MTS_12,Cova da Piedade,38.667019,-9.165623,1|2,1,2023-08-30,Cova da Piedade,,,1503,Almada,15,Setúbal,PT170,AML,
 MTS_13,Ramalha,38.670185,-9.168259,2|3,1,2023-08-30,Ramalha,,,1503,Almada,15,Setúbal,PT170,AML,
 MTS_14,Bento Gonçalves,38.673456,-9.166254,1|3,1,2023-08-30,Bento Gonçalves,,,1503,Almada,15,Setúbal,PT170,AML,
-MTS_15,Almada,38.676584,-9.164155,1|3,1,2023-08-30,Almada,,,1503,Almada,15,Setúbal,PT170,AML,
-MTS_16,S. João Baptista,38.679353,-9.157500,1|3,1,2023-08-30,S. João Baptista,,,1503,Almada,15,Setúbal,PT170,AML,
-MTS_17,Gil Vicente,38.682258,-9.152387,1|3,1,2023-08-30,Gil Vicente,,,1503,Almada,15,Setúbal,PT170,AML,
-MTS_18,25 de Abril,38.684210,-9.149815,1|3,1,2023-08-30,25 de Abril,,,1503,Almada,15,Setúbal,PT170,AML,
-MTS_19,Cacilhas,38.687196,-9.147759,1|3,1,2023-08-30,Cacilhas,,,1503,Almada,15,Setúbal,PT170,AML,
+MTS_15,Almada,38.676584,-9.164155,1|3,1,2023-08-30,Almada,,,1503,Almada,15,Setúbal,PT170,AML,020063|020064
+MTS_16,S. João Baptista,38.679353,-9.157500,1|3,1,2023-08-30,S. João Baptista,,,1503,Almada,15,Setúbal,PT170,AML,020047|020059|020085|020399|021068
+MTS_17,Gil Vicente,38.682258,-9.152387,1|3,1,2023-08-30,Gil Vicente,,,1503,Almada,15,Setúbal,PT170,AML,020031|020043|020115|020199
+MTS_18,25 de Abril,38.684210,-9.149815,1|3,1,2023-08-30,25 de Abril,,,1503,Almada,15,Setúbal,PT170,AML,020033|020041|021067
+MTS_19,Cacilhas,38.687196,-9.147759,1|3,1,2023-08-30,Cacilhas,,,1503,Almada,15,Setúbal,PT170,AML,020035|020037|020039|020113|020217|020219|020363|020403|020429|020449|020489|020955|020959|020973|021007|021009|021067
