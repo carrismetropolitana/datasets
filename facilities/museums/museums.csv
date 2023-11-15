@@ -1,0 +1,301 @@
+id,name,lat,lon,A1,A2,A3,A4,is_active,validation_date,address,locality,parish_id,parish_name,municipality_id,municipality_name,district_id,district_name,region_id,region_name,url,email,phone,stops
+MS0001,Museu de Arte Popular,38.693804,-9.208446,1,0,0,0,1,2023-08-25,Avenida de Brasília,,58,Belém,06,Lisboa,11,Lisboa,PT170,AML,https://museuartepopular.wordpress.com/,geral@map.dgpc.pt,=+ 351 213 011 282,
+MS0002,Museu Coleção Berardo,38.695748,-9.207732,1,0,0,0,1,2023-08-25,"Praça do Império
+Centro Cultural de Belém
+
+",,58,Belém,06,Lisboa,11,Lisboa,PT170,AML,www.museuberardo.pt,museuberardo@museuberardo.pt,=+351 213 612 878,
+MS0003,"MAAT - Museu de Arte, Arquitetura e Tecnologia",38.696044,-9.193715,1,0,0,0,1,2023-08-25,Avenida de Brasília,,58,Belém,06,Lisboa,11,Lisboa,PT170,AML,https://www.maat.pt,info.maat@edp.pt,=+351 210 028 130,
+MS0004,Museu Nacional dos Coches,38.696801,-9.198387,1,0,0,0,1,2023-08-25,Avenida da Índia,,58,Belém,06,Lisboa,11,Lisboa,PT170,AML,http://museudoscoches.gov.pt/pt/,geral@mncoches.dgpc.pt,=+ 351 210 732 319,060101|060107|060383|060384
+MS0005,Museu de Marinha,38.697227,-9.209236,1,0,0,0,1,2023-08-25,"Praça do Império 
+Mosteiro dos Jerónimos",,58,Belém,06,Lisboa,11,Lisboa,PT170,AML,http://ccm.marinha.pt/pt/museu,geral.museu@marinha.pt,=+351 210 977 988,
+MS0006,Museu da Presidência da República,38.697355,-9.201272,1,0,0,0,1,2023-08-25,"Praça Afonso de Albuquerque  
+
+",,58,Belém,06,Lisboa,11,Lisboa,PT170,AML,www.museu.presidencia.pt/,museu@presidencia.pt,=+351 213 614 660,060099|060101|060103|060107|060383|060384
+MS0007,Museu Nacional de Arqueologia,38.697781,-9.205771,1,0,0,0,1,2023-08-25,"Praça do Império
+Mosteiro dos Jerónimos",,58,Belém,06,Lisboa,11,Lisboa,PT170,AML,www.museuarqueologia.pt,geral@mnarqueologia.dgpc.pt,=+351 213 620 000,060097|060098|060099|060103
+MS0008,Museu do Centro Cultural Casapiano,38.699541,-9.205929,1,0,0,0,1,2023-08-25,Rua dos Jerónimos 5 R/C,,58,Belém,06,Lisboa,11,Lisboa,PT170,AML,http://www.casapia.pt,centro.cultural@casapia.pt,21 361 08 30,060097|060098|060099|060103
+MS0009,Museu do Centro Cientifico e Cultural de Macau,38.700826,-9.182392,1,0,0,0,1,2023-08-25,"Rua da Junqueira, 30 
+
+",,02,Alcântara,06,Lisboa,11,Lisboa,PT170,AML,www.cccm.pt/,museu@cccm.pt,=+351 213 617 570,
+MS0010,Museu da Carris,38.701612,-9.179903,1,0,0,0,1,2023-08-25,"Rua Primeiro de Maio (a Santo Amaro), 101
+",,02,Alcântara,06,Lisboa,11,Lisboa,PT170,AML,http://museu.carris.pt/,museu@carris.pt,=+351 213 613 087,
+MS0011,Museu do Oriente,38.702881,-9.170726,1,0,0,0,1,2023-08-25,"Avenida Brasília
+",,60,Estrela,06,Lisboa,11,Lisboa,PT170,AML,www.museudooriente.pt,info@foriente.pt,=+351 213 585 200,060411|060423
+MS0012,Museu Nacional de Arte Antiga,38.705037,-9.161175,1,0,0,0,1,2023-08-25,"Rua das Janelas Verdes, 59 
+",,60,Estrela,06,Lisboa,11,Lisboa,PT170,AML,http://www.museudearteantiga.pt/,geral@mnaa.pt,=+351 213 912 800,060413|060414
+MS0013,Museu Nacional de Etnologia,38.704905,-9.208841,1,0,0,0,1,2023-08-25,"Avenida da Ilha da Madeira
+",,58,Belém,06,Lisboa,11,Lisboa,PT170,AML,https://mnetnologia.wordpress.com/,mnetnologia@imc-ip.pt,=+351 213 041 160,060095|060096
+MS0014,Museu de Lisboa - Torreão Poente,38.707024,-9.137855,1,0,0,0,1,2023-08-25,"Praça do Comércio, 1",,65,Santa Maria Maior,06,Lisboa,11,Lisboa,PT170,AML,www.museudelisboa.pt,info@museudelisboa.pt,,
+MS0015,Museu das Comunicações,38.707811,-9.150397,1,0,0,0,1,2023-08-25,"Rua do Instituto Industrial, 16 
+",,61,Misericórdia,06,Lisboa,11,Lisboa,PT170,AML,www.fpc.pt,museu@fpc.pt,=+351 213 935 000,060417|060418
+MS0016,Museu da Marioneta,38.708000,-9.155690,1,0,0,0,1,2023-08-25,"Rua da Esperança, 146
+",,60,Estrela,06,Lisboa,11,Lisboa,PT170,AML,www.museudamarioneta.pt,museu@museudamarioneta.pt,=+351 213 942 810,
+MS0017,Museu Nacional de Arte Contemporânea do Chiado,38.708418,-9.141239,1,0,0,0,1,2023-08-25,"Rua Serpa Pinto, 4; Rua Capelo, 13
+",,65,Santa Maria Maior,06,Lisboa,11,Lisboa,PT170,AML,http://www.museuartecontemporanea.gov.pt/pt,museuchiado@mnac.dgpc.pt,=+351 213 432 148,
+MS0018,Museu do Dinheiro,38.708505,-9.138847,1,0,0,0,1,2023-08-25,"Largo de São Julião, 26 - R/C",,65,Santa Maria Maior,06,Lisboa,11,Lisboa,PT170,AML,www.museudodinheiro.pt,info@museudodinheiro.pt,=+351 213 213 240,
+MS0019,Museu de Lisboa - Casa dos Bicos,38.709013,-9.132580,1,0,0,0,1,2023-08-25,"Rua dos Bacalhoeiros,10",,65,Santa Maria Maior,06,Lisboa,11,Lisboa,PT170,AML,www.museudelisboa.pt,info@museudelisboa.pt,=+351 210 993 811,
+MS0020,Mude - Museu do Design e da Moda (encerrado até junho 2019),38.709039,-9.136891,1,0,0,0,1,2023-08-25,"Rua Augusta, 24 
+",,65,Santa Maria Maior,06,Lisboa,11,Lisboa,PT170,AML,www.mude.pt,mude@cm-lisboa.pt,=+351 218 171 892,
+MS0021,Tesouro da Sé,38.709816,-9.133241,1,0,0,0,1,2023-08-25,"Largo da Sé
+",,65,Santa Maria Maior,06,Lisboa,11,Lisboa,PT170,AML,,tesouro@se-patriarcal.pt,=+351 218 866 752,
+MS0022,Núcleo Arqueológico da Rua dos Correeiros (BCP),38.709945,-9.137088,1,0,0,0,1,2023-08-25,"Rua dos Correeiros, 15-23
+
+",,65,Santa Maria Maior,06,Lisboa,11,Lisboa,PT170,AML,http://ind.millenniumbcp.pt/pt/Institucional/fundacao/Pages/fundacao_NARC.aspx,fundacao@millenniumbcp.pt,=+351 211 131 004,
+MS0023,Museu de Lisboa - Santo António,38.710012,-9.133878,1,0,0,0,1,2023-08-25,"Largo de Santo António da Sé, 22 
+",,65,Santa Maria Maior,06,Lisboa,11,Lisboa,PT170,AML,http://www.museudelisboa.pt/equipamentos/santo-antonio.html,info@museudelisboa.pt,=+351 218 860 447,
+MS0024,Museu da Farmácia,38.710032,-9.147316,1,0,0,0,1,2023-08-25,"Rua Marechal Saldanha, 1 
+",,61,Misericórdia,06,Lisboa,11,Lisboa,PT170,AML,www.anf.pt,museudafarmacia@anf.pt,=+351 213 400 680,
+MS0025,Museu do Aljube - Resistência e Liberdade,38.710172,-9.132689,1,0,0,0,1,2023-08-25,"Rua de Augusto Rosa, 42",,65,Santa Maria Maior,06,Lisboa,11,Lisboa,PT170,AML,www.museudoaljube.pt,info@museudoaljube.pt,=+351 215 818 535,
+MS0026,Museu de Lisboa - Teatro Romano,38.710253,-9.132491,1,0,0,0,1,2023-08-25,"Rua S. Mamede, 3A 
+",,65,Santa Maria Maior,06,Lisboa,11,Lisboa,PT170,AML,www.museudelisboa.pt,info@museudelisboa.pt,=+351 215 818 530,
+MS0027,Museu do Fado,38.711161,-9.127613,1,0,0,0,1,2023-08-25,"Largo do Chafariz de Dentro, 1 
+",,65,Santa Maria Maior,06,Lisboa,11,Lisboa,PT170,AML,www.museudofado.pt/,museudofado@egeac.pt,=+351 218 823 470,
+MS0028,Atelier-Museu Júlio Pomar,38.711280,-9.150378,1,0,0,0,1,2023-08-25,"Rua do Vale, 7",,61,Misericórdia,06,Lisboa,11,Lisboa,PT170,AML,www.ateliermuseujuliopomar.pt,atelier.museu.pomar@cm-lisboa.pt,=+351 218 172 111,
+MS0029,Museu de Artes Decorativas Portuguesas,38.712117,-9.130442,1,0,0,0,1,2023-08-25,"Largo das Portas do Sol, 2
+",,65,Santa Maria Maior,06,Lisboa,11,Lisboa,PT170,AML,www.fress.pt,museu@fress.pt,=+351 218 814 600,
+MS0030,Museu Arqueológico do Carmo,38.712151,-9.140234,1,0,0,0,1,2023-08-25,"Largo do Carmo 
+",,65,Santa Maria Maior,06,Lisboa,11,Lisboa,PT170,AML,www.museuarqueologicodocarmo.pt/p_museu.html,secretaria@arqueologos.pt,=+351 213 478 629,
+MS0031,Museu do Lactário,38.712334,-9.125145,1,0,0,0,1,2023-08-25,"Largo do Museu de Artilharia, 2",,65,Santa Maria Maior,06,Lisboa,11,Lisboa,PT170,AML,museudolactario.fasl.org.pt,museudolactario@fasl.org.pt,=+351 218 861 760,
+MS0032,Museu da Guarda Nacional Republicana,38.712204,-9.140753,1,0,0,0,1,2023-08-25,"Largo do Carmo, 28",,65,Santa Maria Maior,06,Lisboa,11,Lisboa,PT170,AML,http://www.arquivomuseugnr.pt/,museu@gnr.pt,=+351 213 217 222,
+MS0033,Museu da Liga dos Combatentes,38.712615,-9.147350,1,0,0,0,1,2023-08-25,Rua de O Século 46 R/C,,61,Misericórdia,06,Lisboa,11,Lisboa,PT170,AML,www.ligacombatentes.org.pt,geral@ligacombatentes.org.pt,21 346 82 45 / 46,
+MS0034,Museu Militar de Lisboa,38.712912,-9.125059,1,0,0,0,1,2023-08-25,"Largo do Museu de Artilharia
+",,65,Santa Maria Maior,06,Lisboa,11,Lisboa,PT170,AML,www.exercito.pt/sites/MusMilLisboa/Historial/Paginas/default.aspx,museumilitar@portugalmail.pt,=+351 218 842 300,
+MS0035,Núcleo Museológico do Castelo de São Jorge,38.712973,-9.133927,1,0,0,0,1,2023-08-25,Castelo de São Jorge,,65,Santa Maria Maior,06,Lisboa,11,Lisboa,PT170,AML,http://www.castelodesaojorge.pt,info@castelodesaojorge.pt,=+351 218 800 620,
+MS0036,Museu Geológico,38.713137,-9.149935,1,0,0,0,1,2023-08-25,"Rua da Academia das Ciências, 19 
+",,61,Misericórdia,06,Lisboa,11,Lisboa,PT170,AML,www.lneg.pt/museugeologico/,museugeol@lneg.pt,=+351 213 463 915,
+MS0037,Museu Maçónico Português,38.713210,-9.144748,1,0,0,0,1,2023-08-25,"Rua do Grémio Lusitano, 25 
+",,61,Misericórdia,06,Lisboa,11,Lisboa,PT170,AML,www.gremiolusitano.pt,museumaconicoportugues@gmail.com,=+351 213 424 506,
+MS0038,Museu de São Roque,38.713614,-9.143482,1,0,0,0,1,2023-08-25,"Largo Trindade Coelho
+",,61,Misericórdia,06,Lisboa,11,Lisboa,PT170,AML,www.museu-saoroque.com,info@museu-saoroque.com,=+351 213 235 065,
+MS0039,Museu de São Vicente de Fora,38.714812,-9.127857,1,0,0,0,1,2023-08-25,"Largo de São Vicente 
+Mosteiro de São Vicente de Fora
+",,67,São Vicente,06,Lisboa,11,Lisboa,PT170,AML,,ccultural@patriarcado-lisboa.pt,=+351 218 810 500,
+MS0040,Museu Nacional do Desporto,38.715560,-9.142173,1,0,0,0,1,2023-08-25,"Praça dos Restauradores
+Palácio Foz",,65,Santa Maria Maior,06,Lisboa,11,Lisboa,PT170,AML,,museu@ipdj.pt,=+351 213 958 629,
+MS0041,Casa-Museu Amália Rodrigues,38.715458,-9.154572,1,0,0,0,1,2023-08-25,"Rua de São Bento, 193
+",,59,Campo de Ourique,06,Lisboa,11,Lisboa,PT170,AML,www.amaliarodrigues.pt/artigo-casa-museu-2,casamuseu@amaliarodrigues.pt,=+351 213 971 896,
+MS0042,Museu João de Deus,38.715847,-9.158243,1,0,0,0,1,2023-08-25,"Avenida Álvares Cabral, 69  
+",,59,Campo de Ourique,06,Lisboa,11,Lisboa,PT170,AML,www.joaodeus.com/museu/museu.asp,museu@escolasjoaodeus.pt,=+351 213 960 854,
+MS0043,Museu da Sociedade de Geografia de Lisboa,38.716235,-9.139789,1,0,0,0,1,2023-08-25,"Rua das Portas de Santo Antão, 100 
+",,56,Arroios,06,Lisboa,11,Lisboa,PT170,AML,www.socgeografialisboa.pt/,geral@socgeografialisboa.pt,=+351 213 425 401,
+MS0044,Casa Fernando Pessoa (encerrada até dezembro 2019),38.716641,-9.162446,1,0,0,0,1,2023-08-25,"Rua Coelho da Rocha, 16 
+",,59,Campo de Ourique,06,Lisboa,11,Lisboa,PT170,AML,http://casafernandopessoa.cm-lisboa.pt/,info@casafernandopessoa.pt,=+351 213 913 270,
+MS0045,Museu Nacional de História Natural e da Ciência,38.717478,-9.150109,1,0,0,0,1,2023-08-25,"Rua da Escola Politécnica, 58 
+",,66,Santo António,06,Lisboa,11,Lisboa,PT170,AML,http://www.museus.ulisboa.pt/,geral@museus.ulisboa.pt,#ERROR!,
+MS0046,Museu da Água,38.719733,-9.119874,1,0,0,0,1,2023-08-25,"Rua do Alviela, 12
+",,67,São Vicente,06,Lisboa,11,Lisboa,PT170,AML,museudaagua.blogspot.com,museu@epal.pt,#ERROR!,
+MS0047,Cinemateca Portuguesa - Museu do Cinema,38.720859,-9.148743,1,0,0,0,1,2023-08-25,"Rua Barata Salgueiro, 39",,66,Santo António,06,Lisboa,11,Lisboa,PT170,AML,www.cinemateca.pt/,cinemateca@cinemateca.pt,#ERROR!,
+MS0048,Casa-Museu Medeiros e Almeida,38.721746,-9.149130,1,0,0,0,1,2023-08-25,"Rua Rosa Araújo, 41
+",,66,Santo António,06,Lisboa,11,Lisboa,PT170,AML,www.casa-museumedeirosealmeida.pt,nfo@casa-museumedeirosealmeida.pt,#ERROR!,
+MS0049,Museu Arpad Szenes - Vieira da Silva,38.722127,-9.155741,1,0,0,0,1,2023-08-25,"Praça das Amoreiras, 56
+",,66,Santo António,06,Lisboa,11,Lisboa,PT170,AML,www.fasvs.pt,fasvs@fasvs.pt,#ERROR!,
+MS0050,Museu Nacional do Azulejo,38.724733,-9.113701,1,0,0,0,1,2023-08-25,"Rua da Madre de Deus, 4
+",,63,Penha de França,06,Lisboa,11,Lisboa,PT170,AML,www.museudoazulejo.pt,geral@mnazulejo.dgpc.pt,#ERROR!,
+MS0051,Casa-Museu Doutor Anastácio Gonçalves,38.732525,-9.146278,1,0,0,0,1,2023-08-25,"Avenida Cinco de Outubro, 6-8
+",,57,Avenidas Novas,06,Lisboa,11,Lisboa,PT170,AML,http://blogdacmag.blogspot.pt/,divulgacao@cmag.dgpc.pt,#ERROR!,
+MS0052,Museu Calouste Gulbenkian - Coleção Moderna,38.735622,-9.154088,1,0,0,0,1,2023-08-25,"Rua Dr. Nicolau de Bettencourt
+",,57,Avenidas Novas,06,Lisboa,11,Lisboa,PT170,AML,https://gulbenkian.pt/cam/colecao-moderna/,museu@gulbenkian.pt,#ERROR!,
+MS0053,Museu Calouste Gulbenkian - Coleção Fundador,38.737625,-9.153035,1,0,0,0,1,2023-08-25,"Avenida de Berna, 45 
+",,57,Avenidas Novas,06,Lisboa,11,Lisboa,PT170,AML,https://gulbenkian.pt/museu/,museu@gulbenkian.pt,#ERROR!,061220
+MS0054,Museu das Crianças,38.743299,-9.168214,1,0,0,0,1,2023-08-25,Praça Marechal Humberto Delgado,,39,São Domingos de Benfica,06,Lisboa,11,Lisboa,PT170,AML,http://www.museudascriancas.eu/,aaha@museucriancas.com.pt,#ERROR!,060013|060453|060454|060456|060457|060458|060459
+MS0055,Museu Nacional da Música,38.749860,-9.179778,1,0,0,0,1,2023-08-25,"Rua João de Freitas Branco
+Estação de Metro Alto dos Moinhos
+",,39,São Domingos de Benfica,06,Lisboa,11,Lisboa,PT170,AML,www.museudamusica.pt,geral@mnmusica.dgpc.pt,#ERROR!,
+MS0056,Museu Cosme Damião,38.751398,-9.184038,1,0,0,0,1,2023-08-25,Avenida General Norton de Matos,,39,São Domingos de Benfica,06,Lisboa,11,Lisboa,PT170,AML,http://museubenfica.slbenfica.pt/,museu@slbenfica.pt,#ERROR!,
+MS0057,Museu de Lisboa - Palácio Pimenta,38.758471,-9.156436,1,0,0,0,1,2023-08-25,"Campo Grande, 245
+",,54,Alvalade,06,Lisboa,11,Lisboa,PT170,AML,www.museudelisboa.pt,info@museudelisboa.pt,#ERROR!,060156|060171|060259|060286|060287|060304|060310|060312|060314|060316|060337|060339|060341|060369|061200
+MS0058,Museu de Lisboa - Palácio Pimenta,38.758480,-9.156425,1,0,0,0,1,2023-08-25,"Campo Grande, 245
+",,54,Alvalade,06,Lisboa,11,Lisboa,PT170,AML,www.museudelisboa.pt,info@museudelisboa.pt,#ERROR!,060156|060171|060259|060286|060287|060304|060310|060312|060314|060316|060337|060339|060341|060369|061200
+MS0059,Coleção Museológica de Rádio e de Televisão,38.758852,-9.118016,1,0,0,0,1,2023-08-25,"Rua Conselheiro Emídio Navarro, Edifício RTP
+
+",,21,Marvila,06,Lisboa,11,Lisboa,PT170,AML,ww1.rtp.pt/icmblogs/rtp/novidades/?k=RTP-%96-Coleccao-Visitavel-Museologica-de-Radio-e-de-Televisao.rtp&post=15693,museu.virtual@rtp.pt,#ERROR!,
+MS0060,Museu Bordalo Pinheiro,38.758843,-9.154171,1,0,0,0,1,2023-08-25,"Campo Grande, 382 
+",,54,Alvalade,06,Lisboa,11,Lisboa,PT170,AML,http://www.museubordalopinheiro.pt,info@museubordalopinheiro.pt,#ERROR!,060287|061200
+MS0061,Pavilhão do Conhecimento - Centro Ciência Viva,38.762284,-9.095370,1,0,0,0,1,2023-08-25,"Largo José Mariano Gago - Parque das Nações
+",,62,Parque das Nações,06,Lisboa,11,Lisboa,PT170,AML,www.pavconhecimento.pt,info@pavconhecimento.pt,#ERROR!,
+MS0062,Museu Nacional do Teatro e da Dança,38.774684,-9.167149,1,0,0,0,1,2023-08-25,"Estrada do Lumiar, 10 
+",,18,Lumiar,06,Lisboa,11,Lisboa,PT170,AML,http://www.museudoteatroedanca.gov.pt,geral@mnteatroedanca.dgpc.pt,#ERROR!,
+MS0063,Museu Nacional do Traje,38.774880,-9.165208,1,0,0,0,1,2023-08-25,"Largo Júlio de Castilho
+",,18,Lumiar,06,Lisboa,11,Lisboa,PT170,AML,http://museudotraje.pt/,mntraje@mntraje.dgpc.pt,#ERROR!,
+MS0064,Museu Nacional do Teatro e da Dança,38.779091,-9.166410,1,0,0,0,1,2023-08-25,,,18,Lumiar,06,Lisboa,11,Lisboa,PT170,AML,,,,060161|060165|060166|060227|060347|060351
+MS0065,Museu Sporting,38.765654,-9.164025,1,0,0,0,1,2023-08-25,,,18,Lumiar,06,Lisboa,11,Lisboa,PT170,AML,,,,
+MS0066,Museu de Lisboa,38.763412,-9.157085,1,0,0,0,1,2023-08-25,,,18,Lumiar,06,Lisboa,11,Lisboa,PT170,AML,,,,060157|060343
+MS0067,Pavilhão do Conhecimento - Ciência Viva,38.767721,-9.096681,1,0,0,0,1,2023-08-25,,,62,Parque das Nações,06,Lisboa,11,Lisboa,PT170,AML,,,,060001|060002|060009|060011|060207|060253|060321|060322|060323|060325|060327|060361
+MS0068,Museu Condes de Castro Guimarães,38.699611,-9.425622,1,0,0,0,1,2023-08-25,,,08,União das freguesias de Cascais e Estoril,05,Cascais,11,Lisboa,PT170,AML,,,,050251|050317
+MS0069,Casa-Museu de Leal da Câmara,38.801872,-9.327389,1,0,0,0,1,2023-08-25,,,02,Algueirão-Mem Martins,11,Sintra,11,Lisboa,PT170,AML,,,,170249|170250|170251|170252|170253|170254|170255|170256|170517|170518
+MS0070,Museu do Ar (Pêro Pinheiro),38.852168,-9.339006,1,0,0,0,1,2023-08-25,,,27,União das freguesias de São João das Lampas e Terrugem,11,Sintra,11,Lisboa,PT170,AML,,,,
+MS0071,Casa Bocage | Arquivo Municipal Fotográfico Américo Ribeiro. ...,38.523876,-8.885164,0,0,0,1,1,2023-08-25,,,05,Setúbal (São Sebastião),12,Setúbal,15,Setúbal,PT170,AML,,,,160063|160064|160131|160133|160163|160745|160746
+MS0072,"Casa das Imagens Lauro António – Biblioteca, Mediateca e Arquivo. ...",38.523695,-8.889643,0,0,0,1,1,2023-08-25,,,10,"União das freguesias de Setúbal (São Julião, Nossa Senhora da Anunciada e Santa Maria da Graça)",12,Setúbal,15,Setúbal,PT170,AML,,,,160101|160103|160127|160129|160131|160133|160135|160137|160139|160163|160349|160815|160883|160961
+MS0073,Casa do Corpo Santo/Museu do Barroco. ...,38.524829,-8.888025,0,0,0,1,1,2023-08-25,,,10,"União das freguesias de Setúbal (São Julião, Nossa Senhora da Anunciada e Santa Maria da Graça)",12,Setúbal,15,Setúbal,PT170,AML,,,,160103|160127|160129|160133|160139|160163|160349|160883
+MS0074,Casa-Memória Joana Luísa e Sebastião da Gama. ...,38.516906,-9.018201,0,0,0,1,1,2023-08-25,,,09,União das freguesias de Azeitão (São Lourenço e São Simão),12,Setúbal,15,Setúbal,PT170,AML,,,,160749|160750|160751|160752|160789|160977|160993
+MS0075,Forte de Albarquel. ...,38.511131,-8.913373,0,0,0,1,1,2023-08-25,,,10,"União das freguesias de Setúbal (São Julião, Nossa Senhora da Anunciada e Santa Maria da Graça)",12,Setúbal,15,Setúbal,PT170,AML,,,,160341|160342|160809
+MS0076,Galeria Municipal do 11. ...,38.522985,-8.888211,0,0,0,1,1,2023-08-25,,,10,"União das freguesias de Setúbal (São Julião, Nossa Senhora da Anunciada e Santa Maria da Graça)",12,Setúbal,15,Setúbal,PT170,AML,,,,160103|160127|160129|160131|160133|160163|160745|160746|160815
+MS0077,Galeria Municipal do Banco de Portugal.,38.522776,-8.892308,0,0,0,1,1,2023-08-25,,,10,"União das freguesias de Setúbal (São Julião, Nossa Senhora da Anunciada e Santa Maria da Graça)",12,Setúbal,15,Setúbal,PT170,AML,,,,160101|160103|160127|160129|160135|160161|160815
+MS0078,Casa-Museu José Maria da Fonseca,38.530069,-9.016710,0,0,0,1,1,2023-08-25,,,09,União das freguesias de Azeitão (São Lourenço e São Simão),12,Setúbal,15,Setúbal,PT170,AML,,,,
+MS0079,Forte de Santa Maria da Arrábida,38.481652,-8.981818,0,0,0,1,1,2023-08-25,,,09,União das freguesias de Azeitão (São Lourenço e São Simão),12,Setúbal,15,Setúbal,PT170,AML,,,,
+MS0080,Praceta Francisco Finura,38.527011,-8.900464,0,0,0,1,1,2023-08-25,,,10,"União das freguesias de Setúbal (São Julião, Nossa Senhora da Anunciada e Santa Maria da Graça)",12,Setúbal,15,Setúbal,PT170,AML,,,,160255|160256|160257|160269|160433|160434|160435|160436
+MS0081,"Futura - Casa Museu Luísa Todi, Cantora Lírica.",38.525216,-8.900030,0,0,0,1,1,2023-08-25,,,10,"União das freguesias de Setúbal (São Julião, Nossa Senhora da Anunciada e Santa Maria da Graça)",12,Setúbal,15,Setúbal,PT170,AML,,,,160159|160199|160255|160256|160257|160269|160351|160433|160434|160435|160436|160457|160458|160507|160508
+MS0082,Casa Dos Pescadores,38.522644,-8.896728,0,0,0,1,1,2023-08-25,,,10,"União das freguesias de Setúbal (São Julião, Nossa Senhora da Anunciada e Santa Maria da Graça)",12,Setúbal,15,Setúbal,PT170,AML,,,,160101|160135|160159|160161|160199|160225|160351|160407|160813
+MS0083,Museu de Setúbal / Convento de Jesus,38.526177,-8.895165,0,0,0,1,1,2023-08-25,,,10,"União das freguesias de Setúbal (São Julião, Nossa Senhora da Anunciada e Santa Maria da Graça)",12,Setúbal,15,Setúbal,PT170,AML,,,,160099|160105|160157|160158|160251|160273|160507|160508|160521|160522|160531
+MS0084,Museu Escola Conde Ferreira,38.524054,-8.894632,0,0,0,1,1,2023-08-25,,,10,"União das freguesias de Setúbal (São Julião, Nossa Senhora da Anunciada e Santa Maria da Graça)",12,Setúbal,15,Setúbal,PT170,AML,,,,160099|160101|160105|160135|160137|160157|160158|160159|160161|160199|160225|160507|160508|160531
+MS0085,Casa D'Avenida,38.523810,-8.892407,0,0,0,1,1,2023-08-25,,,10,"União das freguesias de Setúbal (São Julião, Nossa Senhora da Anunciada e Santa Maria da Graça)",12,Setúbal,15,Setúbal,PT170,AML,,,,160101|160103|160105|160127|160135|160137|160157|160158|160161|160225|160531|160961
+MS0086,Galeria Municipal,38.523079,-8.892340,0,0,0,1,1,2023-08-25,,,10,"União das freguesias de Setúbal (São Julião, Nossa Senhora da Anunciada e Santa Maria da Graça)",12,Setúbal,15,Setúbal,PT170,AML,,,,160101|160103|160105|160127|160129|160135|160157|160158|160161|160225|160531
+MS0087,Porto de Setúbal Cais 3,38.521670,-8.888737,0,0,0,1,1,2023-08-25,,,10,"União das freguesias de Setúbal (São Julião, Nossa Senhora da Anunciada e Santa Maria da Graça)",12,Setúbal,15,Setúbal,PT170,AML,,,,160103|160127|160129|160131|160133|160163|160815
+MS0088,Museu de Arqueologia e Etnografia do Distrito de Setúbal (MAEDS),38.523514,-8.889048,0,0,0,1,1,2023-08-25,,,10,"União das freguesias de Setúbal (São Julião, Nossa Senhora da Anunciada e Santa Maria da Graça)",12,Setúbal,15,Setúbal,PT170,AML,,,,160103|160127|160129|160131|160133|160135|160139|160163|160349|160815|160883
+MS0089,Galeria Municipal do 11,38.523149,-8.888114,0,0,0,1,1,2023-08-25,,,10,"União das freguesias de Setúbal (São Julião, Nossa Senhora da Anunciada e Santa Maria da Graça)",12,Setúbal,15,Setúbal,PT170,AML,,,,160103|160127|160129|160131|160133|160163|160745|160746|160815
+MS0090,Casa do Corpo Santo,38.524994,-8.888002,0,0,0,1,1,2023-08-25,,,10,"União das freguesias de Setúbal (São Julião, Nossa Senhora da Anunciada e Santa Maria da Graça)",12,Setúbal,15,Setúbal,PT170,AML,,,,160063|160064|160103|160127|160129|160133|160137|160139|160163|160349|160409|160411|160883|160961
+MS0091,Museu do Trabalho Michel Giacometti,38.523392,-8.886556,0,0,0,1,1,2023-08-25,,,10,"União das freguesias de Setúbal (São Julião, Nossa Senhora da Anunciada e Santa Maria da Graça)",12,Setúbal,15,Setúbal,PT170,AML,,,,160063|160064|160103|160127|160129|160131|160133|160163|160746
+MS0092,Casa Bocage e Arquivo Fotográfico Américo Ribeiro,38.523967,-8.885333,0,0,0,1,1,2023-08-25,,,05,Setúbal (São Sebastião),12,Setúbal,15,Setúbal,PT170,AML,,,,160063|160064|160131|160133|160163|160745|160746
+MS0093,Preservar Memória M. C. Zorro,38.524071,-8.878169,0,0,0,1,0,2023-08-25,,,05,Setúbal (São Sebastião),12,Setúbal,15,Setúbal,PT170,AML,,,,160059|160060|160061|160062|160211|160469|160470|160471|160472|160473|160474
+MS0094,Dar sabri clubiste,38.539599,-8.894485,0,0,0,1,0,2023-08-25,,,10,"União das freguesias de Setúbal (São Julião, Nossa Senhora da Anunciada e Santa Maria da Graça)",12,Setúbal,15,Setúbal,PT170,AML,,,,160077|160078|160079|160080|160081|160082|160083|160084|160085|160467|160967|160968
+MS0095,Quinta das Galrôas,38.541995,-8.885930,0,0,0,1,0,2023-08-25,,,10,"União das freguesias de Setúbal (São Julião, Nossa Senhora da Anunciada e Santa Maria da Graça)",12,Setúbal,15,Setúbal,PT170,AML,,,,160421|160423|160425|160426|160455|160456|160525|161001|161002|161003|161004|161005|161006
+MS0096,Moinho de Maré da Mourisca,38.538876,-8.802799,0,0,0,1,1,2023-08-25,,,07,Gâmbia-Pontes-Alto da Guerra,12,Setúbal,15,Setúbal,PT170,AML,,,,
+MS0097,Pavilhão das Galeotas,38.697169,-9.209331,1,0,0,0,,,,,58,Belém,06,Lisboa,11,Lisboa,PT170,AML,,,,
+MS0098,Museu de Arte Moderna,38.803282,-9.381937,1,0,0,0,,,,,28,"União das freguesias de Sintra (Santa Maria e São Miguel, São Martinho e São Pedro de Penaferrim)",11,Sintra,11,Lisboa,PT170,AML,,,,171311|171313|171314|171381|171382|171383|171384|171917
+MS0099,Reservatório da Mãe d'Água das Amoreiras,38.721257,-9.155676,1,0,0,0,,,,,66,Santo António,06,Lisboa,11,Lisboa,PT170,AML,,,,
+MS0100,Museu-Igreja de São Roque,38.713605,-9.143447,1,0,0,0,,,,,61,Misericórdia,06,Lisboa,11,Lisboa,PT170,AML,,,,
+MS0101,Museu Nacional de Arte Contemporânea - Museu do Chiado,38.708576,-9.141167,1,0,0,0,,,,,65,Santa Maria Maior,06,Lisboa,11,Lisboa,PT170,AML,,,,
+MS0102,Museu de Lisboa - Santo António,38.710203,-9.133938,1,0,0,0,,,,,65,Santa Maria Maior,06,Lisboa,11,Lisboa,PT170,AML,,,,
+MS0103,Museu Militar de Lisboa,38.712959,-9.124310,1,0,0,0,,,,,65,Santa Maria Maior,06,Lisboa,11,Lisboa,PT170,AML,,,,
+MS0104,Casa-Museu Doutor Anastácio Gonçalves,38.732550,-9.146381,1,0,0,0,,,,,57,Avenidas Novas,06,Lisboa,11,Lisboa,PT170,AML,,,,
+MS0105,"Museu do Design e da Moda, Coleção Francisco Capelo",38.709147,-9.136652,1,0,0,0,,,,,65,Santa Maria Maior,06,Lisboa,11,Lisboa,PT170,AML,,,,
+MS0106,Museu Nacional de História Natural e da Ciência,38.718058,-9.150617,1,0,0,0,,,,,66,Santo António,06,Lisboa,11,Lisboa,PT170,AML,,,,
+MS0107,Museu Miguel Bombarda,38.725401,-9.141941,1,0,0,0,,,,,56,Arroios,06,Lisboa,11,Lisboa,PT170,AML,,,,
+MS0108,Museu Miguel Bombarda,38.725401,-9.141941,1,0,0,0,,,,,56,Arroios,06,Lisboa,11,Lisboa,PT170,AML,,,,
+MS0109,Sociedade Nacional de Belas Artes,38.721064,-9.149446,1,0,0,0,,,,,66,Santo António,06,Lisboa,11,Lisboa,PT170,AML,,,,
+MS0110,Museu do Oriente,38.702904,-9.170559,1,0,0,0,,,,,60,Estrela,06,Lisboa,11,Lisboa,PT170,AML,,,,060411|060423
+MS0111,Imprensa Nacional - Casa da Moeda,38.736991,-9.142897,1,0,0,0,,,,,57,Avenidas Novas,06,Lisboa,11,Lisboa,PT170,AML,,,,
+MS0112,Museu de Lisboa - Palácio Pimenta,38.758268,-9.156880,1,0,0,0,,,,,54,Alvalade,06,Lisboa,11,Lisboa,PT170,AML,,,,060171|060286|060287|060304|060310|060314|060337|060339|060341|060369|061200
+MS0113,Museu de Arte Popular,38.693653,-9.208482,1,0,0,0,,,,,58,Belém,06,Lisboa,11,Lisboa,PT170,AML,,,,
+MS0114,Centro de ciência viva,38.802260,-9.394420,1,0,0,0,,,,,28,"União das freguesias de Sintra (Santa Maria e São Miguel, São Martinho e São Pedro de Penaferrim)",11,Sintra,11,Lisboa,PT170,AML,,,,171371|171372|171374
+MS0115,Quinta do Conventinho,38.819315,-9.161972,0,1,0,0,,,,,30,União das freguesias de Santo António dos Cavaleiros e Frielas,07,Loures,11,Lisboa,PT170,AML,,,,
+MS0116,Quinta do Conventinho,38.819315,-9.161972,0,1,0,0,,,,,30,União das freguesias de Santo António dos Cavaleiros e Frielas,07,Loures,11,Lisboa,PT170,AML,,,,
+MS0117,Museu Nacional de Etnologia,38.704776,-9.208395,1,0,0,0,,,,,58,Belém,06,Lisboa,11,Lisboa,PT170,AML,,,,060095|060096
+MS0118,Fórum Luís de Camões,38.764795,-9.213737,1,0,0,0,,,,,14,Encosta do Sol,15,Amadora,11,Lisboa,PT170,AML,,,,030355|030387|030695|030737|030852
+MS0119,News Museum,38.796411,-9.389931,1,0,0,0,,,,,28,"União das freguesias de Sintra (Santa Maria e São Miguel, São Martinho e São Pedro de Penaferrim)",11,Sintra,11,Lisboa,PT170,AML,,,,171907|171909|171911|171925|171926
+MS0120,Museu Anjos Teixeira,38.796849,-9.387175,1,0,0,0,,,,,28,"União das freguesias de Sintra (Santa Maria e São Miguel, São Martinho e São Pedro de Penaferrim)",11,Sintra,11,Lisboa,PT170,AML,,,,171907|171909|171911|171913
+MS0121,Museu Ferreira de Castro,38.796055,-9.392582,1,0,0,0,,,,,28,"União das freguesias de Sintra (Santa Maria e São Miguel, São Martinho e São Pedro de Penaferrim)",11,Sintra,11,Lisboa,PT170,AML,,,,171907|171909|171925|171926
+MS0122,Museu da Cidade de Almada,38.668058,-9.161232,0,0,1,0,,,,,12,"União das freguesias de Almada, Cova da Piedade, Pragal e Cacilhas",03,Almada,15,Setúbal,PT170,AML,,,,020069|020071|020072|020077|020079|020099|020100|020285|020286|020287|020957|021011|021013|021019
+MS0123,Centro Cultural de Cascais,38.693943,-9.421395,1,0,0,0,,,,,08,União das freguesias de Cascais e Estoril,05,Cascais,11,Lisboa,PT170,AML,,,,
+MS0124,Museu do Ar - Pólo de Alverca,38.890724,-9.032345,0,1,0,0,,,,,13,União das freguesias de Alverca do Ribatejo e Sobralinho,14,Vila Franca de Xira,11,Lisboa,PT170,AML,,,,
+MS0125,Moagem de Sampaio,38.465540,-9.096802,0,0,1,0,,,,,01,Sesimbra (Castelo),11,Sesimbra,15,Setúbal,PT170,AML,,,,150072|150073|150075|150076|150077|150078|150225|150226|150373|150374|150375|150376
+MS0126,Farol Museu de Santa Marta,38.690577,-9.421185,1,0,0,0,,,,,08,União das freguesias de Cascais e Estoril,05,Cascais,11,Lisboa,PT170,AML,,,,
+MS0127,Casa-Museu Amália Rodrigues,38.715400,-9.154604,1,0,0,0,,,,,59,Campo de Ourique,06,Lisboa,11,Lisboa,PT170,AML,,,,
+MS0128,Oficina do Núcleo Naval do  Ecomuseu do Seixal,38.629547,-9.105151,0,0,1,0,,,,,07,"União das freguesias do Seixal, Arrentela e Aldeia de Paio Pires",10,Seixal,15,Setúbal,PT170,AML,,,,140057|140231|140232|140233|140234|140235|140291|140613|140614
+MS0129,Museu do Ar,38.836687,-9.341012,1,0,0,0,,,,,23,"União das freguesias de Almargem do Bispo, Pêro Pinheiro e Montelavar",11,Sintra,11,Lisboa,PT170,AML,,,,
+MS0130,Museu de Cerâmica de Sacavém,38.794072,-9.102314,0,1,0,0,,,,,27,União das freguesias de Sacavém e Prior Velho,07,Loures,11,Lisboa,PT170,AML,,,,070126|070513|070514|070695|072416|072417
+MS0131,Museu da Água,38.720025,-9.119610,1,0,0,0,,,,,67,São Vicente,06,Lisboa,11,Lisboa,PT170,AML,,,,
+MS0132,Pavilhão do Conhecimento,38.762241,-9.095585,1,0,0,0,,,,,62,Parque das Nações,06,Lisboa,11,Lisboa,PT170,AML,,,,
+MS0133,Atelier-Museu Júlio Pomar,38.711290,-9.150434,1,0,0,0,,,,,61,Misericórdia,06,Lisboa,11,Lisboa,PT170,AML,,,,
+MS0134,Centro de Monitorização e Interpretação Ambiental da Costa da Caparica,38.647288,-9.241202,0,0,1,0,,,,,03,Costa da Caparica,03,Almada,15,Setúbal,PT170,AML,,,,020005|020006
+MS0135,Museu do Vinho e da Vinha - Bucelas,38.901738,-9.120372,0,1,0,0,,,,,02,Bucelas,07,Loures,11,Lisboa,PT170,AML,,,,070135|070136|070137|070138|070171|070174|070175|070176|070973|070974|071273|071341|072214
+MS0136,Caves Velhas Antigos Armazéns,38.901785,-9.120702,0,1,0,0,,,,,02,Bucelas,07,Loures,11,Lisboa,PT170,AML,,,,070135|070136|070137|070138|070174|070175|070176|070973|070974|071273|071341|072214
+MS0137,Moinho de Maré do Cais das Faluas,38.703556,-8.979562,0,0,0,1,,,,,10,União das freguesias de Montijo e Afonsoeiro,07,Montijo,15,Setúbal,PT170,AML,,,,
+MS0138,Palacete dos Condes de Sampayo,38.656189,-9.031077,0,0,0,1,,,,,01,Alhos Vedros,06,Moita,15,Setúbal,PT170,AML,,,,090187|090188|090203
+MS0139,Museu Cosme Damião,38.751433,-9.184010,1,0,0,0,,,,,39,São Domingos de Benfica,06,Lisboa,11,Lisboa,PT170,AML,,,,
+MS0140,Museu do Neo-Realismo,38.955345,-8.988974,0,1,0,0,,,,,09,Vila Franca de Xira,14,Vila Franca de Xira,11,Lisboa,PT170,AML,,,,180077|180079|180081|180291|180357|180359|180765
+MS0141,Núcleo Museológico do Mártir Santo,38.957819,-8.988084,0,1,0,0,,,,,09,Vila Franca de Xira,14,Vila Franca de Xira,11,Lisboa,PT170,AML,,,,180079|180291|180293|180357|180359|180599|180600|180765
+MS0142,Museu Municipal de Vila Franca de Xira,38.954015,-8.987737,0,1,0,0,,,,,09,Vila Franca de Xira,14,Vila Franca de Xira,11,Lisboa,PT170,AML,,,,180075|180077|180079|180081|180291|180359|180765
+MS0143,Museu do Pescador,38.706706,-8.978561,0,0,0,1,,,,,10,União das freguesias de Montijo e Afonsoeiro,07,Montijo,15,Setúbal,PT170,AML,,,,100013|100015|100016|100027|100081|100083|100085|100093|100094|100095|100141|100143
+MS0144,Biblioteca Museu República e Resistência - Fórum Grandela,38.746514,-9.183883,1,0,0,0,,,,,39,São Domingos de Benfica,06,Lisboa,11,Lisboa,PT170,AML,,,,
+MS0145,Museu Nacional do Azulejo,38.724760,-9.113927,1,0,0,0,,,,,63,Penha de França,06,Lisboa,11,Lisboa,PT170,AML,,,,
+MS0146,Museu de Azulejaria e Etnografia Árabe,38.667898,-9.223789,0,0,1,0,,,,,13,União das freguesias de Caparica e Trafaria,03,Almada,15,Setúbal,PT170,AML,,,,020375|020376
+MS0147,Sala de Recordações,38.838646,-9.461482,1,0,0,0,,,,,05,Colares,11,Sintra,11,Lisboa,PT170,AML,,,,171445|171446|171447|171448|171727|172653
+MS0148,Cordoaria Nacional,38.697593,-9.190504,1,0,0,0,,,,,58,Belém,06,Lisboa,11,Lisboa,PT170,AML,,,,060381|060382
+MS0149,Museu Municipal de Alcochete - Núcleo Sede,38.753520,-8.960482,0,0,0,1,,,,,01,Alcochete,02,Alcochete,15,Setúbal,PT170,AML,,,,010001|010002|010005|010007|010008|010025|010027|010028|010073|010079|010080|010142
+MS0150,Museu Etnográfico da Casa do Povo de Arcena,38.906438,-9.051449,0,1,0,0,,,,,13,União das freguesias de Alverca do Ribatejo e Sobralinho,14,Vila Franca de Xira,11,Lisboa,PT170,AML,,,,180127|180128|180129|180130|180131|180133|180879|180880|180895|181001|181002|181003|181004
+MS0151,Núcleo Museológico de Alverca,38.899300,-9.038382,0,1,0,0,,,,,13,União das freguesias de Alverca do Ribatejo e Sobralinho,14,Vila Franca de Xira,11,Lisboa,PT170,AML,,,,180055|180057|180099|180107|180108|180143
+MS0152,Posto de Comando do MFA,38.767283,-9.196491,1,0,0,0,,,,,11,Carnide,06,Lisboa,11,Lisboa,PT170,AML,,,,110045|110693|110695|110697|110859
+MS0153,Museu da Carris,38.701533,-9.179943,1,0,0,0,,,,,02,Alcântara,06,Lisboa,11,Lisboa,PT170,AML,,,,
+MS0154,Casa Sommer,38.695074,-9.421715,1,0,0,0,,,,,08,União das freguesias de Cascais e Estoril,05,Cascais,11,Lisboa,PT170,AML,,,,
+MS0155,Casa de Santa Maria,38.691095,-9.421351,1,0,0,0,,,,,08,União das freguesias de Cascais e Estoril,05,Cascais,11,Lisboa,PT170,AML,,,,
+MS0156,Centro Ciência Viva,38.802366,-9.394850,1,0,0,0,,,,,28,"União das freguesias de Sintra (Santa Maria e São Miguel, São Martinho e São Pedro de Penaferrim)",11,Sintra,11,Lisboa,PT170,AML,,,,171371|171372|171373|171374
+MS0157,Centro Ciência Viva,38.802273,-9.394223,1,0,0,0,,,,,28,"União das freguesias de Sintra (Santa Maria e São Miguel, São Martinho e São Pedro de Penaferrim)",11,Sintra,11,Lisboa,PT170,AML,,,,171371|171372
+MS0158,Museu da Vila,38.696772,-9.420758,1,0,0,0,,,,,08,União das freguesias de Cascais e Estoril,05,Cascais,11,Lisboa,PT170,AML,,,,
+MS0159,Motor Passion,38.692406,-9.420675,1,0,0,0,,,,,08,União das freguesias de Cascais e Estoril,05,Cascais,11,Lisboa,PT170,AML,,,,
+MS0160,Central térmica e de produção de energia mecânica a vapor,38.619245,-9.164364,0,0,1,0,,,,,05,Corroios,10,Seixal,15,Setúbal,PT170,AML,,,,
+MS0161,Experiência Pilar 7,38.700404,-9.178875,1,0,0,0,,,,,02,Alcântara,06,Lisboa,11,Lisboa,PT170,AML,,,,
+MS0162,Museu Naval,38.683829,-9.160962,0,0,1,0,,,,,12,"União das freguesias de Almada, Cova da Piedade, Pragal e Cacilhas",03,Almada,15,Setúbal,PT170,AML,,,,
+MS0163,Casa Roque Gameiro,38.757906,-9.242348,1,0,0,0,,,,,17,Venteira,15,Amadora,11,Lisboa,PT170,AML,,,,030313|030345|030346|030347|030348|030349|030620|030621|030622|030653|030654
+MS0164,Mosteiro dos Jerónimos,38.697982,-9.205649,1,0,0,0,,,,,58,Belém,06,Lisboa,11,Lisboa,PT170,AML,,,,060097|060098|060099|060103
+MS0165,"Museu de Arte, Arquitetura e Tecnologia (MAAT)",38.696032,-9.193648,1,0,0,0,,,,,58,Belém,06,Lisboa,11,Lisboa,PT170,AML,,,,
+MS0166,Casa de Cultura Jaime Lobo e Silva,38.963189,-9.417770,0,1,0,0,,,,,06,Ericeira,09,Mafra,11,Lisboa,PT170,AML,,,,080563|080564|080736|080737|080745|080759|080761
+MS0167,Casa-Museu José Pedro,38.793124,-9.105887,0,1,0,0,,,,,27,União das freguesias de Sacavém e Prior Velho,07,Loures,11,Lisboa,PT170,AML,,,,070513|070514|070695|070699|070700|071503|071505
+MS0168,Arquivo Museu,38.965428,-9.417754,0,1,0,0,,,,,06,Ericeira,09,Mafra,11,Lisboa,PT170,AML,,,,080075|080076|080563|080564|080761
+MS0169,Convento dos Capuchos,38.645638,-9.222233,0,0,1,0,,,,,13,União das freguesias de Caparica e Trafaria,03,Almada,15,Setúbal,PT170,AML,,,,020643|020644|020645|020646
+MS0170,Arquivo Nacional de Imagens em Movimento,38.907448,-9.159828,0,1,0,0,,,,,02,Bucelas,07,Loures,11,Lisboa,PT170,AML,,,,
+MS0171,Núcleo Museológico da Manutenção Militar - EGEAC,38.731087,-9.106644,1,0,0,0,,,,,07,Beato,06,Lisboa,11,Lisboa,PT170,AML,,,,
+MS0172,Museu da Música Mecânica,38.621595,-8.861270,0,0,0,1,,,,,03,Pinhal Novo,08,Palmela,15,Setúbal,PT170,AML,,,,130543|130544
+MS0173,Museu do Pastor,38.934639,-9.169784,0,1,0,0,,,,,11,Milharado,09,Mafra,11,Lisboa,PT170,AML,,,,081167|081168
+MS0174,Museu Do Trabalho Michel Giacometti,38.523228,-8.886596,0,0,0,1,,,,,05,Setúbal (São Sebastião),12,Setúbal,15,Setúbal,PT170,AML,,,,160063|160064|160103|160131|160133|160163|160745|160746
+MS0175,Quake - Centro do Terramoto de Lisboa,38.697230,-9.197088,1,0,0,0,,,,,58,Belém,06,Lisboa,11,Lisboa,PT170,AML,,,,060101|060107|060383|060384
+MS0176,Bacalhôa Berardo Collection,38.524755,-8.991361,0,0,0,1,,,,,09,União das freguesias de Azeitão (São Lourenço e São Simão),12,Setúbal,15,Setúbal,PT170,AML,,,,160559|160560|160561|160562
+MS0177,Gabinete de Estudos sobre a Ordem de Santiago,38.565992,-8.900267,0,0,0,1,,,,,02,Palmela,08,Palmela,15,Setúbal,PT170,AML,,,,130037
+MS0178,Museu do Fado,38.711052,-9.127669,1,0,0,0,,,,,65,Santa Maria Maior,06,Lisboa,11,Lisboa,PT170,AML,,,,
+MS0179,Museu Nacional dos Coches,38.696784,-9.198356,1,0,0,0,,,,,58,Belém,06,Lisboa,11,Lisboa,PT170,AML,,,,060101|060107|060383|060384
+MS0180,Museu da Presidência da República,38.697651,-9.201492,1,0,0,0,,,,,58,Belém,06,Lisboa,11,Lisboa,PT170,AML,,,,060099|060101|060103|060107|060383
+MS0181,Fórum Municipal Romeu Correia,38.678218,-9.157900,0,0,1,0,,,,,12,"União das freguesias de Almada, Cova da Piedade, Pragal e Cacilhas",03,Almada,15,Setúbal,PT170,AML,,,,020057|020058|020059|020085|020107|020117|020399|021065|021066|021068
+MS0182,Casa do Turismo,38.524763,-8.893048,0,0,0,1,,,,,10,"União das freguesias de Setúbal (São Julião, Nossa Senhora da Anunciada e Santa Maria da Graça)",12,Setúbal,15,Setúbal,PT170,AML,,,,160097|160099|160101|160105|160107|160135|160137|160139|160157|160158|160161|160225|160273|160349|160507|160508|160531|160883|160961
+MS0183,Centro Cultural de Belém,38.695461,-9.208600,1,0,0,0,,,,,58,Belém,06,Lisboa,11,Lisboa,PT170,AML,,,,
+MS0184,Museu de Carros de Tracção Animal,38.960868,-9.292841,0,1,0,0,,,,,09,Mafra,09,Mafra,11,Lisboa,PT170,AML,,,,
+MS0185,Museu da Tojeira,38.955871,-9.282685,0,1,0,0,,,,,09,Mafra,09,Mafra,11,Lisboa,PT170,AML,,,,
+MS0186,Museu de Lisboa - Palácio Pimenta,38.757918,-9.157211,1,0,0,0,,,,,54,Alvalade,06,Lisboa,11,Lisboa,PT170,AML,,,,060287|060310|061200
+MS0187,Museu Calouste Gulbenkian,38.737794,-9.153509,1,0,0,0,,,,,57,Avenidas Novas,06,Lisboa,11,Lisboa,PT170,AML,,,,
+MS0188,Palácio Foz,38.715807,-9.142538,1,0,0,0,,,,,65,Santa Maria Maior,06,Lisboa,11,Lisboa,PT170,AML,,,,
+MS0189,Casa dos Bicos,38.709111,-9.132660,1,0,0,0,,,,,65,Santa Maria Maior,06,Lisboa,11,Lisboa,PT170,AML,,,,
+MS0190,Museu do Teatro Romano,38.710546,-9.132386,1,0,0,0,,,,,65,Santa Maria Maior,06,Lisboa,11,Lisboa,PT170,AML,,,,
+MS0191,Museu Miguel Bombarda,38.725087,-9.142442,1,0,0,0,,,,,56,Arroios,06,Lisboa,11,Lisboa,PT170,AML,,,,
+MS0192,Fundação Ricardo do Espírito Santo Silva,38.712032,-9.130557,1,0,0,0,,,,,65,Santa Maria Maior,06,Lisboa,11,Lisboa,PT170,AML,,,,
+MS0193,Fundação Dom Luís,38.692984,-9.421006,1,0,0,0,,,,,08,União das freguesias de Cascais e Estoril,05,Cascais,11,Lisboa,PT170,AML,,,,
+MS0194,Museu de Lisboa - Palácio Pimenta,38.758477,-9.156612,1,0,0,0,,,,,54,Alvalade,06,Lisboa,11,Lisboa,PT170,AML,,,,060156|060171|060259|060286|060287|060304|060310|060312|060314|060316|060337|060339|060341|060369|061200
+MS0195,Pavilhão de Macau,38.826897,-9.160251,0,1,0,0,,,,,07,Loures,07,Loures,11,Lisboa,PT170,AML,,,,070283|070389|070390
+MS0196,Quinta do Conventinho,38.819582,-9.161260,0,1,0,0,,,,,30,União das freguesias de Santo António dos Cavaleiros e Frielas,07,Loures,11,Lisboa,PT170,AML,,,,070483|070484
+MS0197,Casa da Cerca - Centro de Arte Contemporânea,38.684031,-9.159076,0,0,1,0,,,,,12,"União das freguesias de Almada, Cova da Piedade, Pragal e Cacilhas",03,Almada,15,Setúbal,PT170,AML,,,,020023|020027|020028|020209|021071|021072|021073|021074
+MS0198,Reservatório da Patriarcal,38.716173,-9.148723,1,0,0,0,,,,,61,Misericórdia,06,Lisboa,11,Lisboa,PT170,AML,,,,
+MS0199,Núcleo Museológico do Castelo de São Jorge,38.713087,-9.133996,1,0,0,0,,,,,65,Santa Maria Maior,06,Lisboa,11,Lisboa,PT170,AML,,,,
+MS0200,Farol Museu de Santa Marta,38.690560,-9.421311,1,0,0,0,,,,,08,União das freguesias de Cascais e Estoril,05,Cascais,11,Lisboa,PT170,AML,,,,
+MS0201,Farol Museu de Santa Marta,38.690394,-9.420975,1,0,0,0,,,,,08,União das freguesias de Cascais e Estoril,05,Cascais,11,Lisboa,PT170,AML,,,,
+MS0202,Museu Calouste Gulbenkian - Centro de Arte Moderna,38.735920,-9.153558,1,0,0,0,,,,,57,Avenidas Novas,06,Lisboa,11,Lisboa,PT170,AML,,,,
+MS0203,Museu da Água,38.719875,-9.119955,1,0,0,0,,,,,67,São Vicente,06,Lisboa,11,Lisboa,PT170,AML,,,,
+MS0204,Templo da Poesia,38.700835,-9.301721,1,0,0,0,,,,,14,"União das freguesias de Oeiras e São Julião da Barra, Paço de Arcos e Caxias",10,Oeiras,11,Lisboa,PT170,AML,,,,120757|120758|120761|120762|120765|120865|121292|121293
+MS0205,Museu do Mar,38.695576,-9.423594,1,0,0,0,,,,,08,União das freguesias de Cascais e Estoril,05,Cascais,11,Lisboa,PT170,AML,,,,
+MS0206,Casa das Histórias - Paula Rego,38.695220,-9.424113,1,0,0,0,,,,,08,União das freguesias de Cascais e Estoril,05,Cascais,11,Lisboa,PT170,AML,,,,
+MS0207,Museu do Mar,38.695064,-9.423430,1,0,0,0,,,,,08,União das freguesias de Cascais e Estoril,05,Cascais,11,Lisboa,PT170,AML,,,,
+MS0208,Forte do Bom Sucesso,38.692581,-9.218096,1,0,0,0,,,,,58,Belém,06,Lisboa,11,Lisboa,PT170,AML,,,,
+MS0209,Oficina de Cultura,38.679435,-9.158199,0,0,1,0,,,,,12,"União das freguesias de Almada, Cova da Piedade, Pragal e Cacilhas",03,Almada,15,Setúbal,PT170,AML,,,,020019|020021|020023|020027|020028|020045|020047|020049|020059|020085|020201|020203|020205|020399|021068|021069|021073
+MS0210,Associação Nacional das Farmácias,38.710138,-9.147290,1,0,0,0,,,,,61,Misericórdia,06,Lisboa,11,Lisboa,PT170,AML,,,,
+MS0211,Solar dos Zagallos,38.650123,-9.190150,0,0,1,0,,,,,14,União das freguesias de Charneca de Caparica e Sobreda,03,Almada,15,Setúbal,PT170,AML,,,,020593|020594|020669|020670|020917|020918|020919|020920
+MS0212,Moinho de Vento do Esteval,38.714508,-8.966768,0,0,0,1,,,,,10,União das freguesias de Montijo e Afonsoeiro,07,Montijo,15,Setúbal,PT170,AML,,,,100069|100071|100101|100103|100107|100109
+MS0213,Moinho de Maré da Mourisca,38.528290,-8.803094,0,0,0,1,,,,,07,Gâmbia-Pontes-Alto da Guerra,12,Setúbal,15,Setúbal,PT170,AML,,,,
+MS0214,Moinho de Maré da Mourisca,38.528290,-8.803094,0,0,0,1,,,,,07,Gâmbia-Pontes-Alto da Guerra,12,Setúbal,15,Setúbal,PT170,AML,,,,
+MS0215,,38.632580,-9.105183,0,0,1,0,,,,,07,"União das freguesias do Seixal, Arrentela e Aldeia de Paio Pires",10,Seixal,15,Setúbal,PT170,AML,,,,140237
+MS0216,Museu Nacional do Azulejo,38.724351,-9.114220,1,0,0,0,,,,,63,Penha de França,06,Lisboa,11,Lisboa,PT170,AML,,,,
+MS0217,Palácio Nacional da Ajuda,38.707627,-9.198210,1,0,0,0,,,,,01,Ajuda,06,Lisboa,11,Lisboa,PT170,AML,,,,
+MS0218,Cordoaria Nacional,38.698077,-9.189244,1,0,0,0,,,,,58,Belém,06,Lisboa,11,Lisboa,PT170,AML,,,,060381|060382
+MS0219,Ecomuseu Municipal do Seixal - Núcleo da Mundet,38.642194,-9.105441,0,0,1,0,,,,,07,"União das freguesias do Seixal, Arrentela e Aldeia de Paio Pires",10,Seixal,15,Setúbal,PT170,AML,,,,140241|140287|140288
+MS0220,Museu da Carris,38.701680,-9.179680,1,0,0,0,,,,,02,Alcântara,06,Lisboa,11,Lisboa,PT170,AML,,,,
+MS0221,Observatório Astronómico de Lisboa,38.710515,-9.187434,1,0,0,0,,,,,02,Alcântara,06,Lisboa,11,Lisboa,PT170,AML,,,,
+MS0222,Presídio do Forte de Nossa Senhora da Saúde da Trafaria,38.673864,-9.230284,0,0,1,0,,,,,13,União das freguesias de Caparica e Trafaria,03,Almada,15,Setúbal,PT170,AML,,,,020381|020383|020385|020387|020389
+MS0223,Mosteiro dos Jerónimos,38.698100,-9.205775,1,0,0,0,,,,,58,Belém,06,Lisboa,11,Lisboa,PT170,AML,,,,060097|060098|060099|060103
+MS0224,"Museu de Arte, Arquitetura e Tecnologia (MAAT)",38.696155,-9.192891,1,0,0,0,,,,,58,Belém,06,Lisboa,11,Lisboa,PT170,AML,,,,
+MS0225,"Museu de Arte, Arquitetura e Tecnologia (MAAT)",38.695935,-9.193403,1,0,0,0,,,,,58,Belém,06,Lisboa,11,Lisboa,PT170,AML,,,,
+MS0226,"Museu de Arte, Arquitetura e Tecnologia (MAAT)",38.695903,-9.193605,1,0,0,0,,,,,58,Belém,06,Lisboa,11,Lisboa,PT170,AML,,,,
+MS0227,"Museu de Arte, Arquitetura e Tecnologia (MAAT)",38.695860,-9.193902,1,0,0,0,,,,,58,Belém,06,Lisboa,11,Lisboa,PT170,AML,,,,
+MS0228,Casa de Cultura Jaime Lobo e Silva,38.963076,-9.417616,0,1,0,0,,,,,06,Ericeira,09,Mafra,11,Lisboa,PT170,AML,,,,080107|080563|080564|080736|080737|080745|080759|080761
+MS0229,Moinho de Corroios,38.643565,-9.144684,0,0,1,0,,,,,05,Corroios,10,Seixal,15,Setúbal,PT170,AML,,,,140755
+MS0230,Moínho de Vento da Apelação,38.815232,-9.128210,0,1,0,0,,,,,31,"União das freguesias de Camarate, Unhos e Apelação",07,Loures,11,Lisboa,PT170,AML,,,,070095|070096|070097|070098|070099|070100
+MS0231,Museu Nacional de Arte Antiga,38.704768,-9.161515,1,0,0,0,,,,,60,Estrela,06,Lisboa,11,Lisboa,PT170,AML,,,,060413|060414
+MS0232,Museu Nacional dos Coches,38.697799,-9.199717,1,0,0,0,,,,,58,Belém,06,Lisboa,11,Lisboa,PT170,AML,,,,060101|060107|060383|060384
+MS0233,Núcleo Museológico do Cemitério dos Prazeres,38.713660,-9.171221,1,0,0,0,,,,,60,Estrela,06,Lisboa,11,Lisboa,PT170,AML,,,,
+MS0234,Centro Cultural de Belém,38.694563,-9.209241,1,0,0,0,,,,,58,Belém,06,Lisboa,11,Lisboa,PT170,AML,,,,
+MS0235,Centro Cultural de Belém,38.694590,-9.209360,1,0,0,0,,,,,58,Belém,06,Lisboa,11,Lisboa,PT170,AML,,,,
+MS0236,Centro Cultural de Belém,38.694652,-9.208904,1,0,0,0,,,,,58,Belém,06,Lisboa,11,Lisboa,PT170,AML,,,,
+MS0237,Centro Cultural de Belém,38.694735,-9.208558,1,0,0,0,,,,,58,Belém,06,Lisboa,11,Lisboa,PT170,AML,,,,
+MS0238,Centro Cultural de Belém,38.694810,-9.208488,1,0,0,0,,,,,58,Belém,06,Lisboa,11,Lisboa,PT170,AML,,,,
+MS0239,Museu Condes de Castro Guimarães,38.692084,-9.421686,1,0,0,0,,,,,08,União das freguesias de Cascais e Estoril,05,Cascais,11,Lisboa,PT170,AML,,,,
+MS0240,Centro de ciência viva,38.802317,-9.394743,1,0,0,0,,,,,28,"União das freguesias de Sintra (Santa Maria e São Miguel, São Martinho e São Pedro de Penaferrim)",11,Sintra,11,Lisboa,PT170,AML,,,,171371|171372|171374
+MS0241,Centro Ciência Viva,38.802317,-9.394743,1,0,0,0,,,,,28,"União das freguesias de Sintra (Santa Maria e São Miguel, São Martinho e São Pedro de Penaferrim)",11,Sintra,11,Lisboa,PT170,AML,,,,171371|171372|171374
+MS0242,Centro de ciência viva,38.802297,-9.394387,1,0,0,0,,,,,28,"União das freguesias de Sintra (Santa Maria e São Miguel, São Martinho e São Pedro de Penaferrim)",11,Sintra,11,Lisboa,PT170,AML,,,,171371|171372|171374
+MS0243,Centro Ciência Viva,38.802297,-9.394387,1,0,0,0,,,,,28,"União das freguesias de Sintra (Santa Maria e São Miguel, São Martinho e São Pedro de Penaferrim)",11,Sintra,11,Lisboa,PT170,AML,,,,171371|171372|171374
+MS0244,Quinta do Conventinho,38.819857,-9.161125,0,1,0,0,,,,,30,União das freguesias de Santo António dos Cavaleiros e Frielas,07,Loures,11,Lisboa,PT170,AML,,,,070483|070484
+MS0245,Museu Municipal de Loures,38.819857,-9.161125,0,1,0,0,,,,,30,União das freguesias de Santo António dos Cavaleiros e Frielas,07,Loures,11,Lisboa,PT170,AML,,,,070483|070484
