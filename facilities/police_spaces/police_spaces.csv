@@ -1,0 +1,141 @@
+id,name,lat,lon,A1,A2,A3,A4,is_active,validation_date,address,locality,parish_id,parish_name,municipality_id,municipality_name,district_id,district_name,region_id,region_name,url,email,phone,stops
+PS0001,38ª Esquadra,38.752021,-9.124780,1,0,0,0,1,2023-08-25,"Rua Ricardo Ornelas Lote 378, R/C-A",,21,Marvila,06,Lisboa,11,Lisboa,PT170,AML,,,-,
+PS0002,Comando - 1ª Divisão Policial,38.717907,-9.135952,1,0,0,0,1,2023-08-25,"Rua da Palma, 169",,65,Santa Maria Maior,06,Lisboa,11,Lisboa,PT170,AML,,,213513600,
+PS0003,Esquadra de Intervenção e Fiscalização Policial - DSA,38.772506,-9.128211,1,0,0,0,1,2023-08-25,"Aeroporto de Lisboa - Arruamento A, Edifício 11",,33,Olivais,06,Lisboa,11,Lisboa,PT170,AML,,,218444530,060269|060270|060307|060377
+PS0004,2ª Esqª - Baixa Pombalina,38.709358,-9.136034,1,0,0,0,1,2023-08-25,"Rua da Prata nº 38, 1100-419 Lisboa c/ Rua de S. Julião, nº69",,65,Santa Maria Maior,06,Lisboa,11,Lisboa,PT170,AML,,,213427379,
+PS0005,18ª Esquadra - Campo Grande,38.749639,-9.146712,1,0,0,0,1,2023-08-25,"Rua Afonso Lopes Vieira 2A, R/C",,54,Alvalade,06,Lisboa,11,Lisboa,PT170,AML,,,217900020,
+PS0006,Esquadra de Segurança Aeroporto - Terminal 1,38.771153,-9.129485,1,0,0,0,1,2023-08-25,"Alameda das Comunidades Portuguesas Terminal 1, R/C",,33,Olivais,06,Lisboa,11,Lisboa,PT170,AML,,,218496132,060271|060273|060307|060377
+PS0007,37ª Esquadra - Serafina,38.733990,-9.171585,1,0,0,0,1,2023-08-25,"Rua Miguel Ângelo de Blasco 25, R/C",,10,Campolide,06,Lisboa,11,Lisboa,PT170,AML,,,213858346,
+PS0008,12ª Esquadra - Olaias,38.739325,-9.126008,1,0,0,0,1,2023-08-25,Rua Américo Durão 1 R/C Loja B,,55,Areeiro,06,Lisboa,11,Lisboa,PT170,AML,,,218414250,
+PS0009,Esquadra de Segurança Aeroporto - Terminal 2,38.763746,-9.137899,1,0,0,0,1,2023-08-25,Alameda das Comunidades Portuguesas Terminal 2 R/C PSP,,33,Olivais,06,Lisboa,11,Lisboa,PT170,AML,,,218444530,
+PS0010,Esquadra de Segurança ao Campus Justiça de Lisboa,38.774731,-9.096102,1,0,0,0,1,2023-08-25,"Avenida D. João II, Lote 1.08, Edifício F - Parque das Nações",,62,Parque das Nações,06,Lisboa,11,Lisboa,PT170,AML,,,218640090,060201|060202|060203|060211
+PS0011,Secção de Achados,38.764311,-9.117744,1,0,0,0,1,2023-08-25,"Praça Cidade de Salazar Lote 180, R/C",,33,Olivais,06,Lisboa,11,Lisboa,PT170,AML,,,218535403,
+PS0012,Posto de Polícia Hospital de São José,38.718133,-9.137619,1,0,0,0,1,2023-08-25,"Rua José António Serrano Bloco Central, R/C",,56,Arroios,06,Lisboa,11,Lisboa,PT170,AML,,,218841000,
+PS0013,22ª Esquadra - Rato,38.720429,-9.155791,1,0,0,0,1,2023-08-25,"Largo do Rato, 1",,59,Campo de Ourique,06,Lisboa,11,Lisboa,PT170,AML,,,213858870,
+PS0014,3ª Divisão Policial LX,38.745659,-9.199199,1,0,0,0,1,2023-08-25,"Rua André de Resende, R/C",,08,Benfica,06,Lisboa,11,Lisboa,PT170,AML,,,217108200,
+PS0015,Esquadra de Segurança à Casa da Moeda,38.736955,-9.143527,1,0,0,0,1,2023-08-25,"Avenida João Crisóstomo Casa da Moeda, R/C",,57,Avenidas Novas,06,Lisboa,11,Lisboa,PT170,AML,,,217810832,
+PS0016,19ª Esquadra - Telheiras,38.762649,-9.164856,1,0,0,0,1,2023-08-25,"Rua Professor Luís Reis dos Santos, Lote H - 4 R/C",,18,Lumiar,06,Lisboa,11,Lisboa,PT170,AML,,,217595604,
+PS0017,42ª Esquadra - Carnide,38.759115,-9.192164,1,0,0,0,1,2023-08-25,Rua Manuela Porto 14D R/C Esq - Loja B,,11,Carnide,06,Lisboa,11,Lisboa,PT170,AML,,,217144989,060063|060065
+PS0018,Posto de Polícia Centro Comercial Colombo,38.755135,-9.187473,1,0,0,0,1,2023-08-25,"Rua Albert Einstein (antiga R Norte - C.C.Colombo) CC Colombo, R/C",,11,Carnide,06,Lisboa,11,Lisboa,PT170,AML,,,217113501,
+PS0019,5ª Divisão Policial,38.727660,-9.127449,1,0,0,0,1,2023-08-25,"Avenida Coronel Eduardo Galhardo - Edifício da P.S.P., R/C",,63,Penha de França,06,Lisboa,11,Lisboa,PT170,AML,,,218113200,
+PS0020,16ª Esquadra - Zona J Chelas,38.747234,-9.112286,1,0,0,0,1,2023-08-25,"Avenida João Paulo II Lote 526, R/C",,21,Marvila,06,Lisboa,11,Lisboa,PT170,AML,,,218380821,
+PS0021,43ª Esquadra - Bairro da Boavista,38.733291,-9.206182,1,0,0,0,1,2023-08-25,"Rua do Azevinho (Rua B) Quarteirão Central B - Bloco C, R/C-Loja 27, Bairro da Bela Vista",,08,Benfica,06,Lisboa,11,Lisboa,PT170,AML,,,217606073,
+PS0022,Serviços Sociais da Polícia de Segurança Pública,38.727680,-9.111265,1,0,0,0,1,2023-08-25,"Rua de Xabregas, 44",,07,Beato,06,Lisboa,11,Lisboa,PT170,AML,,,218618000,
+PS0023,6ª Esquadra de Investigação Criminal,38.703630,-9.221907,1,0,0,0,1,2023-08-25,"Estrada Forte do Alto do Duque, Forte do Alto do Duque",,58,Belém,06,Lisboa,11,Lisboa,PT170,AML,,,213 943 600,
+PS0024,Espaço Júlia,38.722610,-9.141667,1,0,0,0,1,2023-08-25,Alameda Sto António dos Capuchos,,66,Santo António,06,Lisboa,11,Lisboa,PT170,AML,,,210179284,
+PS0025,40ª Esquadra - Parque das Nações,38.782170,-9.095068,1,0,0,0,1,2023-08-25,"Rua Ilha dos Amores, Lote 43901-J, Parque das Nações",,62,Parque das Nações,06,Lisboa,11,Lisboa,PT170,AML,,,218955810,060197|060198|060213
+PS0026,Divisão Policial de Segurança a Transportes Públicos - CP,38.714234,-9.140782,1,0,0,0,1,2023-08-25,Estação CP Rossio Ed. Posto do Comando,,65,Santa Maria Maior,06,Lisboa,11,Lisboa,PT170,AML,,,213215738,
+PS0027,Corpo de Intervenção,38.699999,-9.200303,1,0,0,0,1,2023-08-25,"Calçada da Ajuda, 23",,58,Belém,06,Lisboa,11,Lisboa,PT170,AML,,,213647155/219802020,060101|060107
+PS0028,Esquadra de Segurança à Presidência da República,38.698087,-9.200668,1,0,0,0,1,2023-08-25,"Palácio de Belém, s/n",,58,Belém,06,Lisboa,11,Lisboa,PT170,AML,,,213637110,060099|060101|060103|060107|060383|060384
+PS0029,26ª Esquadra - Belém,38.697377,-9.201678,1,0,0,0,1,2023-08-25,"Praça Afonso de Albuquerque PSP, R/C",,58,Belém,06,Lisboa,11,Lisboa,PT170,AML,,,213619626,060099|060101|060103|060107|060383
+PS0030,Esquadra de Turismo - Posto de Atendimento,38.715560,-9.142173,1,0,0,0,1,2023-08-25,Praça dos Restauradores - Palácio Foz,,65,Santa Maria Maior,06,Lisboa,11,Lisboa,PT170,AML,,,213421623/213400090,
+PS0031,Posto de Polícia Hospital de Santa Maria,38.748290,-9.160607,1,0,0,0,1,2023-08-25,Avenida Professor Egas Moniz Hospital de Santa Maria,,54,Alvalade,06,Lisboa,11,Lisboa,PT170,AML,,,217805000,
+PS0032,1º Esquadra de Segurança a Instalações Diplomáticas,38.703095,-9.169255,1,0,0,0,1,2023-08-25,"Rua Cintura do Porto de Lisboa, Edifício P.S.P.",,60,Estrela,06,Lisboa,11,Lisboa,PT170,AML,,,213943680,060411|060423
+PS0033,1ª Esquadra de Segurança a Transportes Públicos,38.724542,-9.149727,1,0,0,0,1,2023-08-25,"Praça do Marquês de Pombal Estação de Metro (Marquês Pombal), -1",,66,Santo António,06,Lisboa,11,Lisboa,PT170,AML,,,213521040,060033|060123|060143|060149|060405|060462
+PS0034,Tribunal de Monsanto - Esquadra Especial,38.733537,-9.191906,1,0,0,0,1,2023-08-25,Estrada do Forte (Monsanto) Tribunal,,08,Benfica,06,Lisboa,11,Lisboa,PT170,AML,,,217654242,
+PS0035,4º Esquadra de Segurança a Transportes Públicos - GIL - Gare do Oriente,38.767608,-9.099156,1,0,0,0,1,2023-08-25,"Avenida Dom João II, Estação do Oriente Lt. 01.07.15, Gare do Oriente",,62,Parque das Nações,06,Lisboa,11,Lisboa,PT170,AML,,,218946046,060001|060002|060009|060011|060207|060253|060321|060322|060323|060325|060327|060361
+PS0036,Direção Nacional da PSP - Comando,38.729894,-9.131145,1,0,0,0,1,2023-08-25,"Largo da Penha de França, 1",,63,Penha de França,06,Lisboa,11,Lisboa,PT170,AML,,,218111000,
+PS0037,Instituto Superior de Ciências Policiais e Segurança Interna,38.704432,-9.178160,1,0,0,0,1,2023-08-25,Rua Primeiro de Maio a Alcântara 3 R/C,,02,Alcântara,06,Lisboa,11,Lisboa,PT170,AML,,,213613900,
+PS0038,4ª Divisão Policial,38.704179,-9.177640,1,0,0,0,1,2023-08-25,"Largo do Calvário 6, 1º",,02,Alcântara,06,Lisboa,11,Lisboa,PT170,AML,,,213619600,060379|060380
+PS0039,28ª Esquadra - Calvário,38.704384,-9.177598,1,0,0,0,1,2023-08-25,"Largo do Calvário 6, R/C",,02,Alcântara,06,Lisboa,11,Lisboa,PT170,AML,,,213619628,060379|060380
+PS0040,Viaturas Apreendidas/Rebocadas - Parque de Telheiras,38.765881,-9.177607,1,0,0,0,1,2023-08-25,"Azinhaga Torre do Fato, s/n",,11,Carnide,06,Lisboa,11,Lisboa,PT170,AML,,,217157497,
+PS0041,2ª Divisão Policial,38.764226,-9.120215,1,0,0,0,1,2023-08-25,"Rua Cidade de Nampula (antiga Rua B2 de Olivais Sul) 12, R/C",,33,Olivais,06,Lisboa,11,Lisboa,PT170,AML,,,218547200,
+PS0042,34ª Esquadra - Olivais,38.764217,-9.120227,1,0,0,0,1,2023-08-25,"Praceta A à Avenida Cidade de Lourenço Marques PSP, Cave-Loja 1",,33,Olivais,06,Lisboa,11,Lisboa,PT170,AML,,,218547210,
+PS0043,14ª Esquadra - Zona I - Chelas,38.753419,-9.114406,1,0,0,0,1,2023-08-25,Rua Luiz Pacheco Lote 105,,21,Marvila,06,Lisboa,11,Lisboa,PT170,AML,,,218374060,
+PS0044,20ª Esquadra - Benfica,38.745668,-9.199187,1,0,0,0,1,2023-08-25,Rua André de Resende 1,,08,Benfica,06,Lisboa,11,Lisboa,PT170,AML,,,217108220,
+PS0045,Esquadra de Segurança à Assembleia da República,38.712469,-9.153652,1,0,0,0,1,2023-08-25,"Praça de São Bento, s/n",,60,Estrela,06,Lisboa,11,Lisboa,PT170,AML,,,213917337,
+PS0046,Esquadra de Segurança à Residência Oficial do Primeiro Ministro,38.712586,-9.155901,1,0,0,0,1,2023-08-25,"Rua da Imprensa à Estrela, 4",,60,Estrela,06,Lisboa,11,Lisboa,PT170,AML,,,213923500,
+PS0047,Esquadra de Segurança à Presidência de Conselho de Ministros,38.713212,-9.166436,1,0,0,0,1,2023-08-25,"Rua Professor Gomes Teixeira 2, R/C",,59,Campo de Ourique,06,Lisboa,11,Lisboa,PT170,AML,,,213927781/213927782,
+PS0048,21ª Esquadra - Campolide,38.733059,-9.158723,1,0,0,0,1,2023-08-25,"Rua Marquês de Fronteira Tribunal da Policia, R/C, Palácio da Justiça",,10,Campolide,06,Lisboa,11,Lisboa,PT170,AML,,,213858817,
+PS0049,32ª Esquadra - Bairro da Horta Nova,38.766478,-9.181417,1,0,0,0,1,2023-08-25,"Rua Alfredo Ferraz (antigo Impasse B1 do Bairro da Horta Nova) 12, R/C-Loja",,11,Carnide,06,Lisboa,11,Lisboa,PT170,AML,,,217164339,
+PS0050,36ª Esquadra - Bairro Padre Cruz,38.769505,-9.192926,1,0,0,0,1,2023-08-25,"Rua Prof. Miller Guerra (antigo Impasse A do Bairro Padre Cruz) Lote 44, Loja-36",,11,Carnide,06,Lisboa,11,Lisboa,PT170,AML,,,217164314,
+PS0051,24ª Esquadra - Campo de Ourique,38.715205,-9.167920,1,0,0,0,1,2023-08-25,"Rua Azedo Gneco 84, R/C",,59,Campo de Ourique,06,Lisboa,11,Lisboa,PT170,AML,,,213619624,
+PS0052,11ª Esquadra - Penha de França,38.727669,-9.127437,1,0,0,0,1,2023-08-25,"Avenida Coronel Eduardo Galhardo - Edifício da P.S.P., R/C",,63,Penha de França,06,Lisboa,11,Lisboa,PT170,AML,,,218113214,
+PS0053,Divisão de Transito,38.767106,-9.149751,1,0,0,0,1,2023-08-25,"Avenida Maria Helena Vieira da Silva, 48",,18,Lumiar,06,Lisboa,11,Lisboa,PT170,AML,,,217501200,
+PS0054,30ª Esquadra - Lapa/Estrela,38.711179,-9.156372,1,0,0,0,1,2023-08-25,"Travessa Miguel Lúpi, s/n",,60,Estrela,06,Lisboa,11,Lisboa,PT170,AML,,,213619630,
+PS0055,41ª Esquadra - Lumiar,38.776311,-9.155462,1,0,0,0,1,2023-08-25,"Rua Maria Ribeiro, n.º 6",,18,Lumiar,06,Lisboa,11,Lisboa,PT170,AML,,,210 545 390,
+PS0056,RIAV - Campus de Justiça,38.772957,-9.095846,1,0,0,0,1,2023-08-25,"Avenida Dom João II, Edifício E, piso 0",,62,Parque das Nações,06,Lisboa,11,Lisboa,PT170,AML,,,213182370,060203|060205|060209|060211
+PS0057,Esquadra de Turismo do Porto de Lisboa,38.710112,-9.126034,1,0,0,0,1,2023-08-25,"Avenida Infante D. Henrique, Terminal de Cruzeiros de Lisboa",,65,Santa Maria Maior,06,Lisboa,11,Lisboa,PT170,AML,,,218804030,
+PS0058,Posto de Polícia Hospital São Francisco Xavier,38.707787,-9.217771,1,0,0,0,1,2023-08-25,"Estrada do Forte do Alto do Duque Hospital S Francisco de Xavier, R/C",,58,Belém,06,Lisboa,11,Lisboa,PT170,AML,,,213619609,
+PS0059,Esquadra de Turismo,38.712930,-9.125059,1,0,0,0,1,2023-08-25,Largo do Museu de Artilharia,,65,Santa Maria Maior,06,Lisboa,11,Lisboa,PT170,AML,,,218804030,
+PS0060,Viaturas Apreendidas/Rebocadas - Parque do Restelo,38.710195,-9.212133,1,0,0,0,1,2023-08-25,"Rua Gregório Lopes, PSP",,58,Belém,06,Lisboa,11,Lisboa,PT170,AML,,,213016864,060079|060091|060092
+PS0061,Esquadra de Trânsito de Loures,38.796829,-9.163116,0,1,0,0,,,,,09,União das freguesias de Póvoa de Santo Adrião e Olival Basto,16,Odivelas,11,Lisboa,PT170,AML,,,,110455|110456|110531|110532|110555|110557|110559|110561|110563|110621|110622|110623|110803
+PS0062,Polícia Municipal Lisboa,38.735858,-9.163128,1,0,0,0,,,,,10,Campolide,06,Lisboa,11,Lisboa,PT170,AML,,,,060017|060018|060025
+PS0063,"21ª Esquadra, Campolide",38.733068,-9.158777,1,0,0,0,,,,,10,Campolide,06,Lisboa,11,Lisboa,PT170,AML,,,,
+PS0064,Polícia de Segurança Pública - 5ª Esquadra - Boavista,38.708398,-9.147411,1,0,0,0,,,,,61,Misericórdia,06,Lisboa,11,Lisboa,PT170,AML,,,,
+PS0065,ASAE - Sede,38.737844,-9.151695,1,0,0,0,,,,,57,Avenidas Novas,06,Lisboa,11,Lisboa,PT170,AML,,,,061219|061220
+PS0066,"3ª Divisão Policial, 20ª Esquadra, Benfica, Esquadra de Investigação Criminal de Lisboa",38.745994,-9.199029,1,0,0,0,,,,,08,Benfica,06,Lisboa,11,Lisboa,PT170,AML,,,,
+PS0067,Capitania do Porto de Lisboa,38.701964,-9.173414,1,0,0,0,,,,,60,Estrela,06,Lisboa,11,Lisboa,PT170,AML,,,,060379|062002|062003
+PS0068,3ª Esquadra de Divisão Segurança Transportes Públicos,38.688614,-9.319010,1,0,0,0,,,,,14,"União das freguesias de Oeiras e São Julião da Barra, Paço de Arcos e Caxias",10,Oeiras,11,Lisboa,PT170,AML,,,,120729|120787|120788|120803|120804|120813|120879|121187|121188|121207|121235|121270|121272|121291|121297
+PS0069,Divisão Policial de Almada,38.674137,-9.168060,0,0,1,0,,,,,12,"União das freguesias de Almada, Cova da Piedade, Pragal e Cacilhas",03,Almada,15,Setúbal,PT170,AML,,,,020279|020280|020365|020366|020405|020407|020425|020427|029806|029807|029808|029809
+PS0070,Divisão Policial de Oeiras,38.695727,-9.301971,1,0,0,0,,,,,14,"União das freguesias de Oeiras e São Julião da Barra, Paço de Arcos e Caxias",10,Oeiras,11,Lisboa,PT170,AML,,,,120745|120751|120752|120753|120754|120773|120845|120847|120849|120850|121193|121302|121303|121304
+PS0071,PSP,38.766946,-9.149876,1,0,0,0,,,,,18,Lumiar,06,Lisboa,11,Lisboa,PT170,AML,,,,
+PS0072,GNR,38.798313,-9.391036,1,0,0,0,,,,,28,"União das freguesias de Sintra (Santa Maria e São Miguel, São Martinho e São Pedro de Penaferrim)",11,Sintra,11,Lisboa,PT170,AML,,,,171907|171909
+PS0073,Proteção Civil de Mafra,38.943715,-9.351881,0,1,0,0,,,,,09,Mafra,09,Mafra,11,Lisboa,PT170,AML,,,,080860
+PS0074,Guarda Nacional Republicana,38.725950,-9.137490,1,0,0,0,,,,,56,Arroios,06,Lisboa,11,Lisboa,PT170,AML,,,,
+PS0075,77ª Esquadra - Santo António dos Cavaleiros,38.815327,-9.167043,0,1,0,0,,,,,30,União das freguesias de Santo António dos Cavaleiros e Frielas,07,Loures,11,Lisboa,PT170,AML,,,,070293|070294|070295|070296|070297|070298|070299|070300|070321|070322|071269|071270
+PS0076,65ª Esquadra- Brandoa,38.764603,-9.213037,1,0,0,0,,,,,14,Encosta do Sol,15,Amadora,11,Lisboa,PT170,AML,,,,030355|030356|030385|030387|030389|030390|030391|030413|030423|030435|030695|030701|030852
+PS0077,Departamento de segurança privada,38.723223,-9.154642,1,0,0,0,,,,,66,Santo António,06,Lisboa,11,Lisboa,PT170,AML,,,,060035|060407
+PS0078,GNR - Destacamento Territorial de Sintra,38.798330,-9.385714,1,0,0,0,,,,,28,"União das freguesias de Sintra (Santa Maria e São Miguel, São Martinho e São Pedro de Penaferrim)",11,Sintra,11,Lisboa,PT170,AML,,,,171913|171923|171953
+PS0079,Divisão Policial de Sintra,38.781017,-9.322130,1,0,0,0,,,,,08,Rio de Mouro,11,Sintra,11,Lisboa,PT170,AML,,,,170069|170070|170071|170073|170165|170166|170671|170672|172492|172493|172601
+PS0080,Polícia Marítima de Cascais,38.697839,-9.419147,1,0,0,0,,,,,08,União das freguesias de Cascais e Estoril,05,Cascais,11,Lisboa,PT170,AML,,,,
+PS0081,4º Esquadra - Laranjeiro,38.650322,-9.151567,0,0,1,0,,,,,15,União das freguesias de Laranjeiro e Feijó,03,Almada,15,Setúbal,PT170,AML,,,,020683|020684|020685|020699|140717|140718|140719|140720
+PS0082,GNR - Destacamento de Controlo Costeiro de Lisboa,38.692607,-9.213177,1,0,0,0,,,,,58,Belém,06,Lisboa,11,Lisboa,PT170,AML,,,,
+PS0083,GNR - Unidade de Acção Fiscal,38.703361,-9.162864,1,0,0,0,,,,,60,Estrela,06,Lisboa,11,Lisboa,PT170,AML,,,,060413|060414
+PS0084,Polícia Marítima de Sesimbra,38.440103,-9.110415,0,0,1,0,,,,,01,Sesimbra (Castelo),11,Sesimbra,15,Setúbal,PT170,AML,,,,150433
+PS0085,GNR - Destacamento de Intervenção de Setúbal,38.684790,-9.155476,0,0,1,0,,,,,12,"União das freguesias de Almada, Cova da Piedade, Pragal e Cacilhas",03,Almada,15,Setúbal,PT170,AML,,,,020211|020213|020215|021074
+PS0086,Polícia Florestal de Lisboa,38.726789,-9.196778,1,0,0,0,,,,,08,Benfica,06,Lisboa,11,Lisboa,PT170,AML,,,,
+PS0087,64ª Esquadra -Alfragide,38.738030,-9.213617,1,0,0,0,,,,,12,Alfragide,15,Amadora,11,Lisboa,PT170,AML,,,,030021|030022|030024|030025|030026|030559|030560|030581|030587|030752|030763|030773|030775|030790|030862
+PS0088,Divisão Policial de Loures,38.818571,-9.095831,0,1,0,0,,,,,28,"União das freguesias de Santa Iria de Azoia, São João da Talha e Bobadela",07,Loures,11,Lisboa,PT170,AML,,,,070742|070763|070799|070801
+PS0089,GIPS GNR,38.793496,-9.155819,1,0,0,0,,,,,64,Santa Clara,06,Lisboa,11,Lisboa,PT170,AML,,,,060177|060178|060179|060180|060181|060182
+PS0090,84ª Esquadra - Caxias - Laveiras,38.708094,-9.272272,1,0,0,0,,,,,14,"União das freguesias de Oeiras e São Julião da Barra, Paço de Arcos e Caxias",10,Oeiras,11,Lisboa,PT170,AML,,,,120593|120594|120595|120596|120597|120598|120599|120600|121077
+PS0091,Divisão Policial do Barreiro,38.664379,-9.067897,0,0,0,1,,,,,10,União das freguesias de Barreiro e Lavradio,04,Barreiro,15,Setúbal,PT170,AML,,,,
+PS0092,PSP Corroios,38.634536,-9.151486,0,0,1,0,,,,,05,Corroios,10,Seixal,15,Setúbal,PT170,AML,,,,140637|140638|140639|140640|140691|140693|140694|140773|140774
+PS0093,Direção Nacional da polícia de Segurança Pública,38.729897,-9.131260,1,0,0,0,,,,,63,Penha de França,06,Lisboa,11,Lisboa,PT170,AML,,,,
+PS0094,GNR - Unidade de Controlo Costeiro da Fonte da Telha,38.576262,-9.193786,0,0,1,0,,,,,14,União das freguesias de Charneca de Caparica e Sobreda,03,Almada,15,Setúbal,PT170,AML,,,,020484|020487|020999
+PS0095,GNR - Destacamento de Ação Fiscal de Lisboa,38.734780,-9.104442,1,0,0,0,,,,,07,Beato,06,Lisboa,11,Lisboa,PT170,AML,,,,
+PS0096,GNR - Brigada de Trânsito,38.704252,-9.164709,1,0,0,0,,,,,60,Estrela,06,Lisboa,11,Lisboa,PT170,AML,,,,060413|060414
+PS0097,3ª Esquadra - Bairro Alto,38.713415,-9.144977,1,0,0,0,,,,,61,Misericórdia,06,Lisboa,11,Lisboa,PT170,AML,,,,
+PS0098,"5ª Divisão Policial de Lisboa, 11ª Esquadra- Penha de França",38.727590,-9.127449,1,0,0,0,,,,,63,Penha de França,06,Lisboa,11,Lisboa,PT170,AML,,,,
+PS0099,69ª Esquadra - Mem Martins,38.798046,-9.336559,1,0,0,0,,,,,02,Algueirão-Mem Martins,11,Sintra,11,Lisboa,PT170,AML,,,,170265|170266|171105|171106|171179|171180|171181|171182
+PS0100,75ª Esquadra - Caneças,38.809009,-9.227103,0,1,0,0,,,,,10,União das freguesias de Ramada e Caneças,16,Odivelas,11,Lisboa,PT170,AML,,,,110023|110024|110755|110757|110759|172461|172467|172577
+PS0101,GNR - Posto Territorial de Azeitão,38.524030,-9.020485,0,0,0,1,,,,,09,União das freguesias de Azeitão (São Lourenço e São Simão),12,Setúbal,15,Setúbal,PT170,AML,,,,160925|160926|160927|160935|160936|160965|160981|160982
+PS0102,GNR - Posto Territorial de Sesimbra,38.444558,-9.110207,0,0,1,0,,,,,01,Sesimbra (Castelo),11,Sesimbra,15,Setúbal,PT170,AML,,,,150419|150431
+PS0103,Esquadra do Campo Grande,38.749589,-9.146731,1,0,0,0,,,,,54,Alvalade,06,Lisboa,11,Lisboa,PT170,AML,,,,
+PS0104,"34ª Esquadra, 2ª Divisão Policial de Lisboa",38.764292,-9.120107,1,0,0,0,,,,,33,Olivais,06,Lisboa,11,Lisboa,PT170,AML,,,,
+PS0105,Delegação Marítima da Trafaria,38.673339,-9.233261,0,0,1,0,,,,,13,União das freguesias de Caparica e Trafaria,03,Almada,15,Setúbal,PT170,AML,,,,020383|020385|020387|020389
+PS0106,GNR - Posto Territorial da Trafaria,38.671225,-9.235404,0,0,1,0,,,,,13,União das freguesias de Caparica e Trafaria,03,Almada,15,Setúbal,PT170,AML,,,,020559|020560|020579
+PS0107,GNR - Posto Territorial de Charneca da Caparica,38.629544,-9.181699,0,0,1,0,,,,,14,União das freguesias de Charneca de Caparica e Sobreda,03,Almada,15,Setúbal,PT170,AML,,,,020153|020154
+PS0108,71ª Esquadra - Odivelas,38.789613,-9.178698,0,1,0,0,,,,,03,Odivelas,16,Odivelas,11,Lisboa,PT170,AML,,,,110089|110091|110093|110099|110100|110102|110221|110401|110402|110411|110713|111003
+PS0109,Parque de recolha da PSP - Almada,38.656196,-9.199201,0,0,1,0,,,,,14,União das freguesias de Charneca de Caparica e Sobreda,03,Almada,15,Setúbal,PT170,AML,,,,
+PS0110,Polícia Municipal de Sintra,38.800939,-9.360942,1,0,0,0,,,,,02,Algueirão-Mem Martins,11,Sintra,11,Lisboa,PT170,AML,,,,170811|170812|170813|170814
+PS0111,,38.614301,-9.102956,0,0,1,0,,,,,07,"União das freguesias do Seixal, Arrentela e Aldeia de Paio Pires",10,Seixal,15,Setúbal,PT170,AML,,,,140041|140042|140043|140044|140045|140046|140587|140588
+PS0112,Polícia Marítima,38.573473,-9.196227,0,0,1,0,,,,,03,Costa da Caparica,03,Almada,15,Setúbal,PT170,AML,,,,020800
+PS0113,Divisão Policial de Vila Franca de Xira,38.902565,-9.042281,0,1,0,0,,,,,13,União das freguesias de Alverca do Ribatejo e Sobralinho,14,Vila Franca de Xira,11,Lisboa,PT170,AML,,,,180107|180108|180109|180111|180112|180137|180140|180141|180142|180215|180216|180245|180246|182201
+PS0114,GNR - Posto Territorial da Costa de Caparica,38.644893,-9.240175,0,0,1,0,,,,,03,Costa da Caparica,03,Almada,15,Setúbal,PT170,AML,,,,020005|020007|020437|020438|020992
+PS0115,68ª Esquadra - São Marcos,38.748707,-9.295870,1,0,0,0,,,,,24,União das freguesias do Cacém e São Marcos,11,Sintra,11,Lisboa,PT170,AML,,,,170721|170723|170725|170727|170735|172475|172566
+PS0116,GNR - Posto Territorial da Quinta do Conde,38.578092,-9.040408,0,0,1,0,,,,,03,Quinta do Conde,11,Sesimbra,15,Setúbal,PT170,AML,,,,150505|150506
+PS0117,50ª Esquadra - Cascais,38.697961,-9.419620,1,0,0,0,,,,,08,União das freguesias de Cascais e Estoril,05,Cascais,11,Lisboa,PT170,AML,,,,
+PS0118,51ª Esquadra - Estoril,38.709542,-9.396022,1,0,0,0,,,,,08,União das freguesias de Cascais e Estoril,05,Cascais,11,Lisboa,PT170,AML,,,,050363|050364|050365|050366|050367|050368|050371
+PS0119,Esquadra PSP do Estoril,38.709440,-9.396051,1,0,0,0,,,,,08,União das freguesias de Cascais e Estoril,05,Cascais,11,Lisboa,PT170,AML,,,,050363|050364|050365|050366|050367|050368
+PS0120,87ª Esquadra - Mira-Sintra,38.781239,-9.302592,1,0,0,0,,,,,22,União das freguesias de Agualva e Mira-Sintra,11,Sintra,11,Lisboa,PT170,AML,,,,170473|170474|170475|170476|170477|170478|171204
+PS0121,52ª Esquadra - Parede,38.692679,-9.358475,1,0,0,0,,,,,07,União das freguesias de Carcavelos e Parede,05,Cascais,11,Lisboa,PT170,AML,,,,050046
+PS0122,Divisão de Investigação Criminal de Lisboa,38.703772,-9.221313,1,0,0,0,,,,,58,Belém,06,Lisboa,11,Lisboa,PT170,AML,,,,
+PS0123,"39ª Esquadra, Sacavém",38.789679,-9.105242,0,1,0,0,,,,,27,União das freguesias de Sacavém e Prior Velho,07,Loures,11,Lisboa,PT170,AML,,,,070515|070689|070691|070693|071275|071276|071315|071316
+PS0124,4.º Esquadrão a Cavalo - Unidade de Segurança e Honras de Estado - GNR,38.708020,-9.201339,1,0,0,0,,,,,01,Ajuda,06,Lisboa,11,Lisboa,PT170,AML,,,,060094
+PS0125,1ª Esquadra de Setúbal,38.523782,-8.894537,0,0,0,1,,,,,10,"União das freguesias de Setúbal (São Julião, Nossa Senhora da Anunciada e Santa Maria da Graça)",12,Setúbal,15,Setúbal,PT170,AML,,,,160099|160101|160105|160135|160137|160157|160158|160159|160161|160199|160225|160351|160507|160508|160531
+PS0126,Comando Distrital de Setúbal,38.523988,-8.894030,0,0,0,1,,,,,10,"União das freguesias de Setúbal (São Julião, Nossa Senhora da Anunciada e Santa Maria da Graça)",12,Setúbal,15,Setúbal,PT170,AML,,,,160099|160101|160105|160135|160137|160157|160158|160161|160199|160225|160507|160508|160531
+PS0127,"2º Esquadra de Setúbal, Bela Vista",38.522937,-8.869715,0,0,0,1,,,,,05,Setúbal (São Sebastião),12,Setúbal,15,Setúbal,PT170,AML,,,,160015|160016|160017|160018|160019|160020|160169|160170|160171|160172|160173|160174|160229|160230|160231|160232|160285|160286
+PS0128,PSP Cascais Headquarters,38.704445,-9.429896,1,0,0,0,,,,,08,União das freguesias de Cascais e Estoril,05,Cascais,11,Lisboa,PT170,AML,,,,050253|050255|050257|050258|050311|050313
+PS0129,Divisão Policial de Cascais,38.704855,-9.430229,1,0,0,0,,,,,08,União das freguesias de Cascais e Estoril,05,Cascais,11,Lisboa,PT170,AML,,,,050253|050255|050257|050258|050311|050313
+PS0130,PSP Camarate,38.799997,-9.132913,0,1,0,0,,,,,31,"União das freguesias de Camarate, Unhos e Apelação",07,Loures,11,Lisboa,PT170,AML,,,,070625|070626|070627|070629|070643|070645
+PS0131,Polícia de Segurança Pública,38.678084,-9.173927,0,0,1,0,,,,,12,"União das freguesias de Almada, Cova da Piedade, Pragal e Cacilhas",03,Almada,15,Setúbal,PT170,AML,,,,020009
+PS0132,GNR - Destacamento Territorial de Palmela,38.572820,-8.910333,0,0,0,1,,,,,02,Palmela,08,Palmela,15,Setúbal,PT170,AML,,,,130067|130068|130135|130136
+PS0133,61ª Esquadra - Reboleira,38.752560,-9.230546,1,0,0,0,,,,,17,Venteira,15,Amadora,11,Lisboa,PT170,AML,,,,030458|030461|030462|030463|030464|030483|030537|030538|030837|030839|030840|030841|030865|030866|030867|030868
+PS0134,GNR - Posto Territorial de Ericeira,38.966826,-9.405128,0,1,0,0,,,,,06,Ericeira,09,Mafra,11,Lisboa,PT170,AML,,,,080007|082006|082007|082008|082009
+PS0135,Posto da Polícia Marítima da Ericeira,38.964075,-9.417812,0,1,0,0,,,,,06,Ericeira,09,Mafra,11,Lisboa,PT170,AML,,,,080563|080564|080736|080737|080745|080759|080761
+PS0136,Polícia Judiciária Militar,38.704399,-9.205468,1,0,0,0,,,,,58,Belém,06,Lisboa,11,Lisboa,PT170,AML,,,,060093|060094|060095|060096
+PS0137,GNR - Posto Territorial de Setúbal,38.521782,-8.889758,0,0,0,1,,,,,10,"União das freguesias de Setúbal (São Julião, Nossa Senhora da Anunciada e Santa Maria da Graça)",12,Setúbal,15,Setúbal,PT170,AML,,,,160103|160127|160129|160131|160133|160163|160815
+PS0138,Comando Metropolitano de Lisboa,38.780787,-9.102548,0,1,0,0,,,,,26,União das freguesias de Moscavide e Portela,07,Loures,11,Lisboa,PT170,AML,,,,070585|070587|070609|071313|071501|071502
+PS0139,Polícia Judiciária,38.728458,-9.142130,1,0,0,0,,,,,56,Arroios,06,Lisboa,11,Lisboa,PT170,AML,,,,
+PS0140,Escola da Guarda Nacional Republicana,38.748127,-9.269813,1,0,0,0,,,,,02,Barcarena,10,Oeiras,11,Lisboa,PT170,AML,,,,170863|172542
