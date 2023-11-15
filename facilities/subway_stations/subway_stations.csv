@@ -1,51 +1,51 @@
-id,name,lat,lon,lines,is_active,validation_date,locality,parish_id,parish_name,municipality_id,municipality_name,district_id,district_name,region_id,region_name,stops
-AM,Alameda,38.737300,-9.134090,verde|vermelha,1,2023-08-30,Alameda,,,1106,Lisboa,11,Lisboa,PT170,AML,
-AF,Alfornelos,38.760600,-9.204710,azul,1,2023-08-30,Alfornelos,,,1106,Lisboa,11,Lisboa,PT170,AML,030399|030409|030739
-AH,Alto dos Moinhos,38.749600,-9.179950,azul,1,2023-08-30,Alto dos Moinhos,,,1106,Lisboa,11,Lisboa,PT170,AML,
-AL,Alvalade,38.753500,-9.143880,verde,1,2023-08-30,Alvalade,,,1106,Lisboa,11,Lisboa,PT170,AML,
-AS,Amadora Este,38.758400,-9.219170,azul,1,2023-08-30,Amadora Este,,,1106,Lisboa,11,Lisboa,PT170,AML,030155|030157|030611|030731|030853|030848
-AX,Ameixoeira,38.779900,-9.159990,amarela,1,2023-08-30,Ameixoeira,,,1106,Lisboa,11,Lisboa,PT170,AML,
-AN,Anjos,38.726600,-9.135030,verde,1,2023-08-30,Anjos,,,1106,Lisboa,11,Lisboa,PT170,AML,
-AE,Areeiro,38.742600,-9.133810,verde,1,2023-08-30,Areeiro,,,1106,Lisboa,11,Lisboa,PT170,AML,061213
-AR,Arroios,38.733500,-9.134450,verde,1,2023-08-30,Arroios,,,1106,Lisboa,11,Lisboa,PT170,AML,
-AV,Avenida,38.720100,-9.145820,azul,1,2023-08-30,Avenida,,,1106,Lisboa,11,Lisboa,PT170,AML,
-BC,Baixa/Chiado,38.710700,-9.139090,azul|verde,1,2023-08-30,Baixa/Chiado,,,1106,Lisboa,11,Lisboa,PT170,AML,
-BV,Bela Vista,38.747700,-9.118550,vermelha,1,2023-08-30,Bela Vista,,,1106,Lisboa,11,Lisboa,PT170,AML,
-CR,Cabo Ruivo,38.763200,-9.104090,vermelha,1,2023-08-30,Cabo Ruivo,,,1106,Lisboa,11,Lisboa,PT170,AML,
-CS,Cais do Sodré,38.706200,-9.145030,verde,1,2023-08-30,Cais do Sodré,,,1106,Lisboa,11,Lisboa,PT170,AML,060451|060452|062000
-CG,Campo Grande,38.759900,-9.157940,amarela|verde,1,2023-08-30,Campo Grande,,,1106,Lisboa,11,Lisboa,PT170,AML,060301|060303|060302|060306|060155|060308|060305|060311|060226|060316|060341|060339|060259|060171|060304|060310|060312|060314|060337|060369|060286|061200|060156
-CP,Campo Pequeno,38.741400,-9.147030,amarela,1,2023-08-30,Campo Pequeno,,,1106,Lisboa,11,Lisboa,PT170,AML,061217|061218
-CA,Carnide,38.759300,-9.192810,azul,1,2023-08-30,Carnide,,,1106,Lisboa,11,Lisboa,PT170,AML,060065
-CH,Chelas,38.755300,-9.114140,vermelha,1,2023-08-30,Chelas,,,1106,Lisboa,11,Lisboa,PT170,AML,
-CU,Cidade Universitária,38.751900,-9.158630,amarela,1,2023-08-30,Cidade Universitária,,,1106,Lisboa,11,Lisboa,PT170,AML,060391|060393
-CM,Colégio Militar/Luz,38.753300,-9.188660,azul,1,2023-08-30,Colégio Militar,,,1106,Lisboa,11,Lisboa,PT170,AML,060365|060364|060363|060015|060127|060068|060440|060131|060129|060125|060134
-EC,Entre Campos,38.747900,-9.148560,amarela,1,2023-08-30,Entre Campos,,,1106,Lisboa,11,Lisboa,PT170,AML,
-IN,Intendente,38.722200,-9.135310,verde,1,2023-08-30,Intendente,,,1106,Lisboa,11,Lisboa,PT170,AML,
-JZ,Jardim Zoológico,38.742200,-9.168720,azul,1,2023-08-30,Sete Rios,,,1106,Lisboa,11,Lisboa,PT170,AML,060453|060454|060013|060456|060457|060458|060459
-LA,Laranjeiras,38.748500,-9.172430,azul,1,2023-08-30,Laranjeiras,,,1106,Lisboa,11,Lisboa,PT170,AML,
-LU,Lumiar,38.772800,-9.159700,amarela,1,2023-08-30,Lumiar,,,1106,Lisboa,11,Lisboa,PT170,AML,060241|060243|060345|060159|060167
-MP,Marquês de Pombal,38.724900,-9.150810,amarela|azul,1,2023-08-30,Marquês de Pombal,,,1106,Lisboa,11,Lisboa,PT170,AML,060033|060123|060143|060462|060149|060405
-MM,Martim Moniz,38.716800,-9.135750,verde,1,2023-08-30,Martim Moniz,,,1106,Lisboa,11,Lisboa,PT170,AML,
-OD,Odivelas,38.793200,-9.173220,amarela,1,2023-08-30,Odivelas,,,1106,Lisboa,11,Lisboa,PT170,AML,110095|110391|110393|110395|110410|111025|110661|110579|110580|111026|110097|110409
-OL,Olaias,38.739200,-9.123660,vermelha,1,2023-08-30,Olaias,,,1106,Lisboa,11,Lisboa,PT170,AML,
-OS,Olivais,38.761300,-9.112040,vermelha,1,2023-08-30,Olivais,,,1106,Lisboa,11,Lisboa,PT170,AML,
-OR,Oriente,38.767800,-9.099770,vermelha,1,2023-08-30,Oriente,,,1106,Lisboa,11,Lisboa,PT170,AML,060001|060009|060011|060207|060253|060321|060322|060323|060325|060327|060361|060002
-PA,Parque,38.729700,-9.150280,azul,1,2023-08-30,Parque,,,1106,Lisboa,11,Lisboa,PT170,AML,
-PI,Picoas,38.730600,-9.146500,amarela,1,2023-08-30,Picoas,,,1115,Amadora,11,Lisboa,PT170,AML,
-PO,Pontinha,38.762400,-9.196930,azul,1,2023-08-30,Pontinha,,,1106,Lisboa,11,Lisboa,PT170,AML,060357|060355|060077|060062|060071|060372|060447|060057
-PE,Praça de Espanha,38.737700,-9.158450,azul,1,2023-08-30,Praça de Espanha,,,1106,Lisboa,11,Lisboa,PT170,AML,
-QC,Quinta das Conchas,38.767100,-9.155460,amarela,1,2023-08-30,Quinta das Conchas,,,1106,Lisboa,11,Lisboa,PT170,AML,
-RA,Rato,38.720100,-9.154110,amarela,1,2023-08-30,Rato,,,1106,Lisboa,11,Lisboa,PT170,AML,
-RE,Restauradores,38.715100,-9.141620,azul,1,2023-08-30,Restauradores,,,1115,Amadora,11,Lisboa,PT170,AML,
-RM,Roma,38.748500,-9.141350,verde,1,2023-08-30,Roma,,,1106,Lisboa,11,Lisboa,PT170,AML,
-RO,Rossio,38.713800,-9.138960,verde,1,2023-08-30,Rossio,,,1106,Lisboa,11,Lisboa,PT170,AML,
-SA,Saldanha,38.735300,-9.145580,amarela|vermelha,1,2023-08-30,Saldanha,,,1106,Lisboa,11,Lisboa,PT170,AML,
-SP,Santa Apolónia,38.713800,-9.122560,azul,1,2023-08-30,Santa Apolónia,,,1106,Lisboa,11,Lisboa,PT170,AML,
-SS,São Sebastião,38.734800,-9.154230,azul|vermelha,1,2023-08-30,São Sebastião,,,1106,Lisboa,11,Lisboa,PT170,AML,
-SR,Senhor Roubado,38.785800,-9.172150,amarela,1,2023-08-30,Senhor Roubado,,,1106,Lisboa,11,Lisboa,PT170,AML,110111|110112|110205|110294|110629|110630|110632|110673|110606|110605|110293
-TE,Telheiras,38.760400,-9.166060,verde,1,2023-08-30,Telheiras,,,1106,Lisboa,11,Lisboa,PT170,AML,
-TP,Terreiro do Paço,38.707200,-9.133350,azul,1,2023-08-30,Terreiro do Paço,,,1106,Lisboa,11,Lisboa,PT170,AML,
-MO,Moscavide,38.774800,-9.102660,vermelha,1,2023-08-30,Moscavide,,,1106,Lisboa,11,Lisboa,PT170,AML,060221|060223|070575|070577
-EN,Encarnação,38.775000,-9.114980,vermelha,1,2023-08-30,Encarnação,,,1116,Odivelas,11,Lisboa,PT170,AML,
-AP,Aeroporto,38.768600,-9.128330,vermelha,1,2023-08-30,Aeroporto,,,1116,Odivelas,11,Lisboa,PT170,AML,060273
-RB,Reboleira,38.752200,-9.224140,azul,1,2023-08-30,Reboleira,,,1115,Amadora,11,Lisboa,PT170,AML,035500|030407|030408
+id,name,lat,lon,A1,A2,A3,A4,lines,is_active,validation_date,locality,parish_id,parish_name,municipality_id,municipality_name,district_id,district_name,region_id,region_name,stops
+AM,Alameda,38.737300,-9.134090,1,0,0,0,verde|vermelha,1,2023-08-30,Alameda,55,Areeiro,1106,Lisboa,11,Lisboa,PT170,AML,
+AF,Alfornelos,38.760600,-9.204710,1,0,0,0,azul,1,2023-08-30,Alfornelos,14,Encosta do Sol,1106,Lisboa,11,Lisboa,PT170,AML,030399|030409|030739
+AH,Alto dos Moinhos,38.749600,-9.179950,1,0,0,0,azul,1,2023-08-30,Alto dos Moinhos,39,São Domingos de Benfica,1106,Lisboa,11,Lisboa,PT170,AML,
+AL,Alvalade,38.753500,-9.143880,1,0,0,0,verde,1,2023-08-30,Alvalade,54,Alvalade,1106,Lisboa,11,Lisboa,PT170,AML,
+AS,Amadora Este,38.758400,-9.219170,1,0,0,0,azul,1,2023-08-30,Amadora Este,15,Falagueira-Venda Nova,1106,Lisboa,11,Lisboa,PT170,AML,030155|030157|030611|030731|030853|030848
+AX,Ameixoeira,38.779900,-9.159990,1,0,0,0,amarela,1,2023-08-30,Ameixoeira,64,Santa Clara,1106,Lisboa,11,Lisboa,PT170,AML,
+AN,Anjos,38.726600,-9.135030,1,0,0,0,verde,1,2023-08-30,Anjos,56,Arroios,1106,Lisboa,11,Lisboa,PT170,AML,
+AE,Areeiro,38.742600,-9.133810,1,0,0,0,verde,1,2023-08-30,Areeiro,55,Areeiro,1106,Lisboa,11,Lisboa,PT170,AML,061213
+AR,Arroios,38.733500,-9.134450,1,0,0,0,verde,1,2023-08-30,Arroios,56,Arroios,1106,Lisboa,11,Lisboa,PT170,AML,
+AV,Avenida,38.720100,-9.145820,1,0,0,0,azul,1,2023-08-30,Avenida,66,Santo António,1106,Lisboa,11,Lisboa,PT170,AML,
+BC,Baixa/Chiado,38.710700,-9.139090,1,0,0,0,azul|verde,1,2023-08-30,Baixa/Chiado,65,Santa Maria Maior,1106,Lisboa,11,Lisboa,PT170,AML,
+BV,Bela Vista,38.747700,-9.118550,1,0,0,0,vermelha,1,2023-08-30,Bela Vista,21,Marvila,1106,Lisboa,11,Lisboa,PT170,AML,
+CR,Cabo Ruivo,38.763200,-9.104090,1,0,0,0,vermelha,1,2023-08-30,Cabo Ruivo,33,Olivais,1106,Lisboa,11,Lisboa,PT170,AML,
+CS,Cais do Sodré,38.706200,-9.145030,1,0,0,0,verde,1,2023-08-30,Cais do Sodré,61,Misericórdia,1106,Lisboa,11,Lisboa,PT170,AML,060451|060452|062000
+CG,Campo Grande,38.759900,-9.157940,1,0,0,0,amarela|verde,1,2023-08-30,Campo Grande,18,Lumiar,1106,Lisboa,11,Lisboa,PT170,AML,060301|060303|060302|060306|060155|060308|060305|060311|060226|060316|060341|060339|060259|060171|060304|060310|060312|060314|060337|060369|060286|061200|060156
+CP,Campo Pequeno,38.741400,-9.147030,1,0,0,0,amarela,1,2023-08-30,Campo Pequeno,57,Avenidas Novas,1106,Lisboa,11,Lisboa,PT170,AML,061217|061218
+CA,Carnide,38.759300,-9.192810,1,0,0,0,azul,1,2023-08-30,Carnide,11,Carnide,1106,Lisboa,11,Lisboa,PT170,AML,060065
+CH,Chelas,38.755300,-9.114140,1,0,0,0,vermelha,1,2023-08-30,Chelas,21,Marvila,1106,Lisboa,11,Lisboa,PT170,AML,
+CU,Cidade Universitária,38.751900,-9.158630,1,0,0,0,amarela,1,2023-08-30,Cidade Universitária,54,Alvalade,1106,Lisboa,11,Lisboa,PT170,AML,060391|060393
+CM,Colégio Militar/Luz,38.753300,-9.188660,1,0,0,0,azul,1,2023-08-30,Colégio Militar,11,Carnide,1106,Lisboa,11,Lisboa,PT170,AML,060365|060364|060363|060015|060127|060068|060440|060131|060129|060125|060134
+EC,Entre Campos,38.747900,-9.148560,1,0,0,0,amarela,1,2023-08-30,Entre Campos,57,Avenidas Novas,1106,Lisboa,11,Lisboa,PT170,AML,
+IN,Intendente,38.722200,-9.135310,1,0,0,0,verde,1,2023-08-30,Intendente,56,Arroios,1106,Lisboa,11,Lisboa,PT170,AML,
+JZ,Jardim Zoológico,38.742200,-9.168720,1,0,0,0,azul,1,2023-08-30,Sete Rios,39,São Domingos de Benfica,1106,Lisboa,11,Lisboa,PT170,AML,060453|060454|060013|060456|060457|060458|060459
+LA,Laranjeiras,38.748500,-9.172430,1,0,0,0,azul,1,2023-08-30,Laranjeiras,39,São Domingos de Benfica,1106,Lisboa,11,Lisboa,PT170,AML,
+LU,Lumiar,38.772800,-9.159700,1,0,0,0,amarela,1,2023-08-30,Lumiar,18,Lumiar,1106,Lisboa,11,Lisboa,PT170,AML,060241|060243|060345|060159|060167
+MP,Marquês de Pombal,38.724900,-9.150810,1,0,0,0,amarela|azul,1,2023-08-30,Marquês de Pombal,66,Santo António,1106,Lisboa,11,Lisboa,PT170,AML,060033|060123|060143|060462|060149|060405
+MM,Martim Moniz,38.716800,-9.135750,1,0,0,0,verde,1,2023-08-30,Martim Moniz,65,Santa Maria Maior,1106,Lisboa,11,Lisboa,PT170,AML,
+OD,Odivelas,38.793200,-9.173220,1,0,0,0,amarela,1,2023-08-30,Odivelas,03,Odivelas,1106,Lisboa,11,Lisboa,PT170,AML,110095|110391|110393|110395|110410|111025|110661|110579|110580|111026|110097|110409
+OL,Olaias,38.739200,-9.123660,1,0,0,0,vermelha,1,2023-08-30,Olaias,55,Areeiro,1106,Lisboa,11,Lisboa,PT170,AML,
+OS,Olivais,38.761300,-9.112040,1,0,0,0,vermelha,1,2023-08-30,Olivais,33,Olivais,1106,Lisboa,11,Lisboa,PT170,AML,
+OR,Oriente,38.767800,-9.099770,1,0,0,0,vermelha,1,2023-08-30,Oriente,62,Parque das Nações,1106,Lisboa,11,Lisboa,PT170,AML,060001|060009|060011|060207|060253|060321|060322|060323|060325|060327|060361|060002
+PA,Parque,38.729700,-9.150280,1,0,0,0,azul,1,2023-08-30,Parque,57,Avenidas Novas,1106,Lisboa,11,Lisboa,PT170,AML,
+PI,Picoas,38.730600,-9.146500,1,0,0,0,amarela,1,2023-08-30,Picoas,56,Arroios,1115,Amadora,11,Lisboa,PT170,AML,
+PO,Pontinha,38.762400,-9.196930,1,0,0,0,azul,1,2023-08-30,Pontinha,11,Carnide,1106,Lisboa,11,Lisboa,PT170,AML,060357|060355|060077|060062|060071|060372|060447|060057
+PE,Praça de Espanha,38.737700,-9.158450,1,0,0,0,azul,1,2023-08-30,Praça de Espanha,10,Campolide,1106,Lisboa,11,Lisboa,PT170,AML,
+QC,Quinta das Conchas,38.767100,-9.155460,1,0,0,0,amarela,1,2023-08-30,Quinta das Conchas,18,Lumiar,1106,Lisboa,11,Lisboa,PT170,AML,
+RA,Rato,38.720100,-9.154110,1,0,0,0,amarela,1,2023-08-30,Rato,66,Santo António,1106,Lisboa,11,Lisboa,PT170,AML,
+RE,Restauradores,38.715100,-9.141620,1,0,0,0,azul,1,2023-08-30,Restauradores,65,Santa Maria Maior,1115,Amadora,11,Lisboa,PT170,AML,
+RM,Roma,38.748500,-9.141350,1,0,0,0,verde,1,2023-08-30,Roma,54,Alvalade,1106,Lisboa,11,Lisboa,PT170,AML,
+RO,Rossio,38.713800,-9.138960,1,0,0,0,verde,1,2023-08-30,Rossio,65,Santa Maria Maior,1106,Lisboa,11,Lisboa,PT170,AML,
+SA,Saldanha,38.735300,-9.145580,1,0,0,0,amarela|vermelha,1,2023-08-30,Saldanha,57,Avenidas Novas,1106,Lisboa,11,Lisboa,PT170,AML,
+SP,Santa Apolónia,38.713800,-9.122560,1,0,0,0,azul,1,2023-08-30,Santa Apolónia,67,São Vicente,1106,Lisboa,11,Lisboa,PT170,AML,
+SS,São Sebastião,38.734800,-9.154230,1,0,0,0,azul|vermelha,1,2023-08-30,São Sebastião,57,Avenidas Novas,1106,Lisboa,11,Lisboa,PT170,AML,
+SR,Senhor Roubado,38.785800,-9.172150,1,0,0,0,amarela,1,2023-08-30,Senhor Roubado,03,Odivelas,1106,Lisboa,11,Lisboa,PT170,AML,110111|110112|110205|110294|110629|110630|110632|110673|110606|110605|110293
+TE,Telheiras,38.760400,-9.166060,1,0,0,0,verde,1,2023-08-30,Telheiras,18,Lumiar,1106,Lisboa,11,Lisboa,PT170,AML,
+TP,Terreiro do Paço,38.707200,-9.133350,1,0,0,0,azul,1,2023-08-30,Terreiro do Paço,65,Santa Maria Maior,1106,Lisboa,11,Lisboa,PT170,AML,
+MO,Moscavide,38.774800,-9.102660,1,0,0,0,vermelha,1,2023-08-30,Moscavide,62,Parque das Nações,1106,Lisboa,11,Lisboa,PT170,AML,060221|060223|070575|070577
+EN,Encarnação,38.775000,-9.114980,0,1,0,0,vermelha,1,2023-08-30,Encarnação,33,Olivais,1116,Odivelas,11,Lisboa,PT170,AML,
+AP,Aeroporto,38.768600,-9.128330,0,1,0,0,vermelha,1,2023-08-30,Aeroporto,33,Olivais,1116,Odivelas,11,Lisboa,PT170,AML,060273
+RB,Reboleira,38.752200,-9.224140,1,0,0,0,azul,1,2023-08-30,Reboleira,15,Falagueira-Venda Nova,1115,Amadora,11,Lisboa,PT170,AML,035500|030407|030408

@@ -1,11 +1,11 @@
-id,name,lat,lon,is_active,validation_date,locality,parish_id,parish_name,municipality_id,municipality_name,district_id,district_name,region_id,region_name,stops
-TTSL_2,Montijo,38.700200,-9.005999,1,2023-08-30,Montijo,,,1507,Montijo,15,Setúbal,PT170,AML,100137|100138|100140|100157|100158
-TTSL_3,Seixal,38.647270,-9.095200,1,2023-08-30,Seixal,,,1510,Seixal,15,Setúbal,PT170,AML,140733|140074|140073|149995|149994
-TTSL_5,Cais Sodré,38.705185,-9.144979,1,2023-08-30,Cais Sodré,,,1106,Lisboa,11,Lisboa,PT170,AML,060451|060452|062000|060419
-TTSL_6,Cacilhas,38.688065,-9.147901,1,2023-08-30,Cacilhas,,,1503,Almada,15,Setúbal,PT170,AML,020449|020403|020973|020489|020037|020429|020955|020959|020113|021007|021009
-TTSL_8,Belem,38.694970,-9.198548,1,2023-08-30,Belem,,,1106,Lisboa,11,Lisboa,PT170,AML,060384|060383|060101|060107
-TTSL_9,Trafaria,38.674353,-9.230720,1,2023-08-30,Trafaria,,,1503,Almada,15,Setúbal,PT170,AML,020385
-TTSL_10,Porto Brandão,38.677960,-9.206828,1,2023-08-30,Porto Brandão,,,1503,Almada,15,Setúbal,PT170,AML,020839
-TTSL_15,Terreiro do Paço,38.706787,-9.133421,1,2023-08-30,Terreiro do Paço,,,1106,Lisboa,11,Lisboa,PT170,AML,
-TTSL_16,Barreiro,38.652056,-9.079512,1,2023-08-30,Barreiro,,,1504,Barreiro,15,Setúbal,PT170,AML,040022|040020|040013|040024|040026|040027
-AF_1,Setúbal (Doca do Comércio),38.521450,-8.885385,1,2023-08-30,Setúbal,,,1512,Setúbal,15,Setúbal,PT170,AML,160745|160746
+id,name,lat,lon,A1,A2,A3,A4,is_active,validation_date,locality,parish_id,parish_name,municipality_id,municipality_name,district_id,district_name,region_id,region_name,stops
+TTSL_2,Montijo,38.700200,-9.005999,0,0,0,1,1,2023-08-30,Montijo,10,União das freguesias de Montijo e Afonsoeiro,1507,Montijo,15,Setúbal,PT170,AML,100137|100138|100140|100157|100158
+TTSL_3,Seixal,38.647270,-9.095200,0,0,1,0,1,2023-08-30,Seixal,07,"União das freguesias do Seixal, Arrentela e Aldeia de Paio Pires",1510,Seixal,15,Setúbal,PT170,AML,140733|140074|140073|149995|149994
+TTSL_5,Cais Sodré,38.705185,-9.144979,1,0,0,0,1,2023-08-30,Cais Sodré,61,Misericórdia,1106,Lisboa,11,Lisboa,PT170,AML,060451|060452|062000|060419
+TTSL_6,Cacilhas,38.688065,-9.147901,0,0,1,0,1,2023-08-30,Cacilhas,12,"União das freguesias de Almada, Cova da Piedade, Pragal e Cacilhas",1503,Almada,15,Setúbal,PT170,AML,020449|020403|020973|020489|020037|020429|020955|020959|020113|021007|021009
+TTSL_8,Belem,38.694970,-9.198548,1,0,0,0,1,2023-08-30,Belem,58,Belém,1106,Lisboa,11,Lisboa,PT170,AML,060384|060383|060101|060107
+TTSL_9,Trafaria,38.674353,-9.230720,0,0,1,0,1,2023-08-30,Trafaria,13,União das freguesias de Caparica e Trafaria,1503,Almada,15,Setúbal,PT170,AML,020385
+TTSL_10,Porto Brandão,38.677960,-9.206828,0,0,1,0,1,2023-08-30,Porto Brandão,13,União das freguesias de Caparica e Trafaria,1503,Almada,15,Setúbal,PT170,AML,020839
+TTSL_15,Terreiro do Paço,38.706787,-9.133421,1,0,0,0,1,2023-08-30,Terreiro do Paço,65,Santa Maria Maior,1106,Lisboa,11,Lisboa,PT170,AML,
+TTSL_16,Barreiro,38.652056,-9.079512,0,0,0,1,1,2023-08-30,Barreiro,09,"União das freguesias de Alto do Seixalinho, Santo André e Verderena",1504,Barreiro,15,Setúbal,PT170,AML,040022|040020|040013|040024|040026|040027
+AF_1,Setúbal (Doca do Comércio),38.521450,-8.885385,0,0,0,1,1,2023-08-30,Setúbal,05,Setúbal (São Sebastião),1512,Setúbal,15,Setúbal,PT170,AML,160745|160746
