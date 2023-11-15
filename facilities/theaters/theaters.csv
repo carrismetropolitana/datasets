@@ -1,0 +1,134 @@
+id,name,lat,lon,A1,A2,A3,A4,is_active,validation_date,address,locality,parish_id,parish_name,municipality_id,municipality_name,district_id,district_name,region_id,region_name,url,email,phone,stops
+TH0001,Gabinete curiosidades Karnart,38.694272,-9.211664,1,0,0,0,1,45163,"Avenida da Índia, 168",,58,Belém,06,Lisboa,11,Lisboa,PT170,AML,www.karnart.org,geral@karnart.org,=+351 213 466 411/+351 914 150 935,
+TH0002,Academia Dramática Familiar 1º de Novembro,38.694608,-9.217808,1,0,0,0,1,45163,"Rua da Praia de Pedrouços, 76-78",,58,Belém,06,Lisboa,11,Lisboa,PT170,AML,,,=+351 213 012 601,
+TH0003,LU.CA - Teatro Luís de Camões,38.699027,-9.199379,1,0,0,0,1,45163,"Calçada da Ajuda, 80",,58,Belém,06,Lisboa,11,Lisboa,PT170,AML,www.lucateatroluisdecamoes.pt,info@lucateatroluisdecamoes.pt,=+351 215 939 100,060101|060107|060383|060384
+TH0004,Espaço POGO,38.705699,-9.153877,1,0,0,0,1,45163,"Rua da Cintura do Porto de Lisboa, Edifício 403",,60,Estrela,06,Lisboa,11,Lisboa,PT170,AML,http://www.pogo.pt,info@pogo.pt,=+351 916 403 994,060415|062001
+TH0005,Teatro Cinearte,38.707179,-9.155238,1,0,0,0,1,45163,"Largo de Santos, 2-2E",,60,Estrela,06,Lisboa,11,Lisboa,PT170,AML,www.abarraca.com,barraca@mail.telepac.pt / bilheteira@abarraca.com,21 396 53 60/275,060415|060421|062001
+TH0006,Espaço Ribeira,38.707637,-9.145621,1,0,0,0,1,45163,"Rua da Ribeira Nova, 44",,61,Misericórdia,06,Lisboa,11,Lisboa,PT170,AML,www.primeiros-sintomas.com,primeiros-sintomas@primeiros-sintomas.com,=+351 210 964 851,060419|060451|060452|062000
+TH0007,Estúdio Mário Viegas,38.709078,-9.142437,1,0,0,0,1,45163,Largo do Picadeiro,,65,Santa Maria Maior,06,Lisboa,11,Lisboa,PT170,AML,www.teatrosaoluiz.pt,,=+351 213 257 650,
+TH0008,São Luiz Teatro Municipal,38.709214,-9.142291,1,0,0,0,1,45163,"Rua António Maria Cardoso, 38",,65,Santa Maria Maior,06,Lisboa,11,Lisboa,PT170,AML,www.teatrosaoluiz.pt,info@teatrosaoluiz.pt,=+351 213 257 650,
+TH0009,Teatro Nacional de São Carlos,38.709340,-9.141734,1,0,0,0,1,45163,"Rua Serpa Pinto, 9",,65,Santa Maria Maior,06,Lisboa,11,Lisboa,PT170,AML,tnsc.pt,info@saocarlos.pt,=+351 213 253 000,
+TH0010,Gota TeatroOficina,38.710695,-9.133988,1,0,0,0,1,45163,Calçada do Correio Velho 16 R/C,,65,Santa Maria Maior,06,Lisboa,11,Lisboa,PT170,AML,http://fazdegota.blogspot.com/,,21 882 54 06,
+TH0011,Café - Teatro Santiago Alquimista,38.711071,-9.131669,1,0,0,0,1,45163,"Rua de Santiago, 19",,65,Santa Maria Maior,06,Lisboa,11,Lisboa,PT170,AML,www.santiagoalquimista.com/,mail@santiagoalquimista.com,21 888 45 03,
+TH0012,Mini-teatro da Calçada,38.711040,-9.148879,1,0,0,0,1,45163,"Calçada do Combro, 147,  R/C",,61,Misericórdia,06,Lisboa,11,Lisboa,PT170,AML,,miniteatro147@gmail.com,=+351 916 760 221,
+TH0013,Companhia do Chapitô,38.711367,-9.133876,1,0,0,0,1,45163,Costa do Castelo 7 R/C,,65,Santa Maria Maior,06,Lisboa,11,Lisboa,PT170,AML,http://chapito.org/,mail@chapito.org,(+351) 218 855 550,
+TH0014,Espaço Negócio,38.711358,-9.147297,1,0,0,0,1,45163,"Rua de O Século, 9 - Porta 5",,61,Misericórdia,06,Lisboa,11,Lisboa,PT170,AML,www.zedosbois.org,zdb@zedosbois.org,=+351 213 430 205,
+TH0015,Teatro da Trindade,38.711867,-9.142578,1,0,0,0,1,45163,"Largo da Trindade, 7A",,65,Santa Maria Maior,06,Lisboa,11,Lisboa,PT170,AML,www.inatel.pt,teatro.trindade@inatel.pt,=+351 213 423 200,
+TH0016,Teatro do Bairro,38.712304,-9.145780,1,0,0,0,1,45163,"Rua Luz Soriano, 63",,61,Misericórdia,06,Lisboa,11,Lisboa,PT170,AML,www.teatrodobairro.org,teatrodobairro.geral@sapo.pt,=+351 213 473 358,
+TH0017,Sociedade de Instrução Guilherme Cossoul,38.714151,-9.153231,1,0,0,0,1,45163,"Rua Nova da Piedade, 66 - R/C",,61,Misericórdia,06,Lisboa,11,Lisboa,PT170,AML,www.guilhermecossoul.pt,geral@guilhermecossoul.pt,=+351 213 973 471,
+TH0018,Teatro Nacional D. Maria II,38.714770,-9.139772,1,0,0,0,1,45163,Praça D. Pedro IV,,65,Santa Maria Maior,06,Lisboa,11,Lisboa,PT170,AML,www.teatro-dmaria.pt,geral@teatro-dmaria.pt,=+351 213 250 800 / 835,
+TH0019,Teatro Taborda (Teatro da Garagem),38.714869,-9.132911,1,0,0,0,1,45163,"Costa do Castelo, 75",,65,Santa Maria Maior,06,Lisboa,11,Lisboa,PT170,AML,https://teatrodagaragem.com,geral@teatrodagaragem.com,=+351 218 854 190,
+TH0020,Teatro Lanterna Mágica,38.714500,-9.180711,1,0,0,0,1,45163,Bairro do Alvito,,02,Alcântara,06,Lisboa,11,Lisboa,PT170,AML,www.lanternamagica.pt/margemsul.html,lanterna.magica@clix.pt,213 616 820 / 967 024 374,
+TH0021,Teatro da Voz,38.715678,-9.130080,1,0,0,0,1,45163,"Travessa de São Vicente, 11",,67,São Vicente,06,Lisboa,11,Lisboa,PT170,AML,www.eira.pt,eira@eira.pt,=+ 351 213 530 931,
+TH0022,Espaço Eclipse,38.716116,-9.154931,1,0,0,0,1,45163,Rua de São Bento 245 4º,,59,Campo de Ourique,06,Lisboa,11,Lisboa,PT170,AML,,eclipsearte@hotmail.com,,
+TH0023,Teatro Politeama,38.716496,-9.140851,1,0,0,0,1,45163,"Rua das Portas de Santo Antão, 109",,65,Santa Maria Maior,06,Lisboa,11,Lisboa,PT170,AML,www.teatro-politeama.com,teatro.politeama@gmail.com,=+351 213 245 500/+351 213 430 533,
+TH0024,Teatro da Politécnica,38.717738,-9.150320,1,0,0,0,1,45163,"Rua da Escola Politécnica, 54",,66,Santo António,06,Lisboa,11,Lisboa,PT170,AML,,,=+351 213 916 750,
+TH0025,Teatro Maria Vitória,38.719351,-9.146422,1,0,0,0,1,45163,"Travessa do Salitre, 35, Parque Mayer",,66,Santo António,06,Lisboa,11,Lisboa,PT170,AML,www.teatromariavitoria.com,teatromv@sapo.pt,21 347 54 54 / 21 347 04  68,
+TH0026,Teatro Bocage,38.719853,-9.133804,1,0,0,0,1,45163,"Rua Manuel Soares Guedes, 13A",,56,Arroios,06,Lisboa,11,Lisboa,PT170,AML,www.teatrobocage.com,mail@teatrobocage.com,=+351 912 449 909,
+TH0027,Teatro Tivoli BBVA,38.720485,-9.144956,1,0,0,0,1,45163,"Avenida da Liberdade, 182 A",,66,Santo António,06,Lisboa,11,Lisboa,PT170,AML,https://www.teatrotivolibbva.pt/,teatro.tivolibbva@uau.pt,=+351 213 303 500,
+TH0028,Teatro Ibérico,38.726582,-9.111678,1,0,0,0,1,45163,Rua de Xabregas 54 R/C,,07,Beato,06,Lisboa,11,Lisboa,PT170,AML,teatroiberico.org,teatroiberico@sapo.pt,=+351 218 682 531,
+TH0029,Teatro Mundial,38.728885,-9.146685,1,0,0,0,1,45163,Rua Martens Ferrão 12 R/C,,56,Arroios,06,Lisboa,11,Lisboa,PT170,AML,,,21 357 40 89,
+TH0030,Teatro Villaret,38.730246,-9.146794,1,0,0,0,1,45163,Avenida Fontes Pereira de Melo 30A,,56,Arroios,06,Lisboa,11,Lisboa,PT170,AML,www.teatrovillaret.com,teatrovillaret.reservas@gmail.com<br>teatrovillaret@gmail.com,21 353 85 86,
+TH0031,Clube Estefânia,38.730754,-9.139894,1,0,0,0,1,45163,Rua Alexandre Braga 24A - R/C,,56,Arroios,06,Lisboa,11,Lisboa,PT170,AML,www.escolademulheres.com,emulheres.oficina@gmail.com,=+351 915 039 568,
+TH0032,Palco Oriental,38.733821,-9.107371,1,0,0,0,1,45163,Calçada do Duque de Lafões 78 R/C,,07,Beato,06,Lisboa,11,Lisboa,PT170,AML,http://sites.google.com/site/palcooriental1989/,palcooriental@clix.pt,21 019 19 57 / 21 097 06 54,
+TH0033,Teatro Aberto,38.736191,-9.158465,1,0,0,0,1,45163,Praça Espanha,,10,Campolide,06,Lisboa,11,Lisboa,PT170,AML,www.teatroaberto.com/,relacoespublicas@teatroaberto.com / bilheteira@teatroaberto.com,=+351 213 880 089,060017|060018
+TH0034,Comuna Teatro de Pesquisa,38.736601,-9.160489,1,0,0,0,1,45163,Praça Espanha,,10,Campolide,06,Lisboa,11,Lisboa,PT170,AML,www.comunateatropesquisa.pt/,geral@comunateatropesquisa.pt,21 722 17 70/6/7/9,060017|060018
+TH0035,Teatro Meridional,38.739169,-9.103861,1,0,0,0,1,45163,Rua do Açúcar Galeria de Exposições R/C,,21,Marvila,06,Lisboa,11,Lisboa,PT170,AML,www.teatromeridional.net,geral@teatromeridional.net,21 868 92 45,
+TH0036,Teatro Thalia,38.745247,-9.169376,1,0,0,0,1,45163,"Estrada das Laranjeiras, 211",,39,São Domingos de Benfica,06,Lisboa,11,Lisboa,PT170,AML,http://www.sec-geral.mec.pt/pagina/teatro-thalia,teatro.thalia@sec-geral.mec.pt,=+351 217 811 690,
+TH0037,Casa Conveniente- Zona não Vigiada,38.745867,-9.112096,1,0,0,0,1,45163,"Avenida João Paulo II, Lote 536 - 1º A;",,21,Marvila,06,Lisboa,11,Lisboa,PT170,AML,,casaconveniente.zonanaovigiada@gmail.com,=+351 912 818 164 / +351 967 580 171,
+TH0038,Maria Matos  - Teatro Municipal,38.746003,-9.138966,1,0,0,0,1,45163,Avenida Frei Miguel Contreiras 52B,,54,Alvalade,06,Lisboa,11,Lisboa,PT170,AML,www.teatromariamatos.pt,info@teatromariamatos.pt;,=+351 218 438 800,
+TH0039,Teatro Turim,38.750718,-9.202426,1,0,0,0,1,45163,"Estrada de Benfica, 723A",,08,Benfica,06,Lisboa,11,Lisboa,PT170,AML,www.teatroturim.com,geral@teatroturim.com,=+351 217 606 666,060041|060043|060044|060051
+TH0040,Sala-Estúdio Os Papa-Léguas,38.753512,-9.195370,1,0,0,0,1,45163,Rua Professor Santos Lucas 36A R/C Loja,,08,Benfica,06,Lisboa,11,Lisboa,PT170,AML,www.teatropapaleguas.net,teatropapaleguas@teatropapaleguas.net,21 097 06 54,060004|060006|060012|060433|060443|060445
+TH0041,Teatro Camões,38.760975,-9.093385,1,0,0,0,1,45163,"Passeio de Neptuno, 2.07.01, Jardim da Água, Empena, Largo do Nautilius, 2.07.01, Rua Pedro e Inês, Empena",,62,Parque das Nações,06,Lisboa,11,Lisboa,PT170,AML,,cnb.info@cnb.pt,21 892 34 70,
+TH0042,Teatro Armando Cortez,38.760653,-9.192913,1,0,0,0,1,45163,"Estrada da Pontinha, 7",,11,Carnide,06,Lisboa,11,Lisboa,PT170,AML,http://www.casadoartista.net/,geral@casadoartista.net,=+351 217 110 890 | +351 912 342 334,060063|060065|060069|060372
+TH0043,Teatro da Luz (Teatro Dom Luiz Filipe),38.761205,-9.184329,1,0,0,0,1,45163,Largo da Luz Convento,,11,Carnide,06,Lisboa,11,Lisboa,PT170,AML,https://www.facebook.com/DaEsquina?fref=ts,geral@companhiadaesquina.com,917 549 448 | 917 811 367 | 917 549 657,
+TH0044,Teatro de Carnide,38.762078,-9.186964,1,0,0,0,1,45163,Azinhaga das Freiras,,11,Carnide,06,Lisboa,11,Lisboa,PT170,AML,,teatrodecarnide@gmail.com,=+351 217 16 1 958,
+TH0045,Teatro Camões,38.760971,-9.093315,1,0,0,0,,,,,62,Parque das Nações,06,Lisboa,11,Lisboa,PT170,AML,,,,
+TH0046,Centro Cultural Olga Cadaval,38.803381,-9.382626,1,0,0,0,,,,,28,"União das freguesias de Sintra (Santa Maria e São Miguel, São Martinho e São Pedro de Penaferrim)",11,Sintra,11,Lisboa,PT171,AML,,,,171311|171313|171314|171381|171382|171383|171384
+TH0047,Teatro Nacional Dona Maria II,38.714779,-9.139771,1,0,0,0,,,,,65,Santa Maria Maior,06,Lisboa,11,Lisboa,PT172,AML,,,,
+TH0048,Teatro Politeama,38.716448,-9.140998,1,0,0,0,,,,,65,Santa Maria Maior,06,Lisboa,11,Lisboa,PT173,AML,,,,
+TH0049,Coliseu dos Recreios,38.716637,-9.140241,1,0,0,0,,,,,56,Arroios,06,Lisboa,11,Lisboa,PT174,AML,,,,
+TH0050,Teatro da Trindade,38.711861,-9.142575,1,0,0,0,,,,,65,Santa Maria Maior,06,Lisboa,11,Lisboa,PT175,AML,,,,
+TH0051,Teatro da Politécnica,38.718051,-9.149885,1,0,0,0,,,,,66,Santo António,06,Lisboa,11,Lisboa,PT176,AML,,,,
+TH0052,Tivoli,38.720488,-9.144956,1,0,0,0,,,,,66,Santo António,06,Lisboa,11,Lisboa,PT177,AML,,,,
+TH0053,Fórum Cultural de Alcochete,38.746145,-8.972288,0,0,0,1,,,,,01,Alcochete,02,Alcochete,15,Setúbal,PT178,AML,,,,010019|010021|010023|010083|010084|010143|010147
+TH0054,Teatro de Carnide,38.762107,-9.187000,1,0,0,0,,,,,11,Carnide,06,Lisboa,11,Lisboa,PT179,AML,,,,
+TH0055,Anfiteatro Keil do Amaral,38.720314,-9.194165,1,0,0,0,,,,,01,Ajuda,06,Lisboa,11,Lisboa,PT180,AML,,,,
+TH0056,Anfiteatro Keil do Amaral,38.720314,-9.194165,1,0,0,0,,,,,01,Ajuda,06,Lisboa,11,Lisboa,PT181,AML,,,,
+TH0057,Auditório da Junta de Freguesia da Amora,38.627817,-9.118244,0,0,1,0,,,,,02,Amora,10,Seixal,15,Setúbal,PT182,AML,,,,140143|140144|140153|140154|140217|140218|140309|140310|140311|140345
+TH0058,Casa da Cultura,38.664928,-9.068497,0,0,0,1,,,,,10,União das freguesias de Barreiro e Lavradio,04,Barreiro,15,Setúbal,PT183,AML,,,,
+TH0059,Auditório Eunice Muñoz,38.691994,-9.312594,1,0,0,0,,,,,14,"União das freguesias de Oeiras e São Julião da Barra, Paço de Arcos e Caxias",10,Oeiras,11,Lisboa,PT184,AML,,,,120731|120733|120735|120777|120783|120831|120833|120835
+TH0060,Teatro Municipal Joaquim Benite,38.676076,-9.159717,0,0,1,0,,,,,12,"União das freguesias de Almada, Cova da Piedade, Pragal e Cacilhas",03,Almada,15,Setúbal,PT185,AML,,,,020065|020066|020081|020083|020105|020106|020107|020117|020743|020744|020745|020746
+TH0061,Anfiteatro,38.692659,-9.221791,1,0,0,0,,,,,58,Belém,06,Lisboa,11,Lisboa,PT186,AML,,,,
+TH0062,Taborda,38.714817,-9.131938,1,0,0,0,,,,,65,Santa Maria Maior,06,Lisboa,11,Lisboa,PT187,AML,,,,
+TH0063,Companhia de Dança de Almada,38.680452,-9.160355,0,0,1,0,,,,,12,"União das freguesias de Almada, Cova da Piedade, Pragal e Cacilhas",03,Almada,15,Setúbal,PT188,AML,,,,020019|020021|020023|020049|020051|020085|020205|020207|020209|021068|021070|021072
+TH0064,Teatro Aberto,38.736207,-9.158481,1,0,0,0,,,,,10,Campolide,06,Lisboa,11,Lisboa,PT189,AML,,,,060017|060018
+TH0065,Cinema São Vicente,38.625279,-9.084993,0,0,1,0,,,,,07,"União das freguesias do Seixal, Arrentela e Aldeia de Paio Pires",10,Seixal,15,Setúbal,PT190,AML,,,,140021|140023|140261|140262|140263|140265|140266|140281|140331|140337|140339|140573|140574|140877
+TH0066,O Bando,38.559549,-8.921036,0,0,0,1,,,,,02,Palmela,08,Palmela,15,Setúbal,PT191,AML,,,,
+TH0067,Cinema Teatro Joaquim de Almeida,38.705949,-8.970387,0,0,0,1,,,,,10,União das freguesias de Montijo e Afonsoeiro,07,Montijo,15,Setúbal,PT192,AML,,,,100016|100017|100077|100079
+TH0068,Alpha Teatro,38.652188,-9.164184,0,0,1,0,,,,,15,União das freguesias de Laranjeiro e Feijó,03,Almada,15,Setúbal,PT193,AML,,,,020511|020512|020513|020515|020516|020531|020671|020672|020729|020730|020985
+TH0069,Teatrosfera,38.752992,-9.267868,1,0,0,0,,,,,25,União das freguesias de Massamá e Monte Abraão,11,Sintra,11,Lisboa,PT194,AML,,,,170867|170868
+TH0070,Sociedade Musical Odivelense,38.791478,-9.180671,0,1,0,0,,,,,03,Odivelas,16,Odivelas,11,Lisboa,PT195,AML,,,,110091|110123|110139|110221|111017|111018
+TH0071,,38.535837,-8.991892,0,0,0,1,,,,,09,União das freguesias de Azeitão (São Lourenço e São Simão),12,Setúbal,15,Setúbal,PT196,AML,,,,160990
+TH0072,Teatro Thalia,38.745004,-9.169315,1,0,0,0,,,,,39,São Domingos de Benfica,06,Lisboa,11,Lisboa,PT197,AML,,,,
+TH0073,Cine Teatro São João,38.571244,-8.901935,0,0,0,1,,,,,02,Palmela,08,Palmela,15,Setúbal,PT198,AML,,,,130001|130002|130005|130006|130027|130028|130029|130031|130047|130049|130051|130053|130055|130061|130062|130063|130801|130802
+TH0074,Anfiteatro,38.683526,-9.160130,0,0,1,0,,,,,12,"União das freguesias de Almada, Cova da Piedade, Pragal e Cacilhas",03,Almada,15,Setúbal,PT199,AML,,,,21071
+TH0075,,38.712865,-9.215243,1,0,0,0,,,,,58,Belém,06,Lisboa,11,Lisboa,PT200,AML,,,,060079|060141
+TH0076,,38.713961,-9.215487,1,0,0,0,,,,,58,Belém,06,Lisboa,11,Lisboa,PT201,AML,,,,
+TH0077,,38.714173,-9.215802,1,0,0,0,,,,,58,Belém,06,Lisboa,11,Lisboa,PT202,AML,,,,
+TH0078,,38.712494,-9.216413,1,0,0,0,,,,,58,Belém,06,Lisboa,11,Lisboa,PT203,AML,,,,
+TH0079,,38.740151,-9.283557,1,0,0,0,,,,,02,Barcarena,10,Oeiras,11,Lisboa,PT204,AML,,,,120583|121137|121138|121139|121140
+TH0080,Anfiteatro Vasco Santana,38.806036,-9.188324,0,1,0,0,,,,,10,União das freguesias de Ramada e Caneças,16,Odivelas,11,Lisboa,PT205,AML,,,,110473|110475|110476|110477|110478|110479|110480|110481|110483|110485|110499|110500|110501|110502|110603|110604|111015
+TH0081,A Barraca,38.707173,-9.155226,1,0,0,0,,,,,60,Estrela,06,Lisboa,11,Lisboa,PT206,AML,,,,060415|060421|062001
+TH0082,A Comuna,38.736531,-9.160496,1,0,0,0,,,,,10,Campolide,06,Lisboa,11,Lisboa,PT207,AML,,,,060017|060018
+TH0083,Zirkus Mond Lisboa,38.784170,-9.175094,0,1,0,0,,,,,03,Odivelas,16,Odivelas,11,Lisboa,PT208,AML,,,,110111|110203|110204|110605|110606|110629|110630|110632
+TH0084,Xutos e Pontapés,38.635152,-9.155585,0,0,1,0,,,,,05,Corroios,10,Seixal,15,Setúbal,PT209,AML,,,,140691|140693|140694
+TH0085,Auditório Tomás Noivo,38.900656,-9.119631,0,1,0,0,,,,,02,Bucelas,07,Loures,11,Lisboa,PT210,AML,,,,070135|070136|070137|070138|070174|070175|070176|070177|070178|070973|070974|071147|071148|071273|071341|072214
+TH0086,Anfiteatro Cristina Ferreira,38.932430,-9.256438,0,1,0,0,,,,,21,União das freguesias de Malveira e São Miguel de Alcainça,09,Mafra,11,Lisboa,PT211,AML,,,,080281|080282|080283|080405|080406|080407|080408|080931|080932|082202
+TH0087,Cineteatro dos Bombeiros Voluntários de Loures,38.830167,-9.169257,0,1,0,0,,,,,07,Loures,07,Loures,11,Lisboa,PT212,AML,,,,070029|070032|070037|070453|070479|070527|070529
+TH0088,,38.817483,-9.126209,0,1,0,0,,,,,31,"União das freguesias de Camarate, Unhos e Apelação",07,Loures,11,Lisboa,PT213,AML,,,,070093|070095|070096|070097|070098|070131
+TH0089,,38.725035,-9.228246,1,0,0,0,,,,,13,União das freguesias de Carnaxide e Queijas,10,Oeiras,11,Lisboa,PT214,AML,,,,120017|120019|120021|120115|120117|120119|120457|120459
+TH0090,Fórum Municipal Luísa Todi,38.522504,-8.890340,0,0,0,1,,,,,10,"União das freguesias de Setúbal (São Julião, Nossa Senhora da Anunciada e Santa Maria da Graça)",12,Setúbal,15,Setúbal,PT215,AML,,,,160101|160103|160127|160129|160131|160133|160135|160161|160163|160815
+TH0091,A Gráfica – Centro de Criação Artística,38.524095,-8.886582,0,0,0,1,,,,,10,"União das freguesias de Setúbal (São Julião, Nossa Senhora da Anunciada e Santa Maria da Graça)",12,Setúbal,15,Setúbal,PT216,AML,,,,160063|160064|160131|160133|160163|160746
+TH0092,Auditório Municipal Augusto Cabrita,38.649251,-9.061642,0,0,0,1,,,,,09,"União das freguesias de Alto do Seixalinho, Santo André e Verderena",04,Barreiro,15,Setúbal,PT217,AML,,,,040073|040153
+TH0093,Aula Magna,38.752622,-9.158496,1,0,0,0,,,,,54,Alvalade,06,Lisboa,11,Lisboa,PT218,AML,,,,060391|060393
+TH0094,,38.762848,-9.235222,1,0,0,0,,,,,16,Mina de Água,15,Amadora,11,Lisboa,PT219,AML,,,,030095|030097|030103|030121|030123|030124|030169|030171|030173|030249|030863
+TH0095,Amphitheater,38.631223,-8.915924,0,0,0,1,,,,,03,Pinhal Novo,08,Palmela,15,Setúbal,PT220,AML,,,,130227|130228|130229|130230|130355|130357|130383|130451
+TH0096,Anfiteatro,38.795964,-9.352376,1,0,0,0,,,,,02,Algueirão-Mem Martins,11,Sintra,11,Lisboa,PT221,AML,,,,170802|170804|170805|170806|170807|170808|171099
+TH0097,,38.754065,-9.276673,1,0,0,0,,,,,25,União das freguesias de Massamá e Monte Abraão,11,Sintra,11,Lisboa,PT222,AML,,,,170853
+TH0098,,38.753918,-9.276665,1,0,0,0,,,,,25,União das freguesias de Massamá e Monte Abraão,11,Sintra,11,Lisboa,PT223,AML,,,,170853
+TH0099,,38.707968,-9.252090,1,0,0,0,,,,,12,"União das freguesias de Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",10,Oeiras,11,Lisboa,PT224,AML,,,,
+TH0100,,38.707980,-9.251804,1,0,0,0,,,,,12,"União das freguesias de Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",10,Oeiras,11,Lisboa,PT225,AML,,,,
+TH0101,Teatro Armando Cortez,38.760571,-9.192039,1,0,0,0,,,,,11,Carnide,06,Lisboa,11,Lisboa,PT226,AML,,,,060063|060065|060069
+TH0102,Teatro Maria Vitória,38.719328,-9.146369,1,0,0,0,,,,,66,Santo António,06,Lisboa,11,Lisboa,PT227,AML,,,,
+TH0103,Cineteatro Capitólio – Teatro Raúl Solnado,38.718817,-9.146678,1,0,0,0,,,,,66,Santo António,06,Lisboa,11,Lisboa,PT228,AML,,,,
+TH0104,Teatro Variedades,38.718893,-9.145976,1,0,0,0,,,,,66,Santo António,06,Lisboa,11,Lisboa,PT229,AML,,,,
+TH0105,,38.695364,-9.444873,1,0,0,0,,,,,08,União das freguesias de Cascais e Estoril,05,Cascais,11,Lisboa,PT230,AML,,,,
+TH0106,,38.719725,-9.186531,1,0,0,0,,,,,02,Alcântara,06,Lisboa,11,Lisboa,PT231,AML,,,,
+TH0107,,38.719258,-9.186298,1,0,0,0,,,,,02,Alcântara,06,Lisboa,11,Lisboa,PT232,AML,,,,
+TH0108,,38.629905,-9.224366,0,0,1,0,,,,,03,Costa da Caparica,03,Almada,15,Setúbal,PT233,AML,,,,020827|020828
+TH0109,Auditório da Junta de Freguesia da Amora,38.627897,-9.118224,0,0,1,0,,,,,02,Amora,10,Seixal,15,Setúbal,PT234,AML,,,,140143|140144|140153|140154|140217|140218|140309|140310|140311|140345
+TH0110,,38.523721,-9.017277,0,0,0,1,,,,,09,União das freguesias de Azeitão (São Lourenço e São Simão),12,Setúbal,15,Setúbal,PT235,AML,,,,160785|160786|160787|160788|160979|160980|160981|160991
+TH0111,Anfiteatro do Parque,38.649468,-9.240694,0,0,1,0,,,,,03,Costa da Caparica,03,Almada,15,Setúbal,PT236,AML,,,,
+TH0112,Auditório Fernando Lopes Graça,38.703111,-9.412908,1,0,0,0,,,,,08,União das freguesias de Cascais e Estoril,05,Cascais,11,Lisboa,PT237,AML,,,,
+TH0113,,38.705557,-9.209794,1,0,0,0,,,,,58,Belém,06,Lisboa,11,Lisboa,PT238,AML,,,,
+TH0114,Zirkus Mond Lisboa,38.784322,-9.175055,0,1,0,0,,,,,03,Odivelas,16,Odivelas,11,Lisboa,PT239,AML,,,,110111|110112|110203|110204|110205|110293|110605|110606|110629|110630|110632
+TH0115,,38.769412,-9.226419,1,0,0,0,,,,,16,Mina de Água,15,Amadora,11,Lisboa,PT240,AML,,,,030179|030180|030181|030182|030183|030184|030186|030854|030855
+TH0116,Esplanada,38.566567,-8.900741,0,0,0,1,,,,,02,Palmela,08,Palmela,15,Setúbal,PT241,AML,,,,130031|130035|130036|130037|130045|130046|130059|130061|130744
+TH0117,,38.902241,-9.183697,0,1,0,0,,,,,05,Fanhões,07,Loures,11,Lisboa,PT242,AML,,,,071587|071588
+TH0118,Auditório da Lagoa Branca,38.714501,-9.183940,1,0,0,0,,,,,02,Alcântara,06,Lisboa,11,Lisboa,PT243,AML,,,,
+TH0119,Anfiteatro de Pedra,38.708651,-9.181168,1,0,0,0,,,,,02,Alcântara,06,Lisboa,11,Lisboa,PT244,AML,,,,
+TH0120,,38.706114,-8.959429,0,0,0,1,,,,,10,União das freguesias de Montijo e Afonsoeiro,07,Montijo,15,Setúbal,PT245,AML,,,,100397|100398|100399
+TH0121,,38.772141,-9.192905,1,0,0,0,,,,,11,Carnide,06,Lisboa,11,Lisboa,PT246,AML,,,,
+TH0122,,38.554673,-9.046663,0,0,1,0,,,,,03,Quinta do Conde,11,Sesimbra,15,Setúbal,PT247,AML,,,,150487|150488|150489|150490
+TH0123,,38.728811,-9.246891,1,0,0,0,,,,,13,União das freguesias de Carnaxide e Queijas,10,Oeiras,11,Lisboa,PT248,AML,,,,120045|120097|120099|120361|120423|120424|120425
+TH0124,,38.740180,-9.142177,1,0,0,0,,,,,55,Areeiro,06,Lisboa,11,Lisboa,PT249,AML,,,,061215|061216
+TH0125,Anfiteatro Walter Gallardo,38.708915,-9.206703,1,0,0,0,,,,,58,Belém,06,Lisboa,11,Lisboa,PT250,AML,,,,060091|060092
+TH0126,,38.828994,-9.163611,0,1,0,0,,,,,07,Loures,07,Loures,11,Lisboa,PT251,AML,,,,070035|070250|070389|070390|070453|070947
+TH0127,,38.828985,-9.163616,0,1,0,0,,,,,07,Loures,07,Loures,11,Lisboa,PT252,AML,,,,070035|070250|070389|070390|070453|070947
+TH0128,,38.828938,-9.163644,0,1,0,0,,,,,07,Loures,07,Loures,11,Lisboa,PT253,AML,,,,070035|070250|070389|070390|070453|070947
+TH0129,Esplanada,38.566585,-8.900757,0,0,0,1,,,,,02,Palmela,08,Palmela,15,Setúbal,PT254,AML,,,,130031|130035|130036|130037|130045|130046|130059|130061|130744
+TH0130,Teatro Municipal Mirita Casimiro,38.707456,-9.403493,1,0,0,0,,,,,08,União das freguesias de Cascais e Estoril,05,Cascais,11,Lisboa,PT255,AML,,,,050375|050376|050377|050379|050403
+TH0131,Teatro Municipal Mirita Casimiro,38.707456,-9.403493,1,0,0,0,,,,,08,União das freguesias de Cascais e Estoril,05,Cascais,11,Lisboa,PT256,AML,,,,050375|050376|050377|050379|050403
+TH0132,,38.762714,-9.235248,1,0,0,0,,,,,16,Mina de Água,15,Amadora,11,Lisboa,PT257,AML,,,,030095|030097|030103|030121|030123|030124|030169|030171|030173|030249|030863
+TH0133,Palco,38.762714,-9.235248,1,0,0,0,,,,,16,Mina de Água,15,Amadora,11,Lisboa,PT258,AML,,,,030095|030097|030103|030121|030123|030124|030169|030171|030173|030249|030863
