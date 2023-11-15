@@ -1,0 +1,149 @@
+id,name,lat,lon,A1,A2,A3,A4,is_active,validation_date,address,locality,parish_id,parish_name,municipality_id,municipality_name,district_id,district_name,region_id,region_name,url,email,phone,stops
+SH0001,Armazéns da Ajuda,38.703251,-9.199685,1,0,0,0,1,2023-08-25,"Calçada da Ajuda, 89-93;",,01,Ajuda,06,Lisboa,11,Lisboa,PT170,AML,,webmaster@lojasehorarios.com.pt,213638576,
+SH0002,Galeria Comercial da Estação Ferroviária do Cais do Sodré,38.705956,-9.144250,1,0,0,0,1,2023-08-25,"Cais do Sodré, Estação CP;",,61,Misericórdia,06,Lisboa,11,Lisboa,PT170,AML,,carmo.ferreira@infraestruturasdeportugal.pt,212879000,060419|060451|060452|062000
+SH0003,Armazéns do Chiado,38.710973,-9.139361,1,0,0,0,1,2023-08-25,"Rua Nova do Almada, 102-126 - Rua do Crucifixo, 81-125 - Rua do Carmo, 2-24",,65,Santa Maria Maior,06,Lisboa,11,Lisboa,PT170,AML,www.armazensdochiado.com,armazensdochiado@multi-mallmanagement.com,21 321 06 00,
+SH0004,Centro Comercial e Cultural Espaço Chiado,38.711293,-9.142561,1,0,0,0,1,2023-08-25,"Rua Nova da Trindade, 5-5G - Rua da Misericórdia, 12-20",,65,Santa Maria Maior,06,Lisboa,11,Lisboa,PT170,AML,,espacochiado@sapo.pt,21 322 55 69/21 347 25 79,
+SH0005,Centro Comercial Mouraria,38.716396,-9.135428,1,0,0,0,1,2023-08-25,"Rua Fernandes da Fonseca, 1-1B - Rua da Mouraria, 1-1G - Rua da Senhora da Saúde, 2-2I",,65,Santa Maria Maior,06,Lisboa,11,Lisboa,PT170,AML,,,21 888 09 04,
+SH0006,Centro Comercial Martim Moniz,38.716704,-9.136686,1,0,0,0,1,2023-08-25,"Rua da Palma, Centro Comercial - Rua José António Serrano, 4-4G",,65,Santa Maria Maior,06,Lisboa,11,Lisboa,PT170,AML,,geral@portalmartimmoniz.pt,,
+SH0007,Embaixada,38.716911,-9.148389,1,0,0,0,1,2023-08-25,"Praça do Príncipe Real, 26",,66,Santo António,06,Lisboa,11,Lisboa,PT170,AML,www.embaixada.embaixadalx.pt,geral@eastbanc.com,,
+SH0008,Tivoli Forum,38.720381,-9.144577,1,0,0,0,1,2023-08-25,"Avenida da Liberdade, 180 - Rua Manuel de Jesus Coelho, 3 - Rua de São José, 189-193;",,66,Santo António,06,Lisboa,11,Lisboa,PT170,AML,,avenidaliberdade@tivoli-hotels.com,21 316 13 92,
+SH0009,Amoreiras Plaza,38.722618,-9.160741,1,0,0,0,1,2023-08-25,"Rua Carlos Alberto da Mota Pinto, 9-9G - Rua Maria Ulrich, 1 - Rua Silva Carvalho, 321-321C",,59,Campo de Ourique,06,Lisboa,11,Lisboa,PT170,AML,,,213851748/213851717,060027|060037
+SH0010,Centro Comercial Castil,38.722880,-9.151994,1,0,0,0,1,2023-08-25,"Rua Castilho, 39-39B - Rua Braamcamp, 42-46",,66,Santo António,06,Lisboa,11,Lisboa,PT170,AML,http://www.roselynsilva.com/,edificio-castil@hotmail.com,,
+SH0011,Amoreiras Shopping Center,38.723191,-9.162230,1,0,0,0,1,2023-08-25,"Avenida Engenheiro Duarte Pacheco, Lote 7-Lote 7A",,59,Campo de Ourique,06,Lisboa,11,Lisboa,PT170,AML,www.amoreiras.com,amoreiras-shopping@mundicenter.pt,21 381 02 40,060027|060037
+SH0012,Drugstore Grão Pará,38.723675,-9.151993,1,0,0,0,1,2023-08-25,"Rua Castilho, 50-50C",,66,Santo António,06,Lisboa,11,Lisboa,PT170,AML,,,21 386 28 90,060035|060149|060405|060407
+SH0013,Pátio Bagatella,38.723902,-9.155220,1,0,0,0,1,2023-08-25,"Rua de Artilharia Um, 45-53 - Travessa da Légua da Póvoa, 9 (Pátio, U-X) e 17 - Pátio do Bagatela, Porta U-Porta X - (Travessa Légua da Póvoa, 9/Rua Artilharia Um, 51)",,66,Santo António,06,Lisboa,11,Lisboa,PT170,AML,,,21 383 04 55,060035|060407
+SH0014,Galerias Ritz,38.725699,-9.155082,1,0,0,0,1,2023-08-25,"Rua Castilho, 77-77E<br>Rua Rodrigo da Fonseca, 88-88A<br>Rua Joaquim António de Aguiar, 2-2A<br>Rua Marquês de Subserra, 1-1A;",,57,Avenidas Novas,06,Lisboa,11,Lisboa,PT170,AML,,,,060035|060143|060149|060405|060407
+SH0015,Galerias Marquês de Pombal,38.725804,-9.147776,1,0,0,0,1,2023-08-25,"Avenida Duque de Loulé, 101-109",,66,Santo António,06,Lisboa,11,Lisboa,PT170,AML,https://lojasnometro.pt/,metrocom@metrocom.pt,21 353 04 69,060033|060123|060462
+SH0016,Centro Comercial Sol Lisboa,38.727928,-9.144986,1,0,0,0,1,2023-08-25,"Avenida Duque de Loulé, 45-45A - Rua Ferreira Lapa, 41",,66,Santo António,06,Lisboa,11,Lisboa,PT170,AML,,,,
+SH0017,Centro Comercial Tejo,38.728558,-9.109993,1,0,0,0,1,2023-08-25,"Rua José António Lopes, 1-1C<br>Rua de Xabregas, 2-8;",,07,Beato,06,Lisboa,11,Lisboa,PT170,AML,,,,
+SH0018,Centro Comercial Portugália,38.729823,-9.135080,1,0,0,0,1,2023-08-25,"Avenida Almirante Reis, 113 - Rua António Pedro, 32A-32B - Rua Marques da Silva",,56,Arroios,06,Lisboa,11,Lisboa,PT170,AML,,,,
+SH0019,Picoas Plaza,38.730770,-9.148453,1,0,0,0,1,2023-08-25,"Rua Viriato, 13-13T - Rua Tomás Ribeiro, 65-65D",,57,Avenidas Novas,06,Lisboa,11,Lisboa,PT170,AML,www.dolcevita.pt,geral@dolcevita.pt,21 316 27 90,
+SH0020,Galerias Saldanha Residence,38.732050,-9.145201,1,0,0,0,1,2023-08-25,"Rua Engenheiro Vieira da Silva, 3-3J - Avenida Fontes Pereira de Melo, 42-42E - Rua Mestre Martins Correia, 2-2J",,56,Arroios,06,Lisboa,11,Lisboa,PT170,AML,www.saldanharesidence.com,saldgaleria@mail.telepac.pt,21 351 01 00,
+SH0021,Centro Comercial Atrium Saldanha,38.732866,-9.144721,1,0,0,0,1,2023-08-25,"Praça do Duque de Saldanha, 1-1D - Avenida Fontes Pereira de Melo, 44-44B - Rua Fernão Lopes, 4-4G - Avenida Casal Ribeiro, 63-63A - Rua Engenheiro Vieira da Silva, 18-18B",,56,Arroios,06,Lisboa,11,Lisboa,PT170,AML,www.atriumsaldanha.pt,info@fibeira.pt,21 317 08 50,
+SH0022,El Corte Inglês,38.733158,-9.153512,1,0,0,0,1,2023-08-25,"Rua Marquês de Fronteira, 9-9F - Avenida de Sidónio Pais, 32-32B - Avenida António Augusto de Aguiar, 31-31E - Jardim Amália Rodrigues, 1",,57,Avenidas Novas,06,Lisboa,11,Lisboa,PT170,AML,www.elcorteingles.pt,servico_clientes@elcorteingles.pt,21 371 17 00,
+SH0023,Dolce Vita Monumental,38.733270,-9.145724,1,0,0,0,1,2023-08-25,"Praça do Duque de Saldanha, 33-33E - Avenida Fontes Pereira de Melo, 51-51G - Avenida Praia da Vitória, 71-71F",,57,Avenidas Novas,06,Lisboa,11,Lisboa,PT170,AML,www.dolcevita.pt,geral@dolcevita.pt,21 351 05 00,
+SH0024,Centro Comercial Coopbancários,38.735891,-9.141541,1,0,0,0,1,2023-08-25,"Rua de Dona Filipa de Vilhena, 6-6F",,55,Areeiro,06,Lisboa,11,Lisboa,PT170,AML,www.coopbancarios.pt,geral@coopbancarios.pt,21 311 69 00,
+SH0025,Galeria Comercial da Alameda / Metro,38.737299,-9.132747,1,0,0,0,1,2023-08-25,"Alameda Dom Afonso Henriques, Estação de Metro (Alameda)",,55,Areeiro,06,Lisboa,11,Lisboa,PT170,AML,,metrocom@metrocom.pt,217980664,
+SH0026,Centro Comercial São João de Deus,38.737652,-9.141541,1,0,0,0,1,2023-08-25,"Avenida de António José de Almeida, 5C-5H",,55,Areeiro,06,Lisboa,11,Lisboa,PT170,AML,,info@ourtime.pt,21 796 35 20,
+SH0027,Centro Comercial do Pingo Doce,38.738067,-9.148334,1,0,0,0,1,2023-08-25,"Avenida Visconde de Valmor, 44-44A<br>Avenida Cinco de Outubro, 95-95C;",,57,Avenidas Novas,06,Lisboa,11,Lisboa,PT170,AML,https://www.pingodoce.pt/			,cliente@pingodoce.pt,217983350,
+SH0028,Olaias Plaza,38.738962,-9.125576,1,0,0,0,1,2023-08-25,"Rua Profª Margarida Vieira Mendes, 8",,55,Areeiro,06,Lisboa,11,Lisboa,PT170,AML,www.olaiasplaza.com,geral@olaiaplaza.com,21 846 53 36,
+SH0029,Galeria Comercial da Estação de Comboios de Sete-Rios,38.740234,-9.166668,1,0,0,0,1,2023-08-25,"Avenida Columbano Bordalo Pinheiro, Estação de comboios;",,39,São Domingos de Benfica,06,Lisboa,11,Lisboa,PT170,AML,,carmo.ferreira@infraestruturasdeportugal.pt,,060459
+SH0030,Galeria Comercial da Estação do Metro do Jardim Zoológico,38.741773,-9.168675,1,0,0,0,1,2023-08-25,"Praça Marechal Humberto Delgado, Estação de Metro;",,39,São Domingos de Benfica,06,Lisboa,11,Lisboa,PT170,AML,,carmo.ferreira@infraestruturasdeportugal.pt,,060013|060453|060454|060456|060457|060458|060459
+SH0031,Columbia Shopping Center,38.742255,-9.148448,1,0,0,0,1,2023-08-25,"Avenida Júlio Dinis, 14-14B",,57,Avenidas Novas,06,Lisboa,11,Lisboa,PT170,AML,,,21 796 46 08,061217|061218
+SH0032,Centro Comercial Arco-Íris,38.742347,-9.147866,1,0,0,0,1,2023-08-25,"Avenida Júlio Dinis, 6-6E",,57,Avenidas Novas,06,Lisboa,11,Lisboa,PT170,AML,,,21 797 51 83,061216|061217|061218
+SH0033,Galeria Via Veneto,38.742465,-9.142041,1,0,0,0,1,2023-08-25,"Avenida João XXI, 72-72C",,55,Areeiro,06,Lisboa,11,Lisboa,PT170,AML,,,21 795 12 30,061214|061215|061216
+SH0034,Centro Comercial do Campo Pequeno,38.742622,-9.145215,1,0,0,0,1,2023-08-25,"Campo Pequeno, Centro Comercial",,57,Avenidas Novas,06,Lisboa,11,Lisboa,PT170,AML,http://www.campopequeno.com/,galeriacomercial@campopequeno.com,#ERROR!,061216|061217|061218
+SH0035,Galerias Novo Areeiro,38.742950,-9.131502,1,0,0,0,1,2023-08-25,"Largo do Casal Vistoso, 2-2G<br>Rua Padre Gregório Verdonk, 2-2C<br>Rua Humberto da Cruz, 4-4B;",,55,Areeiro,06,Lisboa,11,Lisboa,PT170,AML,,,,061213
+SH0036,Centro Comercial Acquaroma,38.743332,-9.139010,1,0,0,0,1,2023-08-25,"Avenida de Roma, 13-15D",,55,Areeiro,06,Lisboa,11,Lisboa,PT170,AML,,administracao@acquaroma.com,21 794 25 59,061214|061215
+SH0037,Galeria Comercial da Estação de Comboios de Entre Campos,38.744533,-9.148676,1,0,0,0,1,2023-08-25,"Avenida da República, Apeadeiro",,57,Avenidas Novas,06,Lisboa,11,Lisboa,PT170,AML,,carmo.ferreira@infraestruturasdeportugal.pt,217980664,
+SH0038,Galerias Multicentro,38.744733,-9.152517,1,0,0,0,1,2023-08-25,"Avenida Álvaro Pais, 13<br>Rua Sousa Lopes, 4;",,57,Avenidas Novas,06,Lisboa,11,Lisboa,PT170,AML,https://www.facebook.com/multicentroentrecampos/,,,
+SH0039,Galeria Comercial CP,38.745648,-9.135668,1,0,0,0,1,2023-08-25,"Avenida São João de Deus, Apeadeiro do Areeiro<br>Avenida de Roma, Apeadeiro do Areeiro;",,54,Alvalade,06,Lisboa,11,Lisboa,PT170,AML,,carmo.ferreira@infraestruturasdeportuga.pt,,
+SH0040,Galerias Teteia,38.747488,-9.188100,1,0,0,0,1,2023-08-25,"Rua Professor Reinaldo dos Santos, 4-4E",,39,São Domingos de Benfica,06,Lisboa,11,Lisboa,PT170,AML,,,21 77811 71,060055
+SH0041,Centro Comercial Fonte Nova,38.748220,-9.190677,1,0,0,0,1,2023-08-25,"Estrada de Benfica, 503 / Rua Paulo Renato, 1-1G / Rua Joaquim Paço d'Arcos, 2-2I",,08,Benfica,06,Lisboa,11,Lisboa,PT170,AML,https://www.ccfontenova.com/pt/home,geral@ccfontenova.com,#ERROR!,060047|060055
+SH0042,Hipermercado Pingo Doce - Bela Vista,38.749654,-9.117698,1,0,0,0,1,2023-08-25,"Avenida Francisco Salgado Zenha, Lote 8 - (antigo Troço da Rua M6 de Chelas) - Avenida do Santo Condestável, Lote 8 - (antiga Avenida Principal de Chelas) - Anel Interior Norte, Lote 8",,21,Marvila,06,Lisboa,11,Lisboa,PT170,AML,www.pingodoce.pt,cliente@pingodoce.pt,211 554 473,
+SH0043,Galerias Atlanta Park,38.750557,-9.171863,1,0,0,0,1,2023-08-25,"Rua Manuel da Silva Leal, Galerias Atlanta Park<br>Rua Abranches Ferrão, 8-8H (Galerias Atlanta Park);",,39,São Domingos de Benfica,06,Lisboa,11,Lisboa,PT170,AML,,,217270310,
+SH0044,Centro Comercial Uruguai,38.750833,-9.197660,1,0,0,0,1,2023-08-25,"Avenida do Uruguai, 1-1C - Estrada de Benfica, 538",,08,Benfica,06,Lisboa,11,Lisboa,PT170,AML,,,,060006|060041|060049|060051|060445
+SH0045,Nevada Shopping Center,38.751067,-9.203179,1,0,0,0,1,2023-08-25,"Estrada de Benfica, 731-731A",,08,Benfica,06,Lisboa,11,Lisboa,PT170,AML,,,,060041|060043|060044|060051
+SH0046,Centro Comercial Alvalade,38.753276,-9.145036,1,0,0,0,1,2023-08-25,"Avenida da Igreja, 40-40A - Praça de Alvalade, 6-6B",,54,Alvalade,06,Lisboa,11,Lisboa,PT170,AML,http://www.ccalvalade.pt/,comercial@mundicenter.pt,21 795 52 24,
+SH0047,Galerias A C Santos,38.753881,-9.140982,1,0,0,0,1,2023-08-25,"Avenida da Igreja, 15-15E",,54,Alvalade,06,Lisboa,11,Lisboa,PT170,AML,,acs@acs.pt,21 845 52 60,
+SH0048,Centro Comercial Pedralvas,38.753866,-9.205208,1,0,0,0,1,2023-08-25,"Rua Aura Abranches, 4-4B - Rua das Pedralvas, 15-15C - (antiga Rua A da Quinta das Pedralvas)",,08,Benfica,06,Lisboa,11,Lisboa,PT170,AML,https://web.facebook.com/pg/Centro-Comercial-das-Pedralvas-750093158412568/about/?ref=page_internal,,21 760 04 75,060043|060044
+SH0049,Centro Comercial Colombo,38.754817,-9.188736,1,0,0,0,1,2023-08-25,"Avenida Lusíada, C. C. Colombo - Avenida do Colégio Militar, 37-37Q - Rua Norte, Colombo - (C. C. Colombo - actual R. Albert Einstein) - Rua Poente, C. C. Colombo - (C.C.Colombo - actual R Aurélio Quintanilha) - Rua Sul, 2-2O - (C.C.Colombo - actual R Galileu Galilei) - Rua Albert Einstein, C. C. Colombo - (antiga R Norte - C.C.Colombo) - Rua Galileu Galilei, 2-2O - (antiga R. Sul - C.C.Colombo)",,11,Carnide,06,Lisboa,11,Lisboa,PT170,AML,www.colombo.pt,info@adm.colombo.pt,21 711 36 00 / 21 711 36 36,060441
+SH0050,Alvaláxia,38.761176,-9.160067,1,0,0,0,1,2023-08-25,"Rua Francisco Stromp, 2 (Alvalade XXI) - Rua Prof. Fernando da Fonseca, Alvalade XXI",,18,Lumiar,06,Lisboa,11,Lisboa,PT170,AML,,cinema.alvalaxia@nos.pt,,060155|060156|060171|060226|060259|060286|060301|060302|060303|060304|060305|060306|060308|060310|060311|060312|060314|060316|060337|060339|060341|060369|061200
+SH0051,Spacio Shopping - Olivais Shopping Center,38.762234,-9.113613,1,0,0,0,1,2023-08-25,"Rua Cidade de Bissau, Lote 23 (Centro Comercial) - Rua Cidade de Bolama, 4 (Centro Comercial)",,33,Olivais,06,Lisboa,11,Lisboa,PT170,AML,www.olivaisshoppingcenter.pt,spacio.shopping@mundicenter.pt,21 854 01 50,
+SH0052,Centro Comercial da Stromp,38.762127,-9.157088,1,0,0,0,1,2023-08-25,"Rua Cipriano Dourado, 24",,18,Lumiar,06,Lisboa,11,Lisboa,PT170,AML,,,211518273,060310|060343|061200
+SH0053,Modelo Bonjour Galerias Lambert,38.763559,-9.152657,1,0,0,0,1,2023-08-25,"Rua Amilcar Cabral, 23-23L - (antigo Arruamento A do Plano da Quinta do Lambert) - Rua Agostinho Neto, 16-16J - (antigo Arruamento B do Plano Urb Quinta do Lambert)",,18,Lumiar,06,Lisboa,11,Lisboa,PT170,AML,http://hipermodelo.no.comunidades.net,administracao_gl@sonaeshopping.net,21 751 53 01,
+SH0054,Galeria Comercial Continente Telheiras,38.764842,-9.175234,1,0,0,0,1,2023-08-25,"Avenida das Nações Unidas, Continente - (antiga Rua E da Urb. da Quinta de Santo  António)",,18,Lumiar,06,Lisboa,11,Lisboa,PT170,AML,www.continente.pt,impereira1@sonaerp.com,21 711 44 00,
+SH0055,Centro Comercial Cecolisul,38.766301,-9.124070,1,0,0,0,1,2023-08-25,"Rua Cidade da Beira, 46-46J - (antigas Ruas B1 e B6 de Olivais Sul)",,33,Olivais,06,Lisboa,11,Lisboa,PT170,AML,,,21 853 26 69  ,
+SH0056,Galeria Comercial Gare do Oriente,38.767856,-9.099637,1,0,0,0,1,2023-08-25,"Praça do Oriente, Estação de Metro;",,62,Parque das Nações,06,Lisboa,11,Lisboa,PT170,AML,,gil@parquedasnacoes.pt,21 891 82 22,060001|060002|060009|060011|060207|060253|060321|060322|060323|060325|060327|060361
+SH0057,Centro Comercial do Lumiar,38.772181,-9.160454,1,0,0,0,1,2023-08-25,"Alameda das Linhas de Torres, 236-236A - Rua Cordeiro Ferreira, 23-25 - (antigo Troço da Rua da República do Paraguai)",,18,Lumiar,06,Lisboa,11,Lisboa,PT170,AML,,,21758 26 82,060159|060167|060241|060243|060345
+SH0058,Centro Comercial Oficina,38.443569,-9.101027,0,0,1,0,,,,,02,Sesimbra (Santiago),11,Sesimbra,15,Setúbal,PT170,AML,,,,150051|150052|150425|150427|150451|150453|150455|150457|150461|150463|150477|150481|150594|150610
+SH0059,Alegro Setúbal,38.537530,-8.878164,0,0,0,1,,,,,05,Setúbal (São Sebastião),12,Setúbal,15,Setúbal,PT170,AML,,,,160147|160148|160149|160151|160207
+SH0060,Intermarché Setúbal,38.538027,-8.857712,0,0,0,1,,,,,07,Gâmbia-Pontes-Alto da Guerra,12,Setúbal,15,Setúbal,PT170,AML,,,,160397|160398
+SH0061,Atlantic Park,38.540144,-8.867214,0,0,0,1,,,,,05,Setúbal (São Sebastião),12,Setúbal,15,Setúbal,PT170,AML,,,,160143|160189
+SH0062,,38.567462,-9.051130,0,0,1,0,,,,,03,Quinta do Conde,11,Sesimbra,15,Setúbal,PT170,AML,,,,150023|150024|150525
+SH0063,B Planet,38.582563,-9.044106,0,0,0,1,,,,,11,União das freguesias de Palhais e Coina,04,Barreiro,15,Setúbal,PT170,AML,,,,040118|040119|040133|040157|040159
+SH0064,Comércio Local,38.599942,-9.136202,0,0,1,0,,,,,02,Amora,10,Seixal,15,Setúbal,PT170,AML,,,,140187
+SH0065,RioSul Shopping,38.612711,-9.103699,0,0,1,0,,,,,07,"União das freguesias do Seixal, Arrentela e Aldeia de Paio Pires",10,Seixal,15,Setúbal,PT170,AML,,,,140537|140555|140585|140586|140587|140588|140589|149003
+SH0066,Centro Comercial Duque,38.617767,-9.193867,0,0,1,0,,,,,14,União das freguesias de Charneca de Caparica e Sobreda,03,Almada,15,Setúbal,PT170,AML,,,,020335|020336|020337|020338|020339|020340|020415|020416|020417|020418|020951|020952
+SH0067,Centro Comercial da Amora,38.618961,-9.113541,0,0,1,0,,,,,02,Amora,10,Seixal,15,Setúbal,PT170,AML,,,,140109|140110|140111|140112|140129|140221|140223|140295|140517
+SH0068,Centro Comercial Girassol,38.620921,-9.126331,0,0,1,0,,,,,02,Amora,10,Seixal,15,Setúbal,PT170,AML,,,,140103|140167|140168|140209|140210|140211|140212|149989|149990|149991
+SH0069,Centro Comercial Nina,38.627216,-9.125648,0,0,1,0,,,,,02,Amora,10,Seixal,15,Setúbal,PT170,AML,,,,140161|140162|140163|140164|140165|140166|140757|140758
+SH0070,Centro Comercial Belsul,38.628861,-9.124656,0,0,1,0,,,,,02,Amora,10,Seixal,15,Setúbal,PT170,AML,,,,140157|140158|140159|140160|140161|140162|140757|140758
+SH0071,Centro Comercial Mochos,38.634459,-8.914182,0,0,0,1,,,,,03,Pinhal Novo,08,Palmela,15,Setúbal,PT170,AML,,,,130345|130346|130347|130349|130351|130355|130451
+SH0072,"Centro Comercial ""Caparica Oceano""",38.642871,-9.237317,0,0,1,0,,,,,03,Costa da Caparica,03,Almada,15,Setúbal,PT170,AML,,,,020007|020437|020438|020439|020440|020992
+SH0073,Centro Comercial Zona F,38.645365,-9.037104,0,0,0,1,,,,,07,União das freguesias de Baixa da Banheira e Vale da Amoreira,06,Moita,15,Setúbal,PT170,AML,,,,090225|090226
+SH0074,Centro Comercial Verde Atlântico,38.648082,-9.183935,0,0,1,0,,,,,14,União das freguesias de Charneca de Caparica e Sobreda,03,Almada,15,Setúbal,PT170,AML,,,,020591|020592|020603|020615|020617
+SH0075,Centro Comercial das Fontaínhas,38.648764,-9.044728,0,0,0,1,,,,,07,União das freguesias de Baixa da Banheira e Vale da Amoreira,06,Moita,15,Setúbal,PT170,AML,,,,040167|040169|040170|090241|090242|090243|090251|090259|090260|090273|090275
+SH0076,Centro Comercial Miratejo,38.650987,-9.142886,0,0,1,0,,,,,05,Corroios,10,Seixal,15,Setúbal,PT170,AML,,,,140711|140713|140714|140727|140729
+SH0077,Laranjeiro,38.655775,-9.155660,0,0,1,0,,,,,15,União das freguesias de Laranjeiro e Feijó,03,Almada,15,Setúbal,PT170,AML,,,,020507|020508|020509|020510|020681|020682|020859|020865
+SH0078,Almada Forum,38.660042,-9.175135,0,0,1,0,,,,,15,União das freguesias de Laranjeiro e Feijó,03,Almada,15,Setúbal,PT170,AML,,,,020087|020088|020521|020522
+SH0079,Forum Barreiro,38.662246,-9.073699,0,0,0,1,,,,,10,União das freguesias de Barreiro e Lavradio,04,Barreiro,15,Setúbal,PT170,AML,,,,040137|040179
+SH0080,Centro Comercial Bela Vista,38.667642,-9.180889,0,0,1,0,,,,,12,"União das freguesias de Almada, Cova da Piedade, Pragal e Cacilhas",03,Almada,15,Setúbal,PT170,AML,,,,020267|020268|020272|020273|020275|020276|020293|021001|021002|021003|021004|027998|027999
+SH0081,Galerias do Alto da Barra,38.680302,-9.319817,1,0,0,0,,,,,14,"União das freguesias de Oeiras e São Julião da Barra, Paço de Arcos e Caxias",10,Oeiras,11,Lisboa,PT170,AML,,,,120795|120796|120797|120799
+SH0082,Riviera Center,38.685087,-9.343515,1,0,0,0,,,,,07,União das freguesias de Carcavelos e Parede,05,Cascais,11,Lisboa,PT170,AML,,,,
+SH0083,Galerias do Junqueiro,38.686282,-9.346430,1,0,0,0,,,,,07,União das freguesias de Carcavelos e Parede,05,Cascais,11,Lisboa,PT170,AML,,,,
+SH0084,Centro Comercial Carcavelos,38.688214,-9.336822,1,0,0,0,,,,,07,União das freguesias de Carcavelos e Parede,05,Cascais,11,Lisboa,PT170,AML,,,,050009|050418
+SH0085,Centro Comercial de Carcavelos,38.688237,-9.336807,1,0,0,0,,,,,07,União das freguesias de Carcavelos e Parede,05,Cascais,11,Lisboa,PT170,AML,,,,050009|050418
+SH0086,Centro Comercial da Parede,38.690598,-9.354898,1,0,0,0,,,,,07,União das freguesias de Carcavelos e Parede,05,Cascais,11,Lisboa,PT170,AML,,,,050039|050040|050041|050043|050047|050049|050051
+SH0087,Vela Latina,38.693056,-9.213483,1,0,0,0,,,,,58,Belém,06,Lisboa,11,Lisboa,PT170,AML,,,,
+SH0088,Alegro Montijo,38.694102,-8.941912,0,0,0,1,,,,,10,União das freguesias de Montijo e Afonsoeiro,07,Montijo,15,Setúbal,PT170,AML,,,,
+SH0089,Centro Comercial E. Leclerc,38.700811,-8.960440,0,0,0,1,,,,,10,União das freguesias de Montijo e Afonsoeiro,07,Montijo,15,Setúbal,PT170,AML,,,,100005|100006|100007|100008
+SH0090,Centro Comercial Riyadh,38.701454,-9.436247,1,0,0,0,,,,,08,União das freguesias de Cascais e Estoril,05,Cascais,11,Lisboa,PT170,AML,,,,
+SH0091,Cascais Villa,38.701488,-9.419004,1,0,0,0,,,,,08,União das freguesias de Cascais e Estoril,05,Cascais,11,Lisboa,PT170,AML,,,,050205|050207|050247|050249|050319|050419|050424
+SH0092,Centro Comercial da Assunção,38.703980,-9.432635,1,0,0,0,,,,,08,União das freguesias de Cascais e Estoril,05,Cascais,11,Lisboa,PT170,AML,,,,050255|050257|050258|050311|050313
+SH0093,Shopping Center da Alapraia,38.704883,-9.378054,1,0,0,0,,,,,08,União das freguesias de Cascais e Estoril,05,Cascais,11,Lisboa,PT170,AML,,,,
+SH0094,Oeiras Parque,38.705620,-9.301605,1,0,0,0,,,,,14,"União das freguesias de Oeiras e São Julião da Barra, Paço de Arcos e Caxias",10,Oeiras,11,Lisboa,PT170,AML,,,,120617|120618|120619|120625|120766|120865|121292
+SH0095,Grande Galiza,38.705863,-9.385585,1,0,0,0,,,,,08,União das freguesias de Cascais e Estoril,05,Cascais,11,Lisboa,PT170,AML,,,,
+SH0096,Galerias Comerciais,38.706490,-8.974627,0,0,0,1,,,,,10,União das freguesias de Montijo e Afonsoeiro,07,Montijo,15,Setúbal,PT170,AML,,,,100013|100015|100016|100027|100081|100095|100141|100143
+SH0097,Dolce Vita Miraflores,38.710036,-9.228414,1,0,0,0,,,,,12,"União das freguesias de Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",10,Oeiras,11,Lisboa,PT170,AML,,,,120181|120182|120183|120184|120233|120345|120351|120352|120399
+SH0098,Espaço Chiado,38.711315,-9.142561,1,0,0,0,,,,,65,Santa Maria Maior,06,Lisboa,11,Lisboa,PT170,AML,,,,
+SH0099,O Tirano,38.714476,-9.349278,1,0,0,0,,,,,06,São Domingos de Rana,05,Cascais,11,Lisboa,PT170,AML,,,,050433|050434|050442|050443|050444|050508|050509|050510|050512
+SH0100,Hiper Linda,38.714879,-9.237055,1,0,0,0,,,,,12,"União das freguesias de Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",10,Oeiras,11,Lisboa,PT170,AML,,,,120163|120164|120165|120166|120173|120176|120177|120178|120237|120238|120239|120240|120241|120355|120357|120358|120359|120397|121081|121093|121257|121261|121278
+SH0101,Centro Comercial Mouraria,38.716397,-9.135424,0,0,0,0,,,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,PT170,AML,,,,
+SH0102,Central Park,38.717172,-9.238584,1,0,0,0,,,,,12,"União das freguesias de Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",10,Oeiras,11,Lisboa,PT170,AML,,,,120165|120166|120167|120173|120176|120241|120243|120359|120397|121081|121261
+SH0103,Amoreiras Square,38.721339,-9.161425,1,0,0,0,,,,,59,Campo de Ourique,06,Lisboa,11,Lisboa,PT170,AML,,,,060027
+SH0104,Alegro Alfragide,38.727858,-9.219339,1,0,0,0,,,,,13,União das freguesias de Carnaxide e Queijas,10,Oeiras,11,Lisboa,PT170,AML,,,,
+SH0105,Saldanha Residence,38.731916,-9.145306,1,0,0,0,,,,,56,Arroios,06,Lisboa,11,Lisboa,PT170,AML,,,,
+SH0106,Atrium Saldanha,38.732858,-9.144707,1,0,0,0,,,,,56,Arroios,06,Lisboa,11,Lisboa,PT170,AML,,,,
+SH0107,Península Galerias,38.734076,-9.146701,1,0,0,0,,,,,57,Avenidas Novas,06,Lisboa,11,Lisboa,PT170,AML,,,,
+SH0108,S. João de Deus,38.737658,-9.141547,1,0,0,0,,,,,55,Areeiro,06,Lisboa,11,Lisboa,PT170,AML,,,,
+SH0109,CascaiShopping,38.738030,-9.399114,1,0,0,0,,,,,01,Alcabideche,05,Cascais,11,Lisboa,PT170,AML,,,,
+SH0110,Centro Comecial das Olaias,38.739250,-9.125005,1,0,0,0,,,,,55,Areeiro,06,Lisboa,11,Lisboa,PT170,AML,,,,
+SH0111,Centro Comercial de São Marcos,38.748473,-9.298922,1,0,0,0,,,,,24,União das freguesias do Cacém e São Marcos,11,Sintra,11,Lisboa,PT170,AML,,,,170723|170725|170727|170733|172475
+SH0112,Fonte Nova,38.748550,-9.190748,1,0,0,0,,,,,08,Benfica,06,Lisboa,11,Lisboa,PT170,AML,,,,060047|060053|060055
+SH0113,Centro Comercial Pingo Doce Bela Vista,38.749451,-9.117617,1,0,0,0,,,,,21,Marvila,06,Lisboa,11,Lisboa,PT170,AML,,,,
+SH0114,Freeport Lisboa Fashion Outlet,38.752294,-8.940800,0,0,0,1,,,,,01,Alcochete,02,Alcochete,15,Setúbal,PT170,AML,,,,010041|010135|010136
+SH0115,Centro Comercial de Alvalade,38.753286,-9.145038,1,0,0,0,,,,,54,Alvalade,06,Lisboa,11,Lisboa,PT170,AML,,,,
+SH0116,Centro Comercial das Pedralvas,38.753884,-9.205210,1,0,0,0,,,,,08,Benfica,06,Lisboa,11,Lisboa,PT170,AML,,,,060043|060044
+SH0117,Beloura Shopping,38.759836,-9.386566,1,0,0,0,,,,,28,"União das freguesias de Sintra (Santa Maria e São Miguel, São Martinho e São Pedro de Penaferrim)",11,Sintra,11,Lisboa,PT170,AML,,,,172285|172287|172309
+SH0118,Centro Comercial Alvaláxia,38.761201,-9.159537,1,0,0,0,,,,,18,Lumiar,06,Lisboa,11,Lisboa,PT170,AML,,,,060155|060156|060171|060226|060259|060286|060301|060302|060303|060304|060305|060306|060308|060310|060311|060312|060314|060316|060337|060339|060341|060369|061200
+SH0119,Spacio Shopping,38.762299,-9.114931,1,0,0,0,,,,,33,Olivais,06,Lisboa,11,Lisboa,PT170,AML,,,,
+SH0120,Galeria Quinta do Lambert,38.763182,-9.152676,1,0,0,0,,,,,18,Lumiar,06,Lisboa,11,Lisboa,PT170,AML,,,,
+SH0121,Beloura Alpha Mall,38.763905,-9.370937,1,0,0,0,,,,,28,"União das freguesias de Sintra (Santa Maria e São Miguel, São Martinho e São Pedro de Penaferrim)",11,Sintra,11,Lisboa,PT170,AML,,,,
+SH0122,Centro Comercial Telheiras,38.764696,-9.175108,1,0,0,0,,,,,18,Lumiar,06,Lisboa,11,Lisboa,PT170,AML,,,,
+SH0123,Centro Comercial Colina do Sol,38.764760,-9.206702,1,0,0,0,,,,,14,Encosta do Sol,15,Amadora,11,Lisboa,PT170,AML,,,,030391|030393|030395|030396|030400|030411|030413|030421|030422
+SH0124,BelaVista Retail Park,38.764851,-9.304582,1,0,0,0,,,,,24,União das freguesias do Cacém e São Marcos,11,Sintra,11,Lisboa,PT170,AML,,,,170683|170684|170685|170686|170692|170767
+SH0125,Centro Comercial Vasco da Gama,38.767700,-9.096813,1,0,0,0,,,,,62,Parque das Nações,06,Lisboa,11,Lisboa,PT170,AML,,,,060001|060002|060009|060011|060207|060253|060321|060322|060323|060325|060327|060361
+SH0126,Mouras Shopping Center,38.768548,-9.157141,1,0,0,0,,,,,18,Lumiar,06,Lisboa,11,Lisboa,PT170,AML,,,,60157
+SH0127,Shopping Cacém,38.770108,-9.310983,1,0,0,0,,,,,24,União das freguesias do Cacém e São Marcos,11,Sintra,11,Lisboa,PT170,AML,,,,170439|170440|170441|170442|170443|170444|170447|170448|170449|170450|170651|170657|170675|170676|170677|172522|172558|172578|172610
+SH0128,Alegro Sintra,38.775055,-9.340330,1,0,0,0,,,,,08,Rio de Mouro,11,Sintra,11,Lisboa,PT170,AML,,,,170048
+SH0129,Sintra Retail Park,38.775959,-9.337384,1,0,0,0,,,,,08,Rio de Mouro,11,Sintra,11,Lisboa,PT170,AML,,,,170055|170161
+SH0130,Ubbo,38.777089,-9.219887,1,0,0,0,,,,,14,Encosta do Sol,15,Amadora,11,Lisboa,PT170,AML,,,,030793
+SH0131,Strada Outlet,38.782285,-9.192599,0,1,0,0,,,,,03,Odivelas,16,Odivelas,11,Lisboa,PT170,AML,,,,110135|110136|110715|110716
+SH0132,Centro Comercial da Portela,38.782438,-9.111198,0,1,0,0,,,,,26,União das freguesias de Moscavide e Portela,07,Loures,11,Lisboa,PT170,AML,,,,070589|070591|070592|070593|070594|070603|070605|070607|071443|071444|071515|071516|071517
+SH0133,Centro Comercial 2000,38.783608,-9.319518,1,0,0,0,,,,,08,Rio de Mouro,11,Sintra,11,Lisboa,PT170,AML,,,,170165|170166|170167|170168|170169|170171|170172|170181
+SH0134,Centro Comercial Oceano,38.787034,-9.180811,0,1,0,0,,,,,03,Odivelas,16,Odivelas,11,Lisboa,PT170,AML,,,,110085|110087|110088|110089|110102|110199|110200|110201|110207|110295|110297|111001|111002
+SH0135,Fitares shopping,38.787265,-9.318025,1,0,0,0,,,,,08,Rio de Mouro,11,Sintra,11,Lisboa,PT170,AML,,,,170183|170185|170187|170506|172573|172576
+SH0136,Centro Comercial Floresta Center,38.792917,-9.328607,1,0,0,0,,,,,02,Algueirão-Mem Martins,11,Sintra,11,Lisboa,PT170,AML,,,,170271
+SH0137,Viva Shopping,38.793912,-9.169207,0,1,0,0,,,,,03,Odivelas,16,Odivelas,11,Lisboa,PT170,AML,,,,110095|110451|110452|110453|110454|110553|110554|110575|110576|110577|110578|110579|110580|110625
+SH0138,Atrium Chaby,38.796953,-9.344572,1,0,0,0,,,,,02,Algueirão-Mem Martins,11,Sintra,11,Lisboa,PT170,AML,,,,170095|170097|171125|171871|171872|172628
+SH0139,Centro Comercial da Arroja,38.797881,-9.192289,0,1,0,0,,,,,03,Odivelas,16,Odivelas,11,Lisboa,PT170,AML,,,,110065|110066|110067|110068|110069|110070|110071|110072|110115|110116|111005
+SH0140,Centro Comercial da Ramada,38.800774,-9.186659,0,1,0,0,,,,,03,Odivelas,16,Odivelas,11,Lisboa,PT170,AML,,,,110217|110218|110327|110497|110597|110601|110649
+SH0141,Centro Comercial Mirasol,38.813083,-9.229512,0,1,0,0,,,,,10,União das freguesias de Ramada e Caneças,16,Odivelas,11,Lisboa,PT170,AML,,,,110007|110025|110055|110059|110169|110233|110255
+SH0142,Centro Comercial Continente de Loures,38.818692,-9.175566,0,1,0,0,,,,,07,Loures,07,Loures,11,Lisboa,PT170,AML,,,,070365|070470
+SH0143,LoureShopping,38.834390,-9.156421,0,1,0,0,,,,,07,Loures,07,Loures,11,Lisboa,PT170,AML,,,,070385|070387|070388|070435
+SH0144,Serra Nova,38.862671,-9.075461,0,1,0,0,,,,,15,União das freguesias de Póvoa de Santa Iria e Forte da Casa,14,Vila Franca de Xira,11,Lisboa,PT170,AML,,,,180573|180574|180575|180576|180577|180579|180580|180615|180616|180653|180655|180659|180660|180661|180662|180663|180897|182260
+SH0145,Centro Comercial Scala,38.896113,-9.037654,0,1,0,0,,,,,13,União das freguesias de Alverca do Ribatejo e Sobralinho,14,Vila Franca de Xira,11,Lisboa,PT170,AML,,,,180051|180052|180053|180054|180101|180102|180104|180193|180195|180209|180211|180213|180721|180722|180723|182252
+SH0146,Centro Comercial Avenida,38.898008,-9.037316,0,1,0,0,,,,,13,União das freguesias de Alverca do Ribatejo e Sobralinho,14,Vila Franca de Xira,11,Lisboa,PT170,AML,,,,180053|180054|180055|180099|180104|180105|180143|180193|180213|180723
+SH0147,Centro Comercial de Mafra,38.937037,-9.330145,0,1,0,0,,,,,09,Mafra,09,Mafra,11,Lisboa,PT170,AML,,,,080199|080204|080461|080979|082307
+SH0148,Centro Comercial São Sebastião,38.969573,-9.418565,0,1,0,0,,,,,06,Ericeira,09,Mafra,11,Lisboa,PT170,AML,,,,080075|080076|080077|080078|080739|082305
