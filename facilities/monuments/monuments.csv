@@ -1,0 +1,73 @@
+id,name,lat,lon,A1,A2,A3,A4,is_active,validation_date,address,locality,parish_id,parish_name,municipality_id,municipality_name,district_id,district_name,region_id,region_name,url,email,phone,stops
+MN0001,Anfiteatro Almeida Garrett,38.699271,-9.301138,1,0,0,0,,,,,14,"União das freguesias de Oeiras e São Julião da Barra, Paço de Arcos e Caxias",10,Oeiras,11,Lisboa,PT170,AML,,,,120751|120752|120753|120754|120755|120756|120757|120758|120849|120850|120851|120852|121267
+MN0002,Aos Heróis do Ultramar,38.692661,-9.217961,1,0,0,0,,,,,58,Belém,06,Lisboa,11,Lisboa,PT170,AML,,,,
+MN0003,Aos Restauradores de 1640,38.715752,-9.141685,1,0,0,0,,,,,65,Santa Maria Maior,06,Lisboa,11,Lisboa,PT170,AML,,,,
+MN0004,"Aqueduto das Águas Livres, seus aferentes e correlacionados",38.721245,-9.155704,1,0,0,0,1,2023-08-25,"Concelhos de Lisboa, Amadora, Odivelas, Oeiras e Sintra; Calçada Bento da Rocha Cabral, 7 e Praça das Amoreiras, 10 (Mãe d'Água (EPAL))",,66,Santo António,06,Lisboa,11,Lisboa,PT170,AML,www.epal.pt,mda.epal@adp.pt,=+351 218 100 215,
+MN0005,Ascensor da Bica e meio urbano que o envolve,38.708694,-9.146789,1,0,0,0,1,2023-08-25,"Calçada da Bica Pequena, 2-4; Largo de Santo Antoninho, 1-2; Rua de São Paulo, 234-236",,61,Misericórdia,06,Lisboa,11,Lisboa,PT170,AML,,,,
+MN0006,Ascensor da Glória e meio urbano que o envolve,38.716163,-9.142938,1,0,0,0,1,2023-08-25,"Calçada da Gloria (todos os imóvéis que com ela confinam); Rua das Taipas, tornejando para o Largo da Oliveirinha, 1, 2 e 5; e a Travessa do Fala-Só, 2 a 12 e 1 a 7",,66,Santo António,06,Lisboa,11,Lisboa,PT170,AML,,,,
+MN0007,Ascensor do Lavra e meio urbano que o envolve,38.718501,-9.140176,1,0,0,0,1,2023-08-25,"Calçada do Lavra, S/N; Rua Câmara Pestana, S/N",,56,Arroios,06,Lisboa,11,Lisboa,PT170,AML,,,,
+MN0008,"Basílica da Estrela, compreendendo os túmulos de D. Maria I e do seu confessor",38.713165,-9.160598,1,0,0,0,1,2023-08-25,"Praça da Estrela, 12",,60,Estrela,06,Lisboa,11,Lisboa,PT170,AML,,,,
+MN0009,Capela de Santo Amaro,38.702091,-9.182644,1,0,0,0,1,2023-08-25,"Escadinhas de Santo Amaro, Ermida de Santo Amaro",,02,Alcântara,06,Lisboa,11,Lisboa,PT170,AML,,,,
+MN0010,Capela de São Jerónimo/Ermida do Restelo,38.701330,-9.213671,1,0,0,0,1,2023-08-25,"Praça de Itália, Capela de São Jerónimo",,58,Belém,06,Lisboa,11,Lisboa,PT170,AML,,,,060109|060119
+MN0011,Capela do Hospital de São José,38.717729,-9.137449,1,0,0,0,1,2023-08-25,"Rua do Arco da Graça, S/N (Bloco Central); Rua José António Serrano, S/N (Bloco Central); Travessa do Hospital, S/N (Bloco Central)",,56,Arroios,06,Lisboa,11,Lisboa,PT170,AML,,,,
+MN0012,Capela do Paço da Bemposta,38.723414,-9.138375,1,0,0,0,1,2023-08-25,"Paço da Rainha, 21-31",,56,Arroios,06,Lisboa,11,Lisboa,PT170,AML,,,,
+MN0013,Capela dos Castros,38.741963,-9.180837,1,0,0,0,1,2023-08-25,"Largo São Domingos de Benfica, 6-8; Travessa de São Domingos de Benfica, S/N",,39,São Domingos de Benfica,06,Lisboa,11,Lisboa,PT170,AML,,,,
+MN0014,"Casa de Brás de Albuquerque (Casa dos Bicos), fachada",38.709116,-9.132651,1,0,0,0,1,2023-08-25,"Rua dos Bacalhoeiros, 10-10F; Rua Afonso de Albuquerque, 9-11",,65,Santa Maria Maior,06,Lisboa,11,Lisboa,PT170,AML,,,,
+MN0015,Castelo de São Jorge e restos das Cercas de Lisboa,38.713954,-9.133157,1,0,0,0,1,2023-08-25,"Castelo de São Jorge, Torres do Castelejo",,65,Santa Maria Maior,06,Lisboa,11,Lisboa,PT170,AML,,,,
+MN0016,Chafariz da Esperança,38.708946,-9.153493,1,0,0,0,1,2023-08-25,"Rua da Esperança, (Santos-o-Velho) Largo da Esperança",,60,Estrela,06,Lisboa,11,Lisboa,PT170,AML,,,,
+MN0017,Convento da Graça,38.716441,-9.130960,1,0,0,0,1,2023-08-25,"Largo da Graça, Igreja; Largo da Graça, 94; Rua Damasceno Monteiro, S/N",,67,São Vicente,06,Lisboa,11,Lisboa,PT170,AML,,,,
+MN0018,Convento dos Paulistas,38.711592,-9.148726,1,0,0,0,1,2023-08-25,"Calçada do Combro, 84-96",,61,Misericórdia,06,Lisboa,11,Lisboa,PT170,AML,,,,
+MN0019,Cordoaria Nacional,38.697652,-9.190341,1,0,0,0,1,2023-08-25,Avenida da Índia,,58,Belém,06,Lisboa,11,Lisboa,PT170,AML,,,,060381|060382
+MN0020,Cruzeiro das Laranjeiras,38.759842,-9.155981,1,0,0,0,1,2023-08-25,"Campo Grande, 398, (Jardim do Palácio do Conde de Vimioso)",,18,Lumiar,06,Lisboa,11,Lisboa,PT170,AML,,,,060156|060171|060226|060259|060286|060287|060302|060303|060304|060305|060306|060308|060310|060311|060312|060314|060316|060337|060339|060341|060369|061200
+MN0021,Cruzeiro de Arroios,38.732478,-9.136266,1,0,0,0,1,2023-08-25,"Rua de Arroios, (Adro da Igreja de Arroios)",,56,Arroios,06,Lisboa,11,Lisboa,PT170,AML,,,,
+MN0022,"Edifício do Posto de Comando do Movimento das Forças Armadas, incluindo o património integrado",38.766263,-9.196836,1,0,0,0,1,2023-08-25,"Estrada da Pontinha, Quartel; Rua Regimento de Engenharia Um, Quartel; Estrada Militar, Quartel",,11,Carnide,06,Lisboa,11,Lisboa,PT170,AML,,,,110043|110045|110693|110695|110697|110699|110700|110859
+MN0023,Edifício-Sede e Parque da Fundação Calouste Gulbenkian,38.737413,-9.154153,1,0,0,0,1,2023-08-25,"Avenida de Berna, 45",,57,Avenidas Novas,06,Lisboa,11,Lisboa,PT170,AML,,,,
+MN0024,"Elevador do Carmo, também denominado Elevador de Santa Justa",38.712098,-9.139447,1,0,0,0,1,2023-08-25,"Rua de Santa Justa, Elevador; Travessa D. Pedro de Menezes, Elevador",,65,Santa Maria Maior,06,Lisboa,11,Lisboa,PT170,AML,,,,
+MN0025,Estátuas Lusitanas de Montalegre,38.697763,-9.205771,1,0,0,0,1,2023-08-25,"Praça do Império Mosteiro R/C, Museu Nacional de Arqueologia",,58,Belém,06,Lisboa,,Lisboa,PT170,AML,,,,060097|060098|060099|060103
+MN0026,Igreja da Conceição-Velha,38.708890,-9.134187,1,0,0,0,1,2023-08-25,"Rua da Alfândega, Igreja",,65,Santa Maria Maior,06,Lisboa,11,Lisboa,PT170,AML,,,,
+MN0027,Igreja da Madalena (Portal),38.710088,-9.134812,1,0,0,0,1,2023-08-25,"Largo da Madalena, Igreja; Rua de Santo António da Sé, Igreja",,65,Santa Maria Maior,06,Lisboa,11,Lisboa,PT170,AML,,,,
+MN0028,Igreja da Madre de Deus,38.724870,-9.113888,1,0,0,0,1,2023-08-25,"Rua da Madre de Deus, Igreja",,63,Penha de França,06,Lisboa,11,Lisboa,PT170,AML,,,,
+MN0029,Igreja da Memória,38.702984,-9.202011,1,0,0,0,1,2023-08-25,"Calçada da Memória, Igreja da Memória; Largo da Memória, Igreja da Memória",,01,Ajuda,06,Lisboa,11,Lisboa,PT170,AML,,,,
+MN0030,"Igreja de Nª Sra. da Luz (Capela-Mor e Sepultura da Infanta D. Maria, Filha do Rei D. Manuel I)",38.760564,-9.184957,1,0,0,0,1,2023-08-25,"Largo da Luz, IGREJA; Rua da Fonte, 2-4",,11,Carnide,06,Lisboa,11,Lisboa,PT170,AML,,,,
+MN0031,Igreja de Santa Catarina,38.711391,-9.148297,1,0,0,0,1,2023-08-25,"Calçada do Combro, S/N (IGREJA)",,61,Misericórdia,06,Lisboa,11,Lisboa,PT170,AML,,,,
+MN0032,Igreja de Santa Engrácia (Panteão Nacional),38.714977,-9.124685,1,0,0,0,1,2023-08-25,"Largo Dr. Bernardino António Gomes (Pai), Igreja de Santa Engrácia; Campo de Santa Clara, Igreja de Santa Engrácia",,67,São Vicente,06,Lisboa,11,Lisboa,PT170,AML,,,,
+MN0033,Igreja de Santo António de Lisboa,38.709981,-9.133671,1,0,0,0,1,2023-08-25,Largo de Santo António da Sé,,65,Santa Maria Maior,06,Lisboa,11,Lisboa,PT170,AML,,,=+351 218 869 145,
+MN0034,Igreja de Santo Estêvão,38.712212,-9.127847,1,0,0,0,1,2023-08-25,"Largo de Santo Estêvão, Igreja",,65,Santa Maria Maior,06,Lisboa,11,Lisboa,PT170,AML,,,,
+MN0035,Igreja de São Domingos,38.714707,-9.138201,1,0,0,0,1,2023-08-25,"Largo de São Domingos, Igreja; Rua de Barros Queirós, Empena; Travessa Nova de São Domingos, Igreja; Rua Dom Duarte, Igreja",,65,Santa Maria Maior,06,Lisboa,11,Lisboa,PT170,AML,,,,
+MN0036,Igreja de São Roque,38.713614,-9.143482,1,0,0,0,1,2023-08-25,Largo Trindade Coelho,,61,Misericórdia,06,Lisboa,11,Lisboa,PT170,AML,,,,
+MN0037,Igreja do Convento do Carmo,38.712151,-9.140234,1,0,0,0,1,2023-08-25,Largo do Carmo,,65,Santa Maria Maior,06,Lisboa,11,Lisboa,PT170,AML,,,,
+MN0038,Igreja do Menino Deus,38.713564,-9.131346,1,0,0,0,1,2023-08-25,"Calçada do Menino Deus, 15-27; Largo do Menino Deus, Igreja",,65,Santa Maria Maior,06,Lisboa,11,Lisboa,PT170,AML,,,,
+MN0039,Igreja do Sagrado Coração de Jesus,38.724879,-9.147055,1,0,0,0,1,2023-08-25,"Rua de Santa Marta, 55C-55E; Rua Camilo Castelo Branco, 4-4A",,66,Santo António,06,Lisboa,11,Lisboa,PT170,AML,,,,
+MN0040,Igreja e Mosteiro de São Vicente de Fora,38.714686,-9.127490,1,0,0,0,1,2023-08-25,Largo de São Vicente,,67,São Vicente,06,Lisboa,11,Lisboa,PT170,AML,http://www.patriarcado-lisboa.pt/site/index.php?cont_=47&tem=356,museu@patriarcado-lisboa.pt,=+351 218 885 652,
+MN0041,Jardim Botânico - Faculdade de Ciências,38.718338,-9.149079,1,0,0,0,1,2023-08-25,"Rua da Escola Politécnica, 52-58; Rua da Alegria",,66,Santo António,06,Lisboa,11,Lisboa,PT170,AML,"http://www.mnhnc.ul.pt/portal/page?_pageid=418,1391161&_dad=portal&_schema=PORTAL",,,
+MN0042,Lápides das Pedras Negras,38.710388,-9.135013,1,0,0,0,1,2023-08-25,"Largo da Madalena, 3-6; Travessa das Pedras Negras, 1-3",,65,Santa Maria Maior,06,Lisboa,11,Lisboa,PT170,AML,,,,
+MN0043,Monumento aos Mortos da Grande Guerra,38.719504,-9.145263,1,0,0,0,,,,,66,Santo António,06,Lisboa,11,Lisboa,PT170,AML,,,,
+MN0044,Mosteiro dos Jerónimos,38.697825,-9.206483,1,0,0,0,1,2023-08-25,Praça do Império,,58,Belém,06,Lisboa,11,Lisboa,PT170,AML,http://www.mosteirojeronimos.pt,geral@mjeronimos.dgpc.pt,,060097|060098|060099|060103
+MN0045,Núcleo Arqueológico da Rua dos Correeiros (NARC),38.709945,-9.137088,1,0,0,0,1,2023-08-25,"Rua dos Correeiros, 9-29; Rua Augusta, 76-96",,65,Santa Maria Maior,06,Lisboa,11,Lisboa,PT170,AML,,,,
+MN0046,Obelisco do Templo,38.700819,-9.301253,1,0,0,0,,,,,14,"União das freguesias de Oeiras e São Julião da Barra, Paço de Arcos e Caxias",10,Oeiras,11,Lisboa,PT170,AML,,,,120755|120757|120758|120761|120762|120765|120766|121292|121293
+MN0047,Paços de São Cristóvão (Porta lateral),38.712449,-9.135592,1,0,0,0,1,2023-08-25,"Largo de São Cristóvão, 1; Rua do Regedor, 2",,65,Santa Maria Maior,06,Lisboa,11,Lisboa,PT170,AML,,,,
+MN0048,Padrão do Campo Pequeno,38.740063,-9.142033,1,0,0,0,1,2023-08-25,"Rua do Arco do Cego, (junto ao Auditório ao Ar Livre da Sede da CGD)",,55,Areeiro,06,Lisboa,11,Lisboa,PT170,AML,,,,061215
+MN0049,Padrão dos Descobrimentos,38.693612,-9.205699,1,0,0,0,,,,,58,Belém,06,Lisboa,11,Lisboa,PT170,AML,,,,
+MN0050,Palácio Almada-Carvalhais,38.709077,-9.151218,1,0,0,0,1,2023-08-25,"Largo do Conde Barão, 48-57; Rua das Gaivotas, 1-3",,61,Misericórdia,06,Lisboa,11,Lisboa,PT170,AML,,,,
+MN0051,Palácio Benagazil de Olivais,38.774402,-9.128002,1,0,0,0,1,2023-08-25,,,33,Olivais,06,Lisboa,11,Lisboa,PT170,AML,,,,060269|060270
+MN0052,Palácio de São Bento,38.712607,-9.153928,1,0,0,0,1,2023-08-25,Praça da Constituição de 1976,,60,Estrela,06,Lisboa,11,Lisboa,PT170,AML,www.parlamento.pt,,=+351 213 919 000,
+MN0053,Palácio dos Condes de Almada/Palácio da Independência,38.715307,-9.139310,1,0,0,0,1,2023-08-25,"Rua das Portas de Santo Antão, 2-2F; Largo de São Domingos, 10-13; Escadinhas da Barroca, 1",,65,Santa Maria Maior,06,Lisboa,11,Lisboa,PT170,AML,,,,
+MN0054,Palácio Fronteira,38.739780,-9.180681,1,0,0,0,1,2023-08-25,"Largo São Domingos de Benfica, 1",,39,São Domingos de Benfica,06,Lisboa,11,Lisboa,PT170,AML,www.fronteira-alorna.pt,fronteiraalorna@mail.telepac.pt,=+351 217 782 023,
+MN0055,Palácio Nacional da Ajuda,38.707606,-9.198119,1,0,0,0,1,2023-08-25,Largo da Ajuda,,01,Ajuda,06,Lisboa,11,Lisboa,PT170,AML,http://www.palacioajuda.gov.pt/,geral@pnajuda.dgpc.pt,=+351 213 637 095,
+MN0056,Palácio Nacional de Belém (conjunto intramuros),38.698370,-9.200682,1,0,0,0,1,2023-08-25,Praça Afonso de Albuquerque,,58,Belém,06,Lisboa,11,Lisboa,PT170,AML,www.museu.presidencia.pt,museu@presidencia.pt,=+351 213 614 660,060099|060103
+MN0057,"Palácio Vale Flor (conjunto): palácio,Casa da França,lavandaria,cocheiras,garagem,jardim murado",38.703764,-9.186742,1,0,0,0,1,2023-08-25,"Rua Jau, 52-60; Calçada de Santo Amaro, 176-176A; Rua João de Barros, 31; Rua Soares de Passos, 5-5A; Travessa dos Moinhos, 39-39A; Rua Jau, 45-49; Rua Soares de Passos, 3-3D; Calçada de Santo Amaro, Muro
+CICL
+",,02,Alcântara,06,Lisboa,11,Lisboa,PT170,AML,,,,
+MN0058,Pelourinho,38.708029,-9.139200,1,0,0,0,1,2023-08-25,Praça do Município,,65,Santa Maria Maior,06,Lisboa,11,Lisboa,PT170,AML,,,,
+MN0059,Portal da Capela de Nossa Senhora dos Remédios,38.711615,-9.127726,1,0,0,0,1,2023-08-25,"Rua dos Remédios, Ermida; Beco do Espírito Santo, 16",,65,Santa Maria Maior,06,Lisboa,11,Lisboa,PT170,AML,,,,
+MN0060,Portal e Galilé da Igreja de Chelas,38.740225,-9.117939,1,0,0,0,1,2023-08-25,"Largo de Chelas, Igreja e Convento de Chelas",,21,Marvila,06,Lisboa,11,Lisboa,PT170,AML,,,,
+MN0061,Praça do Comércio (Terreiro do Paço),38.707621,-9.136574,1,0,0,0,1,2023-08-25,Praça do Comércio,,65,Santa Maria Maior,06,Lisboa,11,Lisboa,PT170,AML,,,,
+MN0062,Santuário Nacional de Cristo Rei,38.678599,-9.171342,0,0,1,0,,,,,12,"União das freguesias de Almada, Cova da Piedade, Pragal e Cacilhas",03,Almada,15,Setúbal,PT170,AML,,,,020009
+MN0063,Sé de Lisboa (Igreja de Santa Maria Maior),38.709838,-9.132597,1,0,0,0,1,2023-08-25,Largo da Sé,,65,Santa Maria Maior,06,Lisboa,11,Lisboa,PT170,AML,,,,
+MN0064,Sepulturas da Igreja de Santa Luzia,38.711874,-9.130308,1,0,0,0,1,2023-08-25,"Largo de Santa Luzia, Igreja de Santa Luzia",,65,Santa Maria Maior,06,Lisboa,11,Lisboa,PT170,AML,,,,
+MN0065,Teatro Nacional D. Maria II,38.714770,-9.139772,1,0,0,0,1,2023-08-25,Praça D. Pedro IV,,65,Santa Maria Maior,06,Lisboa,11,Lisboa,PT170,AML,www.teatro-dmaria.pt,,=+351 213 250 800 / 835,
+MN0066,Teatro Nacional de São Carlos,38.709340,-9.141734,1,0,0,0,1,2023-08-25,"Rua Serpa Pinto, 9",,65,Santa Maria Maior,06,Lisboa,11,Lisboa,PT170,AML,tnsc.pt,info@saocarlos.pt,=+351 213 253 045,
+MN0067,Torre de Belém,38.691591,-9.215929,1,0,0,0,1,2023-08-25,"Avenida de Brasília, Torre de Belém",,58,Belém,06,Lisboa,11,Lisboa,PT170,AML,http://www.torrebelem.pt,,,
+MN0068,Túmulo da Rainha D. Mariana Vitória,38.704606,-9.165008,1,0,0,0,1,2023-08-25,"Rua do Olival, 63; Rua Presidente Arriaga, Igreja",,60,Estrela,06,Lisboa,11,Lisboa,PT170,AML,,,,060413|060414
+MN0069,Túmulo de Dom João das Regras,38.741476,-9.180774,1,0,0,0,1,2023-08-25,"Largo São Domingos de Benfica, Igreja",,39,São Domingos de Benfica,06,Lisboa,11,Lisboa,PT170,AML,,,,
+MN0070,,38.624346,-8.913303,0,0,0,1,,,,,03,Pinhal Novo,08,Palmela,15,Setúbal,PT170,AML,,,,130365|130369|130371
