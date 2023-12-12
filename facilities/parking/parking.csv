@@ -1,0 +1,164 @@
+id,name,lat,lon,A1,A2,A3,A4,is_active,validation_date,Parent Station Name,Parent Station ID,parish_id,parish_name,municipality_id,municipality_name,district_id,district_name,region_id,region_name
+P00001,25 de Abril (Metro) (A),38.685502,-9.148435,0,0,1,0,,,25 de Abril (Metro),I020130,,"União das freguesias de Almada, Cova da Piedade, Pragal e Cacilhas",1503,Almada,15,Setúbal,PT170,AML
+P00002,25 de Abril (Metro) (B),38.683732,-9.150066,0,0,1,0,,,25 de Abril (Metro),I020130,,"União das freguesias de Almada, Cova da Piedade, Pragal e Cacilhas",1503,Almada,15,Setúbal,PT170,AML
+P00003,Agualva-Cacém (Estação) (A),38.767442,-9.299209,1,0,0,0,,,Agualva-Cacém (Estação),I170002,,União das freguesias de Agualva e Mira-Sintra,1111,Sintra,11,Lisboa,PT170,AML
+P00004,Agualva-Cacém (Estação) (B),38.768230,-9.299513,1,0,0,0,,,Agualva-Cacém (Estação),I170002,,União das freguesias de Agualva e Mira-Sintra,1111,Sintra,11,Lisboa,PT170,AML
+P00005,Agualva-Cacém (Estação) (C),38.768176,-9.299924,1,0,0,0,,,Agualva-Cacém (Estação),I170002,,União das freguesias de Agualva e Mira-Sintra,1111,Sintra,11,Lisboa,PT170,AML
+P00006,Agualva-Cacém (Estação) (D),38.766798,-9.301402,1,0,0,0,,,Agualva-Cacém (Estação),I170002,,União das freguesias de Agualva e Mira-Sintra,1111,Sintra,11,Lisboa,PT170,AML
+P00007,Agualva-Cacém (Estação) (E),38.766335,-9.297822,1,0,0,0,,,Agualva-Cacém (Estação),I170002,,União das freguesias de Agualva e Mira-Sintra,1111,Sintra,11,Lisboa,PT170,AML
+P00008,Agualva-Cacém (Estação) (F),38.765122,-9.297235,1,0,0,0,,,Agualva-Cacém (Estação),I170002,,União das freguesias de Agualva e Mira-Sintra,1111,Sintra,11,Lisboa,PT170,AML
+P00009,Algés (Estação) (A),38.699586,-9.226978,1,0,0,0,,,Algés (Estação),I120005,,"União das freguesias de Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",1110,Oeiras,11,Lisboa,PT170,AML
+P00010,Algés (Estação) (B),38.700175,-9.227592,1,0,0,0,,,Algés (Estação),I120005,,"União das freguesias de Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",1110,Oeiras,11,Lisboa,PT170,AML
+P00011,Algueirão - Mem Martins (Estação) (A),38.798129,-9.339072,1,0,0,0,,,Algueirão - Mem Martins (Estação),I170006,,Algueirão-Mem Martins,1111,Sintra,11,Lisboa,PT170,AML
+P00012,Algueirão - Mem Martins (Estação) (B),38.798316,-9.339812,1,0,0,0,,,Algueirão - Mem Martins (Estação),I170006,,Algueirão-Mem Martins,1111,Sintra,11,Lisboa,PT170,AML
+P00013,Alhandra (Estação) (A),38.924338,-9.011494,0,1,0,0,,,Alhandra (Estação),I180007,,"União das freguesias de Alhandra, São João dos Montes e Calhandriz",1114,Vila Franca de Xira,11,Lisboa,PT170,AML
+P00014,Alhandra (Estação) (B),38.923966,-9.011136,0,1,0,0,,,Alhandra (Estação),I180007,,"União das freguesias de Alhandra, São João dos Montes e Calhandriz",1114,Vila Franca de Xira,11,Lisboa,PT170,AML
+P00015,Alhandra (Estação) (C),38.924418,-9.010885,0,1,0,0,,,Alhandra (Estação),I180007,,"União das freguesias de Alhandra, São João dos Montes e Calhandriz",1114,Vila Franca de Xira,11,Lisboa,PT170,AML
+P00016,Alhos Vedros (Estação) (A),38.652457,-9.028382,0,0,0,1,,,Alhos Vedros (Estação),I090008,,Alhos Vedros,1506,Moita,15,Setúbal,PT170,AML
+P00017,Alhos Vedros (Estação) (B),38.653095,-9.028019,0,0,0,1,,,Alhos Vedros (Estação),I090008,,Alhos Vedros,1506,Moita,15,Setúbal,PT170,AML
+P00018,Alhos Vedros (Estação) (C),38.651647,-9.026572,0,0,0,1,,,Alhos Vedros (Estação),I090008,,Alhos Vedros,1506,Moita,15,Setúbal,PT170,AML
+P00019,Alhos Vedros (Estação) (D),38.651484,-9.025752,0,0,0,1,,,Alhos Vedros (Estação),I090008,,Alhos Vedros,1506,Moita,15,Setúbal,PT170,AML
+P00020,Almada (Metro),38.675720,-9.163820,0,0,1,0,,,Almada (Metro),I020127,,"União das freguesias de Almada, Cova da Piedade, Pragal e Cacilhas",1503,Almada,15,Setúbal,PT170,AML
+P00021,Alverca (Estação) (A),38.890915,-9.033348,0,1,0,0,,,Alverca (Estação),I180010,,União das freguesias de Alverca do Ribatejo e Sobralinho,1114,Vila Franca de Xira,11,Lisboa,PT170,AML
+P00022,Alverca (Estação) (B),38.890003,-9.034655,0,1,0,0,,,Alverca (Estação),I180010,,União das freguesias de Alverca do Ribatejo e Sobralinho,1114,Vila Franca de Xira,11,Lisboa,PT170,AML
+P00023,Alverca (Estação) (C),38.889855,-9.034946,0,1,0,0,,,Alverca (Estação),I180010,,União das freguesias de Alverca do Ribatejo e Sobralinho,1114,Vila Franca de Xira,11,Lisboa,PT170,AML
+P00024,Alverca (Estação) (D),38.889492,-9.035117,0,1,0,0,,,Alverca (Estação),I180010,,União das freguesias de Alverca do Ribatejo e Sobralinho,1114,Vila Franca de Xira,11,Lisboa,PT170,AML
+P00025,Alverca (Estação) (E),38.890391,-9.035900,0,1,0,0,,,Alverca (Estação),I180010,,União das freguesias de Alverca do Ribatejo e Sobralinho,1114,Vila Franca de Xira,11,Lisboa,PT170,AML
+P00026,Amadora (Estação) (A),38.758899,-9.232829,1,0,0,0,,,Amadora (Estação),I030011,,Venteira,1115,Amadora,11,Lisboa,PT170,AML
+P00027,Amadora (Estação) (B),38.758550,-9.234102,1,0,0,0,,,Amadora (Estação),I030011,,Venteira,1115,Amadora,11,Lisboa,PT170,AML
+P00028,Amadora (Estação) (C),38.760370,-9.237707,1,0,0,0,,,Amadora (Estação),I030011,,Venteira,1115,Amadora,11,Lisboa,PT170,AML
+P00029,Amadora (Hospital) (A),38.745538,-9.245958,1,0,0,0,,,Amadora (Hospital),I030012,,Venteira,1115,Amadora,11,Lisboa,PT170,AML
+P00030,Amadora (Hospital) (B),38.745709,-9.245988,1,0,0,0,,,Amadora (Hospital),I030012,,Venteira,1115,Amadora,11,Lisboa,PT170,AML
+P00031,Amadora (Hospital) (C),38.745823,-9.245891,1,0,0,0,,,Amadora (Hospital),I030012,,Venteira,1115,Amadora,11,Lisboa,PT170,AML
+P00032,Amadora Este (Metro) (A),38.758332,-9.219399,1,0,0,0,,,Amadora Este (Metro),I030013,,Falagueira-Venda Nova,1115,Amadora,11,Lisboa,PT170,AML
+P00033,Amadora Este (Metro) (B),38.759169,-9.218243,1,0,0,0,,,Amadora Este (Metro),I030013,,Falagueira-Venda Nova,1115,Amadora,11,Lisboa,PT170,AML
+P00034,António Gedeão (Metro),38.660035,-9.156493,0,0,1,0,,,António Gedeão (Metro),I020123,,União das freguesias de Laranjeiro e Feijó,1503,Almada,15,Setúbal,PT170,AML
+P00035,Barreiro (Cais Fluvial) (A),38.652032,-9.076891,0,0,0,1,,,Barreiro (Cais Fluvial),I040026,,"União das freguesias de Alto do Seixalinho, Santo André e Verderena",1504,Barreiro,15,Setúbal,PT170,AML
+P00036,Barreiro (Cais Fluvial) (B),38.652952,-9.076000,0,0,0,1,,,Barreiro (Cais Fluvial),I040026,,"União das freguesias de Alto do Seixalinho, Santo André e Verderena",1504,Barreiro,15,Setúbal,PT170,AML
+P00037,Barreiro (Cais Fluvial) (C),38.652916,-9.078890,0,0,0,1,,,Barreiro (Cais Fluvial),I040026,,"União das freguesias de Alto do Seixalinho, Santo André e Verderena",1504,Barreiro,15,Setúbal,PT170,AML
+P00038,Barreiro (Cais Fluvial) (D),38.653073,-9.077255,0,0,0,1,,,Barreiro (Cais Fluvial),I040026,,"União das freguesias de Alto do Seixalinho, Santo André e Verderena",1504,Barreiro,15,Setúbal,PT170,AML
+P00039,Barreiro A (Estação) (A),38.659571,-9.072137,0,0,0,1,,,Barreiro A (Estação),I040118,,"União das freguesias de Alto do Seixalinho, Santo André e Verderena",1504,Barreiro,15,Setúbal,PT170,AML
+P00040,Barreiro A (Estação) (B),38.660029,-9.071660,0,0,0,1,,,,I040118,,,1504,Barreiro,15,Setúbal,PT170,AML
+P00041,Barreiro A (Estação) (C),38.660241,-9.073052,0,0,0,1,,,Barreiro A (Estação),I040118,,"União das freguesias de Alto do Seixalinho, Santo André e Verderena",1504,Barreiro,15,Setúbal,PT170,AML
+P00042,Belém (Estação),38.695667,-9.198275,1,0,0,0,,,Belém (Estação),I060027,,Belém,1106,Lisboa,11,Lisboa,PT170,AML
+P00043,Bento Gonçalves (Metro) (A),38.672983,-9.167757,0,0,1,0,,,Bento Gonçalves (Metro),I020126,,"União das freguesias de Almada, Cova da Piedade, Pragal e Cacilhas",1503,Almada,15,Setúbal,PT170,AML
+P00044,Bento Gonçalves (Metro) (B),38.672924,-9.167635,0,0,1,0,,,Bento Gonçalves (Metro),I020126,,"União das freguesias de Almada, Cova da Piedade, Pragal e Cacilhas",1503,Almada,15,Setúbal,PT170,AML
+P00045,Bobadela (Estação) (A),38.806300,-9.095583,0,1,0,0,,,Bobadela (Estação),I060143,,"União das freguesias de Santa Iria de Azoia, São João da Talha e Bobadela",1107,Loures,11,Lisboa,PT170,AML
+P00046,Bobadela (Estação) (B),38.806689,-9.096267,0,1,0,0,,,Bobadela (Estação),I060143,,"União das freguesias de Santa Iria de Azoia, São João da Talha e Bobadela",1107,Loures,11,Lisboa,PT170,AML
+P00047,Bucelas (A),38.900834,-9.118618,0,1,0,0,,,Bucelas,I070028,,Bucelas,1107,Loures,11,Lisboa,PT170,AML
+P00048,Bucelas (B),38.900921,-9.119101,0,1,0,0,,,Bucelas,I070028,,Bucelas,1107,Loures,11,Lisboa,PT170,AML
+P00049,Cais Sodré (Estação) (A),38.705910,-9.142512,1,0,0,0,,,Cais Sodré (Estação),I020135,,Misericórdia,1106,Lisboa,11,Lisboa,PT170,AML
+P00050,Cais Sodré (Estação) (B),38.705268,-9.145747,1,0,0,0,,,Cais Sodré (Estação),I020135,,Misericórdia,1106,Lisboa,11,Lisboa,PT170,AML
+P00051,Campo Grande (Metro) (A),38.760185,-9.160082,1,0,0,0,,,Campo Grande (Metro),I060031,,Lumiar,1106,Lisboa,11,Lisboa,PT170,AML
+P00052,Campo Grande (Metro) (B),38.761970,-9.161927,1,0,0,0,,,Campo Grande (Metro),I060031,,Lumiar,1106,Lisboa,11,Lisboa,PT170,AML
+P00053,Carregado (Estação),39.006788,-8.954067,0,1,0,0,,,Carregado (Estação),I180034,,União das freguesias de Castanheira do Ribatejo e Cachoeiras,1114,Vila Franca de Xira,11,Lisboa,PT170,AML
+P00054,Caxias (Estação) (A),38.699114,-9.273969,1,0,0,0,,,Caxias (Estação),I120039,,"União das freguesias de Oeiras e São Julião da Barra, Paço de Arcos e Caxias",1110,Oeiras,11,Lisboa,PT170,AML
+P00055,Caxias (Estação) (B),38.698466,-9.273002,1,0,0,0,,,Caxias (Estação),I120039,,"União das freguesias de Oeiras e São Julião da Barra, Paço de Arcos e Caxias",1110,Oeiras,11,Lisboa,PT170,AML
+P00056,Coina (Estação) (A),38.586065,-9.051949,0,0,1,0,,,Coina (Estação),I140041,,"União das freguesias do Seixal, Arrentela e Aldeia de Paio Pires",1510,Seixal,15,Setúbal,PT170,AML
+P00057,Coina (Estação) (B),38.584762,-9.049857,0,0,0,1,,,Coina (Estação),I140041,,União das freguesias de Palhais e Coina,1504,Barreiro,15,Setúbal,PT170,AML
+P00058,Colégio Militar (Metro) (A),38.753555,-9.185619,1,0,0,0,,,Colégio Militar (Metro),I060042,,Benfica,1106,Lisboa,11,Lisboa,PT170,AML
+P00059,Colégio Militar (Metro) (B),38.753225,-9.189253,1,0,0,0,,,Colégio Militar (Metro),I060042,,Benfica,1106,Lisboa,11,Lisboa,PT170,AML
+P00060,Corroios (Estação) (A),38.637362,-9.150688,0,0,1,0,,,Corroios (Estação),I140043,,Corroios,1510,Seixal,15,Setúbal,PT170,AML
+P00061,Corroios (Estação) (B),38.637608,-9.153303,0,0,1,0,,,Corroios (Estação),I140043,,Corroios,1510,Seixal,15,Setúbal,PT170,AML
+P00062,Corroios (Estação) (C),38.636994,-9.154169,0,0,1,0,,,Corroios (Estação),I140043,,Corroios,1510,Seixal,15,Setúbal,PT170,AML
+P00063,Corroios (Estação) (D),38.636156,-9.152905,0,0,1,0,,,Corroios (Estação),I140043,,Corroios,1510,Seixal,15,Setúbal,PT170,AML
+P00064,Corroios (Estação) (E),38.636610,-9.154619,0,0,1,0,,,Corroios (Estação),I140043,,Corroios,1510,Seixal,15,Setúbal,PT170,AML
+P00065,Corroios (Metro),38.642755,-9.151490,0,0,1,0,,,Corroios (Metro),I140120,,Corroios,1510,Seixal,15,Setúbal,PT170,AML
+P00066,Cova da Piedade (Metro) (A),38.667447,-9.165231,0,0,1,0,,,Cova da Piedade (Metro),I020040,,"União das freguesias de Almada, Cova da Piedade, Pragal e Cacilhas",1503,Almada,15,Setúbal,PT170,AML
+P00067,Cova da Piedade (Metro) (B),38.667071,-9.162871,0,0,1,0,,,Cova da Piedade (Metro),I020040,,"União das freguesias de Almada, Cova da Piedade, Pragal e Cacilhas",1503,Almada,15,Setúbal,PT170,AML
+P00068,Ericeira (Terminal),38.967544,-9.406236,0,1,0,0,,,Ericeira (Terminal),I080047,,Ericeira,1109,Mafra,11,Lisboa,PT170,AML
+P00069,Estoril (Estação),38.703303,-9.398010,1,0,0,0,,,Estoril (Estação),I050048,,União das freguesias de Cascais e Estoril,1105,Cascais,11,Lisboa,PT170,AML
+P00070,Fogueteiro (Estação) (A),38.609276,-9.102109,0,0,1,0,,,Fogueteiro (Estação),I140051,,"União das freguesias do Seixal, Arrentela e Aldeia de Paio Pires",1510,Seixal,15,Setúbal,PT170,AML
+P00071,Fogueteiro (Estação) (B),38.609937,-9.099636,0,0,1,0,,,Fogueteiro (Estação),I140051,,"União das freguesias do Seixal, Arrentela e Aldeia de Paio Pires",1510,Seixal,15,Setúbal,PT170,AML
+P00072,Foros de Amora (Estação) (A),38.620426,-9.127395,0,0,1,0,,,Foros de Amora (Estação),I140053,,Amora,1510,Seixal,15,Setúbal,PT170,AML
+P00073,Foros de Amora (Estação) (B),38.621923,-9.129475,0,0,1,0,,,Foros de Amora (Estação),I140053,,Amora,1510,Seixal,15,Setúbal,PT170,AML
+P00074,Foros de Amora (Estação) (C),38.623416,-9.131030,0,0,1,0,,,Foros de Amora (Estação),I140053,,Amora,1510,Seixal,15,Setúbal,PT170,AML
+P00075,João Baptista (Metro),38.678640,-9.157248,0,0,1,0,,,João Baptista (Metro),I020128,,"União das freguesias de Almada, Cova da Piedade, Pragal e Cacilhas",1503,Almada,15,Setúbal,PT170,AML
+P00076,Lavradio (Estação) (A),38.662277,-9.058199,0,0,0,1,,,Lavradio (Estação),I040119,,"União das freguesias de Alto do Seixalinho, Santo André e Verderena",1504,Barreiro,15,Setúbal,PT170,AML
+P00077,Lavradio (Estação) (B),38.661539,-9.058753,0,0,0,1,,,Lavradio (Estação),I040119,,"União das freguesias de Alto do Seixalinho, Santo André e Verderena",1504,Barreiro,15,Setúbal,PT170,AML
+P00078,Lumiar (Metro) (A),38.773288,-9.160459,1,0,0,0,,,Lumiar (Metro),I060140,,Lumiar,1106,Lisboa,11,Lisboa,PT170,AML
+P00079,Lumiar (Metro) (B),38.773512,-9.159495,1,0,0,0,,,Lumiar (Metro),I060140,,Lumiar,1106,Lisboa,11,Lisboa,PT170,AML
+P00080,Mafra Parque Intermodal (Terminal),38.940290,-9.335857,0,1,0,0,,,Mafra Parque Intermodal (Terminal),I080059,,Mafra,1109,Mafra,11,Lisboa,PT170,AML
+P00081,Malveira R 25 Abril (Estação),38.930706,-9.254407,0,1,0,0,,,Malveira R 25 Abril (Estação),I080060,,União das freguesias de Malveira e São Miguel de Alcainça,1109,Mafra,11,Lisboa,PT170,AML
+P00082,Marquês de Pombal (Metro) (A),38.728063,-9.155419,1,0,0,0,,,Marquês de Pombal (Metro),I060061,,Avenidas Novas,1106,Lisboa,11,Lisboa,PT170,AML
+P00083,Marquês de Pombal (Metro) (B),38.729930,-9.155919,1,0,0,0,,,Marquês de Pombal (Metro),I060061,,Avenidas Novas,1106,Lisboa,11,Lisboa,PT170,AML
+P00084,Massamá - Barcarena (Estação) (A),38.752081,-9.284090,1,0,0,0,,,Massamá - Barcarena (Estação),I120062,,União das freguesias de Massamá e Monte Abraão,1111,Sintra,11,Lisboa,PT170,AML
+P00085,Massamá - Barcarena (Estação) (B),38.751909,-9.282886,1,0,0,0,,,Massamá - Barcarena (Estação),I120062,,Barcarena,1110,Oeiras,11,Lisboa,PT170,AML
+P00086,Massamá - Barcarena (Estação) (C),38.752430,-9.283045,1,0,0,0,,,Massamá - Barcarena (Estação),I120062,,União das freguesias de Massamá e Monte Abraão,1111,Sintra,11,Lisboa,PT170,AML
+P00087,Massamá - Barcarena (Estação) (D),38.752329,-9.282358,1,0,0,0,,,Massamá - Barcarena (Estação),I120062,,União das freguesias de Massamá e Monte Abraão,1111,Sintra,11,Lisboa,PT170,AML
+P00088,Massamá - Barcarena (Estação) (E),38.750740,-9.284339,1,0,0,0,,,Massamá - Barcarena (Estação),I120062,,Barcarena,1110,Oeiras,11,Lisboa,PT170,AML
+P00089,Massamá - Barcarena (Estação) (F),38.750712,-9.284831,1,0,0,0,,,Massamá - Barcarena (Estação),I120062,,Barcarena,1110,Oeiras,11,Lisboa,PT170,AML
+P00090,Mercês (Estação) (A),38.792558,-9.329306,1,0,0,0,,,Mercês (Estação),I170063,,Algueirão-Mem Martins,1111,Sintra,11,Lisboa,PT170,AML
+P00091,Mercês (Estação) (B),38.793174,-9.329245,1,0,0,0,,,Mercês (Estação),I170063,,Algueirão-Mem Martins,1111,Sintra,11,Lisboa,PT170,AML
+P00092,Mercês (Estação) (C),38.791782,-9.328472,1,0,0,0,,,Mercês (Estação),I170063,,Algueirão-Mem Martins,1111,Sintra,11,Lisboa,PT170,AML
+P00093,Monte Abraão (Estação) (A),38.754514,-9.267883,1,0,0,0,,,Monte Abraão (Estação),I170066,,União das freguesias de Massamá e Monte Abraão,1111,Sintra,11,Lisboa,PT170,AML
+P00094,Monte Abraão (Estação) (B),38.756648,-9.265146,1,0,0,0,,,Monte Abraão (Estação),I170066,,União das freguesias de Massamá e Monte Abraão,1111,Sintra,11,Lisboa,PT170,AML
+P00095,Monte da Caparica (Metro),38.665404,-9.199627,0,0,1,0,,,Monte da Caparica (Metro),I020133,,União das freguesias de Caparica e Trafaria,1503,Almada,15,Setúbal,PT170,AML
+P00096,Montijo (Terminal) (A),38.704762,-8.975905,0,0,0,1,,,Montijo (Terminal),I100067,,União das freguesias de Montijo e Afonsoeiro,1507,Montijo,15,Setúbal,PT170,AML
+P00097,Montijo (Terminal) (B),38.705282,-8.976033,0,0,0,1,,,Montijo (Terminal),I100067,,União das freguesias de Montijo e Afonsoeiro,1507,Montijo,15,Setúbal,PT170,AML
+P00098,Montijo (Terminal) (C),38.705370,-8.977224,0,0,0,1,,,Montijo (Terminal),I100067,,União das freguesias de Montijo e Afonsoeiro,1507,Montijo,15,Setúbal,PT170,AML
+P00099,Odivelas (Metro) (A),38.792449,-9.171249,0,1,0,0,,,Odivelas (Metro),I110068,,Odivelas,1116,Odivelas,11,Lisboa,PT170,AML
+P00100,Odivelas (Metro) (B),38.792832,-9.174789,0,1,0,0,,,Odivelas (Metro),I110068,,Odivelas,1116,Odivelas,11,Lisboa,PT170,AML
+P00101,Odivelas (Metro) (C),38.792478,-9.175390,0,1,0,0,,,Odivelas (Metro),I110068,,Odivelas,1116,Odivelas,11,Lisboa,PT170,AML
+P00102,Odivelas (Metro) (D),38.794193,-9.173668,0,1,0,0,,,Odivelas (Metro),I110068,,Odivelas,1116,Odivelas,11,Lisboa,PT170,AML
+P00103,Odivelas (Metro) (E),38.793759,-9.175709,0,1,0,0,,,Odivelas (Metro),I110068,,Odivelas,1116,Odivelas,11,Lisboa,PT170,AML
+P00104,Odivelas (Metro) (F),38.794954,-9.174109,0,1,0,0,,,Odivelas (Metro),I110068,,Odivelas,1116,Odivelas,11,Lisboa,PT170,AML
+P00105,Oeiras (Estação) (A),38.688626,-9.315790,1,0,0,0,,,Oeiras (Estação),I120070,,"União das freguesias de Oeiras e São Julião da Barra, Paço de Arcos e Caxias",1110,Oeiras,11,Lisboa,PT170,AML
+P00106,Oeiras (Estação) (B),38.686534,-9.319760,1,0,0,0,,,Oeiras (Estação),I120070,,"União das freguesias de Oeiras e São Julião da Barra, Paço de Arcos e Caxias",1110,Oeiras,11,Lisboa,PT170,AML
+P00107,Palmela (Estação),38.570729,-8.873140,0,0,0,1,,,Palmela (Estação),I130072,,Palmela,1508,Palmela,15,Setúbal,PT170,AML
+P00108,Palmela (Terminal) (A),38.570421,-8.905586,0,0,0,1,,,Palmela (Terminal),I130073,,Palmela,1508,Palmela,15,Setúbal,PT170,AML
+P00109,Palmela (Terminal) (B),38.570583,-8.905571,0,0,0,1,,,Palmela (Terminal),I130073,,Palmela,1508,Palmela,15,Setúbal,PT170,AML
+P00110,Parede (Terminal),38.692047,-9.358522,1,0,0,0,,,Parede (Terminal),I050074,,União das freguesias de Carcavelos e Parede,1105,Cascais,11,Lisboa,PT170,AML
+P00111,Parque da Paz (Metro) (A),38.664313,-9.159434,0,0,1,0,,,Parque da Paz (Metro),I020124,,"União das freguesias de Almada, Cova da Piedade, Pragal e Cacilhas",1503,Almada,15,Setúbal,PT170,AML
+P00112,Parque da Paz (Metro) (B),38.663880,-9.159770,0,0,1,0,,,Parque da Paz (Metro),I020124,,"União das freguesias de Almada, Cova da Piedade, Pragal e Cacilhas",1503,Almada,15,Setúbal,PT170,AML
+P00113,Parque Intermodal Alto da Vela (Mafra) (A),38.933560,-9.326592,0,1,0,0,,,Parque Intermodal Alto da Vela (Mafra),I080058,,Mafra,1109,Mafra,11,Lisboa,PT170,AML
+P00114,Parque Intermodal Alto da Vela (Mafra) (B),38.934804,-9.326639,0,1,0,0,,,Parque Intermodal Alto da Vela (Mafra),I080058,,Mafra,1109,Mafra,11,Lisboa,PT170,AML
+P00115,Pç Gil Vicente (Metro) (A),38.682660,-9.152550,0,0,1,0,,,Pç Gil Vicente (Metro),I020129,,"União das freguesias de Almada, Cova da Piedade, Pragal e Cacilhas",1503,Almada,15,Setúbal,PT170,AML
+P00116,Pç Gil Vicente (Metro) (B),38.682100,-9.152960,0,0,1,0,,,Pç Gil Vicente (Metro),I020129,,"União das freguesias de Almada, Cova da Piedade, Pragal e Cacilhas",1503,Almada,15,Setúbal,PT170,AML
+P00117,Penalva (Estação) (A),38.589794,-8.996848,0,0,0,1,,,Penalva (Estação),I130079,,Quinta do Anjo,1508,Palmela,15,Setúbal,PT170,AML
+P00118,Penalva (Estação) (B),38.591086,-8.995137,0,0,0,1,,,Penalva (Estação),I130079,,Quinta do Anjo,1508,Palmela,15,Setúbal,PT170,AML
+P00119,Pinhal Novo (Estação) (A),38.630629,-8.913563,0,0,0,1,,,Pinhal Novo (Estação),I130079,,Pinhal Novo,1508,Palmela,15,Setúbal,PT170,AML
+P00120,Pinhal Novo (Estação) (B),38.630630,-8.911753,0,0,0,1,,,Pinhal Novo (Estação),I130080,,Pinhal Novo,1508,Palmela,15,Setúbal,PT170,AML
+P00121,Portela de Sintra (Estação) (A),38.802555,-9.374507,1,0,0,0,,,Portela de Sintra (Estação),I170082,,"União das freguesias de Sintra (Santa Maria e São Miguel, São Martinho e São Pedro de Penaferrim)",1111,Sintra,11,Lisboa,PT170,AML
+P00122,Portela de Sintra (Estação) (B),38.803103,-9.375173,1,0,0,0,,,Portela de Sintra (Estação),I170082,,"União das freguesias de Sintra (Santa Maria e São Miguel, São Martinho e São Pedro de Penaferrim)",1111,Sintra,11,Lisboa,PT170,AML
+P00123,Portela de Sintra (Estação) (C),38.801536,-9.376665,1,0,0,0,,,Portela de Sintra (Estação),I170082,,"União das freguesias de Sintra (Santa Maria e São Miguel, São Martinho e São Pedro de Penaferrim)",1111,Sintra,11,Lisboa,PT170,AML
+P00124,Porto Brandão (Cais Fluvial),38.677800,-9.206660,0,0,1,0,,,Porto Brandão (Cais Fluvial),I020083,,União das freguesias de Caparica e Trafaria,1503,Almada,15,Setúbal,PT170,AML
+P00125,Póvoa Sta Iria (Estação) (A),38.859003,-9.063301,0,1,0,0,,,Póvoa Sta Iria (Estação),I180084,,União das freguesias de Póvoa de Santa Iria e Forte da Casa,1114,Vila Franca de Xira,11,Lisboa,PT170,AML
+P00126,Póvoa Sta Iria (Estação) (B),38.861526,-9.062445,0,1,0,0,,,Póvoa Sta Iria (Estação),I180084,,União das freguesias de Póvoa de Santa Iria e Forte da Casa,1114,Vila Franca de Xira,11,Lisboa,PT170,AML
+P00127,Queluz - Belas (Estação) (A),38.758796,-9.256190,1,0,0,0,,,Queluz - Belas (Estação),I170088,,União das freguesias de Queluz e Belas,1111,Sintra,11,Lisboa,PT170,AML
+P00128,Queluz - Belas (Estação) (B),38.759487,-9.258126,1,0,0,0,,,Queluz - Belas (Estação),I170088,,União das freguesias de Queluz e Belas,1111,Sintra,11,Lisboa,PT170,AML
+P00129,Queluz - Belas (Estação) (C),38.758313,-9.256319,1,0,0,0,,,Queluz - Belas (Estação),I170088,,União das freguesias de Queluz e Belas,1111,Sintra,11,Lisboa,PT170,AML
+P00130,Ramada (Metro),38.670410,-9.170638,0,0,1,0,,,Ramada (Metro),I020125,,"União das freguesias de Almada, Cova da Piedade, Pragal e Cacilhas",1503,Almada,15,Setúbal,PT170,AML
+P00131,Reboleira (Metro) (A),38.751854,-9.224236,1,0,0,0,,,Reboleira (Metro),I030094,,Águas Livres,1115,Amadora,11,Lisboa,PT170,AML
+P00132,Reboleira (Metro) (B),38.752139,-9.225151,1,0,0,0,,,Reboleira (Metro),I030094,,Falagueira-Venda Nova,1115,Amadora,11,Lisboa,PT170,AML
+P00133,Reboleira (Metro) (C),38.750926,-9.223877,1,0,0,0,,,Reboleira (Metro),I030094,,Falagueira-Venda Nova,1115,Amadora,11,Lisboa,PT170,AML
+P00134,Reboleira (Metro) (D),38.750630,-9.221109,1,0,0,0,,,Reboleira (Metro),I030094,,Águas Livres,1115,Amadora,11,Lisboa,PT170,AML
+P00135,Rio de Mouro (Estação) (A),38.784171,-9.319792,1,0,0,0,,,Rio de Mouro (Estação),I170097,,Rio de Mouro,1111,Sintra,11,Lisboa,PT170,AML
+P00136,Rio de Mouro (Estação) (B),38.784349,-9.319859,1,0,0,0,,,Rio de Mouro (Estação),I170097,,Rio de Mouro,1111,Sintra,11,Lisboa,PT170,AML
+P00137,Rio de Mouro (Estação) (C),38.785050,-9.323042,1,0,0,0,,,Rio de Mouro (Estação),I170097,,Rio de Mouro,1111,Sintra,11,Lisboa,PT170,AML
+P00138,Rio de Mouro (Estação) (D),38.783767,-9.321565,1,0,0,0,,,Rio de Mouro (Estação),I170097,,Rio de Mouro,1111,Sintra,11,Lisboa,PT170,AML
+P00139,Rio de Mouro (Estação) (E),38.782812,-9.320280,1,0,0,0,,,Rio de Mouro (Estação),I170097,,Rio de Mouro,1111,Sintra,11,Lisboa,PT170,AML
+P00140,Sacavém (Estação) (A),38.795576,-9.099937,0,1,0,0,,,Sacavém (Estação),I060142,,União das freguesias de Sacavém e Prior Velho,1107,Loures,11,Lisboa,PT170,AML
+P00141,Sacavém (Estação) (B),38.795756,-9.098706,0,1,0,0,,,Sacavém (Estação),I060142,,União das freguesias de Sacavém e Prior Velho,1107,Loures,11,Lisboa,PT170,AML
+P00142,Santa Cruz Damaia (Estação),38.747718,-9.213302,1,0,0,0,,,Santa Cruz Damaia (Estação),I030045,,Águas Livres,1115,Amadora,11,Lisboa,PT170,AML
+P00143,Santos (Estação) (A),38.705641,-9.155967,1,0,0,0,,,Santos (Estação),I060136,,Estrela,1106,Lisboa,11,Lisboa,PT170,AML
+P00144,Santos (Estação) (B),38.705317,-9.154189,1,0,0,0,,,Santos (Estação),I060136,,Estrela,1106,Lisboa,11,Lisboa,PT170,AML
+P00145,Seixal (Cais Fluvial) (A),38.647174,-9.096321,0,0,1,0,,,Seixal (Cais Fluvial),I140099,,"União das freguesias do Seixal, Arrentela e Aldeia de Paio Pires",1510,Seixal,15,Setúbal,PT170,AML
+P00146,Seixal (Cais Fluvial) (B),38.646991,-9.096471,0,0,1,0,,,Seixal (Cais Fluvial),I140099,,"União das freguesias do Seixal, Arrentela e Aldeia de Paio Pires",1510,Seixal,15,Setúbal,PT170,AML
+P00147,Sesimbra (Terminal),38.446322,-9.099892,0,0,1,0,,,Sesimbra (Terminal),I150101,,Sesimbra (Santiago),1511,Sesimbra,15,Setúbal,PT170,AML
+P00148,Sete Rios (Estação) (A),38.741414,-9.167802,1,0,0,0,,,Sete Rios (Estação),I060102,,São Domingos de Benfica,1106,Lisboa,11,Lisboa,PT170,AML
+P00149,Sete Rios (Estação) (B),38.742216,-9.167245,1,0,0,0,,,Sete Rios (Estação),I060102,,São Domingos de Benfica,1106,Lisboa,11,Lisboa,PT170,AML
+P00150,Sete Rios (Estação) (C),38.742480,-9.167420,1,0,0,0,,,Sete Rios (Estação),I060102,,São Domingos de Benfica,1106,Lisboa,11,Lisboa,PT170,AML
+P00151,Setúbal - ITS (Terminal),38.529257,-8.885165,0,0,0,1,,,Setúbal - ITS (Terminal),I160103,,Setúbal (São Sebastião),1512,Setúbal,15,Setúbal,PT170,AML
+P00152,Sintra (Estação) (A),38.798897,-9.385415,1,0,0,0,,,Sintra (Estação),I170104,,"União das freguesias de Sintra (Santa Maria e São Miguel, São Martinho e São Pedro de Penaferrim)",1111,Sintra,11,Lisboa,PT170,AML
+P00153,Sintra (Estação) (B),38.798363,-9.386568,1,0,0,0,,,Sintra (Estação),I170104,,"União das freguesias de Sintra (Santa Maria e São Miguel, São Martinho e São Pedro de Penaferrim)",1111,Sintra,11,Lisboa,PT170,AML
+P00154,Sta Iria da Azóia (Estação) (A),38.841337,-9.080490,0,1,0,0,,,Sta Iria da Azóia (Estação),I060144,,"União das freguesias de Santa Iria de Azoia, São João da Talha e Bobadela",1107,Loures,11,Lisboa,PT170,AML
+P00155,Sta Iria da Azóia (Estação) (B),38.841217,-9.081280,0,1,0,0,,,Sta Iria da Azóia (Estação),I060144,,"União das freguesias de Santa Iria de Azoia, São João da Talha e Bobadela",1107,Loures,11,Lisboa,PT170,AML
+P00156,Sta Iria da Azóia (Estação) (C),38.841432,-9.081223,0,1,0,0,,,Sta Iria da Azóia (Estação),I060144,,"União das freguesias de Santa Iria de Azoia, São João da Talha e Bobadela",1107,Loures,11,Lisboa,PT170,AML
+P00157,Torre das Argolas (Costa da Caparica),38.639835,-9.229961,0,0,1,0,,,Torre das Argolas (Costa da Caparica),I020105,,Costa da Caparica,1503,Almada,15,Setúbal,PT170,AML
+P00158,Trafaria (Cais Fluvial),38.674093,-9.231140,0,0,1,0,,,Trafaria (Cais Fluvial),I020106,,União das freguesias de Caparica e Trafaria,1503,Almada,15,Setúbal,PT170,AML
+P00159,Universidade (Metro),38.662961,-9.208244,0,0,1,0,,,Universidade (Metro),I020134,,União das freguesias de Caparica e Trafaria,1503,Almada,15,Setúbal,PT170,AML
+P00160,Vila Franca de Xira (Estação) (A),38.956198,-8.985570,0,1,0,0,,,Vila Franca de Xira (Estação),I180112,,Vila Franca de Xira,1114,Vila Franca de Xira,11,Lisboa,PT170,AML
+P00161,Vila Franca de Xira (Estação) (B),38.956822,-8.984940,0,1,0,0,,,Vila Franca de Xira (Estação),I180112,,Vila Franca de Xira,1114,Vila Franca de Xira,11,Lisboa,PT170,AML
+P00162,Vila Franca de Xira (Estação) (C),38.956184,-8.984505,0,1,0,0,,,Vila Franca de Xira (Estação),I180112,,Vila Franca de Xira,1114,Vila Franca de Xira,11,Lisboa,PT170,AML
+P00163,Vila Franca de Xira (Estação) (D),38.957339,-8.985857,0,1,0,0,,,Vila Franca de Xira (Estação),I180112,,Vila Franca de Xira,1114,Vila Franca de Xira,11,Lisboa,PT170,AML
