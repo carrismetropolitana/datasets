@@ -19,14 +19,14 @@ TRAIN_017,Barreiro,38.652590,-9.079407,0,0,0,1,,,,150410,União das freguesias d
 TRAIN_018,Baixa da Banheira,38.659346,-9.043600,0,0,0,1,,,,150607,União das freguesias de Baixa da Banheira e Vale da Amoreira,1506,Moita,15,Setúbal,PT170,AML,090195|090209
 TRAIN_019,Pegões,38.662247,-8.619210,0,0,0,1,,,,150711,União das freguesias de Pegões,1507,Montijo,15,Setúbal,PT170,AML,
 TRAIN_020,Barreiro-A,38.659652,-9.071699,0,0,0,1,,,,150410,União das freguesias de Barreiro e Lavradio,1504,Barreiro,15,Setúbal,PT170,AML,
-TRAIN_021,Lavradio,38.661824,-9.058303,0,0,0,1,,,,150410,União das freguesias de Barreiro e Lavradio,1504,Barreiro,15,Setúbal,PT170,AML,
+TRAIN_021,Lavradio,38.661824,-9.058303,0,0,0,1,,,,150410,União das freguesias de Barreiro e Lavradio,1504,Barreiro,15,Setúbal,PT170,AML,040103
 TRAIN_022,São João das Craveiras,38.667923,-8.585784,0,0,0,1,,,,150711,União das freguesias de Pegões,1507,Montijo,15,Setúbal,PT170,AML,100221|100222
 TRAIN_023,Pragal,38.666225,-9.179246,0,0,1,0,,,,150312,"União das freguesias de Almada, Cova da Piedade, Pragal e Cacilhas",1503,Almada,15,Setúbal,PT170,AML,020073|020275|020276|020769|027997|027998|027999
 TRAIN_024,Santo Amaro,38.686900,-9.311946,1,0,0,0,,,,111014,"União das freguesias de Oeiras e São Julião da Barra, Paço de Arcos e Caxias",1110,Oeiras,11,Lisboa,PT170,AML,120837|120873
 TRAIN_025,Carcavelos,38.687813,-9.337409,1,0,0,0,,,,110507,União das freguesias de Carcavelos e Parede,1105,Cascais,11,Lisboa,PT170,AML,050009|050418
 TRAIN_026,Oeiras,38.688569,-9.319063,1,0,0,0,,,,111014,"União das freguesias de Oeiras e São Julião da Barra, Paço de Arcos e Caxias",1110,Oeiras,11,Lisboa,PT170,AML,120787|120788|121187|121188|121297|121235|121272|121291|121270|120729
 TRAIN_027,Parede,38.689777,-9.356478,1,0,0,0,,,,110507,União das freguesias de Carcavelos e Parede,1105,Cascais,11,Lisboa,PT170,AML,050047|050043
-TRAIN_028,Paço de Arcos,38.691833,-9.302050,1,0,0,0,,,,111014,"União das freguesias de Oeiras e São Julião da Barra, Paço de Arcos e Caxias",1110,Oeiras,11,Lisboa,PT170,AML,120881|120882
+TRAIN_028,Paço de Arcos,38.697129,-9.290987,1,0,0,0,,,,111014,"União das freguesias de Oeiras e São Julião da Barra, Paço de Arcos e Caxias",1110,Oeiras,11,Lisboa,PT170,AML,120889|120890
 TRAIN_029,Belém,38.696195,-9.197392,1,0,0,0,,,,110658,Belém,1106,Lisboa,11,Lisboa,PT170,AML,060384|060383|060101|060107
 TRAIN_030,São Pedro do Estoril,38.695368,-9.371595,1,0,0,0,,,,110508,União das freguesias de Cascais e Estoril,1105,Cascais,11,Lisboa,PT170,AML,
 TRAIN_031,Algés,38.698285,-9.229009,1,0,0,0,,,,111012,"União das freguesias de Algés, Linda-a-Velha e Cruz Quebrada-Dafundo",1110,Oeiras,11,Lisboa,PT170,AML,120261|120339|120340|121061|121095|121309|120081|120325|121308
@@ -71,7 +71,7 @@ TRAIN_069,Telhal,38.809208,-9.302575,1,0,0,0,,,,111123,"União das freguesias de
 TRAIN_070,Sabugo,38.830844,-9.299903,1,0,0,0,,,,111123,"União das freguesias de Almargem do Bispo, Pêro Pinheiro e Montelavar",1111,Sintra,11,Lisboa,PT170,AML,171115|171116
 TRAIN_071,Santa Iria,38.840565,-9.080525,0,1,0,0,,,,110728,"União das freguesias de Santa Iria de Azoia, São João da Talha e Bobadela",1107,Loures,11,Lisboa,PT170,AML,070707
 TRAIN_072,Póvoa,38.859169,-9.064475,0,1,0,0,,,,111415,União das freguesias de Póvoa de Santa Iria e Forte da Casa,1114,Vila Franca de Xira,11,Lisboa,PT170,AML,180503|180504|180529
-TRAIN_073,Pedra Furada,38.870118,-9.295444,1,0,0,0,,,,111123,"União das freguesias de Almargem do Bispo, Pêro Pinheiro e Montelavar",1111,Sintra,11,Lisboa,PT170,AML,172411|172412
+TRAIN_073,Pedra Furada,38.870097,-9.295512,1,0,0,0,,,,111123,"União das freguesias de Almargem do Bispo, Pêro Pinheiro e Montelavar",1111,Sintra,11,Lisboa,PT170,AML,172411|172412
 TRAIN_074,Alverca,38.890519,-9.033428,0,1,0,0,,,,111413,União das freguesias de Alverca do Ribatejo e Sobralinho,1114,Vila Franca de Xira,11,Lisboa,PT170,AML,180041|182200|182255|182257|182258
 TRAIN_075,Mafra,38.897410,-9.291730,0,1,0,0,,,,110920,União das freguesias de Igreja Nova e Cheleiros,1109,Mafra,11,Lisboa,PT170,AML,081051|081052
 TRAIN_076,Alhandra,38.924120,-9.011294,0,1,0,0,,,,111412,"União das freguesias de Alhandra, São João dos Montes e Calhandriz",1114,Vila Franca de Xira,11,Lisboa,PT170,AML,180065|180091
