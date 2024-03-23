@@ -1,0 +1,3 @@
+id,name,lat,lon,locality,municipality_id,municipality_name,district_id,district_name,region_id,region_name,stops
+001,amL,38.717203,-9.120373,Santa Apolónia,1106,Lisboa,11,Lisboa,PT170,AML,
+101,Praça da República,38.720600,-9.004522,Samouco,1502,Alcochete,15,Setúbal,PT170,AML,010099
