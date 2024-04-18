@@ -1,26 +1,26 @@
 status,id,name,lat,lon,locality,municipality_id,municipality_name,district_id,district_name,region_id,region_name,stops
 verificado,001,amL,38.717203,-9.120373,Santa Apolónia,1106,Lisboa,11,Lisboa,PT170,AML,
-,101,Praça da República,38.720600,-9.004522,Samouco,1502,Alcochete,15,Setúbal,PT170,AML,010099
+Não existe paragem no local - paragem deslocada para a 010180,101,Praça da República,38.720600,-9.004522,Samouco,1502,Alcochete,15,Setúbal,PT170,AML,000001
 ,102,Rua Salineiro Fte 81,38.749069,-8.965875,Alcochete,1502,Alcochete,15,Setúbal,PT170,AML,010082
 ,103,Avenida Euro 2004 - Zona Comercial,38.751366,-8.942771,Alcochete,1502,Alcochete,15,Setúbal,PT170,AML,010136
 ,104,Avenida Euro 2004 - Zona Comercial,38.751127,-8.942987,Alcochete,1502,Alcochete,15,Setúbal,PT170,AML,010135
 ,105,EN119 114,38.731672,-8.972351,São Francisco,1502,Alcochete,15,Setúbal,PT170,AML,010066
-,108,FCT (ROTUNDA),,,MONTE CAPARICA,1503,Almada,15,Setúbal,PT170,AML,020317
+,108,FCT (Rotunda),38.660486,-9.202622,Monte da Caparica,1503,Almada,15,Setúbal,PT170,AML,020317
 ,109,Rua Sérgio Malpique - Zona Comercial,38.659225,-9.173307,Almada,1503,Almada,15,Setúbal,PT170,AML,020088
-,110,Ainda não está instalado,,,LARANJEIRO,1503,Almada,15,Setúbal,PT170,AML,020682
+Ainda não está instalado,110,,,,LARANJEIRO,1503,Almada,15,Setúbal,PT170,AML,020682
 ,111,Av. 23 de Julho (Praça),38.656355,-9.154274,Laranjeiro,1503,Almada,15,Setúbal,PT170,AML,020681
-,112,AV DR ARESTA BRANCO 13 -ROTUNDA,38.643560,-9.232624,C CAP,1503,Almada,15,Setúbal,PT170,AML,020639
+,112,Avenida Dr. Aresta Branco 13,38.643560,-9.232624,Costa da Caparica,1503,Almada,15,Setúbal,PT170,AML,020639
 ,113,Rua Pedro Costa 1262,38.605327,-9.186377,Charneca da Caparica,1503,Almada,15,Setúbal,PT170,AML,020422
 ,114,Escola Básica Carlos Gargaté,38.604988,-9.186137,Charneca da Caparica,1503,Almada,15,Setúbal,PT170,AML,020421
 ,116,Av. Dom Nuno Álvares Pereira,38.679217,-9.158558,Almada,1503,Almada,15,Setúbal,PT170,AML,020047
 ,117,Portagem (Cristo Rei),38.673779,-9.173990,Almada,1503,Almada,15,Setúbal,PT170,AML,020001
-,118,Ainda não está instalado,,,,1503,Almada,15,Setúbal,PT170,AML,020003
+Ainda não está instalado,118,,,,,1503,Almada,15,Setúbal,PT170,AML,020003
 ,119,Avenida Torrão Silva (Estação),38.666404,-9.180532,Pragal,1503,Almada,15,Setúbal,PT170,AML,020275
-,120,Ainda não está instalado,38.677853,-9.206676,,1503,Almada,15,Setúbal,PT170,AML,
-,121,,,,,1503,Almada,15,Setúbal,PT170,AML,020399
-,122,,38.672104,-9.175063,,1503,Almada,15,Setúbal,PT170,AML,020277
+Ainda não está instalado,120,,38.677853,-9.206676,,1503,Almada,15,Setúbal,PT170,AML,
+,121,Avenida D. Nuno Álvares Pereira - Prç S. João Baptista,"38.678985,",-9.158582,Almada,1503,Almada,15,Setúbal,PT170,AML,020399
+A paargem foi deslocada,122,HGO,38.672104,-9.175063,Almada,1503,Almada,15,Setúbal,PT170,AML,000001
 ,123,Cacilhas (Terminal),38.687893,-9.147125,Cacilhas,1503,Almada,15,Setúbal,PT170,AML,020037|0200113|020363|020403|020429|020955|020959|020973|021007|021009
-,124,,38.673904,-9.231743,,1503,Almada,15,Setúbal,PT170,AML,024855
+,124,Trafaria (Terminal,38.673904,-9.231743,Trafaria,1503,Almada,15,Setúbal,PT170,AML,020385|024855
 ,125,Avenida Torrão Silva (Estação),38.666571,-9.180657,Pragal,1503,Almada,15,Setúbal,PT170,AML,020276|027998
 ,126,Avenida 23 de Julho - Supermercado,38.668847,-9.159342,Almada,1503,Almada,15,Setúbal,PT170,AML,020069
 ,127,Cova da Piedade - Posto Combustível,38.667602,-9.159434,Almada,1503,Almada,15,Setúbal,PT170,AML,020077
@@ -137,14 +137,14 @@ verificado,001,amL,38.717203,-9.120373,Santa Apolónia,1106,Lisboa,11,Lisboa,PT1
 ,255,,,,,1109,Mafra,11,Lisboa,PT170,AML,
 ,256,,,,,1109,Mafra,11,Lisboa,PT170,AML,
 ,257,Avenida 1 de Maio,38.651312,-9.038897,Vale da Amoreira,1506,Moita,15,Setúbal,PT170,AML,090262
-Não foi testado,258,R ECA QUEIROZ34 - URB S SEBASTIAO ,38.656970,-8.991514,Moita,1506,Moita,15,Setúbal,PT170,AML,090060
+Não foi possivel testar,258,R ECA QUEIROZ34 - URB S SEBASTIAO ,38.656970,-8.991514,Moita,1506,Moita,15,Setúbal,PT170,AML,000002
 ,259,Avenida Marginal (Câmara Municipal),38.652861,-8.994039,Moita,1506,Moita,15,Setúbal,PT170,AML,090058
 ,263,EN11-Posto Combustivel,38.652915,-9.021126,Alhos Vedros,1506,Moita,15,Setúbal,PT170,AML,090011
 ,264,Rua Joly Braga Santos (Parque Qta. da Fonte da Prata),38.655270,-9.009300,Fonte da Prata,1506,Moita,15,Setúbal,PT170,AML,090007
 ,267,Av Infante D. Henriques - Escola Secundária,38.708878,-8.983556,Montijo,1507,Montijo,15,Setúbal,PT170,AML,100087
 ,268,Via Circular Externa - Zona Comercial,38.696854,-8.945297,Afonsoeiro,1507,Montijo,15,Setúbal,PT170,AML,100153
 ,269,Pr Gomes Freire de Andrade - P5,38.705777,-8.976562,Montijo,1507,Montijo,15,Setúbal,PT170,AML,100027
-nao tem paragem,270,Pc Gomes Freire de Andrade,38.705688,-8.976718,Montijo,1507,Montijo,15,Setúbal,PT170,AML,
+nao tem paragem,270,Pc Gomes Freire de Andrade,38.705688,-8.976718,Montijo,1507,Montijo,15,Setúbal,PT170,AML,000002
 ,271,Avenida 5 de Outubro 5,38.678242,-8.968271,Sarilhos Grandes,1507,Montijo,15,Setúbal,PT170,AML,100190
 ,272,EN4 - Fte 489,38.706639,-8.924861,Atalaia,1507,Montijo,15,Setúbal,PT170,AML,100290
 ,273,EN5 - Jardim,38.700075,-8.957360,Bela Vista,1507,Montijo,15,Setúbal,PT170,AML,100006
@@ -198,7 +198,7 @@ nao tem paragem,270,Pc Gomes Freire de Andrade,38.705688,-8.976718,Montijo,1507,
 ,325,EN 379 - X - EN 252,38.576385,-8.889908,Volta da Pedra,1508,Palmela,15,Setúbal,PT170,AML,130017
 ,326,EN379 X EN252,38.576509,-8.889774,Volta da Pedra,1508,Palmela,15,Setúbal,PT170,AML,130018
 ,330,Rua 25 Abril - Ringue,38.599233,-9.004544,Bairro Alentejano,1508,Palmela,15,Setúbal,PT170,AML,130684
-Ainda não foi instalado,331,EN 379 56A,38.575117,-8.903167,Palmela,1508,Palmela,15,Setúbal,PT170,AML,130026
+Ainda não foi instalado,331,EN 379 56A,38.575117,-8.903167,Palmela,1508,Palmela,15,Setúbal,PT170,AML,0
 ,332,Escola Básica dos 2º e 3º ciclos,38.628733,-8.912599,Pinhal Novo,1508,Palmela,15,Setúbal,PT170,AML,130378
 ,333,Avenida Liberdade (Correios),38.584074,-8.691165,Águas de Moura,1508,Palmela,15,Setúbal,PT170,AML,130708
 ,334,Praça José Maria dos Santos,38.631421,-8.915842,Pinhal Novo,1508,Palmela,15,Setúbal,PT170,AML,130228
@@ -224,37 +224,37 @@ Ainda não foi instalado,331,EN 379 56A,38.575117,-8.903167,Palmela,1508,Palmela
 ,358,Avenida 25 de Abril - Ft 581,38.584682,-9.095765,Pinhal de Frades,1510,Seixal,15,Setúbal,PT170,AML,140416
 ,359,Avenida dos Resistentes Antifascistas 69,38.617083,-9.105586,Arrentela,1510,Seixal,15,Setúbal,PT170,AML,140227
 ,360,Rua Silva Alves Cunha (Mercado Municipal),38.643403,-9.099154,Seixal,1510,Seixal,15,Setúbal,PT170,AML,140247
-,361,Ainda não está instalado,,,,1511,Sesimbra,15,Setúbal,PT170,AML,150022
-,362,,38.445620,-9.099706,,1511,Sesimbra,15,Setúbal,PT170,AML,
+Ainda não está instalado,361,,,,,1511,Sesimbra,15,Setúbal,PT170,AML,0
+,362,,38.445620,-9.099706,,1511,Sesimbra,15,Setúbal,PT170,AML,150051|150052|150455
 ,363,R. Dr. Alberto Leite (Jardim),38.462298,-9.102498,Santana,1511,Sesimbra,15,Setúbal,PT170,AML,150067
 ,364,,38.462168,-9.102428,,1511,Sesimbra,15,Setúbal,PT170,AML,150070
-,365,,38.470885,-9.100834,,1511,Sesimbra,15,Setúbal,PT170,AML,150223
+,365,EN378 Ft. 55 ,38.470898,-9.100797,Santana,1511,Sesimbra,15,Setúbal,PT170,AML,150223
 ,366,,38.572501,-9.037064,,1511,Sesimbra,15,Setúbal,PT170,AML,150009
 ,367,,38.565024,-9.037095,,1511,Sesimbra,15,Setúbal,PT170,AML,
 ,368,Avenida Norton de Matos - Supermercado,38.565114,-9.037349,Quinta do Conde,1511,Sesimbra,15,Setúbal,PT170,AML,150529
 ,369,Av. 25 de Abril (X) Av. das Gaivotas,38.453213,-9.120361,Zambujal,1511,Sesimbra,15,Setúbal,PT170,AML,150199
 ,370,Avenida 10 de Junho - Rotunda,38.551539,-9.099557,Quinta do Conde,1511,Sesimbra,15,Setúbal,PT170,AML,150563
-,371,Ainda não está instalado,38.471154,-9.100756,,1511,Sesimbra,15,Setúbal,PT170,AML,
-Ainda não foi instalado,372,SETUBAL ITS - EXTERIOR P1,,,Setúbal,1512,Setúbal,15,Setúbal,PT170,AML,160067|160068
+Ainda não está instalado,371,,38.471154,-9.100756,,1511,Sesimbra,15,Setúbal,PT170,AML,0
+Ainda não foi instalado,372,SETUBAL ITS - EXTERIOR P1,,,Setúbal,1512,Setúbal,15,Setúbal,PT170,AML,0
 ,373,AV LUISA TODI - CASINO,38.523519,-8.895300,Setúbal,1512,Setúbal,15,Setúbal,PT170,AML,160225
-,374,Av Luísa Todi - Largo Jesus,38.522928,-8.895046,Setúbal,1512,Setúbal,15,Setúbal,PT170,AML,160161
+,374,Av Luísa Todi 195,38.522928,-8.895046,Setúbal,1512,Setúbal,15,Setúbal,PT170,AML,160161
 ,375,AV ALEXANDRE HERCULANO - BONFIM,38.526835,-8.890498,Setúbal,1512,Setúbal,15,Setúbal,PT170,AML,160123
 ,376,Av 22 Dezembro (Escola de Condução),38.525150,-8.893968,Setúbal,1512,Setúbal,15,Setúbal,PT170,AML,160105
 ,377,KM 39200 - Largo Combatentes,38.525054,-8.894627,Setúbal,1512,Setúbal,15,Setúbal,PT170,AML,160531
 ,378,Hospital São Bernardo,38.529250,-8.881965,Setúbal,1512,Setúbal,15,Setúbal,PT170,AML,160029
 ,379,Av Coração de Maria - Escola,38.540172,-8.876633,Setúbal,1512,Setúbal,15,Setúbal,PT170,AML,160147
 ,380,Estrada de Algeruz,38.545030,-8.856172,Setúbal,1512,Setúbal,15,Setúbal,PT170,AML,160293
-,381,ALTO ESTEFANILHA - IPS,38.523529,-8.839510,,1512,Setúbal,15,Setúbal,PT170,AML,160043
-Vandalizado,382,ALTO ESTEFANILHA - IPS,38.523704,-8.839265,,1512,Setúbal,15,Setúbal,PT170,AML,160044
+,381,Alto da Estefanilha - IPS,38.523529,-8.839510,Setúbal,1512,Setúbal,15,Setúbal,PT170,AML,160043
+Não foi possivel testar - Vandalizado,382,ALTO ESTEFANILHA - IPS,38.523704,-8.839265,,1512,Setúbal,15,Setúbal,PT170,AML,0
 ,383,EN10 - Praça da República,38.519085,-9.013218,Vila Nogueira de Azeitão,1512,Setúbal,15,Setúbal,PT170,AML,160747
 ,384,ESTR ALGERUZ - BOMBEIROS,38.538796,-8.866637,Setúbal,1512,Setúbal,15,Setúbal,PT170,AML,160186
 ,386,Várzea (Terminal),38.539696,-8.887969,Setúbal,1512,Setúbal,15,Setúbal,PT170,AML,161001|161002|161003|161004|161005|161006
-,387,Av LUISA TODI 472 - PIRILAMPOS,38.522940,-8.898755,Setúbal,1512,Setúbal,15,Setúbal,PT170,AML,160351
-,388,R GENDANIEL SOUSA 4 - BOA MORTE,38.525652,-8.898653,,1512,Setúbal,15,Setúbal,PT170,AML,160433
-,389,MANTEIGADAS,38.522625,-8.850871,,1512,Setúbal,15,Setúbal,PT170,AML,160051
+Não foi possivel testar - Bloqueado,387,Avenida Luísa Todi -  Casa da Baía,38.522940,-8.898755,Setúbal,1512,Setúbal,15,Setúbal,PT170,AML,0
+Não foi possivel testar - Bloqueado,388,Rua General Daniel de Sousa Ft. 4 - Boa Morte,38.525652,-8.898653,Setúbal,1512,Setúbal,15,Setúbal,PT170,AML,0
+,389,Avenida António Sérgio - Manteigadas,38.522625,-8.850871,Setúbal,1512,Setúbal,15,Setúbal,PT170,AML,160051
 ,390,EN110 231,38.545987,-8.817900,Cotovia,1512,Setúbal,15,Setúbal,PT170,AML,160658
 ,391,Escola Básica do Faralhão,38.522175,-8.818311,Faralhão,1512,Setúbal,15,Setúbal,PT170,AML,160320
-Ainda não foi instalado,392,R 25 ABRIL - ESC PRIM,38.529844,-8.991778,Vendas Azeitão,1512,Setúbal,15,Setúbal,PT170,AML,160775
+Não foi possivel testar,392,R 25 ABRIL - ESC PRIM,38.529844,-8.991778,Vendas Azeitão,1512,Setúbal,15,Setúbal,PT170,AML,0
 ,393,EN10 Km34,38.540100,-9.026249,Brejos de Azeitão,1512,Setúbal,15,Setúbal,PT170,AML,160805
 ,394,Praia da Figueirinha,38.484690,-8.945400,Figueirinha,1512,Setúbal,15,Setúbal,PT170,AML,160819
 ,395,Avenida Manuel Maria Portela Ft 77,38.528193,-8.886457,Setúbal,1512,Setúbal,15,Setúbal,PT170,AML,160141
