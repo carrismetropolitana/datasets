@@ -18,7 +18,7 @@ Ainda não está instalado,118,,,,,1503,Almada,15,Setúbal,PT170,AML,020003
 ,119,Avenida Torrão Silva (Estação),38.666404,-9.180532,Pragal,1503,Almada,15,Setúbal,PT170,AML,020275
 Ainda não está instalado,120,,38.677853,-9.206676,,1503,Almada,15,Setúbal,PT170,AML,
 ,121,Avenida D. Nuno Álvares Pereira - Prç S. João Baptista,"38.678985,",-9.158582,Almada,1503,Almada,15,Setúbal,PT170,AML,020399
-A paargem foi deslocada,122,HGO,38.672104,-9.175063,Almada,1503,Almada,15,Setúbal,PT170,AML,000001
+A paragem foi deslocada,122,HGO,38.672104,-9.175063,Almada,1503,Almada,15,Setúbal,PT170,AML,000001
 ,123,Cacilhas (Terminal),38.687893,-9.147125,Cacilhas,1503,Almada,15,Setúbal,PT170,AML,020037|0200113|020363|020403|020429|020955|020959|020973|021007|021009
 ,124,Trafaria (Terminal,38.673904,-9.231743,Trafaria,1503,Almada,15,Setúbal,PT170,AML,020385|024855
 ,125,Avenida Torrão Silva (Estação),38.666571,-9.180657,Pragal,1503,Almada,15,Setúbal,PT170,AML,020276|027998
@@ -225,12 +225,12 @@ Ainda não foi instalado,331,EN 379 56A,38.575117,-8.903167,Palmela,1508,Palmela
 ,359,Avenida dos Resistentes Antifascistas 69,38.617083,-9.105586,Arrentela,1510,Seixal,15,Setúbal,PT170,AML,140227
 ,360,Rua Silva Alves Cunha (Mercado Municipal),38.643403,-9.099154,Seixal,1510,Seixal,15,Setúbal,PT170,AML,140247
 Ainda não está instalado,361,,,,,1511,Sesimbra,15,Setúbal,PT170,AML,0
-,362,,38.445620,-9.099706,,1511,Sesimbra,15,Setúbal,PT170,AML,150051|150052|150455
+Não foi possivel testar,362,,38.445620,-9.099706,,1511,Sesimbra,15,Setúbal,PT170,AML,150051|150052|150455
 ,363,R. Dr. Alberto Leite (Jardim),38.462298,-9.102498,Santana,1511,Sesimbra,15,Setúbal,PT170,AML,150067
-,364,,38.462168,-9.102428,,1511,Sesimbra,15,Setúbal,PT170,AML,150070
+,364,R. Dr. Alberto Leite (Ft. Jardim),38.462145,-9.102467,Santana,1511,Sesimbra,15,Setúbal,PT170,AML,150070
 ,365,EN378 Ft. 55 ,38.470898,-9.100797,Santana,1511,Sesimbra,15,Setúbal,PT170,AML,150223
-,366,,38.572501,-9.037064,,1511,Sesimbra,15,Setúbal,PT170,AML,150009
-,367,,38.565024,-9.037095,,1511,Sesimbra,15,Setúbal,PT170,AML,
+,366,Alameda Salgeiro Maia (Ft. Posto Combustivel),38.572361,-9.036989,Quinta do Conde,1511,Sesimbra,15,Setúbal,PT170,AML,150009
+,367,Avenida Norton de Matos - Jardim,38.565027,-9.037068,Quinta do Conde,1511,Sesimbra,15,Setúbal,PT170,AML,150013
 ,368,Avenida Norton de Matos - Supermercado,38.565114,-9.037349,Quinta do Conde,1511,Sesimbra,15,Setúbal,PT170,AML,150529
 ,369,Av. 25 de Abril (X) Av. das Gaivotas,38.453213,-9.120361,Zambujal,1511,Sesimbra,15,Setúbal,PT170,AML,150199
 ,370,Avenida 10 de Junho - Rotunda,38.551539,-9.099557,Quinta do Conde,1511,Sesimbra,15,Setúbal,PT170,AML,150563
