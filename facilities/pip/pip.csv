@@ -1,368 +1,199 @@
-verification_status,status,id,name,lat,lon,locality,municipality_id,municipality_name,district_id,district_name,region_id,region_name,display_mode,stops
-verificado,ok,001,amL,38.717203,-9.120373,Santa Apolónia,1106,Lisboa,1106,11,Lisboa,PT170,arrivals,
-Não existe paragem no local - paragem deslocada para a 010180,,101,Praça da República,38.720600,-9.004522,Samouco,1502,Alcochete,1502,15,Setúbal,PT170,arrivals,000001
-verificado,ok,102,Rua Salineiro Fte 81,38.749069,-8.965875,Alcochete,1502,Alcochete,1502,15,Setúbal,PT170,arrivals,010082
-verificado,ok,103,Avenida Euro 2004 - Zona Comercial,38.751366,-8.942771,Alcochete,1502,Alcochete,1502,15,Setúbal,PT170,arrivals,010136
-verificado,ok,104,Avenida Euro 2004 - Zona Comercial,38.751127,-8.942987,Alcochete,1502,Alcochete,1502,15,Setúbal,PT170,arrivals,010135
-verificado,ok,105,EN119 114,38.731672,-8.972351,São Francisco,1502,Alcochete,1502,15,Setúbal,PT170,arrivals,010066
-verificado,ok,108,FCT (Rotunda),38.660486,-9.202622,Monte da Caparica,1503,Almada,1503,15,Setúbal,PT170,arrivals,020317
-verificado,ok,109,Rua Sérgio Malpique - Zona Comercial,38.659225,-9.173307,Almada,1503,Almada,1503,15,Setúbal,PT170,arrivals,020088
-não instalado,,110,,,,LARANJEIRO,1503,Almada,1503,15,Setúbal,PT170,arrivals,020682
-verificado,ok,111,Av. 23 de Julho (Praça),38.656355,-9.154274,Laranjeiro,1503,Almada,1503,15,Setúbal,PT170,arrivals,020681
-verificado,sticker_missing,112,Avenida Dr. Aresta Branco 13,38.643560,-9.232624,Costa da Caparica,1503,Almada,1503,15,Setúbal,PT170,arrivals,020639
-verificado,ok,113,Rua Pedro Costa 1262,38.605327,-9.186377,Charneca da Caparica,1503,Almada,1503,15,Setúbal,PT170,arrivals,020422
-verificado,structure_graffiti,114,Escola Básica Carlos Gargaté,38.604988,-9.186137,Charneca da Caparica,1503,Almada,1503,15,Setúbal,PT170,arrivals,020421
-verificado,sticker_missing,116,Av. Dom Nuno Álvares Pereira,38.679217,-9.158558,Almada,1503,Almada,1503,15,Setúbal,PT170,arrivals,020047
-verificado,ok,117,Portagem (Cristo Rei),38.673779,-9.173990,Almada,1503,Almada,1503,15,Setúbal,PT170,arrivals,020001
-não instalado,,118,,,,,1503,Almada,1503,15,Setúbal,PT170,arrivals,020003
-verificado - Com calçada solta,ok,119,Avenida Torrão Silva (Estação),38.666404,-9.180532,Pragal,1503,Almada,1503,15,Setúbal,PT170,arrivals,020275
-não instalado,,120,,38.677853,-9.206676,,1503,Almada,1503,15,Setúbal,PT170,arrivals,
-verificado,sticker_missing,121,Avenida D. Nuno Álvares Pereira - Prç S. João Baptista,"38.678985,",-9.158582,Almada,1503,Almada,1503,15,Setúbal,PT170,arrivals,020399
-A paragem foi deslocada,,122,HGO,38.672104,-9.175063,Almada,1503,Almada,1503,15,Setúbal,PT170,arrivals,000001
-verificado,ok,123,Cacilhas (Terminal),38.687893,-9.147125,Cacilhas,1503,Almada,1503,15,Setúbal,PT170,departures,020037|020011|020403|020429|020955|020959|020973|021007
-verificado,ok,124,Trafaria (Terminal),38.673904,-9.231743,Trafaria,1503,Almada,1503,15,Setúbal,PT170,arrivals,020385|024855
-verificado - Com calçada solta,ok,125,Avenida Torrão Silva (Estação),38.666571,-9.180657,Pragal,1503,Almada,1503,15,Setúbal,PT170,arrivals,020276|027998
-verificado,ok,126,Avenida 23 de Julho - Supermercado,38.668847,-9.159342,Almada,1503,Almada,1503,15,Setúbal,PT170,arrivals,020069
-verificado,ok,127,Cova da Piedade - Posto Combustível,38.667602,-9.159434,Almada,1503,Almada,1503,15,Setúbal,PT170,arrivals,020077
-verificado,structure_graffiti,128,Rua Vale de Figueira - Posto Combustível,38.635443,-9.176690,Sobreda,1503,Almada,1503,15,Setúbal,PT170,arrivals,020193
-verificado,structure_graffiti,129,Rua Vale de Figueira - Ft Hipódromo,38.636097,-9.176455,Sobreda,1503,Almada,1503,15,Setúbal,PT170,arrivals,020147
-verificado,ok,130,R António Andrade 1125,38.617628,-9.192789,Charneca da Caparica,1503,Almada,1503,15,Setúbal,PT170,arrivals,020337
-verificado,ok,131,Centro Sul,38.668033,-9.164672,Almada,1503,Almada,1503,15,Setúbal,PT170,arrivals,020071|021019
-verificado,ok,132,R António Andrade Ft 1125,38.617394,-9.192744,Charneca da Caparica,1503,Almada,1503,15,Setúbal,PT170,arrivals,020338
-verificado - Falta adicionar foto do PIP,,135,,38.757936,-9.226487,,1115,Amadora,1115,11,Lisboa,PT170,arrivals,030605
-verificado,ok,137,Estr. do Zambujal Ft. 42,38.733435,-9.216185,Amadora,1115,Amadora,1115,11,Lisboa,PT170,arrivals,030563
-verificado,ok,138,Estr. do Zambujal 40,38.733170,-9.216013,Amadora,1115,Amadora,1115,11,Lisboa,PT170,arrivals,030555
-verificado,ok,139,Pç. Teófilo Braga,38.760138,-9.204210,Amadora,1115,Amadora,1115,11,Lisboa,PT170,arrivals,030409|030739
-verificado,ok,140,Pç. Fernando Calhau (Ft. Centro Comercial),38.777113,-9.217589,Brandoa,1115,Amadora,1115,11,Lisboa,PT170,arrivals,030850
-verificado,sticker_missing,141,Pç. Fernando Calhau (Centro Comercial),38.776999,-9.218089,Brandoa,1115,Amadora,1115,11,Lisboa,PT170,departures,030849
-verificado,ok,142,Escola Secundária Azevedo Neves,38.744962,-9.226662,Amadora,1115,Amadora,1115,11,Lisboa,PT170,arrivals,030113
-verificado,sticker_missing,143,R. Elias Garcia (Ft. Farmácia),38.753574,-9.210447,Amadora,1115,Amadora,1115,11,Lisboa,PT170,arrivals,030300
-verificado,ok,144,Hospital Amadora Sintra,38.745369,-9.245924,Amadora,1115,Amadora,1115,11,Lisboa,PT170,departures,030847|030846|030311
-verificado,ok,145,Av. da Aviação Portuguesa (Ft. Escola),38.754312,-9.233296,Amadora,1115,Amadora,1115,11,Lisboa,PT170,arrivals,030541
-verificado,ok,146,Rua Elias Garcia (Escola),38.760548,-9.247942,Amadora,1115,Amadora,1115,11,Lisboa,PT170,arrivals,030328
-verificado,ok,147,Rua Elias Garcia (Ft. Escola),38.760733,-9.247919,Amadora,1115,Amadora,1115,11,Lisboa,PT170,arrivals,030327
-verificado,ok,148,Amadora (Estação) Sul,38.758090,-9.234609,Amadora,1115,Amadora,1115,11,Lisboa,PT170,departures,030845|030317|030869|030821
-verificado,ok,149,Estr. Brandoa (Pq.),38.765366,-9.213197,Brandoa,1115,Amadora,1115,11,Lisboa,PT170,arrivals,030387
-verificado,ok,150,R. Elias Garcia 362,38.759300,-9.238000,Amadora,1115,Amadora,1115,11,Lisboa,PT170,arrivals,030475
-verificado,ok,151,R. Elias Garcia (Pq.),38.758944,-9.237125,Amadora,1115,Amadora,1115,11,Lisboa,PT170,arrivals,030319|030880
-verificado,ok,152,R. Oliveira Martins 7,38.767249,-9.232002,Amadora,1115,Amadora,1115,11,Lisboa,PT170,arrivals,030135
-não instalado,,153,,38.760441,-9.236686,,1115,Amadora,1115,11,Lisboa,PT170,arrivals,
-verificado,ok,154,Relobeira (Estação),38.750373,-9.221809,Amadora,1115,Amadora,1115,11,Lisboa,PT170,departures,030861
-verificado,ok,156,Avenida Bocage - Supermercado,38.656252,-9.060198,Barreiro,1504,Barreiro,1504,15,Setúbal,PT170,arrivals,040006
-verificado,ok,157,Avenida Bocage - Ft Supermercado,38.656448,-9.060372,Barreiro,1504,Barreiro,1504,15,Setúbal,PT170,arrivals,040005
-verificado,ok,158,Coina (Zona Comercial),38.581492,-9.044231,Coina,1504,Barreiro,1504,15,Setúbal,PT170,arrivals,040118
-verificado,ok,159,Coina (Ft. Zona Comercial),38.581298,-9.044128,Coina,1504,Barreiro,1504,15,Setúbal,PT170,arrivals,040119
-não instalado,,160,,,,,1105,Cascais,1105,11,Lisboa,PT170,arrivals,
-não instalado,,163,,,,,1105,Cascais,1105,11,Lisboa,PT170,arrivals,
-não instalado,,164,,,,,1105,Cascais,1105,11,Lisboa,PT170,arrivals,
-não instalado,,165,,,,,1105,Cascais,1105,11,Lisboa,PT170,arrivals,
-não instalado,,166,,,,,1105,Cascais,1105,11,Lisboa,PT170,arrivals,
-não instalado,,167,,,,,1105,Cascais,1105,11,Lisboa,PT170,arrivals,
-não instalado,,168,,,,,1105,Cascais,1105,11,Lisboa,PT170,arrivals,
-não instalado,,169,,,,,1105,Cascais,1105,11,Lisboa,PT170,arrivals,
-não instalado,,170,,,,,1105,Cascais,1105,11,Lisboa,PT170,arrivals,
-não instalado,,171,,,,,1105,Cascais,1105,11,Lisboa,PT170,arrivals,
-não instalado,,172,,,,,1105,Cascais,1105,11,Lisboa,PT170,arrivals,
-não instalado,,173,,,,,1105,Cascais,1105,11,Lisboa,PT170,arrivals,
-não instalado,,174,,,,,1105,Cascais,1105,11,Lisboa,PT170,arrivals,
-não instalado,,177,,,,,1106,Lisboa,1106,11,Lisboa,PT170,arrivals,
-não instalado,,178,,,,,1106,Lisboa,1106,11,Lisboa,PT170,arrivals,
-não instalado,,179,,,,,1106,Lisboa,1106,11,Lisboa,PT170,arrivals,
-não instalado,,180,,,,,1106,Lisboa,1106,11,Lisboa,PT170,arrivals,
-não instalado,,181,,,,,1106,Lisboa,1106,11,Lisboa,PT170,arrivals,
-não instalado,,182,,,,,1106,Lisboa,1106,11,Lisboa,PT170,arrivals,
-não instalado,,184,,,,,1106,Lisboa,1106,11,Lisboa,PT170,arrivals,
-não instalado,,185,,,,,1106,Lisboa,1106,11,Lisboa,PT170,arrivals,
-não instalado,,192,,,,,1106,Lisboa,1106,11,Lisboa,PT170,arrivals,
-não instalado,,193,,,,,1106,Lisboa,1106,11,Lisboa,PT170,arrivals,
-não instalado,,194,,,,,1106,Lisboa,1106,11,Lisboa,PT170,arrivals,
-não instalado,,195,,,,,1106,Lisboa,1106,11,Lisboa,PT170,arrivals,
-não instalado,,196,,,,,1106,Lisboa,1106,11,Lisboa,PT170,arrivals,
-não instalado,,197,,,,,1106,Lisboa,1106,11,Lisboa,PT170,arrivals,
-não instalado,,198,,,,,1106,Lisboa,1106,11,Lisboa,PT170,arrivals,
-não instalado,,199,,,,,1106,Lisboa,1106,11,Lisboa,PT170,arrivals,
-não instalado,,200,,,,,1106,Lisboa,1106,11,Lisboa,PT170,arrivals,
-não instalado,,201,,,,,1106,Lisboa,1106,11,Lisboa,PT170,arrivals,
-não instalado,,202,,,,,1106,Lisboa,1106,11,Lisboa,PT170,arrivals,
-não instalado,,204,,,,,1106,Lisboa,1106,11,Lisboa,PT170,arrivals,
-verificado,ok,205,Quinta Casal da Pipa (Centro Comercial),38.819937,-9.176507,Loures,1107,Loures,1107,11,Lisboa,PT170,arrivals,070470
-instalado - Por testar,ok,206,,,,,1107,Loures,1107,11,Lisboa,PT170,arrivals,
-verificado,ok,207,Ft. Escola Básica Frielas,38.825643,-9.143003,Frielas,1107,Loures,1107,11,Lisboa,PT170,arrivals,070495
-verificado,ok,208,Largo Marcos Romão Reis Junior,38.828903,-9.166948,Loures,1107,Loures,1107,11,Lisboa,PT170,arrivals,070032
-verificado,ok,209,Rua da República (Campo de Futebol),38.828624,-9.165098,Loures,1107,Loures,1107,11,Lisboa,PT170,arrivals,070250
-verificado,ok,210,R. da República (Escola),38.828011,-9.164238,Loures,1107,Loures,1107,11,Lisboa,PT170,arrivals,070035
-verificado,ok,211,Av. Moscavide (Igreja),38.779477,-9.102591,Moscavide,1107,Loures,1107,11,Lisboa,PT170,arrivals,070585
-verificado,ok,212,Praça da República,38.796165,-9.105363,Sacavém,1107,Loures,1107,11,Lisboa,PT170,arrivals,071295|070121
-verificado,ok,213,N115 (X) R. Marechal Carmona,38.842509,-9.162942,Loures,1107,Loures,1107,11,Lisboa,PT170,arrivals,070538
-verificado,ok,214,Av. das Descobertas (Supermercado),38.841744,-9.161322,Loures,1107,Loures,1107,11,Lisboa,PT170,arrivals,070443
-verificado,ok,215,Avenida das Descobertas Frente 73,38.837173,-9.157262,Infantado,1107,Loures,1107,11,Lisboa,PT170,arrivals,070383
-não instalado,,216,,,,,1107,Loures,1107,11,Lisboa,PT170,arrivals,
-verificado,ok,217,R. da República (Jardim),38.831853,-9.171529,Loures,1107,Loures,1107,11,Lisboa,PT170,arrivals,070027
-verificado,ok,218,Rua Professor Egas Moniz (Centro de Saúde),38.825439,-9.163079,Loures,1107,Loures,1107,11,Lisboa,PT170,arrivals,070043
-verificado,ok,219,N8 (X) Av. Salgado Zenha,38.806839,-9.157564,Santo António dos Cavaleiros,1107,Loures,1107,11,Lisboa,PT170,arrivals,071134
-verificado,ok,220,Av. do Ralis (Supermercado),38.785105,-9.117031,Portela,1107,Loures,1107,11,Lisboa,PT170,arrivals,071412
-verificado,sticker_missing,221,R. Mouzinho de Albuquerque (X) R. dos Actores,38.785592,-9.111522,Portela,1107,Loures,1107,11,Lisboa,PT170,arrivals,070595
-não instalado,,222,,,,,1107,Loures,1107,11,Lisboa,PT170,arrivals,
-verificado,ok,223,Largo 5 de Outubro,38.889378,-9.206637,Lousa,1107,Loures,1107,11,Lisboa,PT170,arrivals,071092
-instalado - Por testar,,224,,38.838541,-9.191826,,1107,Loures,1107,11,Lisboa,PT170,arrivals,070020
-não instalado,,225,,,,,1107,Loures,1107,11,Lisboa,PT170,arrivals,
-verificado,ok,226,Largo 25 de Abril,38.903381,-9.190229,Milharado,1107,Loures,1107,11,Lisboa,PT170,arrivals,070212
-não instalado,,227,,,,,1107,Loures,1107,11,Lisboa,PT170,arrivals,
-verificado,ok,228,R. Cmdt. Carvalho Araujo Ft. 124,38.842435,-9.178154,Loures,1107,Loures,1107,11,Lisboa,PT170,arrivals,070238
-verificado,ok,229,R. Vergílio Ferreira (Escola),38.810281,-9.175637,Santo António dos Cavaleiros,1107,Loures,1107,11,Lisboa,PT170,arrivals,070327
-verificado,ok,230,Av. Mq. de Marialva (Quiosque),38.813093,-9.157045,Santo António dos Cavaleiros,1107,Loures,1107,11,Lisboa,PT170,arrivals,070313
-verificado,ok,231,R. 1º de Maio Ft. 74,38.858515,-9.130498,São Julião do Tojal,1107,Loures,1107,11,Lisboa,PT170,arrivals,070844
-verificado,ok,232,R. D. Afonso Henriques (Ft. Centro Comercial),38.822475,-9.098282,São João da Talha,1107,Loures,1107,11,Lisboa,PT170,arrivals,070740
-verificado,ok,233,Santa Iria (Estação),38.841272,-9.080331,Santa Iria da Azoia,1107,Loures,1107,11,Lisboa,PT170,arrivals,070707
-verificado,ok,234,R. Mártires do Tarrafal 43,38.808784,-9.102214,Bobadela,1107,Loures,1107,11,Lisboa,PT170,arrivals,070793
-verificado,ok,235,R. Guilherme Gomes Fernandes Ft.37,38.801640,-9.128815,Camarate,1107,Loures,1107,11,Lisboa,PT170,arrivals,070625
-verificado,ok,236,Av. das Forças Armadas (Ft. Pq. Desportivo),38.814902,-9.118423,Unhos,1107,Loures,1107,11,Lisboa,PT170,arrivals,071329
-verificado,ok,237,EN250 (Ft. Quiosque),38.813631,-9.132031,Apelação,1107,Loures,1107,11,Lisboa,PT170,arrivals,070503
-verificado,ok,238,Av. Severiano Falcão (X) R. José Fonseca Carvalho,38.789523,-9.124718,Prior Velho,1107,Loures,1107,11,Lisboa,PT170,arrivals,071431
-verificado,ok,239,Pq. Intermodal Alto da Vela,38.932872,-9.326702,Mafra,1109,Mafra,1109,11,Lisboa,PT170,arrivals,080348|080347
-verificado,ok,240,Lgo. de Snato António,38.959000,-9.351339,Mafra,1109,Mafra,1109,11,Lisboa,PT170,arrivals,080113
-verificado,ok,241,R. 5 de Outubro,38.958914,-9.352969,Mafra,1109,Mafra,1109,11,Lisboa,PT170,arrivals,080114
-verificado,ok,242,Pq. Intermodal de Mafra,38.940426,-9.335124,Mafra,1109,Mafra,1109,11,Lisboa,PT170,arrivals,080208|082322|082321|082320|080207
-verificado,ok,243,Av. de Portugal (X) R. Adriano Paulo Costa Capote,38.945750,-9.354808,Mafra,1109,Mafra,1109,11,Lisboa,PT170,arrivals,080861
-verificado,ok,244,Vendo do Pinheiro Eco Parque,38.927450,-9.237143,Vendo do Pinheiro,1109,Mafra,1109,11,Lisboa,PT170,arrivals,080271|082005|082004
-verificado,ok,245,Vendo do Pinheiro Eco Parque,38.927523,-9.236676,Vendo do Pinheiro,1109,Mafra,1109,11,Lisboa,PT170,arrivals,080272|082001|082003
-verificado,ok,246,R. 25 de Abril Ft. 18,38.930560,-9.254975,Malveira,1109,Mafra,1109,11,Lisboa,PT170,arrivals,080283
-verificado,ok,247,R. 25 de Abril 28,38.929869,-9.256424,Malveira,1109,Mafra,1109,11,Lisboa,PT170,arrivals,080281
-não instalado,,248,,,,,1109,Mafra,1109,11,Lisboa,PT170,arrivals,
-verificado,ok,249,Pq. Intermodal da Ericeira,38.967230,-9.405684,Ericeira,1109,Mafra,1109,11,Lisboa,PT170,departures,080007|082006|082007|082008|082009
-não instalado,,250,,,,,1109,Mafra,1109,11,Lisboa,PT170,arrivals,
-verificado,ok,251,R. Movimento das Forças Armadas 83,38.922621,-9.296402,São Miguel de Alcainça,1109,Mafra,1109,11,Lisboa,PT170,arrivals,080340
-verificado,ok,252,R. Movimento das Forças Armadas Ft. 83,38.922906,-9.296322,São Miguel de Alcainça,1109,Mafra,1109,11,Lisboa,PT170,arrivals,080339
-não instalado,,254,,,,,1109,Mafra,1109,11,Lisboa,PT170,arrivals,
-não instalado,,255,,,,,1109,Mafra,1109,11,Lisboa,PT170,arrivals,
-verificado,ok,256,R. das Labruscas,39.029643,-9.367741,Encarnação,1109,Mafra,1109,11,Lisboa,PT170,arrivals,080525
-verificado,ok,257,Avenida 1 de Maio,38.651312,-9.038897,Vale da Amoreira,1506,Moita,1506,15,Setúbal,PT170,arrivals,090262
-Não foi possivel testar,,258,R ECA QUEIROZ34 - URB S SEBASTIAO ,38.656970,-8.991514,Moita,1506,Moita,1506,15,Setúbal,PT170,arrivals,000002
-verificado,ok,259,Avenida Marginal (Câmara Municipal),38.652861,-8.994039,Moita,1506,Moita,1506,15,Setúbal,PT170,arrivals,090058
-verificado,ok,263,EN11-Posto Combustivel,38.652915,-9.021126,Alhos Vedros,1506,Moita,1506,15,Setúbal,PT170,arrivals,090011
-verificado,ok,264,Rua Joly Braga Santos (Parque Qta. da Fonte da Prata),38.655270,-9.009300,Fonte da Prata,1506,Moita,1506,15,Setúbal,PT170,arrivals,090007
-verificado,ok,267,Av Infante D. Henriques - Escola Secundária,38.708878,-8.983556,Montijo,1507,Montijo,1507,15,Setúbal,PT170,arrivals,100087
-verificado,ok,268,Via Circular Externa - Zona Comercial,38.696854,-8.945297,Afonsoeiro,1507,Montijo,1507,15,Setúbal,PT170,arrivals,100153
-verificado,ok,269,Pr Gomes Freire de Andrade - P5,38.705777,-8.976562,Montijo,1507,Montijo,1507,15,Setúbal,PT170,arrivals,100027
-nao tem paragem,ok,270,Pc Gomes Freire de Andrade,38.705688,-8.976718,Montijo,1507,Montijo,1507,15,Setúbal,PT170,arrivals,000002
-verificado,ok,271,Avenida 5 de Outubro 5,38.678242,-8.968271,Sarilhos Grandes,1507,Montijo,1507,15,Setúbal,PT170,arrivals,100190
-verificado,ok,272,EN4 - Fte 489,38.706639,-8.924861,Atalaia,1507,Montijo,1507,15,Setúbal,PT170,arrivals,100290
-verificado,ok,273,EN5 - Jardim,38.700075,-8.957360,Bela Vista,1507,Montijo,1507,15,Setúbal,PT170,arrivals,100006
-verificado,ok,274,EN5 - Fte Jardim,38.699429,-8.957063,Bela Vista,1507,Montijo,1507,15,Setúbal,PT170,arrivals,100005
-verificado,ok,275,EN251 - Largo Manuel Mauricio,38.765802,-8.626916,Canha,1507,Montijo,1507,15,Setúbal,PT170,arrivals,100203
-verificado,structure_graffiti,276,Escola Secundária Poeta Joaquim Serra,38.703508,-8.952942,Afonsoeiro,1507,Montijo,1507,15,Setúbal,PT170,arrivals,100038
-verificado,ok,277,Pegões (X) EN10,38.681967,-8.612434,Pegões,1507,Montijo,1507,15,Setúbal,PT170,arrivals,100235
-verificado,sticker_missing,278,Av. Dr. Augusti Pais (Centro Comercial),38.781468,-9.193254,Odivelas,1116,Odivelas,1116,11,Lisboa,PT170,arrivals,110135
-verificado,ok,279,Av. D. Dinis 8,38.789741,-9.176841,Odivelas,1116,Odivelas,1116,11,Lisboa,PT170,arrivals,110099|110411|110713
-verificado,ok,280,Av. Prof. Dr. Augusto Abreu Lopes 52,38.794513,-9.179555,Odivelas,1116,Odivelas,1116,11,Lisboa,PT170,arrivals,110127
-verificado,ok,281,R. Guilhermina Ascenso (X) R. Dr. João Santos,38.797214,-9.192369,Odivelas,1116,Odivelas,1116,11,Lisboa,PT170,arrivals,110070
-verificado,ok,282,Av. da Liberdade (Ft. Escola),38.802898,-9.183703,Ramada,1116,Odivelas,1116,11,Lisboa,PT170,arrivals,110324
-verificado,ok,283,R. Almirante Gago Coutinho (X) Av. 25 de Abril,38.797772,-9.161836,Póvoa de Santo Adrião,1116,Odivelas,1116,11,Lisboa,PT170,arrivals,110621
-verificado,ok,284,Lg. Major Rosa Bastos,38.800000,-9.159829,Póvoa de Santo Adrião,1116,Odivelas,1116,11,Lisboa,PT170,arrivals,110619
-verificado,ok,285,R. Regimento de Engenharia Um (Ft. Jd. de Infância),38.765067,-9.198128,Pontinha,1116,Odivelas,1116,11,Lisboa,PT170,arrivals,110045
-verificado,ok,286,R. Regimento de Engenharia Um (X) R. Santo André,38.765260,-9.198243,Pontinha,1116,Odivelas,1116,11,Lisboa,PT170,arrivals,110697
-verificado,ok,287,Rt. Senhor Roubado,38.787008,-9.170508,Olival Basto,1116,Odivelas,1116,11,Lisboa,PT170,arrivals,110113
-verificado,ok,290,Odivelas (Metro) P5,38.792672,-9.172491,Odivelas,1116,Odivelas,1116,11,Lisboa,PT170,departures,110095|111025|110393|111026
-verificado,ok,291,Odivelas (Metro) P10,38.792470,-9.173751,Odivelas,1116,Odivelas,1116,11,Lisboa,PT170,arrivals,110409|110097|110410
-não instalado,,292,,,,,1116,Odivelas,1116,11,Lisboa,PT170,arrivals,
-verificado,ok,293,R. Alfredo da Costa (Ft. Pq. Infantil),38.788756,-9.191120,Odivelas,1116,Odivelas,1116,11,Lisboa,PT170,arrivals,110337
-verificado,ok,294,R. Santo Estevão (X) R. Qta. da Silveira,38.792964,-9.217050,Famões,1116,Odivelas,1116,11,Lisboa,PT170,arrivals,110766
-verificado,ok,295,Rua Amália Rodrigues (X) R. Hermínia Silva,38.812716,-9.188065,Ramada,1116,Odivelas,1116,11,Lisboa,PT170,arrivals,110313
-não instalado,,296,,,,,1110,Oeiras,1110,11,Lisboa,PT170,arrivals,
-não instalado,,298,,,,,1110,Oeiras,1110,11,Lisboa,PT170,arrivals,
-não instalado,,299,,,,,1110,Oeiras,1110,11,Lisboa,PT170,arrivals,
-não instalado,,300,,,,,1110,Oeiras,1110,11,Lisboa,PT170,arrivals,
-não instalado,,301,,,,,1110,Oeiras,1110,11,Lisboa,PT170,arrivals,
-não instalado,,302,,,,,1110,Oeiras,1110,11,Lisboa,PT170,arrivals,
-não instalado,,303,,,,,1110,Oeiras,1110,11,Lisboa,PT170,arrivals,
-não instalado,,305,,,,,1110,Oeiras,1110,11,Lisboa,PT170,arrivals,
-não instalado,,306,,,,,1110,Oeiras,1110,11,Lisboa,PT170,arrivals,
-não instalado,,307,,,,,1110,Oeiras,1110,11,Lisboa,PT170,arrivals,
-não instalado,,308,,,,,1110,Oeiras,1110,11,Lisboa,PT170,arrivals,
-não instalado,,309,,,,,1110,Oeiras,1110,11,Lisboa,PT170,arrivals,
-não instalado,,310,,,,,1110,Oeiras,1110,11,Lisboa,PT170,arrivals,
-não instalado,,311,,,,,1110,Oeiras,1110,11,Lisboa,PT170,arrivals,
-não instalado,,312,,,,,1110,Oeiras,1110,11,Lisboa,PT170,arrivals,
-não instalado,,313,,,,,1110,Oeiras,1110,11,Lisboa,PT170,arrivals,
-não instalado,,314,,,,,1110,Oeiras,1110,11,Lisboa,PT170,arrivals,
-não instalado,,315,,,,,1110,Oeiras,1110,11,Lisboa,PT170,arrivals,
-não instalado,,316,,,,,1110,Oeiras,1110,11,Lisboa,PT170,arrivals,
-não instalado,,317,,,,,1110,Oeiras,1110,11,Lisboa,PT170,arrivals,
-não instalado,,318,,,,,1110,Oeiras,1110,11,Lisboa,PT170,arrivals,
-não instalado,,319,,,,,1110,Oeiras,1110,11,Lisboa,PT170,arrivals,
-não instalado,,320,,,,,1110,Oeiras,1110,11,Lisboa,PT170,arrivals,
-não instalado,,321,,,,,1110,Oeiras,1110,11,Lisboa,PT170,arrivals,
-não instalado,,322,,,,,1110,Oeiras,1110,11,Lisboa,PT170,arrivals,
-verificado,ok,323,Rua Manuel Caetano,38.567300,-8.940715,Quinta do Anjo,1508,Palmela,1508,15,Setúbal,PT170,departures,130081
-verificado,screen_graffiti,324,Palmela (Terminal Rodoviário),38.570311,-8.905096,Palmela,1508,Palmela,1508,15,Setúbal,PT170,arrivals,|130802|130803|130804|130805|130806|130807|130808|130809|130810
-verificado,ok,325,EN 379 - X - EN 252,38.576385,-8.889908,Volta da Pedra,1508,Palmela,1508,15,Setúbal,PT170,arrivals,130017
-verificado,ok,326,EN379 X EN252,38.576509,-8.889774,Volta da Pedra,1508,Palmela,1508,15,Setúbal,PT170,arrivals,130018
-verificado - Falta adicionar foto do PIP,ok,330,Rua 25 Abril - Ringue,38.599233,-9.004544,Bairro Alentejano,1508,Palmela,1508,15,Setúbal,PT170,arrivals,130684
-não instalado,,331,EN 379 56A,38.575117,-8.903167,Palmela,1508,Palmela,1508,15,Setúbal,PT170,arrivals,0
-verificado,ok,332,Escola Básica dos 2º e 3º ciclos,38.628733,-8.912599,Pinhal Novo,1508,Palmela,1508,15,Setúbal,PT170,arrivals,130378
-verificado,ok,333,Avenida Liberdade (Correios),38.584074,-8.691165,Águas de Moura,1508,Palmela,1508,15,Setúbal,PT170,arrivals,130708
-verificado,ok,334,Praça José Maria dos Santos,38.631421,-8.915842,Pinhal Novo,1508,Palmela,1508,15,Setúbal,PT170,arrivals,130228
-verificado,ok,335,EN5-Passagem de Nível,38.634229,-8.742044,Poceirão,1508,Palmela,1508,15,Setúbal,PT170,arrivals,130159
-verificado,ok,336,Avenida Visconde Tojal 278,38.556439,-8.967351,Cabanas,1508,Palmela,1508,15,Setúbal,PT170,arrivals,130122
-verificado,ok,339,Avenida Vale de Milhaços 30,38.638960,-9.153290,Corroios,1510,Seixal,1510,15,Setúbal,PT170,arrivals,140350
-verificado,ok,340,Rua Gil Vicente (X) Rua Pedro Nunes,38.617786,-9.102043,Arrentela,1510,Seixal,1510,15,Setúbal,PT170,arrivals,140048
-verificado,ok,341,Seixal (Terminal Fluvial) - P1 - P2,38.647237,-9.096285,Seixal,1510,Seixal,1510,15,Setúbal,PT170,arrivals,140073|149994
-verificado,ok,342,Seixal (Terminal Fluvial) - P3 - P4,38.646986,-9.095834,Seixal,1510,Seixal,1510,15,Setúbal,PT170,arrivals,140074|140733
-verificado,ok,345,Avenida 25 de Abril 79,38.641336,-9.150793,Corroios,1510,Seixal,1510,15,Setúbal,PT170,arrivals,140707
-verificado,ok,346,Rua das Flores (Centro de Saúde),38.645381,-9.147122,Corroios,1510,Seixal,1510,15,Setúbal,PT170,arrivals,140724
-verificado,structure_graffiti,347,Rua Brejos da Piedade (Zona Comercial),38.612239,-9.105489,Arrentela,1510,Seixal,1510,15,Setúbal,PT170,arrivals,140586
-verificado,ok,348,Avenida 25 de Abril (Rotunda),38.640656,-9.150635,Corroios,1510,Seixal,1510,15,Setúbal,PT170,arrivals,140705
-verificado,sticker_missing,349,Escola Básica Carlos Ribeiro,38.597126,-9.092383,Pinhal de Frades,1510,Seixal,1510,15,Setúbal,PT170,arrivals,140424
-verificado,ok,350,Alameda 25 de Abril,38.650487,-9.143191,Miratejo,1510,Seixal,1510,15,Setúbal,PT170,arrivals,140727
-verificado,structure_graffiti,351,N10 Ft Armazens da Lavoura de Almada e Seixal,38.616791,-9.110931,Amora,1510,Seixal,1510,15,Setúbal,PT170,arrivals,140129
-verificado,ok,352,Avenida 1º Maio - Rotunda,38.623962,-9.125898,Amora,1510,Seixal,1510,15,Setúbal,PT170,arrivals,140131
-verificado,ok,353,Pinhal Conde da Cunha,38.610642,-9.134959,Amora,1510,Seixal,1510,15,Setúbal,PT170,arrivals,140193
-verificado,ok,354,Avenida 25 de Abril 581,38.584688,-9.095908,Pinhal de Frades,1510,Seixal,1510,15,Setúbal,PT170,arrivals,140415
-verificado,ok,355,Avenida 5 de Outubro (Rotunda),38.556792,-9.061379,Fernão Ferro,1510,Seixal,1510,15,Setúbal,PT170,arrivals,140809
-verificado,ok,356,Avenida dos Resistentes Antifascistas Ft 57,38.617614,-9.105788,Arrentela,1510,Seixal,1510,15,Setúbal,PT170,arrivals,140228
-verificado,ok,357,Avenida Albano Pereira 5,38.640569,-9.099348,Seixal,1510,Seixal,1510,15,Setúbal,PT170,arrivals,140068
-verificado,ok,358,Avenida 25 de Abril - Ft 581,38.584682,-9.095765,Pinhal de Frades,1510,Seixal,1510,15,Setúbal,PT170,arrivals,140416
-verificado,ok,359,Avenida dos Resistentes Antifascistas 69,38.617083,-9.105586,Arrentela,1510,Seixal,1510,15,Setúbal,PT170,arrivals,140227
-verificado,structure_graffiti,360,Rua Silva Alves Cunha (Mercado Municipal),38.643403,-9.099154,Seixal,1510,Seixal,1510,15,Setúbal,PT170,arrivals,140247
-não instalado,,361,,,,,1511,Sesimbra,1511,15,Setúbal,PT170,arrivals,0
-Não foi possivel testar,,362,,38.445620,-9.099706,,1511,Sesimbra,1511,15,Setúbal,PT170,departures,150051|150052|150455
-verificado,ok,363,R. Dr. Alberto Leite (Jardim),38.462298,-9.102498,Santana,1511,Sesimbra,1511,15,Setúbal,PT170,arrivals,150067
-verificado,ok,364,R. Dr. Alberto Leite (Ft. Jardim),38.462145,-9.102467,Santana,1511,Sesimbra,1511,15,Setúbal,PT170,arrivals,150070
-verificado,ok,365,EN378 Ft. 55 ,38.470898,-9.100797,Santana,1511,Sesimbra,1511,15,Setúbal,PT170,arrivals,150223
-verificado,ok,366,Alameda Salgeiro Maia (Ft. Posto Combustivel),38.572361,-9.036989,Quinta do Conde,1511,Sesimbra,1511,15,Setúbal,PT170,arrivals,150009
-verificado,ok,367,Avenida Norton de Matos - Jardim,38.565027,-9.037068,Quinta do Conde,1511,Sesimbra,1511,15,Setúbal,PT170,arrivals,150013
-verificado,ok,368,Avenida Norton de Matos - Supermercado,38.565114,-9.037349,Quinta do Conde,1511,Sesimbra,1511,15,Setúbal,PT170,arrivals,150529
-verificado,ok,369,Av. 25 de Abril (X) Av. das Gaivotas,38.453213,-9.120361,Zambujal,1511,Sesimbra,1511,15,Setúbal,PT170,arrivals,150199
-verificado,ok,370,Avenida 10 de Junho - Rotunda,38.551539,-9.099557,Quinta do Conde,1511,Sesimbra,1511,15,Setúbal,PT170,arrivals,150563
-não instalado,,371,,38.471154,-9.100756,,1511,Sesimbra,1511,15,Setúbal,PT170,arrivals,0
-não instalado,,372,SETUBAL ITS - EXTERIOR P1,,,Setúbal,1512,Setúbal,1512,15,Setúbal,PT170,arrivals,0
-Não foi possivel testar,,373,AV LUISA TODI - CASINO,38.523519,-8.895300,Setúbal,1512,Setúbal,1512,15,Setúbal,PT170,arrivals,160225
-verificado,ok,374,Av Luísa Todi 195,38.522928,-8.895046,Setúbal,1512,Setúbal,1512,15,Setúbal,PT170,arrivals,160161
-Não foi possivel testar,,375,AV ALEXANDRE HERCULANO - BONFIM,38.526835,-8.890498,Setúbal,1512,Setúbal,1512,15,Setúbal,PT170,arrivals,160123
-verificado,structure_graffiti,376,Av 22 Dezembro (Escola de Condução),38.525150,-8.893968,Setúbal,1512,Setúbal,1512,15,Setúbal,PT170,arrivals,160105
-verificado,ok,377,KM 39200 - Largo Combatentes,38.525054,-8.894627,Setúbal,1512,Setúbal,1512,15,Setúbal,PT170,arrivals,160531
-verificado,sticker_missing,378,Hospital São Bernardo,38.529250,-8.881965,Setúbal,1512,Setúbal,1512,15,Setúbal,PT170,arrivals,160029
-verificado,ok,379,Av Coração de Maria - Escola,38.540172,-8.876633,Setúbal,1512,Setúbal,1512,15,Setúbal,PT170,arrivals,160147
-verificado,ok,380,Estrada de Algeruz,38.545030,-8.856172,Setúbal,1512,Setúbal,1512,15,Setúbal,PT170,arrivals,160293
-verificado,ok,381,Alto da Estefanilha - IPS,38.523529,-8.839510,Setúbal,1512,Setúbal,1512,15,Setúbal,PT170,arrivals,160043
-Não foi possivel testar - Vandalizado,,382,ALTO ESTEFANILHA - IPS,38.523704,-8.839265,,1512,Setúbal,1512,15,Setúbal,PT170,arrivals,0
-verificado,ok,383,EN10 - Praça da República,38.519085,-9.013218,Vila Nogueira de Azeitão,1512,Setúbal,1512,15,Setúbal,PT170,arrivals,160747
-verificado,structure_graffiti,384,ESTR ALGERUZ - BOMBEIROS,38.538796,-8.866637,Setúbal,1512,Setúbal,1512,15,Setúbal,PT170,arrivals,160186
-verificado,sticker_missing,386,Várzea (Terminal),38.539696,-8.887969,Setúbal,1512,Setúbal,1512,15,Setúbal,PT170,departures,161001|161002|161003|161004|161005|161006
-Não foi possivel testar - Bloqueado,,387,Avenida Luísa Todi -  Casa da Baía,38.522940,-8.898755,Setúbal,1512,Setúbal,1512,15,Setúbal,PT170,arrivals,0
-Não foi possivel testar - Bloqueado,,388,Rua General Daniel de Sousa Ft. 4 - Boa Morte,38.525652,-8.898653,Setúbal,1512,Setúbal,1512,15,Setúbal,PT170,arrivals,0
-verificado,ok,389,Avenida António Sérgio - Manteigadas,38.522625,-8.850871,Setúbal,1512,Setúbal,1512,15,Setúbal,PT170,arrivals,160051
-verificado,ok,390,EN110 231,38.545987,-8.817900,Cotovia,1512,Setúbal,1512,15,Setúbal,PT170,arrivals,160658
-verificado,ok,391,Escola Básica do Faralhão,38.522175,-8.818311,Faralhão,1512,Setúbal,1512,15,Setúbal,PT170,arrivals,160320
-Não foi possivel testar,,392,R 25 ABRIL - ESC PRIM,38.529844,-8.991778,Vendas Azeitão,1512,Setúbal,1512,15,Setúbal,PT170,arrivals,0
-verificado,ok,393,EN10 Km34,38.540100,-9.026249,Brejos de Azeitão,1512,Setúbal,1512,15,Setúbal,PT170,arrivals,160805
-verificado,ok,394,Praia da Figueirinha,38.484690,-8.945400,Figueirinha,1512,Setúbal,1512,15,Setúbal,PT170,arrivals,160819
-verificado,ok,395,Av. Manuel Maria Portela Ft. 77,38.528193,-8.886457,Setúbal,1512,Setúbal,1512,15,Setúbal,PT170,arrivals,160141
-verificado,ok,406,Av. do Brasil (Ft. Pq. Estacionamento),38.749387,-9.298603,Agualva Cacém,1111,Sintra,1111,11,Lisboa,PT170,arrivals,170725
-verificado,ok,407,Av. Bons Amigos (Pq. Estacionamento),38.769514,-9.295143,Agualva Cacém,1111,Sintra,1111,11,Lisboa,PT170,arrivals,170459|172500
-verificado,ok,408,Av. Bons Amigos (Ft. Pq. Estacionamento),38.769678,-9.295272,Agualva Cacém,1111,Sintra,1111,11,Lisboa,PT170,arrivals,170460|172621
-verificado,ok,409,Mercês (Estação),38.793055,-9.329976,Algueirão - Mem Martins,1111,Sintra,1111,11,Lisboa,PT170,arrivals,170271|177322
-verificado,ok,410,Praceta Astronautas,38.811483,-9.371213,Sintra,1111,Sintra,1111,11,Lisboa,PT170,arrivals,171305
-verificado,ok,411,Portela de Sintra (Estação) Norte,38.802382,-9.376898,Sintra,1111,Sintra,1111,11,Lisboa,PT170,departures,172482|172481|172485|172483|170307|170391
-não instalado,,412,,,,,1111,Sintra,1111,11,Lisboa,PT170,arrivals,
-verificado,structure_graffiti,413,Av. Nossa Senhora da Esperança Ft. 172,38.847451,-9.437205,São João das Lampas,1111,Sintra,1111,11,Lisboa,PT170,arrivals,171493
-não instalado,,414,,,,,1111,Sintra,1111,11,Lisboa,PT170,arrivals,
-não instalado,,415,,,,,1111,Sintra,1111,11,Lisboa,PT170,arrivals,
-verificado,ok,416,Av. 25 de Abril Ft. 120,38.783307,-9.304960,Agualva Cacém,1111,Sintra,1111,11,Lisboa,PT170,arrivals,170478
-não instalado,,417,,,,,1111,Sintra,1111,11,Lisboa,PT170,arrivals,
-não instalado,,418,,,,,1111,Sintra,1111,11,Lisboa,PT170,arrivals,
-verificado,ok,419,Escola Básica Alfredo Silva,38.750901,-9.351402,Rio de Mouro,1111,Sintra,1111,11,Lisboa,PT170,arrivals,172235
-não instalado,,420,,,,,1111,Sintra,1111,11,Lisboa,PT170,arrivals,
-verificado,sticker_missing,421,Av. da Dinarmarca Ft. 24,38.801743,-9.229808,Casl de Cambra,1111,Sintra,1111,11,Lisboa,PT170,arrivals,171617
-verificado,ok,422,Av. de Lisboa 82,38.801873,-9.228437,Casl de Cambra,1111,Sintra,1111,11,Lisboa,PT170,arrivals,171555
-não instalado,,423,,,,,1111,Sintra,1111,11,Lisboa,PT170,arrivals,
-não instalado,,424,,,,,1111,Sintra,1111,11,Lisboa,PT170,arrivals,
-não instalado,,425,,,,,1111,Sintra,1111,11,Lisboa,PT170,arrivals,
-verificado,ok,426,Rua Elias Garcia (Zona Comercial),38.777009,-9.335105,Rio de Mouro,1111,Sintra,1111,11,Lisboa,PT170,arrivals,170055
-verificado,ok,427,Escola Secundária de Gama Barros,38.771071,-9.313626,Agualva Cacém,1111,Sintra,1111,11,Lisboa,PT170,arrivals,170444
-verificado,ok,428,R. da Esperança (Centro Social e Paroquial),38.770907,-9.313395,Agualva Cacém,1111,Sintra,1111,11,Lisboa,PT170,arrivals,170443
-verificado,ok,429,Estr. Paço de Arcos Ft. 9,38.768681,-9.305106,Agualva Cacém,1111,Sintra,1111,11,Lisboa,PT170,arrivals,170681
-verificado - Com calçada solta,ok,430,Monte Abraão (Estação),38.755621,-9.266144,Queluz,1111,Sintra,1111,11,Lisboa,PT170,arrivals,172105|170851|172480|172478|170901|172185|172199|170921
-verificado,ok,431,Monte Abraão (Estação),38.755693,-9.266290,Queluz,1111,Sintra,1111,11,Lisboa,PT170,arrivals,172197|172491|172537|172195|170929
-verificado,ok,432,Algueirão - Mem Martins (Estação),38.797560,-9.341218,Algueirão - Mem Martins,1111,Sintra,1111,11,Lisboa,PT170,arrivals,172628|170095
-não instalado,,433,,,,,1111,Sintra,1111,11,Lisboa,PT170,arrivals,
-verificado,ok,434,Av. Marginal (Estação),38.797542,-9.342558,Algueirão - Mem Martins,1111,Sintra,1111,11,Lisboa,PT170,arrivals,170197
-verificado,ok,435,Rio de Mouro (Estação) Sul,38.784107,-9.321722,Rio de Mouro,1111,Sintra,1111,11,Lisboa,PT170,arrivals,172493|170073|172601|172492
-verificado,ok,436,Rio de Mouro (Estação) Norte,38.785032,-9.322425,Rio de Mouro,1111,Sintra,1111,11,Lisboa,PT170,arrivals,170169
-verificado,ok,437,Av. João de Deus 104,38.782067,-9.331224,Rio de Mouro,1111,Sintra,1111,11,Lisboa,PT170,arrivals,170080
-verificado,ok,438,Massamá (Estação),38.752100,-9.283597,Queluz,1111,Sintra,1111,11,Lisboa,PT170,arrivals,172479|172496
-verificado,ok,439,R. Direita de Massamá (Jd.),38.756719,-9.275341,Queluz,1111,Sintra,1111,11,Lisboa,PT170,arrivals,170919
-não instalado,,440,,,,,1111,Sintra,1111,11,Lisboa,PT170,arrivals,
-verificado,ok,441,Av. José Elias Garcia 102,38.756483,-9.253823,Queluz,1111,Sintra,1111,11,Lisboa,PT170,arrivals,172476
-verificado,ok,442,Portela de Sintra (Estação) Sul,38.802103,-9.377115,Sintra,1111,Sintra,1111,11,Lisboa,PT170,departures,170821|172533|172534
-não instalado,,443,,,,,1111,Sintra,1111,11,Lisboa,PT170,arrivals,
-não instalado,,444,,,,,1111,Sintra,1111,11,Lisboa,PT170,arrivals,
-não instalado,,445,,,,,1114,Vila Franca de Xira,1114,11,Lisboa,PT170,arrivals,
-não instalado,,446,,,,,1114,Vila Franca de Xira,1114,11,Lisboa,PT170,arrivals,
-não instalado,,447,,,,,1114,Vila Franca de Xira,1114,11,Lisboa,PT170,arrivals,
-não instalado,,448,,,,,1114,Vila Franca de Xira,1114,11,Lisboa,PT170,arrivals,
-não instalado,,449,,,,,1114,Vila Franca de Xira,1114,11,Lisboa,PT170,arrivals,
-não instalado,,450,,,,,1114,Vila Franca de Xira,1114,11,Lisboa,PT170,arrivals,
-não instalado,,451,,,,,1114,Vila Franca de Xira,1114,11,Lisboa,PT170,arrivals,
-não instalado,,453,,,,,1114,Vila Franca de Xira,1114,11,Lisboa,PT170,arrivals,
-não instalado,,454,,,,,1114,Vila Franca de Xira,1114,11,Lisboa,PT170,arrivals,
-não instalado,,455,,,,,1114,Vila Franca de Xira,1114,11,Lisboa,PT170,arrivals,
-não instalado,,456,,,,,1114,Vila Franca de Xira,1114,11,Lisboa,PT170,arrivals,
-não instalado,,457,,,,,1114,Vila Franca de Xira,1114,11,Lisboa,PT170,arrivals,
-não instalado,,458,,,,,1114,Vila Franca de Xira,1114,11,Lisboa,PT170,arrivals,
-não instalado,,459,,,,,1114,Vila Franca de Xira,1114,11,Lisboa,PT170,arrivals,
-não instalado,,460,,,,,1114,Vila Franca de Xira,1114,11,Lisboa,PT170,arrivals,
-não instalado,,461,,,,,1114,Vila Franca de Xira,1114,11,Lisboa,PT170,arrivals,
-não instalado,,462,,,,,1114,Vila Franca de Xira,1114,11,Lisboa,PT170,arrivals,
-não instalado,,463,,,,,1114,Vila Franca de Xira,1114,11,Lisboa,PT170,arrivals,
-não instalado,,464,,,,,1114,Vila Franca de Xira,1114,11,Lisboa,PT170,arrivals,
-não instalado,,465,,,,,1114,Vila Franca de Xira,1114,11,Lisboa,PT170,arrivals,
-não instalado,,466,,,,,1114,Vila Franca de Xira,1114,11,Lisboa,PT170,arrivals,
-não instalado,,467,,,,,1114,Vila Franca de Xira,1114,11,Lisboa,PT170,arrivals,
-não instalado,,468,,,,,1114,Vila Franca de Xira,1114,11,Lisboa,PT170,arrivals,
-não licenciado,,,,38.750706,-8.962749,,1502,Alcochete,1502,15,Setúbal,PT170,arrivals,010009
-não licenciado,,,,38.751002,-8.962783,,1502,Alcochete,1502,15,Setúbal,PT170,arrivals,010010
-não licenciado,,,,38.679100,-9.156790,,1503,Almada,1503,15,Setúbal,PT170,arrivals,020059
-não licenciado,,,,38.653800,-9.147340,,1503,Almada,1503,15,Setúbal,PT170,arrivals,020697
-não licenciado,,,,38.654500,-9.165870,,1503,Almada,1503,15,Setúbal,PT170,arrivals,020730
-não licenciado,,,,38.792182,-9.229665,,1115,Amadora,1115,11,Lisboa,PT170,arrivals,030647
-não licenciado,,,,38.728179,-9.216945,,1115,Amadora,1115,11,Lisboa,PT170,arrivals,030785
-não licenciado,,,,38.655037,-9.068058,,1504,Barreiro,1504,15,Setúbal,PT170,arrivals,040077
-não licenciado,,,,38.654282,-9.049426,,1504,Barreiro,1504,15,Setúbal,PT170,arrivals,040164
-não licenciado,,,,38.662113,-9.074456,,1504,Barreiro,1504,15,Setúbal,PT170,arrivals,040137
-não licenciado,,,,38.704241,-9.323654,,1105,Cascais,1105,11,Lisboa,PT170,arrivals,050093
-não licenciado,,,,38.702637,-9.324750,,1105,Cascais,1105,11,Lisboa,PT170,arrivals,050095
-não licenciado,,,,38.702785,-9.340723,,1105,Cascais,1105,11,Lisboa,PT170,arrivals,050163
-não licenciado,,,,38.729938,-9.410962,,1105,Cascais,1105,11,Lisboa,PT170,arrivals,050183
-não licenciado,,,,38.815517,-9.127652,,1107,Loures,1107,11,Lisboa,PT170,arrivals,070098
-não licenciado,,,,38.793540,-9.103830,,1107,Loures,1107,11,Lisboa,PT170,arrivals,070513
-não licenciado,,,,38.810620,-9.100670,,1107,Loures,1107,11,Lisboa,PT170,arrivals,071249
-não licenciado,,,,38.936900,-9.335130,,1109,Mafra,1109,11,Lisboa,PT170,arrivals,080206
-não licenciado,,,,38.936800,-9.334960,,1109,Mafra,1109,11,Lisboa,PT170,arrivals,080205
-não licenciado,,,,38.656057,-9.012085,,1506,Moita,1506,15,Setúbal,PT170,arrivals,090006
-não licenciado,,,,38.647796,-9.036797,,1506,Moita,1506,15,Setúbal,PT170,arrivals,090224
-não licenciado,,,,38.649312,-9.043971,,1506,Moita,1506,15,Setúbal,PT170,departures,090260
-não licenciado,,,,38.706328,-8.974613,,1507,Montijo,1507,15,Setúbal,PT170,arrivals,100015
-não licenciado,,,,38.713189,-8.972832,,1507,Montijo,1507,15,Setúbal,PT170,,100022
-não licenciado,,,,38.789000,-9.193960,,1116,Odivelas,1116,11,Lisboa,PT170,,110077
-não licenciado,,,,38.792330,-9.175470,,1116,Odivelas,1116,11,Lisboa,PT170,,110405
-não licenciado,,,,38.788810,-9.175990,,1116,Odivelas,1116,11,Lisboa,PT170,,111003
-não licenciado,,,,38.699518,-9.232077,,1110,Oeiras,1110,11,Lisboa,PT170,,120083
-não licenciado,,,,38.726940,-9.239777,,1110,Oeiras,1110,11,Lisboa,PT170,,120101
-não licenciado,,,,38.728194,-9.238484,,1110,Oeiras,1110,11,Lisboa,PT170,,120473
-não licenciado,,,,38.574600,-8.900910,,1508,Palmela,1508,15,Setúbal,PT170,,130003
-não licenciado,,,,38.571770,-8.886740,,1508,Palmela,1508,15,Setúbal,PT170,,130651
-não licenciado,,,,38.624200,-9.100220,,1510,Seixal,1510,15,Setúbal,PT170,,140053
-não licenciado,,,,38.626200,-9.101060,,1510,Seixal,1510,15,Setúbal,PT170,,140055
-não licenciado,,,,38.636832,-9.149686,,1510,Seixal,1510,15,Setúbal,PT170,,140089
-não licenciado,,,,38.564000,-9.052070,,1511,Sesimbra,1511,15,Setúbal,PT170,,150026
-não licenciado,,,,38.565700,-9.040390,,1511,Sesimbra,1511,15,Setúbal,PT170,,150551
-não licenciado,,,,38.524930,-8.884360,,1512,Setúbal,1512,15,Setúbal,PT170,,160063
-não licenciado,,,,38.527690,-8.892790,,1512,Setúbal,1512,15,Setúbal,PT170,,160107
-não licenciado,,,,38.529290,-8.891900,,1512,Setúbal,1512,15,Setúbal,PT170,,160109
-não licenciado,,,,38.771620,-9.292050,,1111,Sintra,1111,11,Lisboa,PT170,,170461
-não licenciado,,,,38.759336,-9.265707,,1111,Sintra,1111,11,Lisboa,PT170,,170874
-não licenciado,,,,38.763360,-9.276229,,1111,Sintra,1111,11,Lisboa,PT170,,170989
-não licenciado,,,,38.895700,-9.037440,,1114,Vila Franca de Xira,1114,11,Lisboa,PT170,,180213
-não licenciado,,,,38.874470,-9.075870,,1114,Vila Franca de Xira,1114,11,Lisboa,PT170,,180481
-não licenciado,,,,38.865200,-9.060450,,1114,Vila Franca de Xira,1114,11,Lisboa,PT170,,180500
+verification_status,status,id,name,lat,lon,area,locality,municipality_id,municipality_name,district_id,district_name,region_id,region_name,display_mode,stops
+verificado,ok,001,amL,38.717203,-9.120373,,Santa Apolónia,1106,Lisboa,11,Lisboa,PT170,AML,arrivals,
+verificado,ok,102,Rua Salineiro Fte 81,38.749069,-8.965875,4,Alcochete,1502,Alcochete,15,Setúbal,PT170,AML,arrivals,010082
+verificado,ok,103,Avenida Euro 2004 - Zona Comercial,38.751366,-8.942771,4,Alcochete,1502,Alcochete,15,Setúbal,PT170,AML,arrivals,010136
+verificado,sticker_missing,104,Avenida Euro 2004 - Zona Comercial,38.751127,-8.942987,4,Alcochete,1502,Alcochete,15,Setúbal,PT170,AML,arrivals,010135
+verificado,ok,105,EN119 114,38.731672,-8.972351,4,São Francisco,1502,Alcochete,15,Setúbal,PT170,AML,arrivals,010066
+verificado,ok,108,FCT (Rotunda),38.660486,-9.202622,3,Monte da Caparica,1503,Almada,15,Setúbal,PT170,AML,arrivals,020317
+verificado,ok,109,Rua Sérgio Malpique - Zona Comercial,38.659225,-9.173307,3,Almada,1503,Almada,15,Setúbal,PT170,AML,arrivals,020088
+verificado,ok,111,Av. 23 de Julho (Praça),38.656355,-9.154274,3,Laranjeiro,1503,Almada,15,Setúbal,PT170,AML,arrivals,020681
+verificado,sticker_missing,112,Avenida Dr. Aresta Branco 13,38.643560,-9.232624,3,Costa da Caparica,1503,Almada,15,Setúbal,PT170,AML,arrivals,020639
+verificado,ok,113,Rua Pedro Costa 1262,38.605327,-9.186377,3,Charneca da Caparica,1503,Almada,15,Setúbal,PT170,AML,arrivals,020422
+verificado,structure_graffiti,114,Escola Básica Carlos Gargaté,38.604988,-9.186137,3,Charneca da Caparica,1503,Almada,15,Setúbal,PT170,AML,arrivals,020421
+verificado,sticker_missing,116,Av. Dom Nuno Álvares Pereira,38.679217,-9.158558,3,Almada,1503,Almada,15,Setúbal,PT170,AML,arrivals,020047
+verificado,ok,117,Portagem (Cristo Rei),38.673779,-9.173990,3,Almada,1503,Almada,15,Setúbal,PT170,AML,arrivals,020001
+verificado,ok,119,Avenida Torrão Silva (Estação),38.666404,-9.180532,3,Pragal,1503,Almada,15,Setúbal,PT170,AML,arrivals,020275
+verificado,sticker_missing,121,Avenida D. Nuno Álvares Pereira - Prç S. João Baptista,38.678985,-9.158582,3,Almada,1503,Almada,15,Setúbal,PT170,AML,arrivals,020399
+verificado,ok,123,Cacilhas (Terminal),38.687893,-9.147125,3,Cacilhas,1503,Almada,15,Setúbal,PT170,AML,departures,020037|020011|020403|020429|020955|020959|020973|021007
+verificado,ok,124,Trafaria (Terminal),38.673904,-9.231743,3,Trafaria,1503,Almada,15,Setúbal,PT170,AML,arrivals,020385|024855
+verificado,ok,125,Avenida Torrão Silva (Estação),38.666571,-9.180657,3,Pragal,1503,Almada,15,Setúbal,PT170,AML,arrivals,020276|027998
+verificado,ok,126,Avenida 23 de Julho - Supermercado,38.668847,-9.159342,3,Almada,1503,Almada,15,Setúbal,PT170,AML,arrivals,020069
+verificado,ok,127,Cova da Piedade - Posto Combustível,38.667602,-9.159434,3,Almada,1503,Almada,15,Setúbal,PT170,AML,arrivals,020077
+verificado,structure_graffiti,128,Rua Vale de Figueira - Posto Combustível,38.635443,-9.176690,3,Sobreda,1503,Almada,15,Setúbal,PT170,AML,arrivals,020193
+verificado,structure_graffiti,129,Rua Vale de Figueira - Ft Hipódromo,38.636097,-9.176455,3,Sobreda,1503,Almada,15,Setúbal,PT170,AML,arrivals,020147
+verificado,ok,130,R António Andrade 1125,38.617628,-9.192789,3,Charneca da Caparica,1503,Almada,15,Setúbal,PT170,AML,arrivals,020337
+verificado,ok,131,Centro Sul,38.668033,-9.164672,3,Almada,1503,Almada,15,Setúbal,PT170,AML,arrivals,020071|021019
+verificado,ok,132,R António Andrade Ft 1125,38.617394,-9.192744,3,Charneca da Caparica,1503,Almada,15,Setúbal,PT170,AML,arrivals,020338
+verificado,ok,135,Rua Elias Garcia 103,38.757936,-9.226487,1,Amadora,1115,Amadora,11,Lisboa,PT170,AML,arrivals,030605
+verificado,ok,137,Estr. do Zambujal Ft. 42,38.733435,-9.216185,1,Amadora,1115,Amadora,11,Lisboa,PT170,AML,arrivals,030563
+verificado,ok,138,Estr. do Zambujal 40,38.733170,-9.216013,1,Amadora,1115,Amadora,11,Lisboa,PT170,AML,arrivals,030555
+verificado,ok,139,Pç. Teófilo Braga,38.760138,-9.204210,1,Amadora,1115,Amadora,11,Lisboa,PT170,AML,arrivals,030409|030739
+verificado,ok,140,Pç. Fernando Calhau (Ft. Centro Comercial),38.777113,-9.217589,1,Brandoa,1115,Amadora,11,Lisboa,PT170,AML,arrivals,030850
+verificado,sticker_missing,141,Pç. Fernando Calhau (Centro Comercial),38.776999,-9.218089,1,Brandoa,1115,Amadora,11,Lisboa,PT170,AML,departures,030849
+verificado,ok,142,Escola Secundária Azevedo Neves,38.744962,-9.226662,1,Amadora,1115,Amadora,11,Lisboa,PT170,AML,arrivals,030113
+verificado,sticker_missing,143,R. Elias Garcia (Ft. Farmácia),38.753574,-9.210447,1,Amadora,1115,Amadora,11,Lisboa,PT170,AML,arrivals,030300
+verificado,ok,144,Hospital Amadora Sintra,38.745369,-9.245924,1,Amadora,1115,Amadora,11,Lisboa,PT170,AML,departures,030847|030846|030311
+verificado,ok,145,Av. da Aviação Portuguesa (Ft. Escola),38.754312,-9.233296,1,Amadora,1115,Amadora,11,Lisboa,PT170,AML,arrivals,030541
+verificado,ok,146,Rua Elias Garcia (Escola),38.760548,-9.247942,1,Amadora,1115,Amadora,11,Lisboa,PT170,AML,arrivals,030328
+verificado,ok,147,Rua Elias Garcia (Ft. Escola),38.760733,-9.247919,1,Amadora,1115,Amadora,11,Lisboa,PT170,AML,arrivals,030327
+verificado,ok,148,Amadora (Estação) Sul,38.758090,-9.234609,1,Amadora,1115,Amadora,11,Lisboa,PT170,AML,departures,030845|030317|030869|030821
+verificado,ok,149,Estr. Brandoa (Pq.),38.765366,-9.213197,1,Brandoa,1115,Amadora,11,Lisboa,PT170,AML,arrivals,030387
+verificado,ok,150,R. Elias Garcia 362,38.759300,-9.238000,1,Amadora,1115,Amadora,11,Lisboa,PT170,AML,arrivals,030475
+verificado,ok,151,R. Elias Garcia (Pq.),38.758944,-9.237125,1,Amadora,1115,Amadora,11,Lisboa,PT170,AML,arrivals,030319|030880
+verificado,ok,152,R. Oliveira Martins 7,38.767249,-9.232002,1,Amadora,1115,Amadora,11,Lisboa,PT170,AML,arrivals,030135
+verificado,ok,153,Av. Cardoso Lopes 27,38.760690,-9.237166,1,Amadora,1115,Amadora,11,Lisboa,PT170,AML,arrivals,030843|030687|030842|030119
+verificado,ok,154,Relobeira (Estação),38.750373,-9.221809,1,Amadora,1115,Amadora,11,Lisboa,PT170,AML,departures,030861
+verificado,ok,156,Avenida Bocage - Supermercado,38.656252,-9.060198,4,Barreiro,1504,Barreiro,15,Setúbal,PT170,AML,arrivals,040006
+verificado,ok,157,Avenida Bocage - Ft Supermercado,38.656448,-9.060372,4,Barreiro,1504,Barreiro,15,Setúbal,PT170,AML,arrivals,040005
+verificado,ok,158,Coina (Zona Comercial),38.581492,-9.044231,4,Coina,1504,Barreiro,15,Setúbal,PT170,AML,arrivals,040118
+verificado,ok,159,Coina (Ft. Zona Comercial),38.581298,-9.044128,4,Coina,1504,Barreiro,15,Setúbal,PT170,AML,arrivals,040119
+verificado,ok,205,Quinta Casal da Pipa (Centro Comercial),38.819937,-9.176507,2,Loures,1107,Loures,11,Lisboa,PT170,AML,arrivals,070470
+verificado,ok,207,Ft. Escola Básica Frielas,38.825643,-9.143003,2,Frielas,1107,Loures,11,Lisboa,PT170,AML,arrivals,070495
+verificado,ok,208,Largo Marcos Romão Reis Junior,38.828903,-9.166948,2,Loures,1107,Loures,11,Lisboa,PT170,AML,arrivals,070032
+verificado,ok,209,Rua da República (Campo de Futebol),38.828624,-9.165098,2,Loures,1107,Loures,11,Lisboa,PT170,AML,arrivals,070250
+verificado,ok,210,R. da República (Escola),38.828011,-9.164238,2,Loures,1107,Loures,11,Lisboa,PT170,AML,arrivals,070035
+verificado,ok,211,Av. Moscavide (Igreja),38.779477,-9.102591,2,Moscavide,1107,Loures,11,Lisboa,PT170,AML,arrivals,070585
+verificado,ok,212,Praça da República,38.796165,-9.105363,2,Sacavém,1107,Loures,11,Lisboa,PT170,AML,arrivals,071295|070121
+verificado,ok,213,N115 (X) R. Marechal Carmona,38.842509,-9.162942,2,Loures,1107,Loures,11,Lisboa,PT170,AML,arrivals,070538
+verificado,ok,214,Av. das Descobertas (Supermercado),38.841744,-9.161322,2,Loures,1107,Loures,11,Lisboa,PT170,AML,arrivals,070443
+verificado,ok,215,Avenida das Descobertas Frente 73,38.837173,-9.157262,2,Infantado,1107,Loures,11,Lisboa,PT170,AML,arrivals,070383
+verificado,ok,217,R. da República (Jardim),38.831853,-9.171529,2,Loures,1107,Loures,11,Lisboa,PT170,AML,arrivals,070027
+verificado,ok,218,Rua Professor Egas Moniz (Centro de Saúde),38.825439,-9.163079,2,Loures,1107,Loures,11,Lisboa,PT170,AML,arrivals,070043
+verificado,ok,219,N8 (X) Av. Salgado Zenha,38.806839,-9.157564,2,Santo António dos Cavaleiros,1107,Loures,11,Lisboa,PT170,AML,arrivals,071134
+verificado,ok,220,Av. do Ralis (Supermercado),38.785105,-9.117031,2,Portela,1107,Loures,11,Lisboa,PT170,AML,arrivals,071412
+verificado,sticker_missing,221,R. Mouzinho de Albuquerque (X) R. dos Actores,38.785592,-9.111522,2,Portela,1107,Loures,11,Lisboa,PT170,AML,arrivals,070595
+verificado,ok,223,Largo 5 de Outubro,38.889378,-9.206637,2,Lousa,1107,Loures,11,Lisboa,PT170,AML,arrivals,071092
+verificado,ok,226,Largo 25 de Abril,38.903381,-9.190229,2,Milharado,1107,Loures,11,Lisboa,PT170,AML,arrivals,070212
+verificado,ok,228,R. Cmdt. Carvalho Araujo Ft. 124,38.842435,-9.178154,2,Loures,1107,Loures,11,Lisboa,PT170,AML,arrivals,070238
+verificado,ok,229,R. Vergílio Ferreira (Escola),38.810281,-9.175637,2,Santo António dos Cavaleiros,1107,Loures,11,Lisboa,PT170,AML,arrivals,070327
+verificado,ok,230,Av. Mq. de Marialva (Quiosque),38.813093,-9.157045,2,Santo António dos Cavaleiros,1107,Loures,11,Lisboa,PT170,AML,arrivals,070313
+verificado,ok,231,R. 1º de Maio Ft. 74,38.858515,-9.130498,2,São Julião do Tojal,1107,Loures,11,Lisboa,PT170,AML,arrivals,070844
+verificado,ok,232,R. D. Afonso Henriques (Ft. Centro Comercial),38.822475,-9.098282,2,São João da Talha,1107,Loures,11,Lisboa,PT170,AML,arrivals,070740
+verificado,ok,233,Santa Iria (Estação),38.841272,-9.080331,2,Santa Iria da Azoia,1107,Loures,11,Lisboa,PT170,AML,arrivals,070707
+verificado,ok,234,R. Mártires do Tarrafal 43,38.808784,-9.102214,2,Bobadela,1107,Loures,11,Lisboa,PT170,AML,arrivals,070793
+verificado,ok,235,R. Guilherme Gomes Fernandes Ft.37,38.801640,-9.128815,2,Camarate,1107,Loures,11,Lisboa,PT170,AML,arrivals,070625
+verificado,ok,236,Av. das Forças Armadas (Ft. Pq. Desportivo),38.814902,-9.118423,2,Unhos,1107,Loures,11,Lisboa,PT170,AML,arrivals,071329
+verificado,ok,237,EN250 (Ft. Quiosque),38.813631,-9.132031,2,Apelação,1107,Loures,11,Lisboa,PT170,AML,arrivals,070503
+verificado,ok,238,Av. Severiano Falcão (X) R. José Fonseca Carvalho,38.789523,-9.124718,2,Prior Velho,1107,Loures,11,Lisboa,PT170,AML,arrivals,071431
+verificado,ok,239,Pq. Intermodal Alto da Vela,38.932872,-9.326702,2,Mafra,1109,Mafra,11,Lisboa,PT170,AML,arrivals,080348|080347
+verificado,ok,240,Lgo. de Snato António,38.959000,-9.351339,2,Mafra,1109,Mafra,11,Lisboa,PT170,AML,arrivals,080113
+verificado,ok,241,R. 5 de Outubro,38.958914,-9.352969,2,Mafra,1109,Mafra,11,Lisboa,PT170,AML,arrivals,080114
+verificado,ok,242,Pq. Intermodal de Mafra,38.940426,-9.335124,2,Mafra,1109,Mafra,11,Lisboa,PT170,AML,arrivals,080208|082322|082321|082320|080207
+verificado,ok,243,Av. de Portugal (X) R. Adriano Paulo Costa Capote,38.945750,-9.354808,2,Mafra,1109,Mafra,11,Lisboa,PT170,AML,arrivals,080861
+verificado,ok,244,Vendo do Pinheiro Eco Parque,38.927450,-9.237143,2,Vendo do Pinheiro,1109,Mafra,11,Lisboa,PT170,AML,arrivals,080271|082005|082004
+verificado,ok,245,Vendo do Pinheiro Eco Parque,38.927523,-9.236676,2,Vendo do Pinheiro,1109,Mafra,11,Lisboa,PT170,AML,arrivals,080272|082001|082003
+verificado,ok,246,R. 25 de Abril Ft. 18,38.930560,-9.254975,2,Malveira,1109,Mafra,11,Lisboa,PT170,AML,arrivals,080283
+verificado,ok,247,R. 25 de Abril 28,38.929869,-9.256424,2,Malveira,1109,Mafra,11,Lisboa,PT170,AML,arrivals,080281
+verificado,ok,249,Pq. Intermodal da Ericeira,38.967230,-9.405684,2,Ericeira,1109,Mafra,11,Lisboa,PT170,AML,departures,080007|082006|082007|082008|082009
+verificado,ok,251,R. Movimento das Forças Armadas 83,38.922621,-9.296402,2,São Miguel de Alcainça,1109,Mafra,11,Lisboa,PT170,AML,arrivals,080340
+verificado,ok,252,R. Movimento das Forças Armadas Ft. 83,38.922906,-9.296322,2,São Miguel de Alcainça,1109,Mafra,11,Lisboa,PT170,AML,arrivals,080339
+verificado,ok,256,R. das Labruscas,39.029643,-9.367741,2,Encarnação,1109,Mafra,11,Lisboa,PT170,AML,arrivals,080525
+verificado,ok,257,Avenida 1 de Maio,38.651312,-9.038897,4,Vale da Amoreira,1506,Moita,15,Setúbal,PT170,AML,arrivals,090262
+verificado,ok,259,Avenida Marginal (Câmara Municipal),38.652861,-8.994039,4,Moita,1506,Moita,15,Setúbal,PT170,AML,arrivals,090058
+verificado,ok,263,EN11-Posto Combustivel,38.652915,-9.021126,4,Alhos Vedros,1506,Moita,15,Setúbal,PT170,AML,arrivals,090011
+verificado,ok,264,Rua Joly Braga Santos (Parque Qta. da Fonte da Prata),38.655270,-9.009300,4,Fonte da Prata,1506,Moita,15,Setúbal,PT170,AML,arrivals,090007
+verificado,ok,267,Av Infante D. Henriques - Escola Secundária,38.708878,-8.983556,4,Montijo,1507,Montijo,15,Setúbal,PT170,AML,arrivals,100087
+verificado,sticker_missing,268,Via Circular Externa - Zona Comercial,38.696854,-8.945297,4,Afonsoeiro,1507,Montijo,15,Setúbal,PT170,AML,arrivals,100153
+verificado,ok,269,Pr Gomes Freire de Andrade - P5,38.705777,-8.976562,4,Montijo,1507,Montijo,15,Setúbal,PT170,AML,arrivals,100027
+verificado,ok,271,Avenida 5 de Outubro 5,38.678242,-8.968271,4,Sarilhos Grandes,1507,Montijo,15,Setúbal,PT170,AML,arrivals,100190
+verificado,screen_damage,272,EN4 - Fte 489,38.706639,-8.924861,4,Atalaia,1507,Montijo,15,Setúbal,PT170,AML,arrivals,100290
+verificado,ok,273,EN5 - Jardim,38.700075,-8.957360,4,Bela Vista,1507,Montijo,15,Setúbal,PT170,AML,arrivals,100006
+verificado,ok,274,EN5 - Fte Jardim,38.699429,-8.957063,4,Bela Vista,1507,Montijo,15,Setúbal,PT170,AML,arrivals,100005
+verificado,ok,275,EN251 - Largo Manuel Mauricio,38.765802,-8.626916,4,Canha,1507,Montijo,15,Setúbal,PT170,AML,arrivals,100203
+verificado,structure_graffiti,276,Escola Secundária Poeta Joaquim Serra,38.703508,-8.952942,4,Afonsoeiro,1507,Montijo,15,Setúbal,PT170,AML,arrivals,100038
+verificado,ok,277,Pegões (X) EN10,38.681967,-8.612434,4,Pegões,1507,Montijo,15,Setúbal,PT170,AML,arrivals,100235
+verificado,sticker_missing,278,Av. Dr. Augusti Pais (Centro Comercial),38.781468,-9.193254,2,Odivelas,1116,Odivelas,11,Lisboa,PT170,AML,arrivals,110135
+verificado,ok,279,Av. D. Dinis 8,38.789741,-9.176841,2,Odivelas,1116,Odivelas,11,Lisboa,PT170,AML,arrivals,110099|110411|110713
+verificado,ok,280,Av. Prof. Dr. Augusto Abreu Lopes 52,38.794513,-9.179555,2,Odivelas,1116,Odivelas,11,Lisboa,PT170,AML,arrivals,110127
+verificado,ok,281,R. Guilhermina Ascenso (X) R. Dr. João Santos,38.797214,-9.192369,2,Odivelas,1116,Odivelas,11,Lisboa,PT170,AML,arrivals,110070
+verificado,ok,282,Av. da Liberdade (Ft. Escola),38.802898,-9.183703,2,Ramada,1116,Odivelas,11,Lisboa,PT170,AML,arrivals,110324
+verificado,ok,283,R. Almirante Gago Coutinho (X) Av. 25 de Abril,38.797772,-9.161836,2,Póvoa de Santo Adrião,1116,Odivelas,11,Lisboa,PT170,AML,arrivals,110621
+verificado,ok,284,Lg. Major Rosa Bastos,38.800000,-9.159829,2,Póvoa de Santo Adrião,1116,Odivelas,11,Lisboa,PT170,AML,arrivals,110619
+verificado,ok,285,R. Regimento de Engenharia Um (Ft. Jd. de Infância),38.765067,-9.198128,2,Pontinha,1116,Odivelas,11,Lisboa,PT170,AML,arrivals,110045
+verificado,ok,286,R. Regimento de Engenharia Um (X) R. Santo André,38.765260,-9.198243,2,Pontinha,1116,Odivelas,11,Lisboa,PT170,AML,arrivals,110697
+verificado,ok,287,Rt. Senhor Roubado,38.787008,-9.170508,2,Olival Basto,1116,Odivelas,11,Lisboa,PT170,AML,arrivals,110113
+verificado,ok,290,Odivelas (Metro) P5,38.792672,-9.172491,2,Odivelas,1116,Odivelas,11,Lisboa,PT170,AML,departures,110095|111025|110393|111026
+verificado,ok,291,Odivelas (Metro) P10,38.792470,-9.173751,2,Odivelas,1116,Odivelas,11,Lisboa,PT170,AML,arrivals,110409|110097|110410
+verificado,ok,293,R. Alfredo da Costa (Ft. Pq. Infantil),38.788756,-9.191120,2,Odivelas,1116,Odivelas,11,Lisboa,PT170,AML,arrivals,110337
+verificado,ok,294,R. Santo Estevão (X) R. Qta. da Silveira,38.792964,-9.217050,2,Famões,1116,Odivelas,11,Lisboa,PT170,AML,arrivals,110766
+verificado,ok,295,Rua Amália Rodrigues (X) R. Hermínia Silva,38.812716,-9.188065,2,Ramada,1116,Odivelas,11,Lisboa,PT170,AML,arrivals,110313
+verificado,ok,323,Rua Manuel Caetano,38.567300,-8.940715,4,Quinta do Anjo,1508,Palmela,15,Setúbal,PT170,AML,departures,130081
+verificado,screen_graffiti,324,Palmela (Terminal Rodoviário),38.570311,-8.905096,4,Palmela,1508,Palmela,15,Setúbal,PT170,AML,arrivals,|130802|130803|130804|130805|130806|130807|130808|130809|130810
+verificado,ok,325,EN 379 - X - EN 252,38.576385,-8.889908,4,Volta da Pedra,1508,Palmela,15,Setúbal,PT170,AML,arrivals,130017
+verificado,ok,326,EN379 X EN252,38.576509,-8.889774,4,Volta da Pedra,1508,Palmela,15,Setúbal,PT170,AML,arrivals,130018
+verificado,ok,330,Rua 25 Abril - Ringue,38.599233,-9.004544,4,Bairro Alentejano,1508,Palmela,15,Setúbal,PT170,AML,arrivals,130684
+verificado,ok,332,Escola Básica dos 2º e 3º ciclos,38.628733,-8.912599,4,Pinhal Novo,1508,Palmela,15,Setúbal,PT170,AML,arrivals,130378
+verificado,ok,333,Avenida Liberdade (Correios),38.584074,-8.691165,4,Águas de Moura,1508,Palmela,15,Setúbal,PT170,AML,arrivals,130708
+verificado,ok,334,Praça José Maria dos Santos,38.631421,-8.915842,4,Pinhal Novo,1508,Palmela,15,Setúbal,PT170,AML,arrivals,130228
+verificado,ok,335,EN5-Passagem de Nível,38.634229,-8.742044,4,Poceirão,1508,Palmela,15,Setúbal,PT170,AML,arrivals,130159
+verificado,ok,336,Avenida Visconde Tojal 278,38.556439,-8.967351,4,Cabanas,1508,Palmela,15,Setúbal,PT170,AML,arrivals,130122
+verificado,ok,339,Avenida Vale de Milhaços 30,38.638960,-9.153290,3,Corroios,1510,Seixal,15,Setúbal,PT170,AML,arrivals,140350
+verificado,ok,340,Rua Gil Vicente (X) Rua Pedro Nunes,38.617786,-9.102043,3,Arrentela,1510,Seixal,15,Setúbal,PT170,AML,arrivals,140048
+verificado,ok,341,Seixal (Terminal Fluvial) - P1 - P2,38.647237,-9.096285,3,Seixal,1510,Seixal,15,Setúbal,PT170,AML,arrivals,140073|149994
+verificado,ok,342,Seixal (Terminal Fluvial) - P3 - P4,38.646986,-9.095834,3,Seixal,1510,Seixal,15,Setúbal,PT170,AML,arrivals,140074|140733
+verificado,ok,345,Avenida 25 de Abril 79,38.641336,-9.150793,3,Corroios,1510,Seixal,15,Setúbal,PT170,AML,arrivals,140707
+verificado,ok,346,Rua das Flores (Centro de Saúde),38.645381,-9.147122,3,Corroios,1510,Seixal,15,Setúbal,PT170,AML,arrivals,140724
+verificado,structure_graffiti,347,Rua Brejos da Piedade (Zona Comercial),38.612239,-9.105489,3,Arrentela,1510,Seixal,15,Setúbal,PT170,AML,arrivals,140586
+verificado,ok,348,Avenida 25 de Abril (Rotunda),38.640656,-9.150635,3,Corroios,1510,Seixal,15,Setúbal,PT170,AML,arrivals,140705
+verificado,sticker_missing,349,Escola Básica Carlos Ribeiro,38.597126,-9.092383,3,Pinhal de Frades,1510,Seixal,15,Setúbal,PT170,AML,arrivals,140424
+verificado,ok,350,Alameda 25 de Abril,38.650487,-9.143191,3,Miratejo,1510,Seixal,15,Setúbal,PT170,AML,arrivals,140727
+verificado,structure_graffiti,351,N10 Ft Armazens da Lavoura de Almada e Seixal,38.616791,-9.110931,3,Amora,1510,Seixal,15,Setúbal,PT170,AML,arrivals,140129
+verificado,ok,352,Avenida 1º Maio - Rotunda,38.623962,-9.125898,3,Amora,1510,Seixal,15,Setúbal,PT170,AML,arrivals,140131
+verificado,ok,353,Pinhal Conde da Cunha,38.610642,-9.134959,3,Amora,1510,Seixal,15,Setúbal,PT170,AML,arrivals,140193
+verificado,ok,354,Avenida 25 de Abril 581,38.584688,-9.095908,3,Pinhal de Frades,1510,Seixal,15,Setúbal,PT170,AML,arrivals,140415
+verificado,ok,355,Avenida 5 de Outubro (Rotunda),38.556792,-9.061379,3,Fernão Ferro,1510,Seixal,15,Setúbal,PT170,AML,arrivals,140809
+verificado,ok,356,Avenida dos Resistentes Antifascistas Ft 57,38.617614,-9.105788,3,Arrentela,1510,Seixal,15,Setúbal,PT170,AML,arrivals,140228
+verificado,ok,357,Avenida Albano Pereira 5,38.640569,-9.099348,3,Seixal,1510,Seixal,15,Setúbal,PT170,AML,arrivals,140068
+verificado,ok,358,Avenida 25 de Abril - Ft 581,38.584682,-9.095765,3,Pinhal de Frades,1510,Seixal,15,Setúbal,PT170,AML,arrivals,140416
+verificado,ok,359,Avenida dos Resistentes Antifascistas 69,38.617083,-9.105586,3,Arrentela,1510,Seixal,15,Setúbal,PT170,AML,arrivals,140227
+verificado,structure_graffiti,360,Rua Silva Alves Cunha (Mercado Municipal),38.643403,-9.099154,3,Seixal,1510,Seixal,15,Setúbal,PT170,AML,arrivals,140247
+verificado,ok,363,R. Dr. Alberto Leite (Jardim),38.462298,-9.102498,3,Santana,1511,Sesimbra,15,Setúbal,PT170,AML,arrivals,150067
+verificado,ok,364,R. Dr. Alberto Leite (Ft. Jardim),38.462145,-9.102467,3,Santana,1511,Sesimbra,15,Setúbal,PT170,AML,arrivals,150070
+verificado,ok,365,EN378 Ft. 55 ,38.470898,-9.100797,3,Santana,1511,Sesimbra,15,Setúbal,PT170,AML,arrivals,150223
+verificado,ok,366,Alameda Salgeiro Maia (Ft. Posto Combustivel),38.572361,-9.036989,3,Quinta do Conde,1511,Sesimbra,15,Setúbal,PT170,AML,arrivals,150009
+verificado,ok,367,Avenida Norton de Matos - Jardim,38.565027,-9.037068,3,Quinta do Conde,1511,Sesimbra,15,Setúbal,PT170,AML,arrivals,150013
+verificado,ok,368,Avenida Norton de Matos - Supermercado,38.565114,-9.037349,3,Quinta do Conde,1511,Sesimbra,15,Setúbal,PT170,AML,arrivals,150529
+verificado,ok,369,Av. 25 de Abril (X) Av. das Gaivotas,38.453213,-9.120361,3,Zambujal,1511,Sesimbra,15,Setúbal,PT170,AML,arrivals,150199
+verificado,ok,370,Avenida 10 de Junho - Rotunda,38.551539,-9.099557,3,Quinta do Conde,1511,Sesimbra,15,Setúbal,PT170,AML,arrivals,150563
+verificado,ok,374,Av Luísa Todi 195,38.522928,-8.895046,4,Setúbal,1512,Setúbal,15,Setúbal,PT170,AML,arrivals,160161
+verificado,structure_graffiti,376,Av 22 Dezembro (Escola de Condução),38.525150,-8.893968,4,Setúbal,1512,Setúbal,15,Setúbal,PT170,AML,arrivals,160105
+verificado,ok,377,KM 39200 - Largo Combatentes,38.525054,-8.894627,4,Setúbal,1512,Setúbal,15,Setúbal,PT170,AML,arrivals,160531
+verificado,sticker_missing,378,Hospital São Bernardo,38.529250,-8.881965,4,Setúbal,1512,Setúbal,15,Setúbal,PT170,AML,arrivals,160029
+verificado,ok,379,Av Coração de Maria - Escola,38.540172,-8.876633,4,Setúbal,1512,Setúbal,15,Setúbal,PT170,AML,arrivals,160147
+verificado,ok,380,Estrada de Algeruz,38.545030,-8.856172,4,Setúbal,1512,Setúbal,15,Setúbal,PT170,AML,arrivals,160293
+verificado,ok,381,Alto da Estefanilha - IPS,38.523529,-8.839510,4,Setúbal,1512,Setúbal,15,Setúbal,PT170,AML,arrivals,160043
+verificado,ok,383,EN10 - Praça da República,38.519085,-9.013218,4,Vila Nogueira de Azeitão,1512,Setúbal,15,Setúbal,PT170,AML,arrivals,160747
+verificado,structure_graffiti,384,ESTR ALGERUZ - BOMBEIROS,38.538796,-8.866637,4,Setúbal,1512,Setúbal,15,Setúbal,PT170,AML,arrivals,160186
+verificado,sticker_missing,386,Várzea (Terminal),38.539696,-8.887969,4,Setúbal,1512,Setúbal,15,Setúbal,PT170,AML,departures,161001|161002|161003|161004|161005|161006
+verificado,ok,389,Avenida António Sérgio - Manteigadas,38.522625,-8.850871,4,Setúbal,1512,Setúbal,15,Setúbal,PT170,AML,arrivals,160051
+verificado,ok,390,EN110 231,38.545987,-8.817900,4,Cotovia,1512,Setúbal,15,Setúbal,PT170,AML,arrivals,160658
+verificado,ok,391,Escola Básica do Faralhão,38.522175,-8.818311,4,Faralhão,1512,Setúbal,15,Setúbal,PT170,AML,arrivals,160320
+verificado,ok,393,EN10 Km34,38.540100,-9.026249,4,Brejos de Azeitão,1512,Setúbal,15,Setúbal,PT170,AML,arrivals,160805
+verificado,ok,394,Praia da Figueirinha,38.484690,-8.945400,4,Figueirinha,1512,Setúbal,15,Setúbal,PT170,AML,arrivals,160819
+verificado,ok,395,Av. Manuel Maria Portela Ft. 77,38.528193,-8.886457,4,Setúbal,1512,Setúbal,15,Setúbal,PT170,AML,arrivals,160141
+verificado,ok,406,Av. do Brasil (Ft. Pq. Estacionamento),38.749387,-9.298603,1,Agualva Cacém,1111,Sintra,11,Lisboa,PT170,AML,arrivals,170725
+verificado,ok,407,Av. Bons Amigos (Pq. Estacionamento),38.769514,-9.295143,1,Agualva Cacém,1111,Sintra,11,Lisboa,PT170,AML,arrivals,170459|172500
+verificado,ok,408,Av. Bons Amigos (Ft. Pq. Estacionamento),38.769678,-9.295272,1,Agualva Cacém,1111,Sintra,11,Lisboa,PT170,AML,arrivals,170460|172621
+verificado,ok,409,Mercês (Estação),38.793055,-9.329976,1,Algueirão - Mem Martins,1111,Sintra,11,Lisboa,PT170,AML,arrivals,170271|177322
+verificado,ok,410,Praceta Astronautas,38.811483,-9.371213,1,Sintra,1111,Sintra,11,Lisboa,PT170,AML,arrivals,171305
+verificado,ok,411,Portela de Sintra (Estação) Norte,38.802382,-9.376898,1,Sintra,1111,Sintra,11,Lisboa,PT170,AML,departures,172482|172481|172485|172483|170307|170391
+verificado,structure_graffiti,413,Av. Nossa Senhora da Esperança Ft. 172,38.847451,-9.437205,1,São João das Lampas,1111,Sintra,11,Lisboa,PT170,AML,arrivals,171493
+verificado,ok,416,Av. 25 de Abril Ft. 120,38.783307,-9.304960,1,Agualva Cacém,1111,Sintra,11,Lisboa,PT170,AML,arrivals,170478
+verificado,ok,419,Escola Básica Alfredo Silva,38.750901,-9.351402,1,Rio de Mouro,1111,Sintra,11,Lisboa,PT170,AML,arrivals,172235
+verificado,sticker_missing,421,Av. da Dinarmarca Ft. 24,38.801743,-9.229808,1,Casl de Cambra,1111,Sintra,11,Lisboa,PT170,AML,arrivals,171617
+verificado,ok,422,Av. de Lisboa 82,38.801873,-9.228437,1,Casl de Cambra,1111,Sintra,11,Lisboa,PT170,AML,arrivals,171555
+verificado,ok,426,Rua Elias Garcia (Zona Comercial),38.777009,-9.335105,1,Rio de Mouro,1111,Sintra,11,Lisboa,PT170,AML,arrivals,170055
+verificado,ok,427,Escola Secundária de Gama Barros,38.771071,-9.313626,1,Agualva Cacém,1111,Sintra,11,Lisboa,PT170,AML,arrivals,170444
+verificado,ok,428,R. da Esperança (Centro Social e Paroquial),38.770907,-9.313395,1,Agualva Cacém,1111,Sintra,11,Lisboa,PT170,AML,arrivals,170443
+verificado,ok,429,Estr. Paço de Arcos Ft. 9,38.768681,-9.305106,1,Agualva Cacém,1111,Sintra,11,Lisboa,PT170,AML,arrivals,170681
+verificado,ok,430,Monte Abraão (Estação),38.755621,-9.266144,1,Queluz,1111,Sintra,11,Lisboa,PT170,AML,arrivals,172105|170851|172480|172478|170901|172185|172199|170921
+verificado,ok,431,Monte Abraão (Estação),38.755693,-9.266290,1,Queluz,1111,Sintra,11,Lisboa,PT170,AML,arrivals,172197|172491|172537|172195|170929
+verificado,ok,432,Algueirão - Mem Martins (Estação),38.797560,-9.341218,1,Algueirão - Mem Martins,1111,Sintra,11,Lisboa,PT170,AML,arrivals,172628|170095
+verificado,ok,434,Av. Marginal (Estação),38.797542,-9.342558,1,Algueirão - Mem Martins,1111,Sintra,11,Lisboa,PT170,AML,arrivals,170197
+verificado,ok,435,Rio de Mouro (Estação) Sul,38.784107,-9.321722,1,Rio de Mouro,1111,Sintra,11,Lisboa,PT170,AML,arrivals,172493|170073|172601|172492
+verificado,ok,436,Rio de Mouro (Estação) Norte,38.785032,-9.322425,1,Rio de Mouro,1111,Sintra,11,Lisboa,PT170,AML,arrivals,170169
+verificado,ok,437,Av. João de Deus 104,38.782067,-9.331224,1,Rio de Mouro,1111,Sintra,11,Lisboa,PT170,AML,arrivals,170080
+verificado,ok,438,Massamá (Estação),38.752100,-9.283597,1,Queluz,1111,Sintra,11,Lisboa,PT170,AML,arrivals,172479|172496
+verificado,ok,439,R. Direita de Massamá (Jd.),38.756719,-9.275341,1,Queluz,1111,Sintra,11,Lisboa,PT170,AML,arrivals,170919
+verificado,ok,441,Av. José Elias Garcia 102,38.756483,-9.253823,1,Queluz,1111,Sintra,11,Lisboa,PT170,AML,arrivals,172476
+verificado,ok,442,Portela de Sintra (Estação) Sul,38.802103,-9.377115,1,Sintra,1111,Sintra,11,Lisboa,PT170,AML,departures,170821|172533|172534
