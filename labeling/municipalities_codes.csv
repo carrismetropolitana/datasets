@@ -1,0 +1,24 @@
+﻿id,region,district,municipality_id_integer,municipality_id_txt,municipality_id_name,municipality_longname,municipality_shortname,dico,area,operator_id,operator_name
+3,AML,LISBOA,3,03,03_AMADORA,AMADORA,amadora,1115,1,41,Viação Alvorada
+5,AML,LISBOA,5,05,05_CASCAIS,CASCAIS,cascais,1105,1,41,Viação Alvorada
+6,AML,LISBOA,6,06,06_LISBOA,LISBOA,lisboa,1106,1,41,Viação Alvorada
+12,AML,LISBOA,12,12,12_OEIRAS,OEIRAS,oeiras,1110,1,41,Viação Alvorada
+17,AML,LISBOA,17,17,17_SINTRA,SINTRA,sintra,1111,1,41,Viação Alvorada
+7,AML,LISBOA,7,07,07_LOURES,LOURES,loures,1107,2,42,Rodoviária de Lisboa
+8,AML,LISBOA,8,08,08_MAFRA,MAFRA,mafra,1109,2,42,Rodoviária de Lisboa
+11,AML,LISBOA,11,11,11_ODIVELAS,ODIVELAS,odivelas,1116,2,42,Rodoviária de Lisboa
+18,AML,LISBOA,18,18,18_VILA FRANCA DE XIRA,VILA FRANCA DE XIRA,vfxira,1114,2,42,Rodoviária de Lisboa
+2,AML,SETÚBAL,2,02,02_ALMADA,ALMADA,almada,1503,3,43,TST
+14,AML,SETÚBAL,14,14,14_SEIXAL,SEIXAL,seixal,1510,3,43,TST
+15,AML,SETÚBAL,15,15,15_SESIMBRA,SESIMBRA,sesimbra,1511,3,43,TST
+1,AML,SETÚBAL,1,01,01_ALCOCHETE,ALCOCHETE,alcochete,1502,4,44,Alsa Todi
+4,AML,SETÚBAL,4,04,04_BARREIRO,BARREIRO,barreiro,1504,4,44,Alsa Todi
+9,AML,SETÚBAL,9,09,09_MOITA,MOITA,moita,1506,4,44,Alsa Todi
+10,AML,SETÚBAL,10,10,10_MONTIJO,MONTIJO,montijo,1507,4,44,Alsa Todi
+13,AML,SETÚBAL,13,13,13_PALMELA,PALMELA,palmela,1508,4,44,Alsa Todi
+16,AML,SETÚBAL,16,16,16_SETÚBAL,SETÚBAL,setubal,1512,4,44,Alsa Todi
+19,CIM Oeste,LISBOA,20,20,20_CIM OESTE,ALENQUER,alenquer,1101,extra-2,42,Rodoviária de Lisboa
+20,CIM Oeste,LISBOA,20,20,20_CIM OESTE,ARRUDA DOS VINHOS,arrudadosvinhos,1102,extra-2,42,Rodoviária de Lisboa
+21,CIM Oeste,LISBOA,20,20,20_CIM OESTE,SOBRAL DE MONTE AGRAÇO,sobralmagraco,1112,extra-2,42,Rodoviária de Lisboa
+22,CIM Oeste,LISBOA,20,20,20_CIM OESTE,TORRES VEDRAS,torresvedras,1113,extra-2,42,Rodoviária de Lisboa
+23,CIM Alentejo Central,ÉVORA,19,19,19_CIM ALENTEJO CENTRAL,VENDAS NOVAS,vendasnovas,0712,extra-4,44,Alsa Todi
