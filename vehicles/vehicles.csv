@@ -1,4 +1,4 @@
-agency_id,vehicle_id,license_plate,make,model,owner,propulsion,emission,registration_date,available_seats,available_standing,passenger_counting,wheelchair,bicycles
+agency_id,vehicle_id,license_plate,make,model,owner,propulsion,emission_class,registration_date,capacity_seated,capacity_standing,passenger_counting,wheelchair_accessible,bikes_allowed
 41,1100,AL-23-VT,MERCEDES,CONECTO,ALVORADA,2,0,20181212,29,28,0,1,1
 41,1101,AL-92-VS,MERCEDES,CONECTO,ALVORADA,2,0,20211215,29,28,0,1,1
 41,1102,AL-60-VT,MERCEDES,CONECTO,ALVORADA,2,0,20211215,29,28,0,1,1
