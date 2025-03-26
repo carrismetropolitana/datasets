@@ -1,5 +1,5 @@
 ﻿type,filter_value,total,phone,email,info_requests,complaints,other
-global,'-,3352,2072,1266,1348,950,1054
+global,-,3352,2072,1266,1348,950,1054
 municipality,1106,153,111,41,76,45,32
 municipality,1111,83,57,26,32,34,17
 municipality,1512,76,43,33,35,27,14
