@@ -23,7 +23,7 @@ id,name,lat,lon,A1,A2,A3,A4,is_active,validation_date,nature,grouping,pre_school
 10208,Instituto Superior de Ciências Policiais e Segurança Interna,38.704298,-9.178399,1,0,0,0,,,,,0,0,0,0,0,0,0,0,1,0,,,,,,1106,Lisboa,11,Lisboa,PT170,AML,,,,060379|060380
 10209,Instituto Superior de Gestão,38.781556,-9.160768,1,0,0,0,,,,,0,0,0,0,0,0,0,0,1,0,,,,,,1106,Lisboa,11,Lisboa,PT170,AML,,,,060161|060163|060173|060187|060347
 10210,Instituto Superior de Gestão Bancária,38.739983,-9.147742,1,0,0,0,,,,,0,0,0,0,0,0,0,0,1,0,,,,,,1106,Lisboa,11,Lisboa,PT170,AML,,,,061216|061217|061218|061219|061220
-10211,Instituto Superior de Novas Profissões,38.781346,-9.160698,1,0,0,0,,,,,0,0,0,0,0,0,0,0,1,0,,,,,,1106,Lisboa,11,Lisboa,PT170,AML,,,,060161|060163|060173|060187|060347
+10211,Instituto Superior de Novas Profissões,38.781346,-9.160698,1,0,0,0,0,,,,0,0,0,0,0,0,0,0,1,0,,,,,,1106,Lisboa,11,Lisboa,PT170,AML,,,,060161|060163|060173|060187|060347
 10212,Instituto Superior de Tecnologias Avançadas de Lisboa,38.768889,-9.160000,1,0,0,0,,,,,0,0,0,0,0,0,0,0,1,0,,,,,,1106,Lisboa,11,Lisboa,PT170,AML,,,,060157
 10213,ISEC Lisboa - Instituto Superior de Educação e Ciências,38.768893,-9.159159,1,0,0,0,,,,,0,0,0,0,0,0,0,0,1,0,,,,,,1106,Lisboa,11,Lisboa,PT170,AML,,,,060157
 10214,Nova School of Business and Economics,38.678220,-9.325388,1,0,0,0,,,,,0,0,0,0,0,0,0,0,1,0,,,,,,1105,Cascais,11,Lisboa,PT170,AML,,,,120793|120794|050005|050421
