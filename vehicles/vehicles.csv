@@ -475,20 +475,139 @@ agency_id,vehicle_id,license_plate,make,model,owner,propulsion,emission_class,re
 41,765,58-VS-28,Mercedes-Benz,CONECTO,SCOTTURB,2,0,20200311,30,56,0,1,1,0
 41,766,42-VT-56,Mercedes-Benz,CONECTO,SCOTTURB,2,0,20190325,30,56,0,1,1,0
 41,767,42-VT-58,Mercedes-Benz,CONECTO,SCOTTURB,2,0,20181212,30,56,0,1,1,0
+41,810,06-XF-97,Mercedes-Benz,CITARO K,SCOTTURB,2,0,20190313,30,55,0,1,1,0
+41,812,79-XF-60,Mercedes-Benz,CITARO K,SCOTTURB,2,0,20190319,30,55,0,1,1,0
+41,813,79-XF-61,Mercedes-Benz,CITARO K,SCOTTURB,2,0,20190319,30,55,0,1,1,0
 41,814,79-XF-62,Mercedes-Benz,CITARO K,SCOTTURB,2,0,20190319,30,55,0,0,0,0
 41,815,79-XF-63,Mercedes-Benz,CITARO K,SCOTTURB,2,0,20190319,30,55,0,0,0,0
 41,816,79-XF-64,Mercedes-Benz,CITARO K,SCOTTURB,2,0,20190319,30,55,0,0,0,0
 41,817,79-XF-65,Mercedes-Benz,CITARO K,SCOTTURB,2,0,20181203,30,55,0,1,1,0
 41,818,79-XF-66,Mercedes-Benz,CITARO K,SCOTTURB,2,0,20190319,30,55,0,1,1,0
 41,819,59-XG-85,Mercedes-Benz,CITARO K,SCOTTURB,2,0,20190319,30,55,0,1,1,0
-41,810,06-XF-97,Mercedes-Benz,CITARO K,SCOTTURB,2,0,20190313,30,55,0,1,1,0
-41,813,79-XF-61,Mercedes-Benz,CITARO K,SCOTTURB,2,0,20190319,30,55,0,1,1,0
-41,812,79-XF-60,Mercedes-Benz,CITARO K,SCOTTURB,2,0,20190319,30,55,0,1,1,0
 41,821,49-ZI-05,Mercedes-Benz,CITARO HYBRID,SCOTTURB,7,0,20220418,30,55,0,1,1,0
 41,822,49-ZI-06,Mercedes-Benz,CITARO HYBRID,SCOTTURB,7,0,20220418,30,55,0,1,1,0
 41,823,49-ZI-07,Mercedes-Benz,CITARO HYBRID,SCOTTURB,7,0,20220418,30,55,0,1,1,0
+42,1001,AJ02RF,Mercedes-Benz,Intouro,Barraqueiro Transportes SA,2,6,20211001,51,29,0,1,0,0
+42,1002,AJ03RF,Mercedes-Benz,Intouro,Barraqueiro Transportes SA,2,6,20211001,51,29,0,1,0,0
+42,1003,AL22VT,Mercedes-Benz,Intouro,Barraqueiro Transportes SA,2,6,20211215,51,29,0,1,0,0
+42,1004,AL40VT,Mercedes-Benz,Intouro,Barraqueiro Transportes SA,2,6,20211215,51,29,0,1,0,0
+42,1005,AL51VT,Mercedes-Benz,Intouro,Barraqueiro Transportes SA,2,6,20211215,51,29,0,1,0,0
+42,1006,AL66VT,Mercedes-Benz,Intouro,Barraqueiro Transportes SA,2,6,20211215,51,29,0,1,0,0
+42,1007,AL74VT,Mercedes-Benz,Intouro,Barraqueiro Transportes SA,2,6,20211215,51,29,0,1,0,0
+42,1008,AL76VS,Mercedes-Benz,Intouro,Barraqueiro Transportes SA,2,6,20211215,51,29,0,1,0,0
+42,1009,AL79VS,Mercedes-Benz,Intouro,Barraqueiro Transportes SA,2,6,20211215,51,29,0,1,0,0
+42,1010,AL87VS,Mercedes-Benz,Intouro,Barraqueiro Transportes SA,2,6,20211215,51,29,0,1,0,0
+42,1011,AR00GX,Mercedes-Benz,Intouro,Barraqueiro Transportes SA,2,6,20220606,51,32,0,1,0,0
+42,1012,AR05GX,Mercedes-Benz,Intouro,Barraqueiro Transportes SA,2,6,20220606,51,32,0,1,0,0
+42,1013,AR06GX,Mercedes-Benz,Intouro,Barraqueiro Transportes SA,2,6,20220606,51,32,0,1,0,0
+42,1014,AR96GV,Mercedes-Benz,Intouro,Barraqueiro Transportes SA,2,6,20220606,51,32,0,1,0,0
+42,1015,AR99GV,Mercedes-Benz,Intouro,Barraqueiro Transportes SA,2,6,20220606,51,32,0,1,0,0
+42,1050,AJ00RF,Mercedes-Benz,Intouro L,Barraqueiro Transportes SA,2,6,20211001,59,26,0,1,0,0
+42,1051,AJ01RF,Mercedes-Benz,Intouro L,Barraqueiro Transportes SA,2,6,20211001,59,26,0,1,0,0
+42,1052,AJ98RE,Mercedes-Benz,Intouro L,Barraqueiro Transportes SA,2,6,20211001,59,26,0,1,0,0
+42,1053,AJ99RE,Mercedes-Benz,Intouro L,Barraqueiro Transportes SA,2,6,20211001,59,26,0,1,0,0
+42,1054,AL00VT,Mercedes-Benz,Intouro L,Barraqueiro Transportes SA,2,6,20211215,59,26,0,1,0,0
+42,1055,AL05VT,Mercedes-Benz,Intouro L,Barraqueiro Transportes SA,2,6,20211215,59,26,0,1,0,0
+42,1056,AL07VT,Mercedes-Benz,Intouro L,Barraqueiro Transportes SA,2,6,20211215,59,26,0,1,0,0
+42,1057,AL08VT,Mercedes-Benz,Intouro L,Barraqueiro Transportes SA,2,6,20211215,59,26,0,1,0,0
+42,1058,AL13VT,Mercedes-Benz,Intouro L,Barraqueiro Transportes SA,2,6,20211215,59,26,0,1,0,0
+42,1059,AL17VT,Mercedes-Benz,Intouro L,Barraqueiro Transportes SA,2,6,20211215,59,26,0,1,0,0
+42,1060,AL28VT,Mercedes-Benz,Intouro L,Barraqueiro Transportes SA,2,6,20211215,59,26,0,1,0,0
+42,1061,AL37VT,Mercedes-Benz,Intouro L,Barraqueiro Transportes SA,2,6,20211215,59,26,0,1,0,0
+42,1062,AL41VT,Mercedes-Benz,Intouro L,Barraqueiro Transportes SA,2,6,20211215,59,26,0,1,0,0
+42,1063,AL43VT,Mercedes-Benz,Intouro L,Barraqueiro Transportes SA,2,6,20211215,59,26,0,1,0,0
+42,1064,AL45VT,Mercedes-Benz,Intouro L,Barraqueiro Transportes SA,2,6,20211215,59,26,0,1,0,0
+42,1065,AL52VT,Mercedes-Benz,Intouro L,Barraqueiro Transportes SA,2,6,20211215,59,26,0,1,0,0
+42,1066,AL55VT,Mercedes-Benz,Intouro L,Barraqueiro Transportes SA,2,6,20211215,59,26,0,1,0,0
+42,1067,AL59VT,Mercedes-Benz,Intouro L,Barraqueiro Transportes SA,2,6,20211215,59,26,0,1,0,0
+42,1068,AL70VT,Mercedes-Benz,Intouro L,Barraqueiro Transportes SA,2,6,20211215,59,26,0,1,0,0
+42,1069,AL72VT,Mercedes-Benz,Intouro L,Barraqueiro Transportes SA,2,6,20211215,59,26,0,1,0,0
+42,1070,AL73VT,Mercedes-Benz,Intouro L,Barraqueiro Transportes SA,2,6,20211215,59,26,0,1,0,0
+42,1071,AL75VS,Mercedes-Benz,Intouro L,Barraqueiro Transportes SA,2,6,20211215,59,26,0,1,0,0
+42,1072,AL75VT,Mercedes-Benz,Intouro L,Barraqueiro Transportes SA,2,6,20211215,59,26,0,1,0,0
+42,1073,AL77VT,Mercedes-Benz,Intouro L,Barraqueiro Transportes SA,2,6,20211215,59,26,0,1,0,0
+42,1074,AL84VS,Mercedes-Benz,Intouro L,Barraqueiro Transportes SA,2,6,20211215,59,26,0,1,0,0
+42,1075,AL88XL,Mercedes-Benz,Intouro L,Barraqueiro Transportes SA,2,6,20211216,59,26,0,1,0,0
+42,1076,AL93VS,Mercedes-Benz,Intouro L,Barraqueiro Transportes SA,2,6,20211215,59,26,0,1,0,0
+42,1077,AL95VS,Mercedes-Benz,Intouro L,Barraqueiro Transportes SA,2,6,20211215,59,26,0,1,0,0
+42,1078,AL96VS,Mercedes-Benz,Intouro L,Barraqueiro Transportes SA,2,6,20211215,59,26,0,1,0,0
+42,1079,AL98VS,Mercedes-Benz,Intouro L,Barraqueiro Transportes SA,2,6,20211215,59,26,0,1,0,0
+42,1080,AR08GX,Mercedes-Benz,Intouro M,Barraqueiro Transportes SA,2,6,20220606,57,32,0,1,0,0
+42,1081,AR13GX,Mercedes-Benz,Intouro M,Barraqueiro Transportes SA,2,6,20220606,57,32,0,1,0,0
+42,1082,AR39UI,Mercedes-Benz,Intouro M,Barraqueiro Transportes SA,2,6,20220630,57,32,0,1,0,0
+42,1083,AR40UI,Mercedes-Benz,Intouro M,Barraqueiro Transportes SA,2,6,20220630,57,32,0,1,0,0
+42,1084,AR43UI,Mercedes-Benz,Intouro M,Barraqueiro Transportes SA,2,6,20220630,57,32,0,1,0,0
+42,1085,AR44TF,Mercedes-Benz,Intouro M,Barraqueiro Transportes SA,2,6,20220629,57,32,0,1,0,0
+42,1086,AR44UI,Mercedes-Benz,Intouro M,Barraqueiro Transportes SA,2,6,20220630,57,32,0,1,0,0
+42,1087,AR45UI,Mercedes-Benz,Intouro M,Barraqueiro Transportes SA,2,6,20220630,57,32,0,1,0,0
+42,1088,AR47TF,Mercedes-Benz,Intouro M,Barraqueiro Transportes SA,2,6,20220629,57,32,0,1,0,0
+42,1089,AR49TF,Mercedes-Benz,Intouro M,Barraqueiro Transportes SA,2,6,20220629,57,32,0,1,0,0
+42,1090,AR53TF,Mercedes-Benz,Intouro M,Barraqueiro Transportes SA,2,6,20220629,57,32,0,1,0,0
+42,1091,AR61LX,Mercedes-Benz,Intouro M,Barraqueiro Transportes SA,2,6,20220617,57,32,0,1,0,0
+42,1092,AR64LX,Mercedes-Benz,Intouro M,Barraqueiro Transportes SA,2,6,20220617,57,32,0,1,0,0
+42,1093,AR65LX,Mercedes-Benz,Intouro M,Barraqueiro Transportes SA,2,6,20220617,57,32,0,1,0,0
+42,1094,AR66LX,Mercedes-Benz,Intouro M,Barraqueiro Transportes SA,2,6,20220617,57,32,0,1,0,0
+42,1095,AR70XT,Mercedes-Benz,Intouro M,Barraqueiro Transportes SA,2,6,20220706,57,32,0,1,0,0
+42,1096,AR71LX,Mercedes-Benz,Intouro M,Barraqueiro Transportes SA,2,6,20220617,57,32,0,1,0,0
+42,1097,AR73XT,Mercedes-Benz,Intouro M,Barraqueiro Transportes SA,2,6,20220706,57,32,0,1,0,0
+42,1098,AR74XT,Mercedes-Benz,Intouro M,Barraqueiro Transportes SA,2,6,20220706,57,32,0,1,0,0
+42,1099,AR75LX,Mercedes-Benz,Intouro M,Barraqueiro Transportes SA,2,6,20220617,57,32,0,1,0,0
+42,1100,AR77LX,Mercedes-Benz,Intouro M,Barraqueiro Transportes SA,2,6,20220617,57,32,0,1,0,0
+42,1101,AR81XT,Mercedes-Benz,Intouro M,Barraqueiro Transportes SA,2,6,20220706,57,32,0,1,0,0
+42,1102,AR82LX,Mercedes-Benz,Intouro M,Barraqueiro Transportes SA,2,6,20220617,57,32,0,1,0,0
+42,1103,AR82XT,Mercedes-Benz,Intouro M,Barraqueiro Transportes SA,2,6,20220706,57,32,0,1,0,0
+42,1104,AR83LX,Mercedes-Benz,Intouro M,Barraqueiro Transportes SA,2,6,20220617,57,32,0,1,0,0
+42,1105,AR89LX,Mercedes-Benz,Intouro M,Barraqueiro Transportes SA,2,6,20220617,57,32,0,1,0,0
+42,1106,AS28SN,Mercedes-Benz,Intouro M,Barraqueiro Transportes SA,2,6,20220823,57,32,0,1,0,0
+42,1107,AS17UA,Mercedes-Benz,Intouro M,Barraqueiro Transportes SA,2,6,20220823,57,32,0,1,0,0
+42,1108,AT10EM,Mercedes-Benz,Intouro M,Barraqueiro Transportes SA,2,6,20220913,57,32,0,1,0,0
+42,1109,AT66CF,Mercedes-Benz,Intouro M,Barraqueiro Transportes SA,2,6,20220906,57,32,0,1,0,0
+42,1110,AT60AJ,Mercedes-Benz,Intouro M,Barraqueiro Transportes SA,2,6,20220831,57,32,0,1,0,0
+42,1111,AR79XT,Mercedes-Benz,Intouro M,Barraqueiro Transportes SA,2,6,20220706,57,32,0,1,0,0
+42,1150,AS11MU,CaetanoBus,Itrabus,Barraqueiro Transportes SA,2,6,20220802,24,9,0,1,1,0
+42,1151,AS03MU,CaetanoBus,Itrabus,Barraqueiro Transportes SA,2,6,20220802,24,9,0,1,1,0
+42,1152,AS07MU,CaetanoBus,Itrabus,Barraqueiro Transportes SA,2,6,20220802,24,9,0,1,1,0
+42,1153,AS46TI,CaetanoBus,Itrabus,Barraqueiro Transportes SA,2,6,20220802,24,9,0,1,1,0
+42,1154,AS15XJ,CaetanoBus,Itrabus,Barraqueiro Transportes SA,2,6,20220829,24,9,0,1,1,0
+42,1155,AS28RL,CaetanoBus,Itrabus,Barraqueiro Transportes SA,2,6,20220913,24,9,0,1,1,0
+42,1157,AS20XJ,CaetanoBus,Itrabus,Barraqueiro Transportes SA,2,6,20220913,24,9,0,1,1,0
+42,1158,AS25XJ,CaetanoBus,Itrabus,Barraqueiro Transportes SA,2,6,20220913,24,9,0,1,1,0
+42,1159,AS42TI,CaetanoBus,Itrabus,Barraqueiro Transportes SA,2,6,20220913,24,9,0,1,1,0
+42,1160,AS47TI,CaetanoBus,Itrabus,Barraqueiro Transportes SA,2,6,20220822,24,9,0,1,1,0
+42,1180,AR92OC,Iveco,50C21,Barraqueiro Transportes SA,2,6,20220622,15,10,0,1,0,0
+42,1181,AR29VA,Iveco,50C21,Barraqueiro Transportes SA,2,6,20220701,15,10,0,1,0,0
+42,1182,AR39VA,Iveco,50C21,Barraqueiro Transportes SA,2,6,20220701,15,10,0,1,0,0
+42,1183,AR87OC,Iveco,50C21,Barraqueiro Transportes SA,2,6,20220622,15,10,0,1,0,0
+42,1201,AU75DS,Mercedes-Benz,Intouro,Barraqueiro Transportes SA,2,6,20221028,51,32,0,1,0,0
+42,1202,AU23FV,Mercedes-Benz,Intouro,Barraqueiro Transportes SA,2,6,20221102,51,32,0,1,0,0
+42,1203,AU26FV,Mercedes-Benz,Intouro,Barraqueiro Transportes SA,2,6,20221102,51,32,0,1,0,0
+42,1204,AU29CH,Mercedes-Benz,Intouro,Barraqueiro Transportes SA,2,6,20221027,51,32,0,1,0,0
+42,1205,AU30CH,Mercedes-Benz,Intouro,Barraqueiro Transportes SA,2,6,20221027,51,32,0,1,0,0
+42,1206,AU31CH,Mercedes-Benz,Intouro,Barraqueiro Transportes SA,2,6,20221027,51,32,0,1,0,0
+42,1207,AT52BT,Mercedes-Benz,Intouro,Barraqueiro Transportes SA,2,6,20220905,51,32,0,1,0,0
+42,1208,AT45DV,Mercedes-Benz,Intouro,Barraqueiro Transportes SA,2,6,20220912,51,32,0,1,0,0
+42,1209,AT46DV,Mercedes-Benz,Intouro,Barraqueiro Transportes SA,2,6,20220912,51,32,0,1,0,0
+42,1210,AT15EM,Mercedes-Benz,Intouro,Barraqueiro Transportes SA,2,6,20220913,51,32,0,1,0,0
+42,1211,AU19FV,Mercedes-Benz,Intouro,Barraqueiro Transportes SA,2,6,20221102,51,32,0,1,0,0
+42,1212,AU35CH,Mercedes-Benz,Intouro,Barraqueiro Transportes SA,2,6,20221027,51,32,0,1,0,0
+42,1213,AU36CH,Mercedes-Benz,Intouro,Barraqueiro Transportes SA,2,6,20221027,51,32,0,1,0,0
+42,1214,AU20FV,Mercedes-Benz,Intouro,Barraqueiro Transportes SA,2,6,20221102,51,32,0,1,0,0
+42,1215,AU28FV,Mercedes-Benz,Intouro,Barraqueiro Transportes SA,2,6,20221102,51,32,0,1,0,0
+42,1216,AU70JG,Mercedes-Benz,Intouro,Barraqueiro Transportes SA,2,6,20221109,51,32,0,1,0,0
+42,1217,AU69JG,Mercedes-Benz,Intouro,Barraqueiro Transportes SA,2,6,20221109,51,32,0,1,0,0
+42,1218,AU68JG,Mercedes-Benz,Intouro,Barraqueiro Transportes SA,2,6,20221109,51,32,0,1,0,0
 42,123,71-JA-65,Iveco,65SG,RL,2,5,20100408,20,9,0,1,0,0
+42,1251,AU18FV,Mercedes-Benz,Intouro M,Barraqueiro Transportes SA,2,6,20221102,57,32,0,1,0,0
+42,1252,AU21FV,Mercedes-Benz,Intouro M,Barraqueiro Transportes SA,2,6,20221102,57,32,0,1,0,0
+42,1253,AU66DS,Mercedes-Benz,Intouro M,Barraqueiro Transportes SA,2,6,20221028,57,32,0,1,0,0
+42,1254,AU73DS,Mercedes-Benz,Intouro M,Barraqueiro Transportes SA,2,6,20221028,57,32,0,1,0,0
+42,1255,AU91GM,Mercedes-Benz,Intouro M,Barraqueiro Transportes SA,2,6,20221103,57,32,0,1,0,0
+42,1256,AU93GM,Mercedes-Benz,Intouro M,Barraqueiro Transportes SA,2,6,20221103,57,32,0,1,0,0
+42,1257,AU71JG,Mercedes-Benz,Itrabus,Barraqueiro Transportes SA,2,6,20221109,57,32,0,1,0,0
 42,127,44-RM-74,BMC,Probus Hawk,RL,2,5,20110117,30,32,0,1,0,0
+42,1270,AS45TI,CaetanoBus,Itrabus,Barraqueiro Transportes SA,2,6,20220822,24,9,0,1,1,0
+42,1271,AS44TI,CaetanoBus,Itrabus,Barraqueiro Transportes SA,2,6,20220822,24,9,0,1,1,0
+42,1272,AS14XJ,CaetanoBus,Itrabus,Barraqueiro Transportes SA,2,6,20220829,24,9,0,1,1,0
 42,146,82-PN-92,MAN,A 76,RL,2,4,20070727,30,24,0,1,0,0
 42,148,82-PN-94,MAN,A 76,RL,2,4,20070727,30,24,0,1,0,0
 42,200,02-QG-47,Temsa,MD9Le,RL,2,6,20150805,31,30,0,1,0,0
@@ -909,146 +1028,100 @@ agency_id,vehicle_id,license_plate,make,model,owner,propulsion,emission_class,re
 42,85,17-PI-91,BMC,Probus 215,RL,2,5,20120315,23,28,0,1,0,0
 42,86,17-PI-92,BMC,Probus 215,RL,2,5,20120516,23,28,0,1,0,0
 42,87,00-PN-65,BMC,Probus Hawk,RL,2,5,20110111,29,32,0,1,0,0
-42,1001,AJ02RF,Mercedes-Benz,Intouro,Barraqueiro Transportes SA,2,6,20211001,51,29,0,1,0,0
-42,1002,AJ03RF,Mercedes-Benz,Intouro,Barraqueiro Transportes SA,2,6,20211001,51,29,0,1,0,0
-42,1003,AL22VT,Mercedes-Benz,Intouro,Barraqueiro Transportes SA,2,6,20211215,51,29,0,1,0,0
-42,1004,AL40VT,Mercedes-Benz,Intouro,Barraqueiro Transportes SA,2,6,20211215,51,29,0,1,0,0
-42,1005,AL51VT,Mercedes-Benz,Intouro,Barraqueiro Transportes SA,2,6,20211215,51,29,0,1,0,0
-42,1006,AL66VT,Mercedes-Benz,Intouro,Barraqueiro Transportes SA,2,6,20211215,51,29,0,1,0,0
-42,1007,AL74VT,Mercedes-Benz,Intouro,Barraqueiro Transportes SA,2,6,20211215,51,29,0,1,0,0
-42,1008,AL76VS,Mercedes-Benz,Intouro,Barraqueiro Transportes SA,2,6,20211215,51,29,0,1,0,0
-42,1009,AL79VS,Mercedes-Benz,Intouro,Barraqueiro Transportes SA,2,6,20211215,51,29,0,1,0,0
-42,1010,AL87VS,Mercedes-Benz,Intouro,Barraqueiro Transportes SA,2,6,20211215,51,29,0,1,0,0
-42,1011,AR00GX,Mercedes-Benz,Intouro,Barraqueiro Transportes SA,2,6,20220606,51,32,0,1,0,0
-42,1012,AR05GX,Mercedes-Benz,Intouro,Barraqueiro Transportes SA,2,6,20220606,51,32,0,1,0,0
-42,1013,AR06GX,Mercedes-Benz,Intouro,Barraqueiro Transportes SA,2,6,20220606,51,32,0,1,0,0
-42,1014,AR96GV,Mercedes-Benz,Intouro,Barraqueiro Transportes SA,2,6,20220606,51,32,0,1,0,0
-42,1015,AR99GV,Mercedes-Benz,Intouro,Barraqueiro Transportes SA,2,6,20220606,51,32,0,1,0,0
-42,1050,AJ00RF,Mercedes-Benz,Intouro L,Barraqueiro Transportes SA,2,6,20211001,59,26,0,1,0,0
-42,1051,AJ01RF,Mercedes-Benz,Intouro L,Barraqueiro Transportes SA,2,6,20211001,59,26,0,1,0,0
-42,1052,AJ98RE,Mercedes-Benz,Intouro L,Barraqueiro Transportes SA,2,6,20211001,59,26,0,1,0,0
-42,1053,AJ99RE,Mercedes-Benz,Intouro L,Barraqueiro Transportes SA,2,6,20211001,59,26,0,1,0,0
-42,1054,AL00VT,Mercedes-Benz,Intouro L,Barraqueiro Transportes SA,2,6,20211215,59,26,0,1,0,0
-42,1055,AL05VT,Mercedes-Benz,Intouro L,Barraqueiro Transportes SA,2,6,20211215,59,26,0,1,0,0
-42,1056,AL07VT,Mercedes-Benz,Intouro L,Barraqueiro Transportes SA,2,6,20211215,59,26,0,1,0,0
-42,1057,AL08VT,Mercedes-Benz,Intouro L,Barraqueiro Transportes SA,2,6,20211215,59,26,0,1,0,0
-42,1058,AL13VT,Mercedes-Benz,Intouro L,Barraqueiro Transportes SA,2,6,20211215,59,26,0,1,0,0
-42,1059,AL17VT,Mercedes-Benz,Intouro L,Barraqueiro Transportes SA,2,6,20211215,59,26,0,1,0,0
-42,1060,AL28VT,Mercedes-Benz,Intouro L,Barraqueiro Transportes SA,2,6,20211215,59,26,0,1,0,0
-42,1061,AL37VT,Mercedes-Benz,Intouro L,Barraqueiro Transportes SA,2,6,20211215,59,26,0,1,0,0
-42,1062,AL41VT,Mercedes-Benz,Intouro L,Barraqueiro Transportes SA,2,6,20211215,59,26,0,1,0,0
-42,1063,AL43VT,Mercedes-Benz,Intouro L,Barraqueiro Transportes SA,2,6,20211215,59,26,0,1,0,0
-42,1064,AL45VT,Mercedes-Benz,Intouro L,Barraqueiro Transportes SA,2,6,20211215,59,26,0,1,0,0
-42,1065,AL52VT,Mercedes-Benz,Intouro L,Barraqueiro Transportes SA,2,6,20211215,59,26,0,1,0,0
-42,1066,AL55VT,Mercedes-Benz,Intouro L,Barraqueiro Transportes SA,2,6,20211215,59,26,0,1,0,0
-42,1067,AL59VT,Mercedes-Benz,Intouro L,Barraqueiro Transportes SA,2,6,20211215,59,26,0,1,0,0
-42,1068,AL70VT,Mercedes-Benz,Intouro L,Barraqueiro Transportes SA,2,6,20211215,59,26,0,1,0,0
-42,1069,AL72VT,Mercedes-Benz,Intouro L,Barraqueiro Transportes SA,2,6,20211215,59,26,0,1,0,0
-42,1070,AL73VT,Mercedes-Benz,Intouro L,Barraqueiro Transportes SA,2,6,20211215,59,26,0,1,0,0
-42,1071,AL75VS,Mercedes-Benz,Intouro L,Barraqueiro Transportes SA,2,6,20211215,59,26,0,1,0,0
-42,1072,AL75VT,Mercedes-Benz,Intouro L,Barraqueiro Transportes SA,2,6,20211215,59,26,0,1,0,0
-42,1073,AL77VT,Mercedes-Benz,Intouro L,Barraqueiro Transportes SA,2,6,20211215,59,26,0,1,0,0
-42,1074,AL84VS,Mercedes-Benz,Intouro L,Barraqueiro Transportes SA,2,6,20211215,59,26,0,1,0,0
-42,1075,AL88XL,Mercedes-Benz,Intouro L,Barraqueiro Transportes SA,2,6,20211216,59,26,0,1,0,0
-42,1076,AL93VS,Mercedes-Benz,Intouro L,Barraqueiro Transportes SA,2,6,20211215,59,26,0,1,0,0
-42,1077,AL95VS,Mercedes-Benz,Intouro L,Barraqueiro Transportes SA,2,6,20211215,59,26,0,1,0,0
-42,1078,AL96VS,Mercedes-Benz,Intouro L,Barraqueiro Transportes SA,2,6,20211215,59,26,0,1,0,0
-42,1079,AL98VS,Mercedes-Benz,Intouro L,Barraqueiro Transportes SA,2,6,20211215,59,26,0,1,0,0
-42,1080,AR08GX,Mercedes-Benz,Intouro M,Barraqueiro Transportes SA,2,6,20220606,57,32,0,1,0,0
-42,1081,AR13GX,Mercedes-Benz,Intouro M,Barraqueiro Transportes SA,2,6,20220606,57,32,0,1,0,0
-42,1082,AR39UI,Mercedes-Benz,Intouro M,Barraqueiro Transportes SA,2,6,20220630,57,32,0,1,0,0
-42,1083,AR40UI,Mercedes-Benz,Intouro M,Barraqueiro Transportes SA,2,6,20220630,57,32,0,1,0,0
-42,1084,AR43UI,Mercedes-Benz,Intouro M,Barraqueiro Transportes SA,2,6,20220630,57,32,0,1,0,0
-42,1085,AR44TF,Mercedes-Benz,Intouro M,Barraqueiro Transportes SA,2,6,20220629,57,32,0,1,0,0
-42,1086,AR44UI,Mercedes-Benz,Intouro M,Barraqueiro Transportes SA,2,6,20220630,57,32,0,1,0,0
-42,1087,AR45UI,Mercedes-Benz,Intouro M,Barraqueiro Transportes SA,2,6,20220630,57,32,0,1,0,0
-42,1088,AR47TF,Mercedes-Benz,Intouro M,Barraqueiro Transportes SA,2,6,20220629,57,32,0,1,0,0
-42,1089,AR49TF,Mercedes-Benz,Intouro M,Barraqueiro Transportes SA,2,6,20220629,57,32,0,1,0,0
-42,1090,AR53TF,Mercedes-Benz,Intouro M,Barraqueiro Transportes SA,2,6,20220629,57,32,0,1,0,0
-42,1091,AR61LX,Mercedes-Benz,Intouro M,Barraqueiro Transportes SA,2,6,20220617,57,32,0,1,0,0
-42,1092,AR64LX,Mercedes-Benz,Intouro M,Barraqueiro Transportes SA,2,6,20220617,57,32,0,1,0,0
-42,1093,AR65LX,Mercedes-Benz,Intouro M,Barraqueiro Transportes SA,2,6,20220617,57,32,0,1,0,0
-42,1094,AR66LX,Mercedes-Benz,Intouro M,Barraqueiro Transportes SA,2,6,20220617,57,32,0,1,0,0
-42,1095,AR70XT,Mercedes-Benz,Intouro M,Barraqueiro Transportes SA,2,6,20220706,57,32,0,1,0,0
-42,1096,AR71LX,Mercedes-Benz,Intouro M,Barraqueiro Transportes SA,2,6,20220617,57,32,0,1,0,0
-42,1097,AR73XT,Mercedes-Benz,Intouro M,Barraqueiro Transportes SA,2,6,20220706,57,32,0,1,0,0
-42,1098,AR74XT,Mercedes-Benz,Intouro M,Barraqueiro Transportes SA,2,6,20220706,57,32,0,1,0,0
-42,1099,AR75LX,Mercedes-Benz,Intouro M,Barraqueiro Transportes SA,2,6,20220617,57,32,0,1,0,0
-42,1100,AR77LX,Mercedes-Benz,Intouro M,Barraqueiro Transportes SA,2,6,20220617,57,32,0,1,0,0
-42,1101,AR81XT,Mercedes-Benz,Intouro M,Barraqueiro Transportes SA,2,6,20220706,57,32,0,1,0,0
-42,1102,AR82LX,Mercedes-Benz,Intouro M,Barraqueiro Transportes SA,2,6,20220617,57,32,0,1,0,0
-42,1103,AR82XT,Mercedes-Benz,Intouro M,Barraqueiro Transportes SA,2,6,20220706,57,32,0,1,0,0
-42,1104,AR83LX,Mercedes-Benz,Intouro M,Barraqueiro Transportes SA,2,6,20220617,57,32,0,1,0,0
-42,1105,AR89LX,Mercedes-Benz,Intouro M,Barraqueiro Transportes SA,2,6,20220617,57,32,0,1,0,0
-42,1106,AS28SN,Mercedes-Benz,Intouro M,Barraqueiro Transportes SA,2,6,20220823,57,32,0,1,0,0
-42,1107,AS17UA,Mercedes-Benz,Intouro M,Barraqueiro Transportes SA,2,6,20220823,57,32,0,1,0,0
-42,1108,AT10EM,Mercedes-Benz,Intouro M,Barraqueiro Transportes SA,2,6,20220913,57,32,0,1,0,0
-42,1109,AT66CF,Mercedes-Benz,Intouro M,Barraqueiro Transportes SA,2,6,20220906,57,32,0,1,0,0
-42,1110,AT60AJ,Mercedes-Benz,Intouro M,Barraqueiro Transportes SA,2,6,20220831,57,32,0,1,0,0
-42,1111,AR79XT,Mercedes-Benz,Intouro M,Barraqueiro Transportes SA,2,6,20220706,57,32,0,1,0,0
-42,1150,AS11MU,CaetanoBus,Itrabus,Barraqueiro Transportes SA,2,6,20220802,24,9,0,1,1,0
-42,1151,AS03MU,CaetanoBus,Itrabus,Barraqueiro Transportes SA,2,6,20220802,24,9,0,1,1,0
-42,1152,AS07MU,CaetanoBus,Itrabus,Barraqueiro Transportes SA,2,6,20220802,24,9,0,1,1,0
-42,1153,AS46TI,CaetanoBus,Itrabus,Barraqueiro Transportes SA,2,6,20220802,24,9,0,1,1,0
-42,1154,AS15XJ,CaetanoBus,Itrabus,Barraqueiro Transportes SA,2,6,20220829,24,9,0,1,1,0
-42,1155,AS28RL,CaetanoBus,Itrabus,Barraqueiro Transportes SA,2,6,20220913,24,9,0,1,1,0
-42,1157,AS20XJ,CaetanoBus,Itrabus,Barraqueiro Transportes SA,2,6,20220913,24,9,0,1,1,0
-42,1158,AS25XJ,CaetanoBus,Itrabus,Barraqueiro Transportes SA,2,6,20220913,24,9,0,1,1,0
-42,1159,AS42TI,CaetanoBus,Itrabus,Barraqueiro Transportes SA,2,6,20220913,24,9,0,1,1,0
-42,1160,AS47TI,CaetanoBus,Itrabus,Barraqueiro Transportes SA,2,6,20220822,24,9,0,1,1,0
-42,1180,AR92OC,Iveco,50C21,Barraqueiro Transportes SA,2,6,20220622,15,10,0,1,0,0
-42,1181,AR29VA,Iveco,50C21,Barraqueiro Transportes SA,2,6,20220701,15,10,0,1,0,0
-42,1182,AR39VA,Iveco,50C21,Barraqueiro Transportes SA,2,6,20220701,15,10,0,1,0,0
-42,1183,AR87OC,Iveco,50C21,Barraqueiro Transportes SA,2,6,20220622,15,10,0,1,0,0
-42,1201,AU75DS,Mercedes-Benz,Intouro,Barraqueiro Transportes SA,2,6,20221028,51,32,0,1,0,0
-42,1202,AU23FV,Mercedes-Benz,Intouro,Barraqueiro Transportes SA,2,6,20221102,51,32,0,1,0,0
-42,1203,AU26FV,Mercedes-Benz,Intouro,Barraqueiro Transportes SA,2,6,20221102,51,32,0,1,0,0
-42,1204,AU29CH,Mercedes-Benz,Intouro,Barraqueiro Transportes SA,2,6,20221027,51,32,0,1,0,0
-42,1205,AU30CH,Mercedes-Benz,Intouro,Barraqueiro Transportes SA,2,6,20221027,51,32,0,1,0,0
-42,1206,AU31CH,Mercedes-Benz,Intouro,Barraqueiro Transportes SA,2,6,20221027,51,32,0,1,0,0
-42,1207,AT52BT,Mercedes-Benz,Intouro,Barraqueiro Transportes SA,2,6,20220905,51,32,0,1,0,0
-42,1208,AT45DV,Mercedes-Benz,Intouro,Barraqueiro Transportes SA,2,6,20220912,51,32,0,1,0,0
-42,1209,AT46DV,Mercedes-Benz,Intouro,Barraqueiro Transportes SA,2,6,20220912,51,32,0,1,0,0
-42,1210,AT15EM,Mercedes-Benz,Intouro,Barraqueiro Transportes SA,2,6,20220913,51,32,0,1,0,0
-42,1211,AU19FV,Mercedes-Benz,Intouro,Barraqueiro Transportes SA,2,6,20221102,51,32,0,1,0,0
-42,1212,AU35CH,Mercedes-Benz,Intouro,Barraqueiro Transportes SA,2,6,20221027,51,32,0,1,0,0
-42,1213,AU36CH,Mercedes-Benz,Intouro,Barraqueiro Transportes SA,2,6,20221027,51,32,0,1,0,0
-42,1214,AU20FV,Mercedes-Benz,Intouro,Barraqueiro Transportes SA,2,6,20221102,51,32,0,1,0,0
-42,1215,AU28FV,Mercedes-Benz,Intouro,Barraqueiro Transportes SA,2,6,20221102,51,32,0,1,0,0
-42,1216,AU70JG,Mercedes-Benz,Intouro,Barraqueiro Transportes SA,2,6,20221109,51,32,0,1,0,0
-42,1217,AU69JG,Mercedes-Benz,Intouro,Barraqueiro Transportes SA,2,6,20221109,51,32,0,1,0,0
-42,1218,AU68JG,Mercedes-Benz,Intouro,Barraqueiro Transportes SA,2,6,20221109,51,32,0,1,0,0
-42,1251,AU18FV,Mercedes-Benz,Intouro M,Barraqueiro Transportes SA,2,6,20221102,57,32,0,1,0,0
-42,1252,AU21FV,Mercedes-Benz,Intouro M,Barraqueiro Transportes SA,2,6,20221102,57,32,0,1,0,0
-42,1253,AU66DS,Mercedes-Benz,Intouro M,Barraqueiro Transportes SA,2,6,20221028,57,32,0,1,0,0
-42,1254,AU73DS,Mercedes-Benz,Intouro M,Barraqueiro Transportes SA,2,6,20221028,57,32,0,1,0,0
-42,1255,AU91GM,Mercedes-Benz,Intouro M,Barraqueiro Transportes SA,2,6,20221103,57,32,0,1,0,0
-42,1256,AU93GM,Mercedes-Benz,Intouro M,Barraqueiro Transportes SA,2,6,20221103,57,32,0,1,0,0
-42,1257,AU71JG,Mercedes-Benz,Itrabus,Barraqueiro Transportes SA,2,6,20221109,57,32,0,1,0,0
-42,1270,AS45TI,CaetanoBus,Itrabus,Barraqueiro Transportes SA,2,6,20220822,24,9,0,1,1,0
-42,1271,AS44TI,CaetanoBus,Itrabus,Barraqueiro Transportes SA,2,6,20220822,24,9,0,1,1,0
-42,1272,AS14XJ,CaetanoBus,Itrabus,Barraqueiro Transportes SA,2,6,20220829,24,9,0,1,1,0
+43,11,03VD29,Mercedes-Benz,519 CDI,TST,2,6,20180901,15,10,0,1,0,0
+43,12,06VD64,Mercedes-Benz,519 CDI,TST,2,6,20180901,15,10,0,1,0,0
+43,13,04VD76,Mercedes-Benz,519 CDI,TST,2,6,20180901,15,10,0,1,0,0
+43,14,02VD72,Mercedes-Benz,519 CDI,TST,2,6,20180901,15,10,0,1,0,0
+43,15,36VG37,Mercedes-Benz,519 CDI,TST,2,6,20181001,15,10,0,1,0,0
+43,16,37VG71,Mercedes-Benz,519 CDI,TST,2,6,20181001,15,10,0,1,0,0
+43,2000,AS96CP,Iveco,Daily 70C21 Itrabus I,TST,2,6,20220901,24,9,0,1,1,1
+43,2001,AS11CQ,Iveco,Daily 70C21 Itrabus I,TST,2,6,20220901,24,9,0,1,1,0
 43,2003,AS10CQ,Iveco,Daily 70C21 Itrabus I,TST,2,6,20220901,24,9,0,1,1,0
 43,2004,AR22VA,Iveco,Daily 70C21 Itrabus I,TST,2,6,20220901,24,9,0,1,1,0
 43,2005,AR02ZE,Iveco,Daily 70C21 Itrabus I,TST,2,6,20220901,24,9,0,1,1,0
 43,2006,AR20VA,Iveco,Daily 70C21 Itrabus I,TST,2,6,20220901,24,9,0,1,1,0
+43,2007,AR13VA,Iveco,Daily 70C21 Itrabus I,TST,2,6,20220901,24,9,0,1,1,0
 43,2008,AS07CQ,Iveco,Daily 70C21 Itrabus I,TST,2,6,20220901,24,9,0,1,1,0
 43,2009,AS99CP,Iveco,Daily 70C21 Itrabus I,TST,2,6,20220901,24,9,0,1,1,0
 43,2010,AS09CQ,Iveco,Daily 70C21 Itrabus I,TST,2,6,20220901,24,9,0,1,1,0
 43,2011,AS97CP,Iveco,Daily 70C21 Itrabus I,TST,2,6,20220901,24,9,0,1,1,0
 43,2012,AS03CQ,Iveco,Daily 70C21 Itrabus I,TST,2,6,20220901,24,9,0,1,1,1
 43,2013,AS00CQ,Iveco,Daily 70C21 Itrabus I,TST,2,6,20220901,24,9,0,1,1,0
+43,2014,AR78LE,Iveco,Daily 70C21 Itrabus I,TST,2,6,20220801,24,9,0,1,1,0
 43,2015,AR96LE,Iveco,Daily 70C21 Itrabus I,TST,2,6,20220801,24,9,0,1,1,0
+43,2016,AR03LF,Iveco,Daily 70C21 Itrabus I,TST,2,6,20220801,24,9,0,1,1,0
+43,2017,AR31VA,Iveco,Daily 70C21 Itrabus I,TST,2,6,20220901,24,9,0,1,1,0
+43,2018,AR24VA,Iveco,Daily 70C21 Itrabus I,TST,2,6,20220901,24,9,0,1,1,0
+43,2019,AR18VA,Iveco,Daily 70C21 Itrabus I,TST,2,6,20220901,24,9,0,1,1,0
+43,2020,AR81LE,Iveco,Daily 70C21 Itrabus I,TST,2,6,20220801,24,9,0,1,1,1
+43,2021,AR25VA,Iveco,Daily 70C21 Itrabus I,TST,2,6,20220901,24,9,0,1,1,0
+43,2022,AR35VA,Iveco,Daily 70C21 Itrabus I,TST,2,6,20220901,24,9,0,1,1,0
 43,2023,AR23VA,Iveco,Daily 70C21 Itrabus I,TST,2,6,20220901,24,9,0,1,1,0
 43,2024,AR30VA,Iveco,Daily 70C21 Itrabus I,TST,2,6,20220901,24,9,0,1,1,0
+43,2025,AR33VA,Iveco,Daily 70C21 Itrabus I,TST,2,6,20220901,24,9,0,1,1,1
+43,2026,AR17VA,Iveco,Daily 70C21 Itrabus I,TST,2,6,20220901,24,9,0,1,1,0
 43,2027,AR15VA,Iveco,Daily 70C21 Itrabus I,TST,2,6,20220901,24,9,0,1,1,0
+43,2029,AR10LF,Iveco,Daily 70C21 Itrabus I,TST,2,6,20220801,24,9,0,1,1,0
+43,2030,AR79LE,Iveco,Daily 70C21 Itrabus I,TST,2,6,20220801,24,9,0,1,1,1
+43,2031,AR82LE,Iveco,Daily 70C21 Itrabus I,TST,2,6,20220801,24,9,0,1,1,0
+43,2032,AR00LF,Iveco,Daily 70C21 Itrabus I,TST,2,6,20220801,24,9,0,1,1,0
+43,2033,AR01LF,Iveco,Daily 70C21 Itrabus I,TST,2,6,20220801,24,9,0,1,1,0
+43,2034,AR93LE,Iveco,Daily 70C21 Itrabus I,TST,2,6,20220801,24,9,0,1,1,0
+43,2035,AR32VA,Iveco,Daily 70C21 Itrabus I,TST,2,6,20220901,24,9,0,1,1,0
+43,2036,AR34VA,Iveco,Daily 70C21 Itrabus I,TST,2,6,20220901,24,9,0,1,1,1
+43,2037,AS06CQ,Iveco,Daily 70C21 Itrabus I,TST,2,6,20220901,24,9,0,1,1,0
+43,2038,AR05LF,Iveco,Daily 70C21 Itrabus I,TST,2,6,20220801,24,9,0,1,1,0
+43,2039,AR80LE,Iveco,Daily 70C21 Itrabus I,TST,2,6,20220801,24,9,0,1,1,0
+43,2040,AR92LE,Iveco,Daily 70C21 Itrabus I,TST,2,6,20220801,24,9,0,1,1,0
+43,2041,AS08CQ,Iveco,Daily 70C21 Itrabus I,TST,2,6,20220901,24,9,0,1,1,0
+43,2042,AS14CQ,Iveco,Daily 70C21 Itrabus I,TST,2,6,20220901,24,9,0,1,1,0
+43,2043,AS12CQ,Iveco,Daily 70C21 Itrabus I,TST,2,6,20220901,24,9,0,1,1,0
+43,2044,AS01CQ,Iveco,Daily 70C21 Itrabus I,TST,2,6,20220901,24,9,0,1,1,0
+43,2045,AS98CP,Iveco,Daily 70C21 Itrabus I,TST,2,6,20220901,24,9,0,1,1,1
+43,2080,AS40GC,Iveco,Daily 70C21 Itrabus II,TST,2,6,20220901,24,9,0,1,1,0
+43,2081,AS50GC,Iveco,Daily 70C21 Itrabus II,TST,2,6,20220901,24,9,0,1,1,0
+43,2082,AS36GC,Iveco,Daily 70C21 Itrabus II,TST,2,6,20220901,24,9,0,1,1,0
+43,2083,AS31GC,Iveco,Daily 70C21 Itrabus II,TST,2,6,20220901,24,9,0,1,1,0
+43,2084,AS49GC,Iveco,Daily 70C21 Itrabus II,TST,2,6,20220901,24,9,0,1,1,0
+43,2085,AS35GC,Iveco,Daily 70C21 Itrabus II,TST,2,6,20220901,24,9,0,1,1,0
+43,2086,AS39GC,Iveco,Daily 70C21 Itrabus II,TST,2,6,20220901,24,9,0,1,1,0
+43,2087,AS32GC,Iveco,Daily 70C21 Itrabus II,TST,2,6,20220901,24,9,0,1,1,0
+43,2100,AQ34VG,Iveco,Crossway Low Entry Line,TST,2,6,20220701,45,30,0,1,0,0
+43,2101,AR09LF,Iveco,Crossway Low Entry Line,TST,2,6,20220801,45,30,0,1,0,0
+43,2102,AR98LE,Iveco,Crossway Low Entry Line,TST,2,6,20220801,45,30,0,1,0,0
+43,2103,AR97LE,Iveco,Crossway Low Entry Line,TST,2,6,20220801,45,30,0,1,0,0
+43,2104,AR11LF,Iveco,Crossway Low Entry Line,TST,2,6,20220801,45,30,0,1,0,0
+43,2105,AR91LE,Iveco,Crossway Low Entry Line,TST,2,6,20220801,45,30,0,1,0,0
+43,2106,AR76LE,Iveco,Crossway Low Entry Line,TST,2,6,20220801,45,30,0,1,0,0
+43,2107,AR06LF,Iveco,Crossway Low Entry Line,TST,2,6,20220801,45,30,0,1,0,0
+43,2108,AR90LE,Iveco,Crossway Low Entry Line,TST,2,6,20220801,45,30,0,1,0,0
+43,2109,AR29LT,Iveco,Crossway Low Entry Line,TST,2,6,20220801,45,30,0,1,0,0
+43,2110,AR08LF,Iveco,Crossway Low Entry Line,TST,2,6,20220801,45,30,0,1,0,0
+43,2111,AR85LE,Iveco,Crossway Low Entry Line,TST,2,6,20220801,45,30,0,1,0,0
+43,2112,AR94LE,Iveco,Crossway Low Entry Line,TST,2,6,20220801,45,30,0,1,0,0
+43,2113,AR04LF,Iveco,Crossway Low Entry Line,TST,2,6,20220801,45,30,0,1,0,0
+43,2114,AR87LE,Iveco,Crossway Low Entry Line,TST,2,6,20220801,45,30,0,1,0,0
+43,2115,AR84LE,Iveco,Crossway Low Entry Line,TST,2,6,20220801,45,30,0,1,0,0
+43,2116,AR02LF,Iveco,Crossway Low Entry Line,TST,2,6,20220801,45,30,0,1,0,0
+43,2117,AR07LF,Iveco,Crossway Low Entry Line,TST,2,6,20220801,45,30,0,1,0,0
+43,2118,AR16LT,Iveco,Crossway Low Entry Line,TST,2,6,20220801,45,30,0,1,0,0
+43,2119,AR21LT,Iveco,Crossway Low Entry Line,TST,2,6,20220801,45,30,0,1,0,0
+43,2120,AR25LT,Iveco,Crossway Low Entry Line,TST,2,6,20220801,45,30,0,1,0,0
+43,2121,AR08OD,Iveco,Crossway Low Entry Line,TST,2,6,20220801,45,30,0,1,0,0
+43,2122,AR09OD,Iveco,Crossway Low Entry Line,TST,2,6,20220801,45,30,0,1,0,0
+43,2123,AR90OC,Iveco,Crossway Low Entry Line,TST,2,6,20220801,45,30,0,1,0,0
+43,2124,AR95OC,Iveco,Crossway Low Entry Line,TST,2,6,20220801,45,30,0,1,0,0
 43,2200,AQ00GH,Iveco,Crossway Low Entry City,TST,2,6,20220701,39,55,0,1,0,0
+43,2201,AQ13VG,Iveco,Crossway Low Entry City,TST,2,6,20220701,39,55,1,1,0,1
+43,2202,AQ06VG,Iveco,Crossway Low Entry City,TST,2,6,20220701,39,55,1,1,0,1
 43,2203,AQ43VG,Iveco,Crossway Low Entry City,TST,2,6,20220701,39,55,1,1,0,1
 43,2204,AQ58VG,Iveco,Crossway Low Entry City,TST,2,6,20220701,39,55,1,1,0,1
 43,2205,AQ20VG,Iveco,Crossway Low Entry City,TST,2,6,20220701,39,55,1,1,0,0
 43,2206,AQ18VG,Iveco,Crossway Low Entry City,TST,2,6,20220701,39,55,0,1,0,0
 43,2207,AQ78VG,Iveco,Crossway Low Entry City,TST,2,6,20220701,39,55,1,1,0,0
+43,2208,AQ47VG,Iveco,Crossway Low Entry City,TST,2,6,20220701,39,55,1,1,0,1
 43,2209,AQ46VG,Iveco,Crossway Low Entry City,TST,2,6,20220701,39,55,1,1,0,1
+43,221,48SI29,Mercedes-Benz,O 550 (INTEGRO),TST,2,5,20090401,53,32,0,0,0,0
 43,2210,AQ68VG,Iveco,Crossway Low Entry City,TST,2,6,20220701,39,55,1,1,0,1
 43,2211,AQ39VG,Iveco,Crossway Low Entry City,TST,2,6,20220701,39,55,1,1,0,0
 43,2212,AQ15VG,Iveco,Crossway Low Entry City,TST,2,6,20220701,39,55,1,1,0,0
@@ -1063,18 +1136,111 @@ agency_id,vehicle_id,license_plate,make,model,owner,propulsion,emission_class,re
 43,2221,AQ67VG,Iveco,Crossway Low Entry City,TST,2,6,20220701,39,55,1,1,0,0
 43,2222,AQ69VV,Iveco,Crossway Low Entry City,TST,2,6,20220701,39,55,1,1,0,0
 43,2223,AQ48VV,Iveco,Crossway Low Entry City,TST,2,6,20220701,39,55,1,1,0,0
+43,2224,AQ58VV,Iveco,Crossway Low Entry City,TST,2,6,20220701,39,55,1,1,0,1
+43,2225,AQ44VG,Iveco,Crossway Low Entry City,TST,2,6,20220701,39,55,1,1,0,1
+43,2226,AQ43VV,Iveco,Crossway Low Entry City,TST,2,6,20220701,39,55,1,1,0,1
+43,2227,AQ54VG,Iveco,Crossway Low Entry City,TST,2,6,20220701,39,55,1,1,0,1
+43,2228,AQ61VV,Iveco,Crossway Low Entry City,TST,2,6,20220701,39,55,1,1,0,1
+43,2229,AQ38VG,Iveco,Crossway Low Entry City,TST,2,6,20220701,39,55,1,1,0,1
+43,2230,AQ08VG,Iveco,Crossway Low Entry City,TST,2,6,20220701,39,55,1,1,0,1
+43,2231,AQ32VG,Iveco,Crossway Low Entry City,TST,2,6,20220701,39,55,1,1,0,0
+43,2232,AQ65VV,Iveco,Crossway Low Entry City,TST,2,6,20220701,39,55,1,1,0,1
+43,2233,AQ42VV,Iveco,Crossway Low Entry City,TST,2,6,20220701,39,55,1,1,0,0
+43,2234,AQ35VV,Iveco,Crossway Low Entry City,TST,2,6,20220701,39,55,1,1,0,1
+43,2235,AQ59VV,Iveco,Crossway Low Entry City,TST,2,6,20220701,39,55,0,1,0,0
+43,2236,AQ47VV,Iveco,Crossway Low Entry City,TST,2,6,20220701,39,55,1,1,0,1
+43,2237,AQ50VV,Iveco,Crossway Low Entry City,TST,2,6,20220701,39,55,0,1,0,0
+43,2238,AQ41VG,Iveco,Crossway Low Entry City,TST,2,6,20220701,39,55,0,1,0,0
+43,2239,AQ76VG,Iveco,Crossway Low Entry City,TST,2,6,20220701,39,55,1,1,0,1
+43,2240,AQ36VV,Iveco,Crossway Low Entry City,TST,2,6,20220701,39,55,0,1,0,0
+43,2241,AQ77VG,Iveco,Crossway Low Entry City,TST,2,6,20220701,39,55,0,1,0,0
+43,2242,AQ27VG,Iveco,Crossway Low Entry City,TST,2,6,20220701,39,55,0,1,0,0
+43,2243,AQ50VG,Iveco,Crossway Low Entry City,TST,2,6,20220701,39,55,0,1,0,0
+43,2244,AQ26VG,Iveco,Crossway Low Entry City,TST,2,6,20220701,39,55,0,1,0,0
+43,2245,AQ12VG,Iveco,Crossway Low Entry City,TST,2,6,20220701,39,55,0,1,0,0
+43,2246,AQ07VG,Iveco,Crossway Low Entry City,TST,2,6,20220701,39,55,0,1,0,0
+43,2247,AQ56VV,Iveco,Crossway Low Entry City,TST,2,6,20220701,39,55,0,1,0,0
+43,2248,AQ05VG,Iveco,Crossway Low Entry City,TST,2,6,20220701,39,55,0,1,0,0
+43,2249,AQ62VG,Iveco,Crossway Low Entry City,TST,2,6,20220701,39,55,0,1,0,1
+43,2250,AQ73VG,Iveco,Crossway Low Entry City,TST,2,6,20220701,39,55,0,1,0,0
+43,2251,AQ22VG,Iveco,Crossway Low Entry City,TST,2,6,20220701,39,55,0,1,0,0
+43,2252,AQ66VG,Iveco,Crossway Low Entry City,TST,2,6,20220701,39,55,0,1,0,0
+43,2253,AQ51VG,Iveco,Crossway Low Entry City,TST,2,6,20220701,39,55,0,1,0,0
+43,2254,AQ61VG,Iveco,Crossway Low Entry City,TST,2,6,20220701,39,55,0,1,0,0
+43,2255,AQ33VG,Iveco,Crossway Low Entry City,TST,2,6,20220701,39,55,0,1,0,0
+43,2256,AQ42VG,Iveco,Crossway Low Entry City,TST,2,6,20220701,39,55,0,1,0,0
+43,2257,AQ31VG,Iveco,Crossway Low Entry City,TST,2,6,20220701,39,55,0,1,0,0
+43,2258,AQ11VG,Iveco,Crossway Low Entry City,TST,2,6,20220701,39,55,0,1,0,0
+43,2259,AQ49VG,Iveco,Crossway Low Entry City,TST,2,6,20220701,39,55,0,1,0,1
 43,2260,AQ29VG,Iveco,Crossway Low Entry City,TST,2,6,20220701,39,55,0,1,0,0
+43,2261,AQ16VG,Iveco,Crossway Low Entry City,TST,2,6,20220701,39,55,0,1,0,0
+43,2262,AQ72VG,Iveco,Crossway Low Entry City,TST,2,6,20220701,39,55,0,1,0,0
+43,2263,AQ45VG,Iveco,Crossway Low Entry City,TST,2,6,20220701,39,55,0,1,0,0
+43,2264,AQ37VG,Iveco,Crossway Low Entry City,TST,2,6,20220701,39,55,0,1,0,0
+43,2265,AQ30VG,Iveco,Crossway Low Entry City,TST,2,6,20220701,39,55,0,1,0,0
+43,2266,AQ40VG,Iveco,Crossway Low Entry City,TST,2,6,20220701,39,55,0,1,0,0
+43,2267,AQ64VG,Iveco,Crossway Low Entry City,TST,2,6,20220701,39,55,0,1,0,1
+43,2268,AQ66VV,Iveco,Crossway Low Entry City,TST,2,6,20220701,39,55,0,1,0,0
+43,2269,AQ10VG,Iveco,Crossway Low Entry City,TST,2,6,20220701,39,55,0,1,0,1
+43,2270,AQ35VG,Iveco,Crossway Low Entry City,TST,2,6,20220701,39,55,0,1,0,0
+43,2271,AQ17VG,Iveco,Crossway Low Entry City,TST,2,6,20220701,39,55,0,1,0,0
+43,2272,AQ19VG,Iveco,Crossway Low Entry City,TST,2,6,20220701,39,55,0,1,0,0
+43,2273,AQ14VG,Iveco,Crossway Low Entry City,TST,2,6,20220701,39,55,0,1,0,1
+43,2274,AQ09VG,Iveco,Crossway Low Entry City,TST,2,6,20220701,39,55,0,1,0,0
+43,2275,AQ24VG,Iveco,Crossway Low Entry City,TST,2,6,20220701,39,55,0,1,0,0
+43,2276,AQ46VV,Iveco,Crossway Low Entry City,TST,2,6,20220701,39,55,0,1,0,0
+43,2277,AR59FI,Iveco,Crossway Low Entry City,TST,2,6,20220801,39,55,0,1,0,0
+43,2278,AQ21VG,Iveco,Crossway Low Entry City,TST,2,6,20220701,39,55,0,1,0,1
+43,2279,AQ71VG,Iveco,Crossway Low Entry City,TST,2,6,20220701,39,55,0,1,0,0
+43,2280,AQ25VG,Iveco,Crossway Low Entry City,TST,2,6,20220701,39,55,0,1,0,0
+43,2281,AQ48VG,Iveco,Crossway Low Entry City,TST,2,6,20220701,39,55,0,1,0,0
+43,2282,AR64FI,Iveco,Crossway Low Entry City,TST,2,6,20220801,39,55,0,1,0,0
+43,2283,AQ49VV,Iveco,Crossway Low Entry City,TST,2,6,20220701,39,55,0,1,0,0
+43,2284,AQ38VV,Iveco,Crossway Low Entry City,TST,2,6,20220701,39,55,0,1,0,0
+43,2285,AQ45VV,Iveco,Crossway Low Entry City,TST,2,6,20220701,39,55,0,1,0,1
 43,2286,AQ65VG,Iveco,Crossway Low Entry City,TST,2,6,20220701,39,55,0,1,0,0
+43,2287,AQ64VV,Iveco,Crossway Low Entry City,TST,2,6,20220701,39,55,0,1,0,0
+43,2288,AQ63VV,Iveco,Crossway Low Entry City,TST,2,6,20220701,39,55,0,1,0,0
 43,2289,AQ68VV,Iveco,Crossway Low Entry City,TST,2,6,20220701,39,55,1,1,0,0
 43,2290,AQ55VG,Iveco,Crossway Low Entry City,TST,2,6,20220701,39,55,0,1,0,0
 43,2291,AR55FI,Iveco,Crossway Low Entry City,TST,2,6,20220801,39,55,0,1,0,0
+43,2292,AR58BL,Iveco,Crossway Low Entry City,TST,2,6,20220701,39,55,0,1,0,1
 43,2293,AR69FI,Iveco,Crossway Low Entry City,TST,2,6,20220801,39,55,0,1,0,0
+43,2294,AR59BL,Iveco,Crossway Low Entry City,TST,2,6,20220701,39,55,0,1,0,0
+43,2295,AR61BL,Iveco,Crossway Low Entry City,TST,2,6,20220701,39,55,0,1,0,0
 43,2296,AQ53VG,Iveco,Crossway Low Entry City,TST,2,6,20220701,39,55,0,1,0,0
+43,2297,AQ40VV,Iveco,Crossway Low Entry City,TST,2,6,20220701,39,55,0,1,0,0
+43,2298,AQ67VV,Iveco,Crossway Low Entry City,TST,2,6,20220701,39,55,0,1,0,0
 43,2299,AQ74VG,Iveco,Crossway Low Entry City,TST,2,6,20220701,39,55,0,1,0,0
+43,2300,AR65FI,Iveco,Crossway Low Entry City,TST,2,6,20220801,39,55,0,1,0,0
+43,2301,AQ39VV,Iveco,Crossway Low Entry City,TST,2,6,20220701,39,55,0,1,0,0
 43,2302,AQ37VV,Iveco,Crossway Low Entry City,TST,2,6,20220701,39,55,0,1,0,0
 43,2303,AQ52VG,Iveco,Crossway Low Entry City,TST,2,6,20220701,39,55,0,1,0,0
 43,2304,AQ28VG,Iveco,Crossway Low Entry City,TST,2,6,20220701,39,55,0,1,0,0
+43,2305,AQ34VV,Iveco,Crossway Low Entry City,TST,2,6,20220701,39,55,0,1,0,0
+43,2306,AR53BL,Iveco,Crossway Low Entry City,TST,2,6,20220701,39,55,0,1,0,0
+43,2307,AQ62VV,Iveco,Crossway Low Entry City,TST,2,6,20220701,39,55,0,1,0,0
+43,2308,AQ72VV,Iveco,Crossway Low Entry City,TST,2,6,20220701,39,55,0,1,0,1
+43,2309,AR48BL,Iveco,Crossway Low Entry City,TST,2,6,20220701,39,55,0,1,0,0
+43,2310,AQ71VV,Iveco,Crossway Low Entry City,TST,2,6,20220701,39,55,0,1,0,0
 43,2311,AQ60VG,Iveco,Crossway Low Entry City,TST,2,6,20220701,39,55,0,1,0,0
+43,2312,AQ59VG,Iveco,Crossway Low Entry City,TST,2,6,20220701,39,55,0,1,0,0
+43,2313,AR55GS,Iveco,Crossway Low Entry City,TST,2,6,20220801,39,55,0,1,0,0
+43,2314,AR07OD,Iveco,Crossway Low Entry City,TST,2,6,20220801,39,55,0,1,0,0
+43,2315,AR98OC,Iveco,Crossway Low Entry City,TST,2,6,20220801,39,55,0,1,0,0
+43,2316,AR75GS,Iveco,Crossway Low Entry City,TST,2,6,20220801,39,55,0,1,0,0
+43,2317,AR87GS,Iveco,Crossway Low Entry City,TST,2,6,20220801,39,55,0,1,0,0
+43,2318,AR51GS,Iveco,Crossway Low Entry City,TST,2,6,20220801,39,55,0,1,0,0
+43,2319,AR56GS,Iveco,Crossway Low Entry City,TST,2,6,20220801,39,55,0,1,0,0
+43,2320,AQ36VG,Iveco,Crossway Low Entry City,TST,2,6,20220701,39,55,0,1,0,1
+43,2321,AQ51VV,Iveco,Crossway Low Entry City,TST,2,6,20220701,39,55,0,1,0,1
+43,2322,AQ54VV,Iveco,Crossway Low Entry City,TST,2,6,20220701,39,55,0,1,0,0
+43,2323,AR54GS,Iveco,Crossway Low Entry City,TST,2,6,20220801,39,55,0,1,0,0
+43,2324,AQ33VV,Iveco,Crossway Low Entry City,TST,2,6,20220701,39,55,0,1,0,1
+43,2325,AR79GS,Iveco,Crossway Low Entry City,TST,2,6,20220801,39,55,0,1,0,0
+43,2326,AR62GS,Iveco,Crossway Low Entry City,TST,2,6,20220801,39,55,0,1,0,0
+43,2327,AR93OC,Iveco,Crossway Low Entry City,TST,2,6,20220801,39,55,0,1,0,0
+43,2328,AR58GS,Iveco,Crossway Low Entry City,TST,2,6,20220801,39,55,0,1,0,0
 43,2329,AR72GS,Iveco,Crossway Low Entry City,TST,2,6,20220801,39,55,0,1,0,0
 43,2330,AR83GS,Iveco,Crossway Low Entry City,TST,2,6,20220801,39,55,0,1,0,0
 43,2331,AR69GS,Iveco,Crossway Low Entry City,TST,2,6,20220801,39,55,0,1,0,0
@@ -1091,6 +1257,7 @@ agency_id,vehicle_id,license_plate,make,model,owner,propulsion,emission_class,re
 43,2342,AR19LT,Iveco,Crossway Low Entry City,TST,2,6,20220801,39,55,0,1,0,0
 43,2343,AR24LT,Iveco,Crossway Low Entry City,TST,2,6,20220801,39,55,0,1,0,0
 43,2344,AR42NG,Iveco,Crossway Low Entry City,TST,2,6,20220801,39,55,0,1,0,0
+43,2345,AR00OD,Iveco,Crossway Low Entry City,TST,2,6,20220801,39,55,0,1,0,0
 43,2346,AR56BL,Iveco,Crossway Low Entry City,TST,2,6,20220701,39,55,0,1,0,0
 43,2347,AR05OD,Iveco,Crossway Low Entry City,TST,2,6,20220801,39,55,0,1,0,0
 43,2348,AR26LT,Iveco,Crossway Low Entry City,TST,2,6,20220801,39,55,0,1,0,0
@@ -1166,175 +1333,6 @@ agency_id,vehicle_id,license_plate,make,model,owner,propulsion,emission_class,re
 43,2424,BR11DN,Higer,KLQ126GEV,TST,6,0,20251020,34,50,0,1,0,0
 43,2425,BR11DN,Higer,KLQ126GEV,TST,6,0,20251020,34,50,0,1,0,0
 43,2426,BR11DN,Higer,KLQ126GEV,TST,6,0,20251020,34,50,0,1,0,0
-43,758,21SN28,MAN,A78 (LION CITY),TST,2,6,20090201,40,43,0,1,0,0
-43,14,02VD72,Mercedes-Benz,519 CDI,TST,2,6,20180901,15,10,0,1,0,0
-43,15,36VG37,Mercedes-Benz,519 CDI,TST,2,6,20181001,15,10,0,1,0,0
-43,16,37VG71,Mercedes-Benz,519 CDI,TST,2,6,20181001,15,10,0,1,0,0
-43,2000,AS96CP,Iveco,Daily 70C21 Itrabus I,TST,2,6,20220901,24,9,0,1,1,1
-43,2001,AS11CQ,Iveco,Daily 70C21 Itrabus I,TST,2,6,20220901,24,9,0,1,1,0
-43,2014,AR78LE,Iveco,Daily 70C21 Itrabus I,TST,2,6,20220801,24,9,0,1,1,0
-43,2016,AR03LF,Iveco,Daily 70C21 Itrabus I,TST,2,6,20220801,24,9,0,1,1,0
-43,2017,AR31VA,Iveco,Daily 70C21 Itrabus I,TST,2,6,20220901,24,9,0,1,1,0
-43,2018,AR24VA,Iveco,Daily 70C21 Itrabus I,TST,2,6,20220901,24,9,0,1,1,0
-43,2019,AR18VA,Iveco,Daily 70C21 Itrabus I,TST,2,6,20220901,24,9,0,1,1,0
-43,2020,AR81LE,Iveco,Daily 70C21 Itrabus I,TST,2,6,20220801,24,9,0,1,1,1
-43,2021,AR25VA,Iveco,Daily 70C21 Itrabus I,TST,2,6,20220901,24,9,0,1,1,0
-43,2022,AR35VA,Iveco,Daily 70C21 Itrabus I,TST,2,6,20220901,24,9,0,1,1,0
-43,2025,AR33VA,Iveco,Daily 70C21 Itrabus I,TST,2,6,20220901,24,9,0,1,1,1
-43,2029,AR10LF,Iveco,Daily 70C21 Itrabus I,TST,2,6,20220801,24,9,0,1,1,0
-43,2030,AR79LE,Iveco,Daily 70C21 Itrabus I,TST,2,6,20220801,24,9,0,1,1,1
-43,2031,AR82LE,Iveco,Daily 70C21 Itrabus I,TST,2,6,20220801,24,9,0,1,1,0
-43,2032,AR00LF,Iveco,Daily 70C21 Itrabus I,TST,2,6,20220801,24,9,0,1,1,0
-43,2034,AR93LE,Iveco,Daily 70C21 Itrabus I,TST,2,6,20220801,24,9,0,1,1,0
-43,2036,AR34VA,Iveco,Daily 70C21 Itrabus I,TST,2,6,20220901,24,9,0,1,1,1
-43,2037,AS06CQ,Iveco,Daily 70C21 Itrabus I,TST,2,6,20220901,24,9,0,1,1,0
-43,2038,AR05LF,Iveco,Daily 70C21 Itrabus I,TST,2,6,20220801,24,9,0,1,1,0
-43,2039,AR80LE,Iveco,Daily 70C21 Itrabus I,TST,2,6,20220801,24,9,0,1,1,0
-43,2040,AR92LE,Iveco,Daily 70C21 Itrabus I,TST,2,6,20220801,24,9,0,1,1,0
-43,2041,AS08CQ,Iveco,Daily 70C21 Itrabus I,TST,2,6,20220901,24,9,0,1,1,0
-43,2042,AS14CQ,Iveco,Daily 70C21 Itrabus I,TST,2,6,20220901,24,9,0,1,1,0
-43,2043,AS12CQ,Iveco,Daily 70C21 Itrabus I,TST,2,6,20220901,24,9,0,1,1,0
-43,2044,AS01CQ,Iveco,Daily 70C21 Itrabus I,TST,2,6,20220901,24,9,0,1,1,0
-43,2045,AS98CP,Iveco,Daily 70C21 Itrabus I,TST,2,6,20220901,24,9,0,1,1,1
-43,2080,AS40GC,Iveco,Daily 70C21 Itrabus II,TST,2,6,20220901,24,9,0,1,1,0
-43,2081,AS50GC,Iveco,Daily 70C21 Itrabus II,TST,2,6,20220901,24,9,0,1,1,0
-43,2082,AS36GC,Iveco,Daily 70C21 Itrabus II,TST,2,6,20220901,24,9,0,1,1,0
-43,2083,AS31GC,Iveco,Daily 70C21 Itrabus II,TST,2,6,20220901,24,9,0,1,1,0
-43,2084,AS49GC,Iveco,Daily 70C21 Itrabus II,TST,2,6,20220901,24,9,0,1,1,0
-43,2085,AS35GC,Iveco,Daily 70C21 Itrabus II,TST,2,6,20220901,24,9,0,1,1,0
-43,2086,AS39GC,Iveco,Daily 70C21 Itrabus II,TST,2,6,20220901,24,9,0,1,1,0
-43,2087,AS32GC,Iveco,Daily 70C21 Itrabus II,TST,2,6,20220901,24,9,0,1,1,0
-43,2118,AR16LT,Iveco,Crossway Low Entry Line,TST,2,6,20220801,45,30,0,1,0,0
-43,2119,AR21LT,Iveco,Crossway Low Entry Line,TST,2,6,20220801,45,30,0,1,0,0
-43,2120,AR25LT,Iveco,Crossway Low Entry Line,TST,2,6,20220801,45,30,0,1,0,0
-43,2121,AR08OD,Iveco,Crossway Low Entry Line,TST,2,6,20220801,45,30,0,1,0,0
-43,2122,AR09OD,Iveco,Crossway Low Entry Line,TST,2,6,20220801,45,30,0,1,0,0
-43,2123,AR90OC,Iveco,Crossway Low Entry Line,TST,2,6,20220801,45,30,0,1,0,0
-43,2124,AR95OC,Iveco,Crossway Low Entry Line,TST,2,6,20220801,45,30,0,1,0,0
-43,2201,AQ13VG,Iveco,Crossway Low Entry City,TST,2,6,20220701,39,55,1,1,0,1
-43,2202,AQ06VG,Iveco,Crossway Low Entry City,TST,2,6,20220701,39,55,1,1,0,1
-43,2208,AQ47VG,Iveco,Crossway Low Entry City,TST,2,6,20220701,39,55,1,1,0,1
-43,2224,AQ58VV,Iveco,Crossway Low Entry City,TST,2,6,20220701,39,55,1,1,0,1
-43,2225,AQ44VG,Iveco,Crossway Low Entry City,TST,2,6,20220701,39,55,1,1,0,1
-43,2226,AQ43VV,Iveco,Crossway Low Entry City,TST,2,6,20220701,39,55,1,1,0,1
-43,2227,AQ54VG,Iveco,Crossway Low Entry City,TST,2,6,20220701,39,55,1,1,0,1
-43,2228,AQ61VV,Iveco,Crossway Low Entry City,TST,2,6,20220701,39,55,1,1,0,1
-43,2229,AQ38VG,Iveco,Crossway Low Entry City,TST,2,6,20220701,39,55,1,1,0,1
-43,2230,AQ08VG,Iveco,Crossway Low Entry City,TST,2,6,20220701,39,55,1,1,0,1
-43,2231,AQ32VG,Iveco,Crossway Low Entry City,TST,2,6,20220701,39,55,1,1,0,0
-43,2232,AQ65VV,Iveco,Crossway Low Entry City,TST,2,6,20220701,39,55,1,1,0,1
-43,2233,AQ42VV,Iveco,Crossway Low Entry City,TST,2,6,20220701,39,55,1,1,0,0
-43,2234,AQ35VV,Iveco,Crossway Low Entry City,TST,2,6,20220701,39,55,1,1,0,1
-43,2235,AQ59VV,Iveco,Crossway Low Entry City,TST,2,6,20220701,39,55,0,1,0,0
-43,2236,AQ47VV,Iveco,Crossway Low Entry City,TST,2,6,20220701,39,55,1,1,0,1
-43,2237,AQ50VV,Iveco,Crossway Low Entry City,TST,2,6,20220701,39,55,0,1,0,0
-43,2238,AQ41VG,Iveco,Crossway Low Entry City,TST,2,6,20220701,39,55,0,1,0,0
-43,2239,AQ76VG,Iveco,Crossway Low Entry City,TST,2,6,20220701,39,55,1,1,0,1
-43,2240,AQ36VV,Iveco,Crossway Low Entry City,TST,2,6,20220701,39,55,0,1,0,0
-43,2241,AQ77VG,Iveco,Crossway Low Entry City,TST,2,6,20220701,39,55,0,1,0,0
-43,2242,AQ27VG,Iveco,Crossway Low Entry City,TST,2,6,20220701,39,55,0,1,0,0
-43,2243,AQ50VG,Iveco,Crossway Low Entry City,TST,2,6,20220701,39,55,0,1,0,0
-43,2244,AQ26VG,Iveco,Crossway Low Entry City,TST,2,6,20220701,39,55,0,1,0,0
-43,2245,AQ12VG,Iveco,Crossway Low Entry City,TST,2,6,20220701,39,55,0,1,0,0
-43,2246,AQ07VG,Iveco,Crossway Low Entry City,TST,2,6,20220701,39,55,0,1,0,0
-43,2247,AQ56VV,Iveco,Crossway Low Entry City,TST,2,6,20220701,39,55,0,1,0,0
-43,2248,AQ05VG,Iveco,Crossway Low Entry City,TST,2,6,20220701,39,55,0,1,0,0
-43,2249,AQ62VG,Iveco,Crossway Low Entry City,TST,2,6,20220701,39,55,0,1,0,1
-43,2250,AQ73VG,Iveco,Crossway Low Entry City,TST,2,6,20220701,39,55,0,1,0,0
-43,2251,AQ22VG,Iveco,Crossway Low Entry City,TST,2,6,20220701,39,55,0,1,0,0
-43,2252,AQ66VG,Iveco,Crossway Low Entry City,TST,2,6,20220701,39,55,0,1,0,0
-43,2253,AQ51VG,Iveco,Crossway Low Entry City,TST,2,6,20220701,39,55,0,1,0,0
-43,2254,AQ61VG,Iveco,Crossway Low Entry City,TST,2,6,20220701,39,55,0,1,0,0
-43,2255,AQ33VG,Iveco,Crossway Low Entry City,TST,2,6,20220701,39,55,0,1,0,0
-43,2256,AQ42VG,Iveco,Crossway Low Entry City,TST,2,6,20220701,39,55,0,1,0,0
-43,2257,AQ31VG,Iveco,Crossway Low Entry City,TST,2,6,20220701,39,55,0,1,0,0
-43,2258,AQ11VG,Iveco,Crossway Low Entry City,TST,2,6,20220701,39,55,0,1,0,0
-43,2259,AQ49VG,Iveco,Crossway Low Entry City,TST,2,6,20220701,39,55,0,1,0,1
-43,2261,AQ16VG,Iveco,Crossway Low Entry City,TST,2,6,20220701,39,55,0,1,0,0
-43,2262,AQ72VG,Iveco,Crossway Low Entry City,TST,2,6,20220701,39,55,0,1,0,0
-43,2263,AQ45VG,Iveco,Crossway Low Entry City,TST,2,6,20220701,39,55,0,1,0,0
-43,2264,AQ37VG,Iveco,Crossway Low Entry City,TST,2,6,20220701,39,55,0,1,0,0
-43,2265,AQ30VG,Iveco,Crossway Low Entry City,TST,2,6,20220701,39,55,0,1,0,0
-43,2266,AQ40VG,Iveco,Crossway Low Entry City,TST,2,6,20220701,39,55,0,1,0,0
-43,2267,AQ64VG,Iveco,Crossway Low Entry City,TST,2,6,20220701,39,55,0,1,0,1
-43,2268,AQ66VV,Iveco,Crossway Low Entry City,TST,2,6,20220701,39,55,0,1,0,0
-43,2269,AQ10VG,Iveco,Crossway Low Entry City,TST,2,6,20220701,39,55,0,1,0,1
-43,2270,AQ35VG,Iveco,Crossway Low Entry City,TST,2,6,20220701,39,55,0,1,0,0
-43,2271,AQ17VG,Iveco,Crossway Low Entry City,TST,2,6,20220701,39,55,0,1,0,0
-43,2272,AQ19VG,Iveco,Crossway Low Entry City,TST,2,6,20220701,39,55,0,1,0,0
-43,2273,AQ14VG,Iveco,Crossway Low Entry City,TST,2,6,20220701,39,55,0,1,0,1
-43,2274,AQ09VG,Iveco,Crossway Low Entry City,TST,2,6,20220701,39,55,0,1,0,0
-43,2275,AQ24VG,Iveco,Crossway Low Entry City,TST,2,6,20220701,39,55,0,1,0,0
-43,2276,AQ46VV,Iveco,Crossway Low Entry City,TST,2,6,20220701,39,55,0,1,0,0
-43,2277,AR59FI,Iveco,Crossway Low Entry City,TST,2,6,20220801,39,55,0,1,0,0
-43,2278,AQ21VG,Iveco,Crossway Low Entry City,TST,2,6,20220701,39,55,0,1,0,1
-43,2279,AQ71VG,Iveco,Crossway Low Entry City,TST,2,6,20220701,39,55,0,1,0,0
-43,2280,AQ25VG,Iveco,Crossway Low Entry City,TST,2,6,20220701,39,55,0,1,0,0
-43,2281,AQ48VG,Iveco,Crossway Low Entry City,TST,2,6,20220701,39,55,0,1,0,0
-43,2282,AR64FI,Iveco,Crossway Low Entry City,TST,2,6,20220801,39,55,0,1,0,0
-43,2283,AQ49VV,Iveco,Crossway Low Entry City,TST,2,6,20220701,39,55,0,1,0,0
-43,2284,AQ38VV,Iveco,Crossway Low Entry City,TST,2,6,20220701,39,55,0,1,0,0
-43,2285,AQ45VV,Iveco,Crossway Low Entry City,TST,2,6,20220701,39,55,0,1,0,1
-43,2287,AQ64VV,Iveco,Crossway Low Entry City,TST,2,6,20220701,39,55,0,1,0,0
-43,2288,AQ63VV,Iveco,Crossway Low Entry City,TST,2,6,20220701,39,55,0,1,0,0
-43,2292,AR58BL,Iveco,Crossway Low Entry City,TST,2,6,20220701,39,55,0,1,0,1
-43,2294,AR59BL,Iveco,Crossway Low Entry City,TST,2,6,20220701,39,55,0,1,0,0
-43,2295,AR61BL,Iveco,Crossway Low Entry City,TST,2,6,20220701,39,55,0,1,0,0
-43,2297,AQ40VV,Iveco,Crossway Low Entry City,TST,2,6,20220701,39,55,0,1,0,0
-43,2298,AQ67VV,Iveco,Crossway Low Entry City,TST,2,6,20220701,39,55,0,1,0,0
-43,2300,AR65FI,Iveco,Crossway Low Entry City,TST,2,6,20220801,39,55,0,1,0,0
-43,2301,AQ39VV,Iveco,Crossway Low Entry City,TST,2,6,20220701,39,55,0,1,0,0
-43,2305,AQ34VV,Iveco,Crossway Low Entry City,TST,2,6,20220701,39,55,0,1,0,0
-43,2306,AR53BL,Iveco,Crossway Low Entry City,TST,2,6,20220701,39,55,0,1,0,0
-43,2307,AQ62VV,Iveco,Crossway Low Entry City,TST,2,6,20220701,39,55,0,1,0,0
-43,2308,AQ72VV,Iveco,Crossway Low Entry City,TST,2,6,20220701,39,55,0,1,0,1
-43,2309,AR48BL,Iveco,Crossway Low Entry City,TST,2,6,20220701,39,55,0,1,0,0
-43,2310,AQ71VV,Iveco,Crossway Low Entry City,TST,2,6,20220701,39,55,0,1,0,0
-43,2312,AQ59VG,Iveco,Crossway Low Entry City,TST,2,6,20220701,39,55,0,1,0,0
-43,2313,AR55GS,Iveco,Crossway Low Entry City,TST,2,6,20220801,39,55,0,1,0,0
-43,2314,AR07OD,Iveco,Crossway Low Entry City,TST,2,6,20220801,39,55,0,1,0,0
-43,2315,AR98OC,Iveco,Crossway Low Entry City,TST,2,6,20220801,39,55,0,1,0,0
-43,2316,AR75GS,Iveco,Crossway Low Entry City,TST,2,6,20220801,39,55,0,1,0,0
-43,2317,AR87GS,Iveco,Crossway Low Entry City,TST,2,6,20220801,39,55,0,1,0,0
-43,2318,AR51GS,Iveco,Crossway Low Entry City,TST,2,6,20220801,39,55,0,1,0,0
-43,2319,AR56GS,Iveco,Crossway Low Entry City,TST,2,6,20220801,39,55,0,1,0,0
-43,2320,AQ36VG,Iveco,Crossway Low Entry City,TST,2,6,20220701,39,55,0,1,0,1
-43,2321,AQ51VV,Iveco,Crossway Low Entry City,TST,2,6,20220701,39,55,0,1,0,1
-43,2322,AQ54VV,Iveco,Crossway Low Entry City,TST,2,6,20220701,39,55,0,1,0,0
-43,2323,AR54GS,Iveco,Crossway Low Entry City,TST,2,6,20220801,39,55,0,1,0,0
-43,2324,AQ33VV,Iveco,Crossway Low Entry City,TST,2,6,20220701,39,55,0,1,0,1
-43,2325,AR79GS,Iveco,Crossway Low Entry City,TST,2,6,20220801,39,55,0,1,0,0
-43,2326,AR62GS,Iveco,Crossway Low Entry City,TST,2,6,20220801,39,55,0,1,0,0
-43,2327,AR93OC,Iveco,Crossway Low Entry City,TST,2,6,20220801,39,55,0,1,0,0
-43,2328,AR58GS,Iveco,Crossway Low Entry City,TST,2,6,20220801,39,55,0,1,0,0
-43,2345,AR00OD,Iveco,Crossway Low Entry City,TST,2,6,20220801,39,55,0,1,0,0
-43,741,87SI81,MAN,A78 (LION CITY),TST,2,6,20090201,40,43,0,1,0,0
-43,11,03VD29,Mercedes-Benz,519 CDI,TST,2,6,20180901,15,10,0,1,0,0
-43,12,06VD64,Mercedes-Benz,519 CDI,TST,2,6,20180901,15,10,0,1,0,0
-43,13,04VD76,Mercedes-Benz,519 CDI,TST,2,6,20180901,15,10,0,1,0,0
-43,2007,AR13VA,Iveco,Daily 70C21 Itrabus I,TST,2,6,20220901,24,9,0,1,1,0
-43,2026,AR17VA,Iveco,Daily 70C21 Itrabus I,TST,2,6,20220901,24,9,0,1,1,0
-43,2033,AR01LF,Iveco,Daily 70C21 Itrabus I,TST,2,6,20220801,24,9,0,1,1,0
-43,2035,AR32VA,Iveco,Daily 70C21 Itrabus I,TST,2,6,20220901,24,9,0,1,1,0
-43,2100,AQ34VG,Iveco,Crossway Low Entry Line,TST,2,6,20220701,45,30,0,1,0,0
-43,2101,AR09LF,Iveco,Crossway Low Entry Line,TST,2,6,20220801,45,30,0,1,0,0
-43,2102,AR98LE,Iveco,Crossway Low Entry Line,TST,2,6,20220801,45,30,0,1,0,0
-43,2103,AR97LE,Iveco,Crossway Low Entry Line,TST,2,6,20220801,45,30,0,1,0,0
-43,2104,AR11LF,Iveco,Crossway Low Entry Line,TST,2,6,20220801,45,30,0,1,0,0
-43,2105,AR91LE,Iveco,Crossway Low Entry Line,TST,2,6,20220801,45,30,0,1,0,0
-43,2106,AR76LE,Iveco,Crossway Low Entry Line,TST,2,6,20220801,45,30,0,1,0,0
-43,2107,AR06LF,Iveco,Crossway Low Entry Line,TST,2,6,20220801,45,30,0,1,0,0
-43,2108,AR90LE,Iveco,Crossway Low Entry Line,TST,2,6,20220801,45,30,0,1,0,0
-43,2109,AR29LT,Iveco,Crossway Low Entry Line,TST,2,6,20220801,45,30,0,1,0,0
-43,2110,AR08LF,Iveco,Crossway Low Entry Line,TST,2,6,20220801,45,30,0,1,0,0
-43,2111,AR85LE,Iveco,Crossway Low Entry Line,TST,2,6,20220801,45,30,0,1,0,0
-43,2112,AR94LE,Iveco,Crossway Low Entry Line,TST,2,6,20220801,45,30,0,1,0,0
-43,2113,AR04LF,Iveco,Crossway Low Entry Line,TST,2,6,20220801,45,30,0,1,0,0
-43,2114,AR87LE,Iveco,Crossway Low Entry Line,TST,2,6,20220801,45,30,0,1,0,0
-43,2115,AR84LE,Iveco,Crossway Low Entry Line,TST,2,6,20220801,45,30,0,1,0,0
-43,2116,AR02LF,Iveco,Crossway Low Entry Line,TST,2,6,20220801,45,30,0,1,0,0
-43,2117,AR07LF,Iveco,Crossway Low Entry Line,TST,2,6,20220801,45,30,0,1,0,0
-43,221,48SI29,Mercedes-Benz,O 550 (INTEGRO),TST,2,5,20090401,53,32,0,0,0,0
 43,2600,AQ75VV,Iveco,Crossway Low Entry City GNC,TST,8,6,20220701,38,50,0,1,0,0
 43,2601,AR63BL,Iveco,Crossway Low Entry City GNC,TST,8,6,20220701,38,50,0,1,0,0
 43,2602,AR71GS,Iveco,Crossway Low Entry City GNC,TST,8,6,20220801,38,50,0,1,0,0
@@ -1378,7 +1376,9 @@ agency_id,vehicle_id,license_plate,make,model,owner,propulsion,emission_class,re
 43,672,68VP52,Mercedes-Benz,O 530 (CITARO),TST,2,5,20090601,33,54,0,1,0,0
 43,673,69VP81,Mercedes-Benz,O 530 (CITARO),TST,2,5,20090601,33,54,0,1,0,0
 43,674,67VP85,Mercedes-Benz,O 530 (CITARO),TST,2,5,20090601,33,54,0,1,0,0
+43,741,87SI81,MAN,A78 (LION CITY),TST,2,6,20090201,40,43,0,1,0,0
 43,749,46SJ53,MAN,A78 (LION CITY),TST,2,6,20090201,40,43,0,1,0,0
+43,758,21SN28,MAN,A78 (LION CITY),TST,2,6,20090201,40,43,0,1,0,0
 44,12055,BE-40-DS,Zhongtong,ZTN/ 11A2L,Alsa Todi,6,,20231002,32,55,1,1,1,0
 44,12056,BD-11-UM,Zhongtong,ZTN/ 11A2L,Alsa Todi,6,,20230921,32,55,1,1,1,0
 44,12057,BE-64-BL,Zhongtong,ZTN/ 11A2L,Alsa Todi,6,,20230928,32,55,1,1,1,0
