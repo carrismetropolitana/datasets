@@ -492,6 +492,13 @@ agency_id,vehicle_id,license_plate,make,model,owner,propulsion,emission_class,re
 42,86,17-PI-92,BMC,Probus 215,RL,2,5,20120516,23,28,0,1,0,0
 42,87,00-PN-65,BMC,Probus Hawk,RL,2,5,20110111,29,32,0,1,0,0
 42,123,71-JA-65,Iveco,65SG,RL,2,5,20100408,20,9,0,1,0,0
+42,1251,AU18FV,Mercedes-Benz,Intouro M,Barraqueiro Transportes SA,2,6,20221102,57,32,0,1,0,0
+42,1252,AU21FV,Mercedes-Benz,Intouro M,Barraqueiro Transportes SA,2,6,20221102,57,32,0,1,0,0
+42,1253,AU66DS,Mercedes-Benz,Intouro M,Barraqueiro Transportes SA,2,6,20221028,57,32,0,1,0,0
+42,1254,AU73DS,Mercedes-Benz,Intouro M,Barraqueiro Transportes SA,2,6,20221028,57,32,0,1,0,0
+42,1255,AU91GM,Mercedes-Benz,Intouro M,Barraqueiro Transportes SA,2,6,20221103,57,32,0,1,0,0
+42,1256,AU93GM,Mercedes-Benz,Intouro M,Barraqueiro Transportes SA,2,6,20221103,57,32,0,1,0,0
+42,1257,AU71JG,Mercedes-Benz,Itrabus,Barraqueiro Transportes SA,2,6,20221109,57,32,0,1,0,0
 42,127,44-RM-74,BMC,Probus Hawk,RL,2,5,20110117,30,32,0,1,0,0
 42,200,02-QG-47,Temsa,MD9 LE,RL,2,6,20150805,31,30,0,1,0,0
 42,201,02-QG-48,Temsa,MD9 LE,RL,2,6,20150805,31,30,0,1,0,0
