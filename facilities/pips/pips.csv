@@ -1,4 +1,4 @@
-pip_id,name,lat,lon,area,margem,locality,municipality_id,municipality_name,district_id,district_name,region_id,region_name,stops,Implementação,Tipologia,verification_status
+id,name,lat,lon,area,margem,locality,municipality_id,municipality_name,district_id,district_name,region_id,region_name,stops,Implementação,Tipologia,verification_status
 001,amL,38.717203,-9.120373,1,norte,Santa Apolónia,1106,Lisboa,11,Lisboa,PT170,AML,,Ok - PIP TML,Exterior,Instalado e Verificado
 101,Samouco,38.721047,-9.002773,4,sul,Samouco,1502,Alcochete,15,Setúbal,PT170,AML,000001,1.ª Fase,Exterior,Relocalizar (Já Instalado)
 102,R. do Salineiro Ft. 81,38.749069,-8.965875,4,sul,Alcochete,1502,Alcochete,15,Setúbal,PT170,AML,010082,1.ª Fase,Exterior,Instalado e Verificado
@@ -313,4 +313,5 @@ pip_id,name,lat,lon,area,margem,locality,municipality_id,municipality_name,distr
 524,Interface de Transportes de Setúbal (Espaço Navegante),38.530371,-8.885309,4,sul,Setúbal,1512,Setúbal,15,Setúbal,PT170,AML,162001|162002|162003|162004|162005|162006|162007|162008|162011|160067|160068,1.ª Fase,Interior,Instalado
 525,Interface de Transportes de Setúbal (Acesso CP),38.530527,-8.885308,4,sul,Setúbal,1512,Setúbal,15,Setúbal,PT170,AML,162001|162002|162003|162004|162005|162006|162007|162008|162011|160067|160068,1.ª Fase,Interior,Instalado
 526,Espaço Navegante Montijo,38.705758,-8.976266,4,sul,Montijo,,Montijo,15,Setúbal,PT170,AML,100013,1.ª Fase,Interior,Instalado
+
 557,TML (Receção),38.717320,-9.120568,1,norte,Lisboa,1106,Lisboa,11,Lisboa,PT170,AML,162005,1.ª Fase,Interior,Instalado
