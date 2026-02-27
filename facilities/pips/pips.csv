@@ -1,244 +1,316 @@
-id,name,lat,lon,area,locality,municipality_id,municipality_name,district_id,district_name,region_id,region_name,stops,status,verification_status
-001,amL,38.717203,-9.120373,1,Santa Apolónia,1106,Lisboa,11,Lisboa,PT170,AML,,Ok - PIP TML,Instalado e Verificado
-101,Praça José Coelho 2,38.720600,-9.004522,4,Samouco,1502,Alcochete,15,Setúbal,PT170,AML,010180,1.ª Fase - Exteriores,Relocalizar (Já Instalado)
-102,R. do Salineiro Ft. 81,38.749069,-8.965875,4,Alcochete,1502,Alcochete,15,Setúbal,PT170,AML,010082,1.ª Fase - Exteriores,Instalado e Verificado
-103,Av. Euro 2004 (Ft. Centro Comercial),38.751366,-8.942771,4,Alcochete,1502,Alcochete,15,Setúbal,PT170,AML,010136,1.ª Fase - Exteriores,Instalado e Verificado
-104,Av. Euro 2004 (Centro Comercial),38.751127,-8.942987,4,Alcochete,1502,Alcochete,15,Setúbal,PT170,AML,010135,1.ª Fase - Exteriores,Instalado e Verificado
-105,Av. S. Francisco de Assis Ft. 114,38.731672,-8.972351,4,São Francisco,1502,Alcochete,15,Setúbal,PT170,AML,010066,1.ª Fase - Exteriores,Instalado e Verificado
-108,Universidade Nova de Lisboa (FCT),38.660486,-9.202622,3,Monte da Caparica,1503,Almada,15,Setúbal,PT170,AML,020317,1.ª Fase - Exteriores,Instalado e Verificado
-109,Centro Comercial de Almada P1,38.659225,-9.173307,3,Almada,1503,Almada,15,Setúbal,PT170,AML,020088,1.ª Fase - Exteriores,Instalado e Verificado
-110,Av. 23 de Julho (Farmácia),38.65626,-9.154412,3,Laranjeiro,1503,Almada,15,Setúbal,PT170,AML,020682,1.ª Fase - Exteriores,Instalado por Verificar
-111,Av. 23 de Julho (Ft. Farmácia),38.656355,-9.154274,3,Laranjeiro,1503,Almada,15,Setúbal,PT170,AML,020681,1.ª Fase - Exteriores,Instalado e Verificado
-112,Av. Dr. Aresta Branco (X) R. Ercília Costa,38.643560,-9.232624,3,Costa da Caparica,1503,Almada,15,Setúbal,PT170,AML,020639,1.ª Fase - Exteriores,Instalado e Verificado
-113,R. de Pedro Costa (Ft. Escola),38.605327,-9.186377,3,Charneca da Caparica,1503,Almada,15,Setúbal,PT170,AML,020422,1.ª Fase - Exteriores,Instalado e Verificado
-114,Escola Básica Carlos Gargaté,38.604988,-9.186137,3,Charneca da Caparica,1503,Almada,15,Setúbal,PT170,AML,020421,1.ª Fase - Exteriores,Instalado e Verificado
-116,Av. Dom Nuno Álvares Pereira,38.679217,-9.158558,3,Almada,1503,Almada,15,Setúbal,PT170,AML,020047,1.ª Fase - Exteriores,Instalado e Verificado
-117,Portagem (Cristo Rei),38.673779,-9.173990,3,Almada,1503,Almada,15,Setúbal,PT170,AML,020001,1.ª Fase - Exteriores,Instalado e Verificado
-119,Avenida Torrão Silva (Estação),38.666404,-9.180532,3,Pragal,1503,Almada,15,Setúbal,PT170,AML,020275|027999,1.ª Fase - Exteriores,Instalado e Verificado
-118,Bº F Fomento (R 3 Vales N65),38.667839,-9.188127,3,Bairro Fundo Fomento,1503,Almada,15,Setúbal,PT170,AML,020256,1.ª Fase - Exteriores,Instalado e Verificado
-120,Bº F Fomento (R 3 Vales N65),38.667597,-9.188468,3,Bairro Fundo Fomento,1503,Almada,15,Setúbal,PT170,AML,020255,1.ª Fase - Exteriores,Instalado e Verificado
-121,Avenida D. Nuno Álvares Pereira - Prç S. João Baptista,38.678985,-9.158582,3,Almada,1503,Almada,15,Setúbal,PT170,AML,020399,1.ª Fase - Exteriores,Instalado e Verificado
-122,Av Torrado Silva (HOSPITAL G ORTA),38.671588,-9.175710,3,Almada,1503,Almada,15,Setúbal,PT170,AML,020277,1.ª Fase - Exteriores,Relocalizar (Já Instalado)
-123,Cacilhas (Terminal),38.687893,-9.147125,3,Cacilhas,1503,Almada,15,Setúbal,PT170,AML,020113|020037|020449|021007|020429|020403|020959|020955|020973|020489,1.ª Fase - Exteriores,Instalado e Verificado
-124,Trafaria (Terminal),38.673904,-9.231743,3,Trafaria,1503,Almada,15,Setúbal,PT170,AML,020385|024855,1.ª Fase - Exteriores,Instalado e Verificado
-125,Avenida Torrão Silva (Estação),38.666571,-9.180657,3,Pragal,1503,Almada,15,Setúbal,PT170,AML,020276|027998,1.ª Fase - Exteriores,Instalado e Verificado
-126,Avenida 23 de Julho - Supermercado,38.668847,-9.159342,3,Almada,1503,Almada,15,Setúbal,PT170,AML,020069,1.ª Fase - Exteriores,Instalado e Verificado
-127,Cova da Piedade - Posto Combustível,38.667602,-9.159434,3,Almada,1503,Almada,15,Setúbal,PT170,AML,020077,1.ª Fase - Exteriores,Instalado e Verificado
-128,Rua Vale de Figueira - Posto Combustível,38.635443,-9.176690,3,Sobreda,1503,Almada,15,Setúbal,PT170,AML,020193,1.ª Fase - Exteriores,Instalado e Verificado
-129,Rua Vale de Figueira - Ft Hipódromo,38.636097,-9.176455,3,Sobreda,1503,Almada,15,Setúbal,PT170,AML,020147,1.ª Fase - Exteriores,Instalado e Verificado
-130,R António Andrade 1125,38.617628,-9.192789,3,Charneca da Caparica,1503,Almada,15,Setúbal,PT170,AML,020337,1.ª Fase - Exteriores,Instalado e Verificado
-131,Centro Sul,38.668033,-9.164672,3,Almada,1503,Almada,15,Setúbal,PT170,AML,020071|021019,1.ª Fase - Exteriores,Instalado e Verificado
-132,R António Andrade Ft 1125,38.617394,-9.192744,3,Charneca da Caparica,1503,Almada,15,Setúbal,PT170,AML,020338,1.ª Fase - Exteriores,Instalado e Verificado
-135,Rua Elias Garcia 103,38.757936,-9.226487,1,Amadora,1115,Amadora,11,Lisboa,PT170,AML,030605,1.ª Fase - Exteriores,Instalado e Verificado
-137,Estr. do Zambujal Ft. 42,38.733435,-9.216185,1,Amadora,1115,Amadora,11,Lisboa,PT170,AML,030563,1.ª Fase - Exteriores,Instalado e Verificado
-138,Estr. do Zambujal 40,38.733170,-9.216013,1,Amadora,1115,Amadora,11,Lisboa,PT170,AML,030555,1.ª Fase - Exteriores,Instalado e Verificado
-139,Pç. Teófilo Braga,38.760138,-9.204210,1,Amadora,1115,Amadora,11,Lisboa,PT170,AML,030409|030739,1.ª Fase - Exteriores,Instalado e Verificado
-140,Pç. Fernando Calhau (Ft. Centro Comercial),38.777113,-9.217589,1,Brandoa,1115,Amadora,11,Lisboa,PT170,AML,030850|030253|030871,1.ª Fase - Exteriores,Instalado e Verificado
-141,Pç. Fernando Calhau (Centro Comercial),38.776999,-9.218089,1,Brandoa,1115,Amadora,11,Lisboa,PT170,AML,030849|030273|030870,1.ª Fase - Exteriores,Instalado e Verificado
-142,Escola Secundária Azevedo Neves,38.744962,-9.226662,1,Amadora,1115,Amadora,11,Lisboa,PT170,AML,030113,1.ª Fase - Exteriores,Instalado e Verificado
-143,R. Elias Garcia (Ft. Farmácia),38.753574,-9.210447,1,Amadora,1115,Amadora,11,Lisboa,PT170,AML,030300,1.ª Fase - Exteriores,Instalado e Verificado
-144,Hospital Amadora Sintra,38.745369,-9.245924,1,Amadora,1115,Amadora,11,Lisboa,PT170,AML,030847|030846|030311,1.ª Fase - Exteriores,Instalado e Verificado
-145,Av. da Aviação Portuguesa (Ft. Escola),38.754312,-9.233296,1,Amadora,1115,Amadora,11,Lisboa,PT170,AML,030541,1.ª Fase - Exteriores,Instalado e Verificado
-146,Rua Elias Garcia (Escola),38.760548,-9.247942,1,Amadora,1115,Amadora,11,Lisboa,PT170,AML,030328,1.ª Fase - Exteriores,Instalado e Verificado
-147,Rua Elias Garcia (Ft. Escola),38.760733,-9.247919,1,Amadora,1115,Amadora,11,Lisboa,PT170,AML,030327,1.ª Fase - Exteriores,Instalado e Verificado
-148,Amadora (Estação) Sul,38.758090,-9.234609,1,Amadora,1115,Amadora,11,Lisboa,PT170,AML,030845|030317|030869|030821,1.ª Fase - Exteriores,Instalado e Verificado
-149,Estr. Brandoa (Pq.),38.765366,-9.213197,1,Brandoa,1115,Amadora,11,Lisboa,PT170,AML,030387|030737,1.ª Fase - Exteriores,Instalado e Verificado
-150,R. Elias Garcia 362,38.759300,-9.238000,1,Amadora,1115,Amadora,11,Lisboa,PT170,AML,030475,1.ª Fase - Exteriores,Instalado e Verificado
-151,R. Elias Garcia (Pq.),38.758944,-9.237125,1,Amadora,1115,Amadora,11,Lisboa,PT170,AML,030319|030880,1.ª Fase - Exteriores,Instalado e Verificado
-152,R. Oliveira Martins 7,38.767249,-9.232002,1,Amadora,1115,Amadora,11,Lisboa,PT170,AML,030135,1.ª Fase - Exteriores,Instalado e Verificado
-153,Av. Cardoso Lopes 27,38.760690,-9.237166,1,Amadora,1115,Amadora,11,Lisboa,PT170,AML,030843|030687|030842|030119,1.ª Fase - Exteriores,Instalado e Verificado
-154,Relobeira (Estação),38.750373,-9.221809,1,Amadora,1115,Amadora,11,Lisboa,PT170,AML,030861,1.ª Fase - Exteriores,Instalado e Verificado
-156,Avenida Bocage - Supermercado,38.656252,-9.060198,4,Barreiro,1504,Barreiro,15,Setúbal,PT170,AML,040006,1.ª Fase - Exteriores,Instalado e Verificado
-157,Avenida Bocage - Ft Supermercado,38.656448,-9.060372,4,Barreiro,1504,Barreiro,15,Setúbal,PT170,AML,040005,1.ª Fase - Exteriores,Instalado e Verificado
-158,Coina (Zona Comercial),38.581492,-9.044231,4,Coina,1504,Barreiro,15,Setúbal,PT170,AML,040118,1.ª Fase - Exteriores,Instalado e Verificado
-159,Coina (Ft. Zona Comercial),38.581298,-9.044128,4,Coina,1504,Barreiro,15,Setúbal,PT170,AML,040119,1.ª Fase - Exteriores,Instalado e Verificado
-160,Nova SBE Carcavelos,38.679626,-9.327743,1,Carcavelos,1105,Cascais,11,Lisboa,PT170,AML,050421,1.ª Fase - Exteriores,Instalado por Verificar
-163,Hospital de Cascais,38.728754,-9.418492,1,,1105,Cascais,11,Lisboa,PT170,AML,050233,1.ª Fase - Exteriores,Instalado por Verificar
-164,R Conde Barão (Hospital),38.732112,-9.400847,1,,1105,Cascais,11,Lisboa,PT170,AML,050192,1.ª Fase - Exteriores,Instalado por Verificar
-165,Centro de Reabilitação de Alcoitão,38.732043,-9.400385,1,,1105,Cascais,11,Lisboa,PT170,AML,050191,1.ª Fase - Exteriores,Instalado por Verificar
-166,Av República 1400 (Estação Parede),38.690385,-9.356209,1,,1105,Cascais,11,Lisboa,PT170,AML,050047,1.ª Fase - Exteriores,Instalado por Verificar
-167,Av D F Sá Carneiro 858 (Escola),38.699490,-9.336267,1,,1105,Cascais,11,Lisboa,PT170,AML,050055,1.ª Fase - Exteriores,Instalado por Verificar
-168,Av D Franc Sá Carneiro 729a - Esc. Sec. Carcavelos,38.699321,-9.335173,1,,1105,Cascais,11,Lisboa,PT170,AML,050021,1.ª Fase - Exteriores,Instalado por Verificar
-170,Parede Terminal Rodoviário,38.691727,-9.359243,1,,1105,Cascais,11,Lisboa,PT170,AML,050046,1.ª Fase - Exteriores,Instalado por Verificar
-171,Estoril (Estação Cp),38.703410,-9.398365,1,,1105,Cascais,11,Lisboa,PT170,AML,050359|050018,1.ª Fase - Exteriores,Instalado por Verificar
-172,Av Condes Barcelona (Esc Hotelaria),38.714489,-9.390453,1,,1105,Cascais,11,Lisboa,PT170,AML,050369,1.ª Fase - Exteriores,Instalado por Verificar
-173,Alcoitão (Rotunda),38.737683,-9.395431,1,,1105,Cascais,11,Lisboa,PT170,AML,050203,1.ª Fase - Exteriores,Instalado por Verificar
-174,Alcoitão (Rotunda),38.737707,-9.394918,1,,1105,Cascais,11,Lisboa,PT170,AML,050197,1.ª Fase - Exteriores,Instalado por Verificar
-205,Quinta Casal da Pipa (Centro Comercial),38.819937,-9.176507,2,Loures,1107,Loures,11,Lisboa,PT170,AML,070470,1.ª Fase - Exteriores,Instalado e Verificado
-206,Hospital Beatriz Ângelo,38.824004,-9.176927,2,Loures,1107,Loures,11,Lisboa,PT170,AML,070373,1.ª Fase - Exteriores,Instalado por Verificar
-207,Ft. Escola Básica Frielas,38.825643,-9.143003,2,Frielas,1107,Loures,11,Lisboa,PT170,AML,070495,1.ª Fase - Exteriores,Instalado e Verificado
-208,Largo Marcos Romão Reis Junior,38.828903,-9.166948,2,Loures,1107,Loures,11,Lisboa,PT170,AML,070032,1.ª Fase - Exteriores,Instalado e Verificado
-209,Rua da República (Campo de Futebol),38.828624,-9.165098,2,Loures,1107,Loures,11,Lisboa,PT170,AML,070250,1.ª Fase - Exteriores,Instalado e Verificado
-210,R. da República (Escola),38.828011,-9.164238,2,Loures,1107,Loures,11,Lisboa,PT170,AML,070035,1.ª Fase - Exteriores,Instalado e Verificado
-211,Av. Moscavide (Igreja),38.779477,-9.102591,2,Moscavide,1107,Loures,11,Lisboa,PT170,AML,070585,1.ª Fase - Exteriores,Instalado e Verificado
-213,N115 (X) R. Marechal Carmona,38.842509,-9.162942,2,Loures,1107,Loures,11,Lisboa,PT170,AML,070538,1.ª Fase - Exteriores,Instalado e Verificado
-214,Av. das Descobertas (Supermercado),38.841744,-9.161322,2,Loures,1107,Loures,11,Lisboa,PT170,AML,070443,1.ª Fase - Exteriores,Instalado e Verificado
-215,Avenida das Descobertas Frente 73,38.837173,-9.157262,2,Infantado,1107,Loures,11,Lisboa,PT170,AML,070383,1.ª Fase - Exteriores,Instalado e Verificado
-217,R. da República (Jardim),38.831853,-9.171529,2,Loures,1107,Loures,11,Lisboa,PT170,AML,070027,1.ª Fase - Exteriores,Instalado e Verificado
-218,Rua Professor Egas Moniz (Centro de Saúde),38.825439,-9.163079,2,Loures,1107,Loures,11,Lisboa,PT170,AML,070043,1.ª Fase - Exteriores,Instalado e Verificado
-219,N8 (X) Av. Salgado Zenha,38.806839,-9.157564,2,Santo António dos Cavaleiros,1107,Loures,11,Lisboa,PT170,AML,071134,1.ª Fase - Exteriores,Instalado e Verificado
-220,Av. do Ralis (Supermercado),38.785105,-9.117031,2,Portela,1107,Loures,11,Lisboa,PT170,AML,071412,1.ª Fase - Exteriores,Instalado e Verificado
-221,R. Mouzinho de Albuquerque (X) R. dos Actores,38.785592,-9.111522,2,Portela,1107,Loures,11,Lisboa,PT170,AML,070595,1.ª Fase - Exteriores,Instalado e Verificado
-222,Largo Espírito Santo,38.900476,-9.118726,2,Bucelas,1107,Loures,11,Lisboa,PT170,AML,071341,1.ª Fase - Exteriores,Instalado por Verificar
-223,Rua Heróis Ultramar 3A,38.889378,-9.206637,2,Lousa,1107,Loures,11,Lisboa,PT170,AML,071092,1.ª Fase - Exteriores,Instalado e Verificado
-224,R. dos Combatentes do Ultramar 27,38.838541,-9.191826,2,Loures,1107,Loures,11,Lisboa,PT170,AML,070020,1.ª Fase - Exteriores,Instalado por Verificar
-226,Largo 25 de Abril,38.903381,-9.190229,2,Cabeço de Montachique,1107,Loures,11,Lisboa,PT170,AML,070212,1.ª Fase - Exteriores,Instalado e Verificado
-227,Rua Santo Antão 9,38.854306,-9.144708,2,Santo António do Tojal,1107,Loures,11,Lisboa,PT170,AML,070872,1.ª Fase - Exteriores,Instalado por Verificar
-228,R. Cmdt. Carvalho Araujo Ft. 124,38.842435,-9.178154,2,Loures,1107,Loures,11,Lisboa,PT170,AML,070238,1.ª Fase - Exteriores,Instalado e Verificado
-229,R. Vergílio Ferreira (Escola),38.810281,-9.175637,2,Santo António dos Cavaleiros,1107,Loures,11,Lisboa,PT170,AML,070328,1.ª Fase - Exteriores,Instalado e Verificado
-230,Av. Mq. de Marialva (Quiosque),38.813093,-9.157045,2,Santo António dos Cavaleiros,1107,Loures,11,Lisboa,PT170,AML,070313,1.ª Fase - Exteriores,Instalado e Verificado
-231,R. 1º de Maio Ft. 74,38.858515,-9.130498,2,São Julião do Tojal,1107,Loures,11,Lisboa,PT170,AML,070844,1.ª Fase - Exteriores,Instalado e Verificado
-232,R. D. Afonso Henriques (Ft. Centro Comercial),38.822475,-9.098282,2,São João da Talha,1107,Loures,11,Lisboa,PT170,AML,070740,1.ª Fase - Exteriores,Instalado e Verificado
-233,Santa Iria (Estação),38.841272,-9.080331,2,Santa Iria da Azoia,1107,Loures,11,Lisboa,PT170,AML,070707,1.ª Fase - Exteriores,Instalado e Verificado
-234,R. Mártires do Tarrafal 43,38.808784,-9.102214,2,Bobadela,1107,Loures,11,Lisboa,PT170,AML,070793,1.ª Fase - Exteriores,Instalado e Verificado
-235,R. Guilherme Gomes Fernandes Ft.37,38.801640,-9.128815,2,Camarate,1107,Loures,11,Lisboa,PT170,AML,070625,1.ª Fase - Exteriores,Instalado e Verificado
-236,Av. das Forças Armadas (Ft. Pq. Desportivo),38.814902,-9.118423,2,Unhos,1107,Loures,11,Lisboa,PT170,AML,071329,1.ª Fase - Exteriores,Instalado e Verificado
-237,EN250 (Ft. Quiosque),38.813631,-9.132031,2,Apelação,1107,Loures,11,Lisboa,PT170,AML,070503,1.ª Fase - Exteriores,Instalado e Verificado
-238,Av. Severiano Falcão (X) R. José Fonseca Carvalho,38.789378,-9.124873,2,Prior Velho,1107,Loures,11,Lisboa,PT170,AML,071431,1.ª Fase - Exteriores,Instalado e Verificado
-239,Pq. Intermodal Alto da Vela,38.932872,-9.326702,2,Mafra,1109,Mafra,11,Lisboa,PT170,AML,080348|080347,1.ª Fase - Exteriores,Instalado e Verificado
-240,Lgo. de Snato António,38.959000,-9.351339,2,Mafra,1109,Mafra,11,Lisboa,PT170,AML,080113,1.ª Fase - Exteriores,Instalado e Verificado
-241,R. 5 de Outubro,38.958914,-9.352969,2,Mafra,1109,Mafra,11,Lisboa,PT170,AML,080114,1.ª Fase - Exteriores,Instalado e Verificado
-242,Pq. Intermodal de Mafra,38.940426,-9.335124,2,Mafra,1109,Mafra,11,Lisboa,PT170,AML,080208,1.ª Fase - Exteriores,Instalado e Verificado
-243,Av. de Portugal (X) R. Adriano Paulo Costa Capote,38.945750,-9.354808,2,Mafra,1109,Mafra,11,Lisboa,PT170,AML,080861,1.ª Fase - Exteriores,Instalado e Verificado
-244,Vendo do Pinheiro Eco Parque,38.927450,-9.237143,2,Vendo do Pinheiro,1109,Mafra,11,Lisboa,PT170,AML,082003,1.ª Fase - Exteriores,Instalado e Verificado
-245,Vendo do Pinheiro Eco Parque,38.927523,-9.236676,2,Vendo do Pinheiro,1109,Mafra,11,Lisboa,PT170,AML,082004,1.ª Fase - Exteriores,Instalado e Verificado
-246,R. 25 de Abril Ft. 18,38.930560,-9.254975,2,Malveira,1109,Mafra,11,Lisboa,PT170,AML,080283,1.ª Fase - Exteriores,Instalado e Verificado
-247,R. 25 de Abril 28,38.929869,-9.256424,2,Malveira,1109,Mafra,11,Lisboa,PT170,AML,080282,1.ª Fase - Exteriores,Instalado e Verificado
-248,R 25 de Abril 36 (Igreja Nova),38.917585,-9.322223,2,Igreja Nova,1109,Mafra,11,Lisboa,PT170,AML,080448,1.ª Fase - Exteriores,Instalado por Verificar
-249,Pq. Intermodal da Ericeira,38.967230,-9.405684,2,Ericeira,1109,Mafra,11,Lisboa,PT170,AML,080007|082006|082007|082008|082009,1.ª Fase - Exteriores,Instalado e Verificado
-250,R 25 de Abril 13 (Igreja Nova),38.914452,-9.326051,2,Igreja Nova,1109,Mafra,11,Lisboa,PT170,AML,080447,1.ª Fase - Exteriores,Instalado por Verificar
-251,R. Movimento das Forças Armadas 83,38.922621,-9.296402,2,São Miguel de Alcainça,1109,Mafra,11,Lisboa,PT170,AML,080340,1.ª Fase - Exteriores,Instalado e Verificado
-252,R. Movimento das Forças Armadas Ft. 83,38.922906,-9.296322,2,São Miguel de Alcainça,1109,Mafra,11,Lisboa,PT170,AML,080339,1.ª Fase - Exteriores,Instalado e Verificado
-254,Av Portugal 17,38.930741,-9.202515,2,Póvoa da Galega,1109,Mafra,11,Lisboa,PT170,AML,081031,1.ª Fase - Exteriores,Instalado por Verificar
-255,Av Portugal 17,38.929956,-9.202953,2,Póvoa da Galega,1109,Mafra,11,Lisboa,PT170,AML,081004,1.ª Fase - Exteriores,Instalado por Verificar
-256,R. das Labruscas,39.029643,-9.367741,2,Encarnação,1109,Mafra,11,Lisboa,PT170,AML,080525,1.ª Fase - Exteriores,Instalado e Verificado
-257,Avenida 1 de Maio,38.651312,-9.038897,4,Vale da Amoreira,1506,Moita,15,Setúbal,PT170,AML,090262,1.ª Fase - Exteriores,Instalado e Verificado
-258,R ECA QUEIROZ34 - URB S SEBASTIAO,38.656970,-8.991514,4,Moita,1506,Moita,15,Setúbal,PT170,AML,090060,1.ª Fase - Exteriores,Instalado e Verificado
-259,Avenida Marginal (Câmara Municipal),38.652861,-8.994039,4,Moita,1506,Moita,15,Setúbal,PT170,AML,090058,1.ª Fase - Exteriores,Instalado e Verificado
-263,EN11-Posto Combustivel,38.652915,-9.021126,4,Alhos Vedros,1506,Moita,15,Setúbal,PT170,AML,090011,1.ª Fase - Exteriores,Instalado e Verificado
-264,Rua Joly Braga Santos (Parque Qta. da Fonte da Prata),38.655270,-9.009300,4,Fonte da Prata,1506,Moita,15,Setúbal,PT170,AML,090007,1.ª Fase - Exteriores,Instalado e Verificado
-267,Av Infante D. Henriques - Escola Secundária,38.708878,-8.983556,4,Montijo,1507,Montijo,15,Setúbal,PT170,AML,100087,1.ª Fase - Exteriores,Instalado e Verificado
-268,Via Circular Externa - Zona Comercial,38.696854,-8.945297,4,Afonsoeiro,1507,Montijo,15,Setúbal,PT170,AML,100153,1.ª Fase - Exteriores,Instalado e Verificado
-269,Pr Gomes Freire de Andrade - P5,38.705777,-8.976562,4,Montijo,1507,Montijo,15,Setúbal,PT170,AML,100027,1.ª Fase - Exteriores,Instalado e Verificado
-270,Av. Pedro Nunes (Ft. Área Comercial),38.702624,-8.948040,4,Afonsoeiro,1507,Montijo,15,Setúbal,PT170,AML,100041,1.ª Fase - Exteriores,Relocalizar (Já Instalado)
-271,Avenida 5 de Outubro 5,38.678242,-8.968271,4,Sarilhos Grandes,1507,Montijo,15,Setúbal,PT170,AML,100190,1.ª Fase - Exteriores,Instalado e Verificado
-272,EN4 - Fte 489,38.706639,-8.924861,4,Atalaia,1507,Montijo,15,Setúbal,PT170,AML,100290,1.ª Fase - Exteriores,Instalado e Verificado
-273,EN5 - Jardim,38.700075,-8.957360,4,Bela Vista,1507,Montijo,15,Setúbal,PT170,AML,100006,1.ª Fase - Exteriores,Instalado e Verificado
-274,EN5 - Fte Jardim,38.699429,-8.957063,4,Bela Vista,1507,Montijo,15,Setúbal,PT170,AML,100005,1.ª Fase - Exteriores,Instalado e Verificado
-275,EN251 - Largo Manuel Mauricio,38.765802,-8.626916,4,Canha,1507,Montijo,15,Setúbal,PT170,AML,100203,1.ª Fase - Exteriores,Instalado e Verificado
-276,Escola Secundária Poeta Joaquim Serra,38.703508,-8.952942,4,Afonsoeiro,1507,Montijo,15,Setúbal,PT170,AML,100038,1.ª Fase - Exteriores,Instalado e Verificado
-277,Pegões (X) EN10,38.681967,-8.612434,4,Pegões,1507,Montijo,15,Setúbal,PT170,AML,100235,1.ª Fase - Exteriores,Instalado e Verificado
-278,Av. Dr. Augusti Pais (Centro Comercial),38.781468,-9.193254,2,Odivelas,1116,Odivelas,11,Lisboa,PT170,AML,110135,1.ª Fase - Exteriores,Instalado e Verificado
-279,Av. D. Dinis 8,38.789741,-9.176841,2,Odivelas,1116,Odivelas,11,Lisboa,PT170,AML,110411,1.ª Fase - Exteriores,Instalado e Verificado
-280,Av. Prof. Dr. Augusto Abreu Lopes 52,38.794513,-9.179555,2,Odivelas,1116,Odivelas,11,Lisboa,PT170,AML,110127,1.ª Fase - Exteriores,Instalado e Verificado
-281,R. Guilhermina Ascenso (X) R. Dr. João Santos,38.797214,-9.192369,2,Odivelas,1116,Odivelas,11,Lisboa,PT170,AML,110070,1.ª Fase - Exteriores,Instalado e Verificado
-282,Av. da Liberdade (Ft. Escola),38.802898,-9.183703,2,Ramada,1116,Odivelas,11,Lisboa,PT170,AML,110324,1.ª Fase - Exteriores,Instalado e Verificado
-283,R. Almirante Gago Coutinho (X) Av. 25 de Abril,38.797772,-9.161836,2,Póvoa de Santo Adrião,1116,Odivelas,11,Lisboa,PT170,AML,110621,1.ª Fase - Exteriores,Instalado e Verificado
-284,Lg. Major Rosa Bastos,38.800000,-9.159829,2,Póvoa de Santo Adrião,1116,Odivelas,11,Lisboa,PT170,AML,110619,1.ª Fase - Exteriores,Instalado e Verificado
-285,R. Regimento de Engenharia Um (Ft. Jd. de Infância),38.765067,-9.198128,2,Pontinha,1116,Odivelas,11,Lisboa,PT170,AML,110045,1.ª Fase - Exteriores,Instalado e Verificado
-286,R. Regimento de Engenharia Um (X) R. Santo André,38.765260,-9.198243,2,Pontinha,1116,Odivelas,11,Lisboa,PT170,AML,110697,1.ª Fase - Exteriores,Instalado e Verificado
-287,Rt. Senhor Roubado,38.787008,-9.170508,2,Olival Basto,1116,Odivelas,11,Lisboa,PT170,AML,110113,1.ª Fase - Exteriores,Instalado e Verificado
-290,Odivelas (Metro) P5,38.792672,-9.172491,2,Odivelas,1116,Odivelas,11,Lisboa,PT170,AML,111025,1.ª Fase - Exteriores,Instalado e Verificado
-291,Odivelas (Metro) P10,38.792470,-9.173751,2,Odivelas,1116,Odivelas,11,Lisboa,PT170,AML,110410,1.ª Fase - Exteriores,Instalado e Verificado
-293,R. Alfredo da Costa (Ft. Pq. Infantil),38.788756,-9.191120,2,Odivelas,1116,Odivelas,11,Lisboa,PT170,AML,110337,1.ª Fase - Exteriores,Instalado e Verificado
-294,R. Santo Estevão (X) R. Qta. da Silveira,38.792964,-9.217050,2,Famões,1116,Odivelas,11,Lisboa,PT170,AML,110766,1.ª Fase - Exteriores,Instalado e Verificado
-295,Rua Amália Rodrigues (X) R. Hermínia Silva,38.812716,-9.188065,2,Ramada,1116,Odivelas,11,Lisboa,PT170,AML,110313,1.ª Fase - Exteriores,Instalado e Verificado
-298,Av República 15,38.695079,-9.324631,1,,1110,Oeiras,11,Lisboa,PT170,AML,121197,1.ª Fase - Exteriores,Instalado por Verificar
-299,Av República 15,38.694913,-9.324909,1,,1110,Oeiras,11,Lisboa,PT170,AML,121198,1.ª Fase - Exteriores,Instalado por Verificar
-323,Rua Manuel Caetano,38.567300,-8.940715,4,Quinta do Anjo,1508,Palmela,15,Setúbal,PT170,AML,130081,1.ª Fase - Exteriores,Instalado e Verificado
-324,Palmela (Terminal Rodoviário),38.570311,-8.905096,4,Palmela,1508,Palmela,15,Setúbal,PT170,AML,130801|130802|130803|130804|130805|130806|130807,1.ª Fase - Exteriores,Instalado e Verificado
-325,EN 379 - X - EN 252,38.576385,-8.889908,4,Volta da Pedra,1508,Palmela,15,Setúbal,PT170,AML,130017,1.ª Fase - Exteriores,Instalado e Verificado
-326,EN379 X EN252,38.576509,-8.889774,4,Volta da Pedra,1508,Palmela,15,Setúbal,PT170,AML,130018,1.ª Fase - Exteriores,Instalado e Verificado
-330,Rua 25 Abril - Ringue,38.599233,-9.004544,4,Bairro Alentejano,1508,Palmela,15,Setúbal,PT170,AML,130684,1.ª Fase - Exteriores,Instalado e Verificado
-331,Av. Visc. do Tojal 56,38.575002,-8.903191,4,Palmela,1508,Palmela,15,Setúbal,PT170,AML,130026,1.ª Fase - Exteriores,Instalado por Verificar
-332,Escola Básica dos 2º e 3º ciclos,38.628733,-8.912599,4,Pinhal Novo,1508,Palmela,15,Setúbal,PT170,AML,130378,1.ª Fase - Exteriores,Instalado e Verificado
-333,Avenida Liberdade (Correios),38.584074,-8.691165,4,Águas de Moura,1508,Palmela,15,Setúbal,PT170,AML,130708,1.ª Fase - Exteriores,Instalado e Verificado
-334,Praça José Maria dos Santos,38.631421,-8.915842,4,Pinhal Novo,1508,Palmela,15,Setúbal,PT170,AML,130228|139804,1.ª Fase - Exteriores,Instalado e Verificado
-335,EN5-Passagem de Nível,38.634229,-8.742044,4,Poceirão,1508,Palmela,15,Setúbal,PT170,AML,130159,1.ª Fase - Exteriores,Instalado e Verificado
-336,Avenida Visconde Tojal 278,38.556439,-8.967351,4,Cabanas,1508,Palmela,15,Setúbal,PT170,AML,130122,1.ª Fase - Exteriores,Instalado e Verificado
-339,Avenida Vale de Milhaços 30,38.638960,-9.153290,3,Corroios,1510,Seixal,15,Setúbal,PT170,AML,140350,1.ª Fase - Exteriores,Instalado e Verificado
-340,Rua Gil Vicente (X) Rua Pedro Nunes,38.617786,-9.102043,3,Arrentela,1510,Seixal,15,Setúbal,PT170,AML,140048,1.ª Fase - Exteriores,Instalado e Verificado
-341,Seixal (Terminal Fluvial) - P1 - P2,38.647237,-9.096285,3,Seixal,1510,Seixal,15,Setúbal,PT170,AML,140073|149994,1.ª Fase - Exteriores,Instalado e Verificado
-342,Seixal (Terminal Fluvial) - P3 - P4,38.646986,-9.095834,3,Seixal,1510,Seixal,15,Setúbal,PT170,AML,140074|140733,1.ª Fase - Exteriores,Instalado e Verificado
-345,Avenida 25 de Abril 79,38.641336,-9.150793,3,Corroios,1510,Seixal,15,Setúbal,PT170,AML,140707,1.ª Fase - Exteriores,Instalado e Verificado
-346,Rua das Flores (Centro de Saúde),38.645381,-9.147122,3,Corroios,1510,Seixal,15,Setúbal,PT170,AML,140724,1.ª Fase - Exteriores,Instalado e Verificado
-347,Rua Brejos da Piedade (Zona Comercial),38.612239,-9.105489,3,Arrentela,1510,Seixal,15,Setúbal,PT170,AML,140586,1.ª Fase - Exteriores,Instalado e Verificado
-348,Avenida 25 de Abril (Rotunda),38.640656,-9.150635,3,Corroios,1510,Seixal,15,Setúbal,PT170,AML,140705,1.ª Fase - Exteriores,Instalado e Verificado
-349,Escola Básica Carlos Ribeiro,38.597126,-9.092383,3,Pinhal de Frades,1510,Seixal,15,Setúbal,PT170,AML,140423,1.ª Fase - Exteriores,Instalado e Verificado
-350,Alameda 25 de Abril,38.650487,-9.143191,3,Miratejo,1510,Seixal,15,Setúbal,PT170,AML,140727,1.ª Fase - Exteriores,Instalado e Verificado
-351,N10 Ft Armazens da Lavoura de Almada e Seixal,38.616791,-9.110931,3,Amora,1510,Seixal,15,Setúbal,PT170,AML,140129,1.ª Fase - Exteriores,Instalado e Verificado
-352,Avenida 1º Maio - Rotunda,38.623962,-9.125898,3,Amora,1510,Seixal,15,Setúbal,PT170,AML,140131,1.ª Fase - Exteriores,Instalado e Verificado
-353,Pinhal Conde da Cunha,38.610642,-9.134959,3,Amora,1510,Seixal,15,Setúbal,PT170,AML,140193,1.ª Fase - Exteriores,Instalado e Verificado
-354,Avenida 25 de Abril 581,38.584688,-9.095908,3,Pinhal de Frades,1510,Seixal,15,Setúbal,PT170,AML,140415,1.ª Fase - Exteriores,Instalado e Verificado
-355,Avenida 5 de Outubro (Rotunda),38.556792,-9.061379,3,Fernão Ferro,1510,Seixal,15,Setúbal,PT170,AML,140809,1.ª Fase - Exteriores,Instalado e Verificado
-356,Avenida dos Resistentes Antifascistas Ft 57,38.617614,-9.105788,3,Arrentela,1510,Seixal,15,Setúbal,PT170,AML,140228,1.ª Fase - Exteriores,Instalado e Verificado
-357,Avenida Albano Pereira 5,38.640569,-9.099348,3,Seixal,1510,Seixal,15,Setúbal,PT170,AML,140068,1.ª Fase - Exteriores,Instalado e Verificado
-358,Avenida 25 de Abril - Ft 581,38.584682,-9.095765,3,Pinhal de Frades,1510,Seixal,15,Setúbal,PT170,AML,140416,1.ª Fase - Exteriores,Instalado e Verificado
-359,Avenida dos Resistentes Antifascistas 69,38.617083,-9.105586,3,Arrentela,1510,Seixal,15,Setúbal,PT170,AML,140227,1.ª Fase - Exteriores,Instalado e Verificado
-360,Rua Silva Alves Cunha (Mercado Municipal),38.643403,-9.099154,3,Seixal,1510,Seixal,15,Setúbal,PT170,AML,140247,1.ª Fase - Exteriores,Instalado e Verificado
-361,Av. Principal Lt. 2594,38.568613,-9.046527,3,Quinta do Conde,1511,Sesimbra,15,Setúbal,PT170,AML,150022,1.ª Fase - Exteriores,Instalado por Verificar
-362,Terminal Rodoviário Sesimbra,38.445620,-9.099706,3,,1511,Sesimbra,15,Setúbal,PT170,AML,150051|150052|150455,1.ª Fase - Exteriores,Instalado e Verificado
-363,R. Dr. Alberto Leite (Jardim),38.462298,-9.102498,3,Santana,1511,Sesimbra,15,Setúbal,PT170,AML,150067,1.ª Fase - Exteriores,Instalado e Verificado
-364,R. Dr. Alberto Leite (Ft. Jardim),38.462145,-9.102467,3,Santana,1511,Sesimbra,15,Setúbal,PT170,AML,150070,1.ª Fase - Exteriores,Instalado e Verificado
-365,EN378 Ft. 55,38.470898,-9.100797,3,Santana,1511,Sesimbra,15,Setúbal,PT170,AML,150223,1.ª Fase - Exteriores,Instalado e Verificado
-366,Alameda Salgeiro Maia (Ft. Posto Combustivel),38.572361,-9.036989,3,Quinta do Conde,1511,Sesimbra,15,Setúbal,PT170,AML,150009,1.ª Fase - Exteriores,Instalado e Verificado
-367,Avenida Norton de Matos - Jardim,38.565027,-9.037068,3,Quinta do Conde,1511,Sesimbra,15,Setúbal,PT170,AML,150013,1.ª Fase - Exteriores,Instalado e Verificado
-368,Avenida Norton de Matos - Supermercado,38.565114,-9.037349,3,Quinta do Conde,1511,Sesimbra,15,Setúbal,PT170,AML,150529,1.ª Fase - Exteriores,Instalado e Verificado
-369,Av. 25 de Abril (X) Av. das Gaivotas,38.453213,-9.120361,3,Zambujal,1511,Sesimbra,15,Setúbal,PT170,AML,150199,1.ª Fase - Exteriores,Instalado e Verificado
-370,Avenida 10 de Junho - Rotunda,38.551539,-9.099557,3,Quinta do Conde,1511,Sesimbra,15,Setúbal,PT170,AML,150563,1.ª Fase - Exteriores,Instalado e Verificado
-371,Av. da Liberdade 25,38.44425,-9.100273,3,Sesimbra,1511,Sesimbra,15,Setúbal,PT170,AML,150453,1.ª Fase - Exteriores,Instalado por Verificar
-372,SETUBAL ITS - EXTERIOR P1,38.529898,-8.885879,4,Setúbal,1512,Setúbal,15,Setúbal,PT170,AML,160067|160068,1.ª Fase - Exteriores,Instalado e Verificado
-373,Av. Luísa Todi (Lgo. do Carmo),38.523519,-8.895300,4,Setúbal,1512,Setúbal,15,Setúbal,PT170,AML,160225,1.ª Fase - Exteriores,Instalado por Verificar
-374,Av Luísa Todi 195,38.522928,-8.895046,4,Setúbal,1512,Setúbal,15,Setúbal,PT170,AML,160161,1.ª Fase - Exteriores,Instalado e Verificado
-375,AV ALEXANDRE HERCULANO - BONFIM,38.526835,-8.890498,4,Setúbal,1512,Setúbal,15,Setúbal,PT170,AML,160123|160223,1.ª Fase - Exteriores,Instalado e Verificado
-376,Av 22 Dezembro (Escola de Condução),38.525150,-8.893968,4,Setúbal,1512,Setúbal,15,Setúbal,PT170,AML,160105,1.ª Fase - Exteriores,Instalado e Verificado
-377,KM 39200 - Largo Combatentes,38.525054,-8.894627,4,Setúbal,1512,Setúbal,15,Setúbal,PT170,AML,160531,1.ª Fase - Exteriores,Instalado e Verificado
-378,Hospital São Bernardo,38.529250,-8.881965,4,Setúbal,1512,Setúbal,15,Setúbal,PT170,AML,160029,1.ª Fase - Exteriores,Instalado e Verificado
-379,Av Coração de Maria - Escola,38.540172,-8.876633,4,Setúbal,1512,Setúbal,15,Setúbal,PT170,AML,160147,1.ª Fase - Exteriores,Instalado e Verificado
-380,Estrada de Algeruz,38.545030,-8.856172,4,Setúbal,1512,Setúbal,15,Setúbal,PT170,AML,160293,1.ª Fase - Exteriores,Instalado e Verificado
-381,Alto da Estefanilha - IPS,38.523529,-8.839510,4,Setúbal,1512,Setúbal,15,Setúbal,PT170,AML,160043,1.ª Fase - Exteriores,Instalado e Verificado
-382,Ft. Inst. Politécnico de Setúbal,38.523704,-8.839265,4,Estefanilha,1512,Setúbal,15,Setúbal,PT170,AML,160044,1.ª Fase - Exteriores,Instalado por Verificar
-383,EN10 - Praça da República,38.519085,-9.013218,4,Vila Nogueira de Azeitão,1512,Setúbal,15,Setúbal,PT170,AML,160747,1.ª Fase - Exteriores,Instalado e Verificado
-384,ESTR ALGERUZ - BOMBEIROS,38.538796,-8.866637,4,Setúbal,1512,Setúbal,15,Setúbal,PT170,AML,160186,1.ª Fase - Exteriores,Instalado e Verificado
-386,Várzea (Terminal),38.539696,-8.887969,4,Setúbal,1512,Setúbal,15,Setúbal,PT170,AML,161001|161002|161003|161004|161006,1.ª Fase - Exteriores,Instalado e Verificado
-387,Av. 22 de Dezembro Ft. 74,38.526235,-8.893880,4,Setúbal,1512,Setúbal,15,Setúbal,PT170,AML,160099,1.ª Fase - Exteriores,Relocalizar (Já Instalado)
-388,Av. Gen. Daniel de Sousa Ft. 4,38.525652,-8.898653,4,Setúbal,1512,Setúbal,15,Setúbal,PT170,AML,160433,1.ª Fase - Exteriores,Instalado por Verificar
-389,Avenida António Sérgio - Manteigadas,38.522625,-8.850871,4,Setúbal,1512,Setúbal,15,Setúbal,PT170,AML,160051,1.ª Fase - Exteriores,Instalado e Verificado
-390,EN110 231,38.545987,-8.817900,4,Cotovia,1512,Setúbal,15,Setúbal,PT170,AML,160658,1.ª Fase - Exteriores,Instalado e Verificado
-391,Escola Básica do Faralhão,38.522175,-8.818311,4,Faralhão,1512,Setúbal,15,Setúbal,PT170,AML,160320,1.ª Fase - Exteriores,Instalado e Verificado
-392,Escola Básica de Vendas de Azeitão,38.529844,-8.991778,4,Vendas Azeitão,1512,Setúbal,15,Setúbal,PT170,AML,160775,1.ª Fase - Exteriores,Instalado por Verificar
-393,EN10 Km34,38.540100,-9.026249,4,Brejos de Azeitão,1512,Setúbal,15,Setúbal,PT170,AML,160805,1.ª Fase - Exteriores,Instalado e Verificado
-394,Praia da Figueirinha,38.484690,-8.945400,4,Figueirinha,1512,Setúbal,15,Setúbal,PT170,AML,160819,1.ª Fase - Exteriores,Instalado e Verificado
-395,Av. Manuel Maria Portela Ft. 77,38.528193,-8.886457,4,Setúbal,1512,Setúbal,15,Setúbal,PT170,AML,160141,1.ª Fase - Exteriores,Instalado e Verificado
-406,Av. do Brasil (Ft. Pq. Estacionamento),38.749387,-9.298603,1,Agualva-Cacém,1111,Sintra,11,Lisboa,PT170,AML,170725,1.ª Fase - Exteriores,Instalado e Verificado
-407,Av. Bons Amigos (Pq. Estacionamento),38.769514,-9.295143,1,Agualva-Cacém,1111,Sintra,11,Lisboa,PT170,AML,170459|172500,1.ª Fase - Exteriores,Instalado e Verificado
-408,Av. Bons Amigos (Ft. Pq. Estacionamento),38.769678,-9.295272,1,Agualva-Cacém,1111,Sintra,11,Lisboa,PT170,AML,170460|172621,1.ª Fase - Exteriores,Instalado e Verificado
-409,Mercês (Estação),38.793055,-9.329976,1,Algueirão - Mem Martins,1111,Sintra,11,Lisboa,PT170,AML,170271|177322,1.ª Fase - Exteriores,Instalado e Verificado
-410,Praceta Astronautas,38.811483,-9.371213,1,Sintra,1111,Sintra,11,Lisboa,PT170,AML,171305,1.ª Fase - Exteriores,Instalado e Verificado
-411,Portela de Sintra (Estação) Norte,38.802382,-9.376898,1,Sintra,1111,Sintra,11,Lisboa,PT170,AML,172482|172481|172485|172483|170307|170391,1.ª Fase - Exteriores,Instalado e Verificado
-413,Av. Nossa Senhora da Esperança Ft. 172,38.847451,-9.437205,1,São João das Lampas,1111,Sintra,11,Lisboa,PT170,AML,171493,1.ª Fase - Exteriores,Instalado e Verificado
-414,Av Liverdade 70,38.855941,-9.326021,1,Pêro Pinheiro,1111,Sintra,11,Lisboa,PT170,AML,171271,1.ª Fase - Exteriores,Instalado por Verificar
-415,Av Liverdade 22,38.854736,-9.326226,1,Pêro Pinheiro,1111,Sintra,11,Lisboa,PT170,AML,171319,1.ª Fase - Exteriores,Instalado por Verificar
-416,Av. 25 de Abril Ft. 120,38.783307,-9.304960,1,Agualva-Cacém,1111,Sintra,11,Lisboa,PT170,AML,170478,1.ª Fase - Exteriores,Instalado e Verificado
-419,Escola Básica Alfredo Silva,38.750901,-9.351402,1,Rio de Mouro,1111,Sintra,11,Lisboa,PT170,AML,172235,1.ª Fase - Exteriores,Instalado e Verificado
-421,Av. da Dinarmarca Ft. 24,38.801743,-9.229808,1,Casal de Cambra,1111,Sintra,11,Lisboa,PT170,AML,171617,1.ª Fase - Exteriores,Instalado e Verificado
-422,Av. de Lisboa 82,38.801873,-9.228437,1,Casal de Cambra,1111,Sintra,11,Lisboa,PT170,AML,171555,1.ª Fase - Exteriores,Instalado e Verificado
-424,Terrugem (Igreja),38.847029,-9.378195,1,Terrugem,1111,Sintra,11,Lisboa,PT170,AML,170024,1.ª Fase - Exteriores,Instalado por Verificar
-425,Terrugem (Igreja),38.847231,-9.378084,1,Terrugem,1111,Sintra,11,Lisboa,PT170,AML,170023,1.ª Fase - Exteriores,Instalado por Verificar
-426,Rua Elias Garcia (Zona Comercial),38.777009,-9.335105,1,Rio de Mouro,1111,Sintra,11,Lisboa,PT170,AML,170055,1.ª Fase - Exteriores,Instalado e Verificado
-427,Escola Secundária de Gama Barros,38.771071,-9.313626,1,Agualva-Cacém,1111,Sintra,11,Lisboa,PT170,AML,170444,1.ª Fase - Exteriores,Instalado e Verificado
-428,R. da Esperança (Centro Social e Paroquial),38.770907,-9.313395,1,Agualva-Cacém,1111,Sintra,11,Lisboa,PT170,AML,170443,1.ª Fase - Exteriores,Instalado e Verificado
-429,Estr. Paço de Arcos Ft. 9,38.768681,-9.305106,1,Agualva-Cacém,1111,Sintra,11,Lisboa,PT170,AML,170681,1.ª Fase - Exteriores,Instalado e Verificado
-430,Monte Abraão (Estação),38.755621,-9.266144,1,Queluz,1111,Sintra,11,Lisboa,PT170,AML,172105|170851|172480|172478,1.ª Fase - Exteriores,Instalado e Verificado
-431,Monte Abraão (Estação),38.755693,-9.266290,1,Queluz,1111,Sintra,11,Lisboa,PT170,AML,172197|172491|172537|172195|170929,1.ª Fase - Exteriores,Instalado e Verificado
-432,Algueirão - Mem Martins (Estação),38.797560,-9.341218,1,Algueirão - Mem Martins,1111,Sintra,11,Lisboa,PT170,AML,172628|170095,1.ª Fase - Exteriores,Instalado e Verificado
-433,Algueirão - Mem Martins (Estação),38.796685,-9.342145,1,Mem-Martins,1111,Sintra,11,Lisboa,PT170,AML,171125,1.ª Fase - Exteriores,Instalado por Verificar
-434,Av. Marginal (Estação),38.797542,-9.342558,1,Algueirão - Mem Martins,1111,Sintra,11,Lisboa,PT170,AML,170197,1.ª Fase - Exteriores,Instalado e Verificado
-435,Rio de Mouro (Estação) Sul,38.784107,-9.321722,1,Rio de Mouro,1111,Sintra,11,Lisboa,PT170,AML,172493|170073|172601|172492,1.ª Fase - Exteriores,Instalado e Verificado
-436,Rio de Mouro (Estação) Norte,38.785032,-9.322425,1,Rio de Mouro,1111,Sintra,11,Lisboa,PT170,AML,170169,1.ª Fase - Exteriores,Instalado e Verificado
-437,Av. João de Deus 104,38.782067,-9.331224,1,Rio de Mouro,1111,Sintra,11,Lisboa,PT170,AML,170080,1.ª Fase - Exteriores,Instalado e Verificado
-438,Massamá (Estação),38.752100,-9.283597,1,Queluz,1111,Sintra,11,Lisboa,PT170,AML,172479|172496,1.ª Fase - Exteriores,Instalado e Verificado
-439,R. Direita de Massamá (Jd.),38.756719,-9.275341,1,Queluz,1111,Sintra,11,Lisboa,PT170,AML,170919,1.ª Fase - Exteriores,Instalado e Verificado
-441,Av. José Elias Garcia 102,38.756483,-9.253823,1,Queluz,1111,Sintra,11,Lisboa,PT170,AML,172476,1.ª Fase - Exteriores,Instalado e Verificado
-442,Portela de Sintra (Estação) Sul,38.802103,-9.377115,1,Sintra,1111,Sintra,11,Lisboa,PT170,AML,170821|172533|172534,1.ª Fase - Exteriores,Instalado e Verificado
-500,Bairro da Cruz (X) Quintas,39.030060,-9.368475,2,Encarnação,1109,Mafra,11,Lisboa,PT170,AML,080487,1.ª Fase - Exteriores,Instalado por Verificar
+pip_id,name,lat,lon,area,margem,locality,municipality_id,municipality_name,district_id,district_name,region_id,region_name,stops,Implementação,Tipologia,verification_status
+001,amL,38.717203,-9.120373,1,norte,Santa Apolónia,1106,Lisboa,11,Lisboa,PT170,AML,,Ok - PIP TML,Exterior,Instalado e Verificado
+101,Samouco,38.721047,-9.002773,4,sul,Samouco,1502,Alcochete,15,Setúbal,PT170,AML,000001,1.ª Fase,Exterior,Relocalizar (Já Instalado)
+102,R. do Salineiro Ft. 81,38.749069,-8.965875,4,sul,Alcochete,1502,Alcochete,15,Setúbal,PT170,AML,010082,1.ª Fase,Exterior,Instalado e Verificado
+103,Av. Euro 2004 (Ft. Centro Comercial),38.751366,-8.942771,4,sul,Alcochete,1502,Alcochete,15,Setúbal,PT170,AML,010136,1.ª Fase,Exterior,Instalado e Verificado
+104,Av. Euro 2004 (Centro Comercial),38.751127,-8.942987,4,sul,Alcochete,1502,Alcochete,15,Setúbal,PT170,AML,010135,1.ª Fase,Exterior,Instalado e Verificado
+105,Av. S. Francisco de Assis Ft. 114,38.731672,-8.972351,4,sul,São Francisco,1502,Alcochete,15,Setúbal,PT170,AML,010066,1.ª Fase,Exterior,Instalado e Verificado
+108,Universidade Nova de Lisboa (FCT),38.660486,-9.202622,3,sul,Monte da Caparica,1503,Almada,15,Setúbal,PT170,AML,020317,1.ª Fase,Exterior,Instalado e Verificado
+109,Centro Comercial de Almada P1,38.659225,-9.173307,3,sul,Almada,1503,Almada,15,Setúbal,PT170,AML,020088|029589,1.ª Fase,Exterior,Instalado e Verificado
+110,Av. 23 de Julho (Farmácia),38.65626,-9.154412,3,sul,Laranjeiro,1503,Almada,15,Setúbal,PT170,AML,020682,1.ª Fase,Exterior,Instalado por Verificar
+111,Av. 23 de Julho (Ft. Farmácia),38.656355,-9.154274,3,sul,Laranjeiro,1503,Almada,15,Setúbal,PT170,AML,020681,1.ª Fase,Exterior,Instalado e Verificado
+112,Av. Dr. Aresta Branco (X) R. Ercília Costa,38.643560,-9.232624,3,sul,Costa da Caparica,1503,Almada,15,Setúbal,PT170,AML,020639,1.ª Fase,Exterior,Instalado e Verificado
+113,R. de Pedro Costa (Ft. Escola),38.605327,-9.186377,3,sul,Charneca da Caparica,1503,Almada,15,Setúbal,PT170,AML,020422,1.ª Fase,Exterior,Instalado e Verificado
+114,Escola Básica Carlos Gargaté,38.604988,-9.186137,3,sul,Charneca da Caparica,1503,Almada,15,Setúbal,PT170,AML,020421,1.ª Fase,Exterior,Instalado e Verificado
+116,Av. Dom Nuno Álvares Pereira,38.679217,-9.158558,3,sul,Almada,1503,Almada,15,Setúbal,PT170,AML,020047,1.ª Fase,Exterior,Instalado e Verificado
+117,Portagem (Cristo Rei),38.673779,-9.173990,3,sul,Almada,1503,Almada,15,Setúbal,PT170,AML,020001,1.ª Fase,Exterior,Instalado e Verificado
+118,R. dos 3 Vales (X) R. do Moínho,38.667839,-9.188127,3,sul,Bairro Fundo Fomento,1503,Almada,15,Setúbal,PT170,AML,020256,1.ª Fase,Exterior,Instalado e Verificado
+119,Avenida Torrão Silva (Estação),38.666404,-9.180532,3,sul,Pragal,1503,Almada,15,Setúbal,PT170,AML,020275|027999,1.ª Fase,Exterior,Instalado e Verificado
+120,Bº F Fomento (R 3 Vales N65),38.667597,-9.188468,3,sul,Bairro Fundo Fomento,1503,Almada,15,Setúbal,PT170,AML,020255,1.ª Fase,Exterior,Instalado e Verificado
+121,Avenida D. Nuno Álvares Pereira - Prç S. João Baptista,38.678985,-9.158582,3,sul,Almada,1503,Almada,15,Setúbal,PT170,AML,020399,1.ª Fase,Exterior,Instalado e Verificado
+122,Hospital Garcia da Orta,38.672042,-9.175125,3,sul,Almada,1503,Almada,15,Setúbal,PT170,AML,020277,1.ª Fase,Exterior,Relocalizar (Já Instalado)
+123,Cacilhas (Terminal),38.687912,-9.147062,3,sul,Cacilhas,1503,Almada,15,Setúbal,PT170,AML,020113|020037|020449|021007|020429|020403|020959|020955|020973|020489,1.ª Fase,Exterior,Instalado e Verificado
+124,Trafaria (Terminal),38.673904,-9.231743,3,sul,Trafaria,1503,Almada,15,Setúbal,PT170,AML,020385|024855,1.ª Fase,Exterior,Instalado e Verificado
+125,Avenida Torrão Silva (Estação),38.666571,-9.180657,3,sul,Pragal,1503,Almada,15,Setúbal,PT170,AML,020276|027998,1.ª Fase,Exterior,Instalado e Verificado
+126,Avenida 23 de Julho (Supermercado),38.668847,-9.159342,3,sul,Almada,1503,Almada,15,Setúbal,PT170,AML,020069,1.ª Fase,Exterior,Instalado e Verificado
+127,Cova da Piedade - Posto Combustível,38.667741,-9.159379,3,sul,Almada,1503,Almada,15,Setúbal,PT170,AML,020077,1.ª Fase,Exterior,Instalado e Verificado
+128,Rua Vale de Figueira (Posto Combustível),38.635443,-9.176690,3,sul,Sobreda,1503,Almada,15,Setúbal,PT170,AML,020193,1.ª Fase,Exterior,Instalado e Verificado
+129,Rua Vale de Figueira - Ft Hipódromo,38.636097,-9.176455,3,sul,Sobreda,1503,Almada,15,Setúbal,PT170,AML,020147,1.ª Fase,Exterior,Instalado e Verificado
+130,R António Andrade (Centro de Jardinagem),38.617624,-9.192794,3,sul,Charneca da Caparica,1503,Almada,15,Setúbal,PT170,AML,020337|026196,1.ª Fase,Exterior,Instalado e Verificado
+131,Centro Sul,38.668033,-9.164672,3,sul,Almada,1503,Almada,15,Setúbal,PT170,AML,020071|021019,1.ª Fase,Exterior,Instalado e Verificado
+132,R António Andrade Ft 1125,38.617394,-9.192744,3,sul,Charneca da Caparica,1503,Almada,15,Setúbal,PT170,AML,020338,1.ª Fase,Exterior,Instalado e Verificado
+135,Rua Elias Garcia 103,38.757936,-9.226487,1,norte,Amadora,1115,Amadora,11,Lisboa,PT170,AML,030605,1.ª Fase,Exterior,Instalado e Verificado
+137,Estr. do Zambujal Ft. 42,38.733435,-9.216185,1,norte,Amadora,1115,Amadora,11,Lisboa,PT170,AML,030563,1.ª Fase,Exterior,Instalado e Verificado
+138,Estr. do Zambujal 40,38.733170,-9.216013,1,norte,Amadora,1115,Amadora,11,Lisboa,PT170,AML,030555,1.ª Fase,Exterior,Instalado e Verificado
+139,Pç. Teófilo Braga,38.760191,-9.204118,1,norte,Amadora,1115,Amadora,11,Lisboa,PT170,AML,030409|030739,1.ª Fase,Exterior,Instalado e Verificado
+140,Pç. Fernando Calhau (Ft. Centro Comercial),38.777113,-9.217589,1,norte,Brandoa,1115,Amadora,11,Lisboa,PT170,AML,030850|030253|030871,1.ª Fase,Exterior,Instalado e Verificado
+141,Pç. Fernando Calhau (Centro Comercial),38.776999,-9.218089,1,norte,Brandoa,1115,Amadora,11,Lisboa,PT170,AML,030849|030273|030870,1.ª Fase,Exterior,Instalado e Verificado
+142,Escola Secundária Azevedo Neves,38.744962,-9.226662,1,norte,Amadora,1115,Amadora,11,Lisboa,PT170,AML,030113,1.ª Fase,Exterior,Instalado e Verificado
+143,R. Elias Garcia (Ft. Farmácia),38.753574,-9.210447,1,norte,Amadora,1115,Amadora,11,Lisboa,PT170,AML,030300,1.ª Fase,Exterior,Instalado e Verificado
+144,Hospital Amadora Sintra,38.745369,-9.245924,1,norte,Amadora,1115,Amadora,11,Lisboa,PT170,AML,030847|030846|030311,1.ª Fase,Exterior,Instalado e Verificado
+145,Av. da Aviação Portuguesa (Ft. Escola),38.754312,-9.233296,1,norte,Amadora,1115,Amadora,11,Lisboa,PT170,AML,030541,1.ª Fase,Exterior,Instalado e Verificado
+146,Rua Elias Garcia (Escola),38.760548,-9.247942,1,norte,Amadora,1115,Amadora,11,Lisboa,PT170,AML,030328,1.ª Fase,Exterior,Instalado e Verificado
+147,Rua Elias Garcia (Ft. Escola),38.760733,-9.247919,1,norte,Amadora,1115,Amadora,11,Lisboa,PT170,AML,030327,1.ª Fase,Exterior,Instalado e Verificado
+148,Amadora (Estação) Sul,38.758090,-9.234609,1,norte,Amadora,1115,Amadora,11,Lisboa,PT170,AML,030845|030317|030869|030821,1.ª Fase,Exterior,Instalado e Verificado
+149,Estr. Brandoa (Pq.),38.765366,-9.213197,1,norte,Brandoa,1115,Amadora,11,Lisboa,PT170,AML,030387|030737,1.ª Fase,Exterior,Instalado e Verificado
+150,R. Elias Garcia 362,38.759300,-9.238000,1,norte,Amadora,1115,Amadora,11,Lisboa,PT170,AML,030475,1.ª Fase,Exterior,Instalado e Verificado
+151,R. Elias Garcia (Pq.),38.758944,-9.237125,1,norte,Amadora,1115,Amadora,11,Lisboa,PT170,AML,030319|030880,1.ª Fase,Exterior,Instalado e Verificado
+152,R. Oliveira Martins 7,38.767249,-9.232002,1,norte,Amadora,1115,Amadora,11,Lisboa,PT170,AML,030135,1.ª Fase,Exterior,Instalado e Verificado
+153,Av. Cardoso Lopes 27,38.760690,-9.237166,1,norte,Amadora,1115,Amadora,11,Lisboa,PT170,AML,030843|030687|030842|030119,1.ª Fase,Exterior,Instalado e Verificado
+154,Relobeira (Estação),38.750373,-9.221809,1,norte,Amadora,1115,Amadora,11,Lisboa,PT170,AML,030861|030844|030583|030513|030872|030045,1.ª Fase,Exterior,Instalado e Verificado
+156,Avenida Bocage - Supermercado,38.656252,-9.060198,4,sul,Barreiro,1504,Barreiro,15,Setúbal,PT170,AML,040006,1.ª Fase,Exterior,Instalado e Verificado
+157,Avenida Bocage - Ft Supermercado,38.656448,-9.060372,4,sul,Barreiro,1504,Barreiro,15,Setúbal,PT170,AML,040005,1.ª Fase,Exterior,Instalado e Verificado
+158,Coina (Zona Comercial),38.581492,-9.044231,4,sul,Coina,1504,Barreiro,15,Setúbal,PT170,AML,040118,1.ª Fase,Exterior,Instalado e Verificado
+159,Coina (Ft. Zona Comercial),38.581298,-9.044128,4,sul,Coina,1504,Barreiro,15,Setúbal,PT170,AML,040119,1.ª Fase,Exterior,Instalado e Verificado
+160,Nova SBE Carcavelos,38.679626,-9.327743,1,norte,Carcavelos,1105,Cascais,11,Lisboa,PT170,AML,050421,1.ª Fase,Exterior,Instalado por Verificar
+163,Hospital de Cascais,38.728754,-9.418492,1,norte,Alcabideche,1105,Cascais,11,Lisboa,PT170,AML,050233,1.ª Fase,Exterior,Instalado por Verificar
+164,R Conde Barão (Hospital),38.732112,-9.400847,1,norte,Alcoitão,1105,Cascais,11,Lisboa,PT170,AML,050192,1.ª Fase,Exterior,Instalado por Verificar
+165,Centro de Reabilitação de Alcoitão,38.732043,-9.400385,1,norte,Alcoitão,1105,Cascais,11,Lisboa,PT170,AML,050191,1.ª Fase,Exterior,Instalado por Verificar
+166,Av República 1400 (Estação Parede),38.690385,-9.356209,1,norte,Parede,1105,Cascais,11,Lisboa,PT170,AML,050047,1.ª Fase,Exterior,Instalado por Verificar
+167,Av D F Sá Carneiro 858 (Escola),38.699490,-9.336267,1,norte,São Domingues de Rana,1105,Cascais,11,Lisboa,PT170,AML,050055,1.ª Fase,Exterior,Instalado por Verificar
+168,Av. D. Francisco Sá Carneiro 729a - Esc. Sec. Carcavelos,38.699321,-9.335173,1,norte,São Domingues de Rana,1105,Cascais,11,Lisboa,PT170,AML,050021,1.ª Fase,Exterior,Instalado por Verificar
+169,Av. Dr. Francisco Lucas Pires (X) R. Flora,38.685013,-9.328549,1,norte,Carcavelos,1105,Cascais,11,Lisboa,PT170,AML,050002,1.ª Fase,Exterior,Instalado por Verificar
+170,Parede Terminal Rodoviário,38.691727,-9.359243,1,norte,Parede,1105,Cascais,11,Lisboa,PT170,AML,050046,1.ª Fase,Exterior,Instalado por Verificar
+171,Estoril (Estação Cp),38.703410,-9.398365,1,norte,Estoril,1105,Cascais,11,Lisboa,PT170,AML,050359|050018,1.ª Fase,Exterior,Instalado por Verificar
+172,Av Condes Barcelona (Esc Hotelaria),38.714489,-9.390453,1,norte,Estoril,1105,Cascais,11,Lisboa,PT170,AML,050369,1.ª Fase,Exterior,Instalado por Verificar
+173,Alcoitão (Rotunda),38.737683,-9.395431,1,norte,Alcoitão,1105,Cascais,11,Lisboa,PT170,AML,050203,1.ª Fase,Exterior,Instalado por Verificar
+174,Alcoitão (Rotunda),38.737707,-9.394918,1,norte,Alcoitão,1105,Cascais,11,Lisboa,PT170,AML,050197,1.ª Fase,Exterior,Instalado por Verificar
+175,Cascais (Terminal),38.701946,-9.418996,1,norte,Cascais,1105,Cascais,11,Lisboa,PT170,AML,056531,1.ª Fase,Exterior,Instalado por Verificar
+205,Quinta Casal da Pipa (Centro Comercial),38.819937,-9.176507,2,norte,Loures,1107,Loures,11,Lisboa,PT170,AML,070470,1.ª Fase,Exterior,Instalado e Verificado
+206,Hospital Beatriz Ângelo,38.824013,-9.176370,2,norte,Loures,1107,Loures,11,Lisboa,PT170,AML,070373,1.ª Fase,Exterior,Instalado por Verificar
+207,Ft. Escola Básica Frielas,38.825643,-9.143003,2,norte,Frielas,1107,Loures,11,Lisboa,PT170,AML,070495,1.ª Fase,Exterior,Instalado e Verificado
+208,Largo Marcos Romão Reis Junior,38.828903,-9.166948,2,norte,Loures,1107,Loures,11,Lisboa,PT170,AML,070032,1.ª Fase,Exterior,Instalado e Verificado
+209,Rua da República (Campo de Futebol),38.828624,-9.165098,2,norte,Loures,1107,Loures,11,Lisboa,PT170,AML,070250,1.ª Fase,Exterior,Instalado e Verificado
+210,R. da República (Escola),38.828011,-9.164238,2,norte,Loures,1107,Loures,11,Lisboa,PT170,AML,070035,1.ª Fase,Exterior,Instalado e Verificado
+211,Av. Moscavide (Igreja),38.779477,-9.102591,2,norte,Moscavide,1107,Loures,11,Lisboa,PT170,AML,070585,1.ª Fase,Exterior,Instalado e Verificado
+212,"Estrada Nacional 10 (Praça da República)
+",38.795906,-9.104733,2,norte,Sacavém,1107,Loures,11,Lisboa,PT170,AML,071295|070121,1.ª Fase,Exterior,Relocalizar (Já Instalado)
+213,N115 (X) R. Marechal Carmona,38.842509,-9.162942,2,norte,Loures,1107,Loures,11,Lisboa,PT170,AML,070538,1.ª Fase,Exterior,Instalado e Verificado
+214,Av. das Descobertas (Supermercado),38.841744,-9.161322,2,norte,Loures,1107,Loures,11,Lisboa,PT170,AML,070443,1.ª Fase,Exterior,Instalado e Verificado
+215,Avenida das Descobertas Frente 73,38.837173,-9.157262,2,norte,Infantado,1107,Loures,11,Lisboa,PT170,AML,070383,1.ª Fase,Exterior,Instalado e Verificado
+216,R Salvador Allende 44,38.795401,-9.115756,2,norte,Sacavém,1107,Loures,11,Lisboa,PT170,AML,070676,1.ª Fase,Exterior,Instalado e Verificado
+217,R. da República (Jardim),38.831853,-9.171529,2,norte,Loures,1107,Loures,11,Lisboa,PT170,AML,070027,1.ª Fase,Exterior,Instalado e Verificado
+218,Rua Professor Egas Moniz (Centro de Saúde),38.825439,-9.163079,2,norte,Loures,1107,Loures,11,Lisboa,PT170,AML,070043,1.ª Fase,Exterior,Instalado e Verificado
+219,N8 (X) Av. Salgado Zenha,38.806839,-9.157564,2,norte,Santo António dos Cavaleiros,1107,Loures,11,Lisboa,PT170,AML,071134,1.ª Fase,Exterior,Instalado e Verificado
+220,Av. do Ralis (Supermercado),38.785105,-9.117031,2,norte,Portela,1107,Loures,11,Lisboa,PT170,AML,071412,1.ª Fase,Exterior,Instalado e Verificado
+221,R. Mouzinho de Albuquerque (X) R. dos Actores,38.785592,-9.111522,2,norte,Portela,1107,Loures,11,Lisboa,PT170,AML,070595,1.ª Fase,Exterior,Instalado e Verificado
+222,Largo Espírito Santo,38.900476,-9.118726,2,norte,Bucelas,1107,Loures,11,Lisboa,PT170,AML,071341,1.ª Fase,Exterior,Instalado por Verificar
+223,Rua Heróis Ultramar 3A,38.889378,-9.206637,2,norte,Lousa,1107,Loures,11,Lisboa,PT170,AML,071092,1.ª Fase,Exterior,Instalado e Verificado
+224,R. dos Combatentes do Ultramar 27,38.838541,-9.191826,2,norte,Loures,1107,Loures,11,Lisboa,PT170,AML,070020,1.ª Fase,Exterior,Instalado por Verificar
+225,R Cidade Goa 1424 (Sacavém),38.790743,-9.103683,2,norte,Sacavém,1107,Loures,11,Lisboa,PT170,AML,070693,1.ª Fase,Exterior,Instalado e Verificado
+226,Largo 25 de Abril,38.903381,-9.190229,2,norte,Cabeço de Montachique,1107,Loures,11,Lisboa,PT170,AML,070212,1.ª Fase,Exterior,Instalado e Verificado
+227,Rua Santo Antão 9,38.854306,-9.144708,2,norte,Santo António do Tojal,1107,Loures,11,Lisboa,PT170,AML,070872,1.ª Fase,Exterior,Instalado por Verificar
+228,R. Cmdt. Carvalho Araujo Ft. 124,38.842435,-9.178154,2,norte,Loures,1107,Loures,11,Lisboa,PT170,AML,070238,1.ª Fase,Exterior,Instalado e Verificado
+229,R. Vergílio Ferreira (Escola),38.810281,-9.175637,2,norte,Santo António dos Cavaleiros,1107,Loures,11,Lisboa,PT170,AML,070328,1.ª Fase,Exterior,Instalado e Verificado
+230,Av. Mq. de Marialva (Quiosque),38.813093,-9.157045,2,norte,Santo António dos Cavaleiros,1107,Loures,11,Lisboa,PT170,AML,070313,1.ª Fase,Exterior,Instalado e Verificado
+231,R. 1º de Maio Ft. 74,38.858515,-9.130498,2,norte,São Julião do Tojal,1107,Loures,11,Lisboa,PT170,AML,070844,1.ª Fase,Exterior,Instalado e Verificado
+232,R. D. Afonso Henriques (Ft. Centro Comercial),38.822475,-9.098282,2,norte,São João da Talha,1107,Loures,11,Lisboa,PT170,AML,070740,1.ª Fase,Exterior,Instalado e Verificado
+233,Santa Iria (Estação),38.841272,-9.080331,2,norte,Santa Iria da Azoia,1107,Loures,11,Lisboa,PT170,AML,070707,1.ª Fase,Exterior,Instalado e Verificado
+234,R. Mártires do Tarrafal 43,38.808784,-9.102214,2,norte,Bobadela,1107,Loures,11,Lisboa,PT170,AML,070793,1.ª Fase,Exterior,Instalado e Verificado
+235,R. Guilherme Gomes Fernandes Ft.37,38.801640,-9.128815,2,norte,Camarate,1107,Loures,11,Lisboa,PT170,AML,070625,1.ª Fase,Exterior,Instalado e Verificado
+236,Av. das Forças Armadas (Ft. Pq. Desportivo),38.814902,-9.118423,2,norte,Unhos,1107,Loures,11,Lisboa,PT170,AML,071329,1.ª Fase,Exterior,Instalado e Verificado
+237,EN250 (Ft. Quiosque),38.813631,-9.132031,2,norte,Apelação,1107,Loures,11,Lisboa,PT170,AML,070503,1.ª Fase,Exterior,Instalado e Verificado
+238,Av. Severiano Falcão (X) R. José Fonseca Carvalho,38.789378,-9.124873,2,norte,Prior Velho,1107,Loures,11,Lisboa,PT170,AML,071431,1.ª Fase,Exterior,Instalado e Verificado
+239,Pq. Intermodal Alto da Vela,38.932872,-9.326702,2,norte,Mafra,1109,Mafra,11,Lisboa,PT170,AML,080348|080347,1.ª Fase,Exterior,Instalado e Verificado
+240,Lgo. de Snato António,38.959000,-9.351339,2,norte,Mafra,1109,Mafra,11,Lisboa,PT170,AML,080113,1.ª Fase,Exterior,Instalado e Verificado
+241,R. 5 de Outubro,38.958914,-9.352969,2,norte,Mafra,1109,Mafra,11,Lisboa,PT170,AML,080114,1.ª Fase,Exterior,Instalado e Verificado
+242,Pq. Intermodal de Mafra,38.940426,-9.335124,2,norte,Mafra,1109,Mafra,11,Lisboa,PT170,AML,080208,1.ª Fase,Exterior,Instalado e Verificado
+243,Av. de Portugal (X) R. Adriano Paulo Costa Capote,38.945750,-9.354808,2,norte,Mafra,1109,Mafra,11,Lisboa,PT170,AML,080861,1.ª Fase,Exterior,Instalado e Verificado
+244,Vendo do Pinheiro Eco Parque,38.927450,-9.237143,2,norte,Vendo do Pinheiro,1109,Mafra,11,Lisboa,PT170,AML,082003,1.ª Fase,Exterior,Instalado e Verificado
+245,Vendo do Pinheiro Eco Parque,38.927523,-9.236676,2,norte,Vendo do Pinheiro,1109,Mafra,11,Lisboa,PT170,AML,082004,1.ª Fase,Exterior,Instalado e Verificado
+246,R. 25 de Abril Ft. 18,38.930560,-9.254975,2,norte,Malveira,1109,Mafra,11,Lisboa,PT170,AML,080283,1.ª Fase,Exterior,Instalado e Verificado
+247,R. 25 de Abril 28,38.929869,-9.256424,2,norte,Malveira,1109,Mafra,11,Lisboa,PT170,AML,080282,1.ª Fase,Exterior,Instalado e Verificado
+248,R 25 de Abril 36 (Igreja Nova),38.917585,-9.322223,2,norte,Igreja Nova,1109,Mafra,11,Lisboa,PT170,AML,080449,1.ª Fase,Exterior,Instalado por Verificar
+249,Pq. Intermodal da Ericeira,38.967230,-9.405684,2,norte,Ericeira,1109,Mafra,11,Lisboa,PT170,AML,080007|082006|082007|082008|082009,1.ª Fase,Exterior,Instalado e Verificado
+250,R 25 de Abril 13 (Igreja Nova),38.914452,-9.326051,2,norte,Igreja Nova,1109,Mafra,11,Lisboa,PT170,AML,080447,1.ª Fase,Exterior,Instalado por Verificar
+251,R. Movimento das Forças Armadas 83,38.922621,-9.296402,2,norte,São Miguel de Alcainça,1109,Mafra,11,Lisboa,PT170,AML,080340,1.ª Fase,Exterior,Instalado e Verificado
+252,R. Movimento das Forças Armadas Ft. 83,38.922906,-9.296322,2,norte,São Miguel de Alcainça,1109,Mafra,11,Lisboa,PT170,AML,080339,1.ª Fase,Exterior,Instalado e Verificado
+254,Av Portugal 17,38.930741,-9.202515,2,norte,Póvoa da Galega,1109,Mafra,11,Lisboa,PT170,AML,081031,1.ª Fase,Exterior,Instalado por Verificar
+255,Av Portugal 17,38.929956,-9.202953,2,norte,Póvoa da Galega,1109,Mafra,11,Lisboa,PT170,AML,081004,1.ª Fase,Exterior,Instalado por Verificar
+256,R. das Labruscas,39.029643,-9.367741,2,norte,Encarnação,1109,Mafra,11,Lisboa,PT170,AML,080525,1.ª Fase,Exterior,Instalado e Verificado
+257,Avenida 1 de Maio,38.651312,-9.038897,4,sul,Vale da Amoreira,1506,Moita,15,Setúbal,PT170,AML,090262,1.ª Fase,Exterior,Instalado e Verificado
+258,R ECA QUEIROZ34 - URB S SEBASTIAO,38.656970,-8.991514,4,sul,Moita,1506,Moita,15,Setúbal,PT170,AML,090060,1.ª Fase,Exterior,Instalado e Verificado
+259,Avenida Marginal (Câmara Municipal),38.652861,-8.994039,4,sul,Moita,1506,Moita,15,Setúbal,PT170,AML,090058,1.ª Fase,Exterior,Instalado e Verificado
+263,EN11-Posto Combustivel,38.652915,-9.021126,4,sul,Alhos Vedros,1506,Moita,15,Setúbal,PT170,AML,090011,1.ª Fase,Exterior,Instalado e Verificado
+264,Rua Joly Braga Santos (Parque Qta. da Fonte da Prata),38.655270,-9.009300,4,sul,Fonte da Prata,1506,Moita,15,Setúbal,PT170,AML,090007,1.ª Fase,Exterior,Instalado e Verificado
+267,Av Infante D. Henriques - Escola Secundária,38.708878,-8.983556,4,sul,Montijo,1507,Montijo,15,Setúbal,PT170,AML,100087,1.ª Fase,Exterior,Instalado e Verificado
+268,Via Circular Externa - Zona Comercial,38.696854,-8.945297,4,sul,Afonsoeiro,1507,Montijo,15,Setúbal,PT170,AML,100153,1.ª Fase,Exterior,Instalado e Verificado
+269,Pr Gomes Freire de Andrade - P5,38.705777,-8.976562,4,sul,Montijo,1507,Montijo,15,Setúbal,PT170,AML,100027,1.ª Fase,Exterior,Instalado e Verificado
+270,Terminal do Montijo,38.702624,-8.948040,4,sul,Afonsoeiro,1507,Montijo,15,Setúbal,PT170,AML,Terminal do Montijo,1.ª Fase,Exterior,Relocalizar (Já Instalado)
+271,Avenida 5 de Outubro 5,38.678242,-8.968271,4,sul,Sarilhos Grandes,1507,Montijo,15,Setúbal,PT170,AML,100190,1.ª Fase,Exterior,Instalado e Verificado
+272,EN4 - Fte 489,38.706639,-8.924861,4,sul,Atalaia,1507,Montijo,15,Setúbal,PT170,AML,100290,1.ª Fase,Exterior,Instalado e Verificado
+273,EN5 - Jardim,38.700075,-8.957360,4,sul,Bela Vista,1507,Montijo,15,Setúbal,PT170,AML,100006,1.ª Fase,Exterior,Instalado e Verificado
+274,EN5 - Fte Jardim,38.699429,-8.957063,4,sul,Bela Vista,1507,Montijo,15,Setúbal,PT170,AML,100005,1.ª Fase,Exterior,Instalado e Verificado
+275,EN251 - Largo Manuel Mauricio,38.765802,-8.626916,4,sul,Canha,1507,Montijo,15,Setúbal,PT170,AML,100203,1.ª Fase,Exterior,Instalado e Verificado
+276,Escola Secundária Poeta Joaquim Serra,38.703508,-8.952942,4,sul,Afonsoeiro,1507,Montijo,15,Setúbal,PT170,AML,100038,1.ª Fase,Exterior,Instalado e Verificado
+277,Pegões (X) EN10,38.681967,-8.612434,4,sul,Pegões,1507,Montijo,15,Setúbal,PT170,AML,100235,1.ª Fase,Exterior,Instalado e Verificado
+278,Av. Dr. Augusti Pais (Centro Comercial),38.781468,-9.193254,2,norte,Odivelas,1116,Odivelas,11,Lisboa,PT170,AML,110135,1.ª Fase,Exterior,Instalado e Verificado
+279,Av. D. Dinis 8,38.789741,-9.176841,2,norte,Odivelas,1116,Odivelas,11,Lisboa,PT170,AML,110411,1.ª Fase,Exterior,Instalado e Verificado
+280,Av. Prof. Dr. Augusto Abreu Lopes 52,38.794513,-9.179555,2,norte,Odivelas,1116,Odivelas,11,Lisboa,PT170,AML,110127,1.ª Fase,Exterior,Instalado e Verificado
+281,R. Guilhermina Ascenso (X) R. Dr. João Santos,38.797214,-9.192369,2,norte,Odivelas,1116,Odivelas,11,Lisboa,PT170,AML,110070,1.ª Fase,Exterior,Instalado e Verificado
+282,Av. da Liberdade (Ft. Escola),38.802898,-9.183703,2,norte,Ramada,1116,Odivelas,11,Lisboa,PT170,AML,110324,1.ª Fase,Exterior,Instalado e Verificado
+283,R. Almirante Gago Coutinho (X) Av. 25 de Abril,38.797772,-9.161836,2,norte,Póvoa de Santo Adrião,1116,Odivelas,11,Lisboa,PT170,AML,110621,1.ª Fase,Exterior,Instalado e Verificado
+284,Lg. Major Rosa Bastos,38.800000,-9.159829,2,norte,Póvoa de Santo Adrião,1116,Odivelas,11,Lisboa,PT170,AML,110619,1.ª Fase,Exterior,Instalado e Verificado
+285,R. Regimento de Engenharia Um (Ft. Jd. de Infância),38.765067,-9.198128,2,norte,Pontinha,1116,Odivelas,11,Lisboa,PT170,AML,110045,1.ª Fase,Exterior,Instalado e Verificado
+286,R. Regimento de Engenharia Um (X) R. Santo André,38.765260,-9.198243,2,norte,Pontinha,1116,Odivelas,11,Lisboa,PT170,AML,110697,1.ª Fase,Exterior,Instalado e Verificado
+287,Rt. Senhor Roubado,38.787008,-9.170508,2,norte,Olival Basto,1116,Odivelas,11,Lisboa,PT170,AML,110113,1.ª Fase,Exterior,Instalado e Verificado
+290,Odivelas (Metro) P5,38.792672,-9.172491,2,norte,Odivelas,1116,Odivelas,11,Lisboa,PT170,AML,111025,1.ª Fase,Exterior,Instalado e Verificado
+291,Odivelas (Metro) P10,38.792470,-9.173751,2,norte,Odivelas,1116,Odivelas,11,Lisboa,PT170,AML,110410,1.ª Fase,Exterior,Instalado e Verificado
+293,R. Alfredo da Costa (Ft. Pq. Infantil),38.788756,-9.191120,2,norte,Odivelas,1116,Odivelas,11,Lisboa,PT170,AML,110337,1.ª Fase,Exterior,Instalado e Verificado
+294,R. Santo Estevão (X) R. Qta. da Silveira,38.792964,-9.217050,2,norte,Famões,1116,Odivelas,11,Lisboa,PT170,AML,110766,1.ª Fase,Exterior,Instalado e Verificado
+295,Rua Amália Rodrigues (X) R. Hermínia Silva,38.812716,-9.188065,2,norte,Ramada,1116,Odivelas,11,Lisboa,PT170,AML,110313,1.ª Fase,Exterior,Instalado e Verificado
+296,Miraflores (Clínica),38.713178,-9.225106,1,norte,,1110,Oeiras,11,Lisboa,PT170,AML,120347,1.ª Fase,Exterior,Instalado e Verificado
+298,Av República 15,38.695079,-9.324631,1,norte,,1110,Oeiras,11,Lisboa,PT170,AML,121197,1.ª Fase,Exterior,Instalado por Verificar
+299,Av República 15,38.694913,-9.324909,1,norte,,1110,Oeiras,11,Lisboa,PT170,AML,121198,1.ª Fase,Exterior,Instalado por Verificar
+300,Av A Bern Cabral Macedo (Pq Poetas),38.704240,-9.301582,1,norte,,1110,Oeiras,11,Lisboa,PT170,AML,120619,1.ª Fase,Exterior,Instalado por Verificar
+301,Av Prof Dr Cavaco Silva 19,38.739087,-9.304712,1,norte,,1110,Oeiras,11,Lisboa,PT170,AML,121104,1.ª Fase,Exterior,Instalado por Verificar
+302,Av J Freitas Branco (Lgo Qta Jardim),38.711070,-9.271170,1,norte,,1110,Oeiras,11,Lisboa,PT170,AML,120599,1.ª Fase,Exterior,Instalado e Verificado
+303,Oeiras (Estação) P8 Entrada Norte,38.688570,-9.316580,1,norte,,1110,Oeiras,11,Lisboa,PT170,AML,121270,1.ª Fase,Exterior,Instalado e Verificado
+305,Largo Pátria Nova,38.725440,-9.246060,1,norte,,1110,Oeiras,11,Lisboa,PT170,AML,120279,1.ª Fase,Exterior,Instalado e Verificado
+306,Carnaxide (Av Portugal),38.726770,-9.244410,1,norte,,1110,Oeiras,11,Lisboa,PT170,AML,120097,1.ª Fase,Exterior,Instalado e Verificado
+307,Av Prof Reinaldo Santos (Hosp Sta Cruz),38.727445,-9.234227,1,norte,,1110,Oeiras,11,Lisboa,PT170,AML,120037,1.ª Fase,Exterior,Instalado e Verificado
+308,R João XXI (Igreja),38.719000,-9.263030,1,norte,,1110,Oeiras,11,Lisboa,PT170,AML,120297,1.ª Fase,Exterior,Instalado e Verificado
+309,R João XXI (Igreja),38.718880,-9.263050,1,norte,,1110,Oeiras,11,Lisboa,PT170,AML,120313,1.ª Fase,Exterior,Instalado e Verificado
+310,Caxias (Estação),38.698913,-9.274105,1,norte,Caxias,1110,Oeiras,11,Lisboa,PT170,AML,120587,1.ª Fase,Exterior,Instalado por Verificar
+311,R Figueirinha 33,38.697218,-9.306190,1,norte,,1110,Oeiras,11,Lisboa,PT170,AML,120747,1.ª Fase,Exterior,Instalado por Verificar
+312,Oeiras (Estação) P9 Entrada Sul,38.688136,-9.317462,1,norte,,1110,Oeiras,11,Lisboa,PT170,AML,121187,1.ª Fase,Exterior,Instalado e Verificado
+313,Porto Salvo (B Auto Construção),38.722462,-9.307791,1,norte,,1110,Oeiras,11,Lisboa,PT170,AML,120943,1.ª Fase,Exterior,Instalado por Verificar
+314,Paço de Arcos (Estação Norte),38.698695,-9.291147,1,norte,Paço de Arcos,1110,Oeiras,11,Lisboa,PT170,AML,120605|120627,1.ª Fase,Exterior,Instalado por Verificar
+315,"Estr Paço Arcos (Supermercado)
+",38.705910,-9.295140,1,norte,,1110,Oeiras,11,Lisboa,PT170,AML,120611,1.ª Fase,Exterior,Instalado e Verificado
+316,Av Forte (Proteção Civil),38.720024,-9.234679,1,norte,,1110,Oeiras,11,Lisboa,PT170,AML,120275,1.ª Fase,Exterior,Instalado e Verificado
+317,Taguspark (Rotunda Sef),38.735852,-9.299635,1,norte,,1110,Oeiras,11,Lisboa,PT170,AML,121105,1.ª Fase,Exterior,Instalado por Verificar
+318,Av Prof Dr Cavaco Silva (Ist),38.738011,-9.304189,1,norte,,1110,Oeiras,11,Lisboa,PT170,AML,121103,1.ª Fase,Exterior,Instalado por Verificar
+319,R Damião Góis (Palácio Anjos),38.699234,-9.230676,1,norte,,1110,Oeiras,11,Lisboa,PT170,AML,120079,1.ª Fase,Exterior,Instalado e Verificado
+320,Av Gen Norton Matos (PSP),38.711436,-9.225674,1,norte,,1110,Oeiras,11,Lisboa,PT170,AML,120345,1.ª Fase,Exterior,Instalado e Verificado
+321,Av 25 de Abril - Central Park,38.716906,-9.238135,1,norte,,1110,Oeiras,11,Lisboa,PT170,AML,120241,1.ª Fase,Exterior,Instalado e Verificado
+322,Av 25 de Abril 16,38.715364,-9.241239,1,norte,,1110,Oeiras,11,Lisboa,PT170,AML,120167,1.ª Fase,Exterior,Instalado e Verificado
+323,Rua Manuel Caetano,38.567300,-8.940715,4,sul,Quinta do Anjo,1508,Palmela,15,Setúbal,PT170,AML,130081,1.ª Fase,Exterior,Instalado e Verificado
+324,Palmela (Terminal Rodoviário),38.570311,-8.905096,4,sul,Palmela,1508,Palmela,15,Setúbal,PT170,AML,130801|130802|130803|130804|130805|130806|130807,1.ª Fase,Exterior,Instalado e Verificado
+325,EN 379 - X - EN 252,38.576385,-8.889908,4,sul,Volta da Pedra,1508,Palmela,15,Setúbal,PT170,AML,130017,1.ª Fase,Exterior,Instalado e Verificado
+326,EN379 X EN252,38.576509,-8.889774,4,sul,Volta da Pedra,1508,Palmela,15,Setúbal,PT170,AML,130018,1.ª Fase,Exterior,Instalado e Verificado
+330,Rua 25 Abril - Ringue,38.599233,-9.004544,4,sul,Bairro Alentejano,1508,Palmela,15,Setúbal,PT170,AML,130684,1.ª Fase,Exterior,Instalado e Verificado
+331,Av. Visc. do Tojal 56,38.575002,-8.903191,4,sul,Palmela,1508,Palmela,15,Setúbal,PT170,AML,130026,1.ª Fase,Exterior,Instalado por Verificar
+332,Escola Básica dos 2º e 3º ciclos,38.628733,-8.912599,4,sul,Pinhal Novo,1508,Palmela,15,Setúbal,PT170,AML,130378,1.ª Fase,Exterior,Instalado e Verificado
+333,Avenida Liberdade (Correios),38.584074,-8.691165,4,sul,Águas de Moura,1508,Palmela,15,Setúbal,PT170,AML,130708,1.ª Fase,Exterior,Instalado e Verificado
+334,Praça José Maria dos Santos,38.631421,-8.915842,4,sul,Pinhal Novo,1508,Palmela,15,Setúbal,PT170,AML,130228|139804,1.ª Fase,Exterior,Instalado e Verificado
+335,EN5-Passagem de Nível,38.634229,-8.742044,4,sul,Poceirão,1508,Palmela,15,Setúbal,PT170,AML,130159,1.ª Fase,Exterior,Instalado e Verificado
+336,Avenida Visconde Tojal 278,38.556439,-8.967351,4,sul,Cabanas,1508,Palmela,15,Setúbal,PT170,AML,130122,1.ª Fase,Exterior,Instalado e Verificado
+339,Avenida Vale de Milhaços 30,38.638960,-9.153290,3,sul,Corroios,1510,Seixal,15,Setúbal,PT170,AML,140350,1.ª Fase,Exterior,Instalado e Verificado
+340,Rua Gil Vicente (X) Rua Pedro Nunes,38.617786,-9.102043,3,sul,Arrentela,1510,Seixal,15,Setúbal,PT170,AML,140048,1.ª Fase,Exterior,Instalado e Verificado
+341,Seixal (Terminal Fluvial) - P1 - P2,38.647237,-9.096285,3,sul,Seixal,1510,Seixal,15,Setúbal,PT170,AML,140073|149994,1.ª Fase,Exterior,Instalado e Verificado
+342,Seixal (Terminal Fluvial) - P3 - P4,38.646986,-9.095834,3,sul,Seixal,1510,Seixal,15,Setúbal,PT170,AML,140074|140733,1.ª Fase,Exterior,Instalado e Verificado
+345,Avenida 25 de Abril 79,38.641336,-9.150793,3,sul,Corroios,1510,Seixal,15,Setúbal,PT170,AML,140707,1.ª Fase,Exterior,Instalado e Verificado
+346,Rua das Flores (Centro de Saúde),38.645381,-9.147122,3,sul,Corroios,1510,Seixal,15,Setúbal,PT170,AML,140724,1.ª Fase,Exterior,Instalado e Verificado
+347,Rua Brejos da Piedade (Zona Comercial),38.612239,-9.105489,3,sul,Arrentela,1510,Seixal,15,Setúbal,PT170,AML,140586,1.ª Fase,Exterior,Instalado e Verificado
+348,Avenida 25 de Abril (Rotunda),38.640656,-9.150635,3,sul,Corroios,1510,Seixal,15,Setúbal,PT170,AML,140705,1.ª Fase,Exterior,Instalado e Verificado
+349,Escola Básica Carlos Ribeiro,38.597126,-9.092383,3,sul,Pinhal de Frades,1510,Seixal,15,Setúbal,PT170,AML,140423,1.ª Fase,Exterior,Instalado e Verificado
+350,Alameda 25 de Abril,38.650487,-9.143191,3,sul,Miratejo,1510,Seixal,15,Setúbal,PT170,AML,140727,1.ª Fase,Exterior,Instalado e Verificado
+351,N10 Ft Armazens da Lavoura de Almada e Seixal,38.616791,-9.110931,3,sul,Amora,1510,Seixal,15,Setúbal,PT170,AML,140129,1.ª Fase,Exterior,Instalado e Verificado
+352,Avenida 1º Maio - Rotunda,38.623962,-9.125898,3,sul,Amora,1510,Seixal,15,Setúbal,PT170,AML,140131,1.ª Fase,Exterior,Instalado e Verificado
+353,Pinhal Conde da Cunha,38.610642,-9.134959,3,sul,Amora,1510,Seixal,15,Setúbal,PT170,AML,140193,1.ª Fase,Exterior,Instalado e Verificado
+354,Avenida 25 de Abril 581,38.584688,-9.095908,3,sul,Pinhal de Frades,1510,Seixal,15,Setúbal,PT170,AML,140415,1.ª Fase,Exterior,Instalado e Verificado
+355,Avenida 5 de Outubro (Rotunda),38.556792,-9.061379,3,sul,Fernão Ferro,1510,Seixal,15,Setúbal,PT170,AML,140809,1.ª Fase,Exterior,Instalado e Verificado
+356,Avenida dos Resistentes Antifascistas Ft 57,38.617614,-9.105788,3,sul,Arrentela,1510,Seixal,15,Setúbal,PT170,AML,140228,1.ª Fase,Exterior,Instalado e Verificado
+357,Avenida Albano Pereira 5,38.640569,-9.099348,3,sul,Seixal,1510,Seixal,15,Setúbal,PT170,AML,140068,1.ª Fase,Exterior,Instalado e Verificado
+358,Avenida 25 de Abril - Ft 581,38.584682,-9.095765,3,sul,Pinhal de Frades,1510,Seixal,15,Setúbal,PT170,AML,140416,1.ª Fase,Exterior,Instalado e Verificado
+359,Avenida dos Resistentes Antifascistas 69,38.617083,-9.105586,3,sul,Arrentela,1510,Seixal,15,Setúbal,PT170,AML,140227,1.ª Fase,Exterior,Instalado e Verificado
+360,Rua Silva Alves Cunha (Mercado Municipal),38.643403,-9.099154,3,sul,Seixal,1510,Seixal,15,Setúbal,PT170,AML,140247,1.ª Fase,Exterior,Instalado e Verificado
+361,Av. Principal Lt. 2594,38.568613,-9.046527,3,sul,Quinta do Conde,1511,Sesimbra,15,Setúbal,PT170,AML,150022,1.ª Fase,Exterior,Instalado por Verificar
+362,Terminal Rodoviário Sesimbra,38.445620,-9.099706,3,sul,Sesimbra,1511,Sesimbra,15,Setúbal,PT170,AML,150051|150052|150455,1.ª Fase,Exterior,Instalado e Verificado
+363,R. Dr. Alberto Leite (Jardim),38.462298,-9.102498,3,sul,Santana,1511,Sesimbra,15,Setúbal,PT170,AML,150067,1.ª Fase,Exterior,Instalado e Verificado
+364,R. Dr. Alberto Leite (Ft. Jardim),38.462145,-9.102467,3,sul,Santana,1511,Sesimbra,15,Setúbal,PT170,AML,150070,1.ª Fase,Exterior,Instalado e Verificado
+365,EN378 Ft. 55,38.470898,-9.100797,3,sul,Santana,1511,Sesimbra,15,Setúbal,PT170,AML,150223,1.ª Fase,Exterior,Instalado e Verificado
+366,Alameda Salgeiro Maia (Ft. Posto Combustivel),38.572361,-9.036989,3,sul,Quinta do Conde,1511,Sesimbra,15,Setúbal,PT170,AML,150009,1.ª Fase,Exterior,Instalado e Verificado
+367,Avenida Norton de Matos - Jardim,38.565027,-9.037068,3,sul,Quinta do Conde,1511,Sesimbra,15,Setúbal,PT170,AML,150013,1.ª Fase,Exterior,Instalado e Verificado
+368,Avenida Norton de Matos - Supermercado,38.565114,-9.037349,3,sul,Quinta do Conde,1511,Sesimbra,15,Setúbal,PT170,AML,150529,1.ª Fase,Exterior,Instalado e Verificado
+369,Av. 25 de Abril (X) Av. das Gaivotas,38.453213,-9.120361,3,sul,Zambujal,1511,Sesimbra,15,Setúbal,PT170,AML,150199,1.ª Fase,Exterior,Instalado e Verificado
+370,Avenida 10 de Junho - Rotunda,38.551539,-9.099557,3,sul,Quinta do Conde,1511,Sesimbra,15,Setúbal,PT170,AML,150563,1.ª Fase,Exterior,Instalado e Verificado
+371,Av. da Liberdade 25,38.44425,-9.100273,3,sul,Sesimbra,1511,Sesimbra,15,Setúbal,PT170,AML,150453,1.ª Fase,Exterior,Instalado por Verificar
+372,SETUBAL ITS - EXTERIOR P1,38.529898,-8.885879,4,sul,Setúbal,1512,Setúbal,15,Setúbal,PT170,AML,160067|160068,1.ª Fase,Exterior,Instalado e Verificado
+373,Av. Luísa Todi (Lgo. do Carmo),38.523519,-8.895300,4,sul,Setúbal,1512,Setúbal,15,Setúbal,PT170,AML,160225,1.ª Fase,Exterior,Instalado por Verificar
+374,Av Luísa Todi 195,38.522928,-8.895046,4,sul,Setúbal,1512,Setúbal,15,Setúbal,PT170,AML,160161,1.ª Fase,Exterior,Instalado e Verificado
+375,AV ALEXANDRE HERCULANO - BONFIM,38.526835,-8.890498,4,sul,Setúbal,1512,Setúbal,15,Setúbal,PT170,AML,160123|160223,1.ª Fase,Exterior,Instalado e Verificado
+376,Av 22 Dezembro (Escola de Condução),38.525150,-8.893968,4,sul,Setúbal,1512,Setúbal,15,Setúbal,PT170,AML,160105,1.ª Fase,Exterior,Instalado e Verificado
+377,KM 39200 - Largo Combatentes,38.525054,-8.894627,4,sul,Setúbal,1512,Setúbal,15,Setúbal,PT170,AML,160531,1.ª Fase,Exterior,Instalado e Verificado
+378,Hospital São Bernardo,38.529250,-8.881965,4,sul,Setúbal,1512,Setúbal,15,Setúbal,PT170,AML,160029,1.ª Fase,Exterior,Instalado e Verificado
+379,Av Coração de Maria - Escola,38.540172,-8.876633,4,sul,Setúbal,1512,Setúbal,15,Setúbal,PT170,AML,160147,1.ª Fase,Exterior,Instalado e Verificado
+380,Estrada de Algeruz,38.545030,-8.856172,4,sul,Setúbal,1512,Setúbal,15,Setúbal,PT170,AML,160293,1.ª Fase,Exterior,Instalado e Verificado
+381,Alto da Estefanilha - IPS,38.523529,-8.839510,4,sul,Setúbal,1512,Setúbal,15,Setúbal,PT170,AML,160043,1.ª Fase,Exterior,Instalado e Verificado
+382,Ft. Inst. Politécnico de Setúbal,38.523704,-8.839265,4,sul,Estefanilha,1512,Setúbal,15,Setúbal,PT170,AML,160044,1.ª Fase,Exterior,Instalado por Verificar
+383,EN10 - Praça da República,38.519085,-9.013218,4,sul,Vila Nogueira de Azeitão,1512,Setúbal,15,Setúbal,PT170,AML,160747,1.ª Fase,Exterior,Instalado e Verificado
+384,ESTR ALGERUZ - BOMBEIROS,38.538796,-8.866637,4,sul,Setúbal,1512,Setúbal,15,Setúbal,PT170,AML,160186,1.ª Fase,Exterior,Instalado e Verificado
+386,Várzea (Terminal),38.539696,-8.887969,4,sul,Setúbal,1512,Setúbal,15,Setúbal,PT170,AML,161001|161002|161003|161004|161006,1.ª Fase,Exterior,Instalado e Verificado
+387,Avenida Luísa Todi,38.526235,-8.893880,4,sul,Setúbal,1512,Setúbal,15,Setúbal,PT170,AML,160351,1.ª Fase,Exterior,Relocalizar (Já Instalado)
+388,Av. Gen. Daniel de Sousa Ft. 4,38.525652,-8.898653,4,sul,Setúbal,1512,Setúbal,15,Setúbal,PT170,AML,160433,1.ª Fase,Exterior,Instalado por Verificar
+389,Avenida António Sérgio - Manteigadas,38.522625,-8.850871,4,sul,Setúbal,1512,Setúbal,15,Setúbal,PT170,AML,160051,1.ª Fase,Exterior,Instalado e Verificado
+390,EN110 231,38.545987,-8.817900,4,sul,Cotovia,1512,Setúbal,15,Setúbal,PT170,AML,160658,1.ª Fase,Exterior,Instalado e Verificado
+391,Escola Básica do Faralhão,38.522175,-8.818311,4,sul,Faralhão,1512,Setúbal,15,Setúbal,PT170,AML,160320,1.ª Fase,Exterior,Instalado e Verificado
+392,Escola Básica de Vendas de Azeitão,38.529844,-8.991778,4,sul,Vendas Azeitão,1512,Setúbal,15,Setúbal,PT170,AML,160775,1.ª Fase,Exterior,Instalado por Verificar
+393,EN10 Km34,38.540100,-9.026249,4,sul,Brejos de Azeitão,1512,Setúbal,15,Setúbal,PT170,AML,160805,1.ª Fase,Exterior,Instalado e Verificado
+394,Praia da Figueirinha,38.484690,-8.945400,4,sul,Figueirinha,1512,Setúbal,15,Setúbal,PT170,AML,160819,1.ª Fase,Exterior,Instalado e Verificado
+395,Av. Manuel Maria Portela Ft. 77,38.528193,-8.886457,4,sul,Setúbal,1512,Setúbal,15,Setúbal,PT170,AML,160141,1.ª Fase,Exterior,Instalado e Verificado
+406,Av. do Brasil (Ft. Pq. Estacionamento),38.749387,-9.298603,1,norte,Agualva-Cacém,1111,Sintra,11,Lisboa,PT170,AML,170725,1.ª Fase,Exterior,Instalado e Verificado
+407,Av. Bons Amigos (Pq. Estacionamento),38.769514,-9.295143,1,norte,Agualva-Cacém,1111,Sintra,11,Lisboa,PT170,AML,170459|172500,1.ª Fase,Exterior,Instalado e Verificado
+408,Av. Bons Amigos (Ft. Pq. Estacionamento),38.769678,-9.295272,1,norte,Agualva-Cacém,1111,Sintra,11,Lisboa,PT170,AML,170460|172621,1.ª Fase,Exterior,Instalado e Verificado
+409,Mercês (Estação),38.793055,-9.329976,1,norte,Algueirão - Mem Martins,1111,Sintra,11,Lisboa,PT170,AML,170271|177322,1.ª Fase,Exterior,Instalado e Verificado
+410,Praceta Astronautas,38.811483,-9.371213,1,norte,Sintra,1111,Sintra,11,Lisboa,PT170,AML,171305,1.ª Fase,Exterior,Instalado e Verificado
+411,Portela de Sintra (Estação) Norte,38.802382,-9.376898,1,norte,Sintra,1111,Sintra,11,Lisboa,PT170,AML,172482|172481|172485|172483|170307|170391,1.ª Fase,Exterior,Instalado e Verificado
+413,Av. Nossa Senhora da Esperança Ft. 172,38.847451,-9.437205,1,norte,São João das Lampas,1111,Sintra,11,Lisboa,PT170,AML,171493,1.ª Fase,Exterior,Instalado e Verificado
+414,Av Liverdade 70,38.855941,-9.326021,1,norte,Pêro Pinheiro,1111,Sintra,11,Lisboa,PT170,AML,171271,1.ª Fase,Exterior,Instalado por Verificar
+415,Av Liverdade 22,38.854736,-9.326226,1,norte,Pêro Pinheiro,1111,Sintra,11,Lisboa,PT170,AML,171319,1.ª Fase,Exterior,Instalado por Verificar
+416,Av. 25 de Abril Ft. 120,38.783307,-9.304960,1,norte,Agualva-Cacém,1111,Sintra,11,Lisboa,PT170,AML,170478,1.ª Fase,Exterior,Instalado e Verificado
+417,EN 250 2 (X) Pça 5 Outubro,38.775970,-9.264080,1,norte,Belas,1111,Sintra,11,Lisboa,PT170,AML,170533,1.ª Fase,Exterior,Instalado por Verificar
+418,Av Elias Garcia 149,38.769098,-9.307121,1,norte,Agualva-Cacém,1111,Sintra,11,Lisboa,PT170,AML,170451,1.ª Fase,Exterior,Instalado por Verificar
+419,Escola Básica Alfredo Silva,38.750901,-9.351402,1,norte,Rio de Mouro,1111,Sintra,11,Lisboa,PT170,AML,172235,1.ª Fase,Exterior,Instalado e Verificado
+421,Av. da Dinarmarca Ft. 24,38.801743,-9.229808,1,norte,Casal de Cambra,1111,Sintra,11,Lisboa,PT170,AML,171617,1.ª Fase,Exterior,Instalado e Verificado
+422,Av. de Lisboa 82,38.801873,-9.228437,1,norte,Casal de Cambra,1111,Sintra,11,Lisboa,PT170,AML,171555,1.ª Fase,Exterior,Instalado e Verificado
+423,Av Elias Garcia 219,38.757340,-9.258690,1,norte,Queluz-Belas,1111,Sintra,11,Lisboa,PT170,AML,170925,1.ª Fase,Exterior,Instalado e Verificado
+424,Terrugem (Igreja),38.847029,-9.378195,1,norte,Terrugem,1111,Sintra,11,Lisboa,PT170,AML,170024,1.ª Fase,Exterior,Instalado por Verificar
+425,Terrugem (Igreja),38.847231,-9.378084,1,norte,Terrugem,1111,Sintra,11,Lisboa,PT170,AML,170023,1.ª Fase,Exterior,Instalado por Verificar
+426,Rua Elias Garcia (Zona Comercial),38.777009,-9.335105,1,norte,Rio de Mouro,1111,Sintra,11,Lisboa,PT170,AML,170055,1.ª Fase,Exterior,Instalado e Verificado
+427,Escola Secundária de Gama Barros,38.771071,-9.313626,1,norte,Agualva-Cacém,1111,Sintra,11,Lisboa,PT170,AML,170444,1.ª Fase,Exterior,Instalado e Verificado
+428,R. da Esperança (Centro Social e Paroquial),38.770907,-9.313395,1,norte,Agualva-Cacém,1111,Sintra,11,Lisboa,PT170,AML,170443,1.ª Fase,Exterior,Instalado e Verificado
+429,Estr. Paço de Arcos Ft. 9,38.768681,-9.305106,1,norte,Agualva-Cacém,1111,Sintra,11,Lisboa,PT170,AML,170681,1.ª Fase,Exterior,Instalado e Verificado
+430,Monte Abraão (Estação),38.755621,-9.266144,1,norte,Queluz,1111,Sintra,11,Lisboa,PT170,AML,172105|170851|172480|172478,1.ª Fase,Exterior,Instalado e Verificado
+431,Monte Abraão (Estação),38.755693,-9.266290,1,norte,Queluz,1111,Sintra,11,Lisboa,PT170,AML,172197|172491|172537|172195|170929,1.ª Fase,Exterior,Instalado e Verificado
+432,Algueirão - Mem Martins (Estação),38.797560,-9.341218,1,norte,Algueirão - Mem Martins,1111,Sintra,11,Lisboa,PT170,AML,172628|170095,1.ª Fase,Exterior,Instalado e Verificado
+433,Algueirão - Mem Martins (Estação),38.796685,-9.342145,1,norte,Mem-Martins,1111,Sintra,11,Lisboa,PT170,AML,171125,1.ª Fase,Exterior,Instalado por Verificar
+434,Av. Marginal (Estação),38.797542,-9.342558,1,norte,Algueirão - Mem Martins,1111,Sintra,11,Lisboa,PT170,AML,170197,1.ª Fase,Exterior,Instalado e Verificado
+435,Rio de Mouro (Estação) Sul,38.784107,-9.321722,1,norte,Rio de Mouro,1111,Sintra,11,Lisboa,PT170,AML,172493|170073|172601|172492,1.ª Fase,Exterior,Instalado e Verificado
+436,Rio de Mouro (Estação) Norte,38.785032,-9.322425,1,norte,Rio de Mouro,1111,Sintra,11,Lisboa,PT170,AML,170169,1.ª Fase,Exterior,Instalado e Verificado
+437,Av. João de Deus 104,38.782067,-9.331224,1,norte,Rio de Mouro,1111,Sintra,11,Lisboa,PT170,AML,170080,1.ª Fase,Exterior,Instalado e Verificado
+438,Massamá (Estação),38.752100,-9.283597,1,norte,Queluz,1111,Sintra,11,Lisboa,PT170,AML,172479|172496,1.ª Fase,Exterior,Instalado e Verificado
+439,R. Direita de Massamá (Jd.),38.756719,-9.275341,1,norte,Queluz,1111,Sintra,11,Lisboa,PT170,AML,170919,1.ª Fase,Exterior,Instalado e Verificado
+440,Queluz-Belas (Estação),38.759250,-9.257530,1,norte,Queluz,1111,Sintra,11,Lisboa,PT170,AML,170599|172536|172477,1.ª Fase,Exterior,Instalado por Verificar
+441,Av. José Elias Garcia 102,38.756483,-9.253823,1,norte,Queluz,1111,Sintra,11,Lisboa,PT170,AML,172476,1.ª Fase,Exterior,Instalado e Verificado
+442,Portela de Sintra (Estação) Sul,38.802103,-9.377115,1,norte,Sintra,1111,Sintra,11,Lisboa,PT170,AML,170821|172533|172534,1.ª Fase,Exterior,Instalado e Verificado
+443,Sintra (Estação),38.799854,-9.385010,1,norte,Sintra,1111,Sintra,11,Lisboa,PT170,AML,171923,1.ª Fase,Exterior,Instalado por Verificar
+444,Av Bons Amigos 87 (Escola),38.771508,-9.292210,1,norte,Agualva-Cacém,1111,Sintra,11,Lisboa,PT170,AML,170462,1.ª Fase,Exterior,Instalado por Verificar
+445,"En 10 (Escola) (Póvoa Sta Iria)
+",38.860531,-9.065390,2,norte,Vila Franca de Xira,1114,Vila Franca de Xira,11,Lisboa,PT170,AML,180703,1.ª Fase,Exterior,Instalado e Verificado
+446,Lgo. Da. Júlia Palha,38.990844,-8.971823,2,norte,Castanheira do Ribatejo,1114,Vila Franca de Xira,11,Lisboa,PT170,AML,180997,1.ª Fase,Exterior,Instalado e Verificado
+447,Av. Infante D. Pedro (Ft. Farmácia),38.895643,-9.037310,2,norte,Alverca do Ribatejo,1114,Vila Franca de Xira,11,Lisboa,PT170,AML,180213,1.ª Fase,Exterior,Instalado e Verificado
+448,Alhandra (Linha Ferroviária),38.927942,-9.010510,2,norte,Alhandra,1114,Vila Franca de Xira,11,Lisboa,PT170,AML,180067,1.ª Fase,Exterior,Instalado e Verificado
+449,"R Franc Per Junior (X) Pcta Alf Cunha
+",38.866816,-9.069161,2,norte,Alhandra,1114,Vila Franca de Xira,11,Lisboa,PT170,AML,180668,1.ª Fase,Exterior,Instalado e Verificado
+450,Jd. José Alvaro Vidal,38.896202,-9.039133,2,norte,Alverca do Ribatejo,1114,Vila Franca de Xira,11,Lisboa,PT170,AML,180723,1.ª Fase,Exterior,Instalado e Verificado
+451,Pc. Cova do Bicho,38.894726,-9.040173,2,norte,Alverca do Ribatejo,1114,Vila Franca de Xira,11,Lisboa,PT170,AML,180721,1.ª Fase,Exterior,Instalado e Verificado
+453,Av. D. Vicente Afonso Valente,38.861978,-9.074959,2,norte,Póvoa de Santa Iria,1114,Vila Franca de Xira,11,Lisboa,PT170,AML,180577,1.ª Fase,Exterior,Instalado e Verificado
+454,Pq. da Calistenia Quintinha,38.861934,-9.074749,2,norte,Póvoa de Santa Iria,1114,Vila Franca de Xira,11,Lisboa,PT170,AML,180615,1.ª Fase,Exterior,Instalado e Verificado
+455,EN10 (Millennium),38.855757,-9.071170,2,norte,Póvoa de Santa Iria,1114,Vila Franca de Xira,11,Lisboa,PT170,AML,180610,1.ª Fase,Exterior,Instalado e Verificado
+456,"R Républica 46 (Terminal)
+",38.860649,-9.063674,2,norte,Póvoa de Santa Iria,1114,Vila Franca de Xira,11,Lisboa,PT170,AML,180635,1.ª Fase,Exterior,Instalado e Verificado
+457,EN10 (Clube de Ténis),38.900498,-9.036791,2,norte,Alverca do Ribatejo,1114,Vila Franca de Xira,11,Lisboa,PT170,AML,180099,1.ª Fase,Exterior,Instalado e Verificado
+458,EN10 (Frente Jardim),38.899162,-9.037265,2,norte,Alverca do Ribatejo,1114,Vila Franca de Xira,11,Lisboa,PT170,AML,180055,1.ª Fase,Exterior,Instalado e Verificado
+459,"En 10 (Cebi)
+",38.892697,-9.042161,2,norte,Vila Franca de Xira,1114,Vila Franca de Xira,11,Lisboa,PT170,AML,180720,1.ª Fase,Exterior,Instalado e Verificado
+460,"R Calouste Gulbenkian 17 (Povos)
+",38.973834,-8.983217,2,norte,Vialonga,1114,Vila Franca de Xira,11,Lisboa,PT170,AML,180782,1.ª Fase,Exterior,Instalado e Verificado
+461,R. Prof. Egas Moniz (X) R. Nossa Senhora Assunção,38.873513,-9.078300,2,norte,Vialonga,1114,Vila Franca de Xira,11,Lisboa,PT170,AML,180508,1.ª Fase,Exterior,Instalado e Verificado
+462,EN10 (Pq. Urbano do Forte da Casa),38.872500,-9.054923,2,norte,Forte da Casa,1114,Vila Franca de Xira,11,Lisboa,PT170,AML,180709,1.ª Fase,Exterior,Instalado e Verificado
+463,Estr. Arcena Ft. 49,38.903409,-9.047081,2,norte,Alverca do Ribatejo,1114,Vila Franca de Xira,11,Lisboa,PT170,AML,180113,1.ª Fase,Exterior,Instalado e Verificado
+464,Estr. do Apeadeiro (Estação),38.988708,-8.966084,2,norte,Castanheira do Ribatejo,1114,Vila Franca de Xira,11,Lisboa,PT170,AML,180313|180314|181006|181007,1.ª Fase,Exterior,Instalado e Verificado
+465,R. Eng. Clément Dumoulin (Estação),38.859353,-9.063643,2,norte,Póvoa de Santa Iria,1114,Vila Franca de Xira,11,Lisboa,PT170,AML,180504|180503|180529,1.ª Fase,Exterior,Instalado e Verificado
+466,Lgo. Forte da Casa (Ft. Pq. Estacionamento),38.874196,-9.055478,2,norte,Forte da Casa,1114,Vila Franca de Xira,11,Lisboa,PT170,AML,180543,1.ª Fase,Exterior,Instalado e Verificado
+467,R. 24 de Setembro (Pq. Estacionamento),38.876329,-9.088336,2,norte,Vialonga,1114,Vila Franca de Xira,11,Lisboa,PT170,AML,180517,1.ª Fase,Exterior,Instalado e Verificado
+468,Av. do Marco da IV Légua (X) R. Dq. da Terceira,38.913695,-9.023335,2,norte,Sobralinho,1114,Vila Franca de Xira,11,Lisboa,PT170,AML,180061,1.ª Fase,Exterior,Instalado e Verificado
+493,R. Alves Redol (Caixa Geral de Depósitos),38.955570,-8.988546,2,norte,Vila Franca de Xira,1114,Vila Franca de Xira,11,Lisboa,PT170,AML,180359,2.ª Fase,Exterior,Instalado e Verificado
+494,Av. Marítimos da Póvoa (Linha Ferroviária),38.865052,-9.060312,2,norte,Póvoa de Santa Iria,1114,Vila Franca de Xira,11,Lisboa,PT170,AML,180499,2.ª Fase,Exterior,Instalado e Verificado
+495,Av. 24 de Setembro (Ft. Pq. Estacionamento),38.875977,-9.085048,2,norte,Vialonga,1114,Vila Franca de Xira,11,Lisboa,PT170,AML,180521,2.ª Fase,Exterior,Instalado e Verificado
+500,Bairro da Cruz (X) Quintas,39.030060,-9.368475,2,norte,Encarnação,1109,Mafra,11,Lisboa,PT170,AML,080487,1.ª Fase,Exterior,Instalado por Verificar
+515,Carcavelos (Estação),38.687570,-9.336999,1,norte,Carcavelos,1105,Cascais,11,Lisboa,PT170,AML,050418,1.ª Fase,Exterior,Instalado por Verificar
+524,Interface de Transportes de Setúbal (Espaço Navegante),38.530371,-8.885309,4,sul,Setúbal,1512,Setúbal,15,Setúbal,PT170,AML,162001|162002|162003|162004|162005|162006|162007|162008|162011|160067|160068,1.ª Fase,Interior,Instalado
+525,Interface de Transportes de Setúbal (Acesso CP),38.530527,-8.885308,4,sul,Setúbal,1512,Setúbal,15,Setúbal,PT170,AML,162001|162002|162003|162004|162005|162006|162007|162008|162011|160067|160068,1.ª Fase,Interior,Instalado
+526,Espaço Navegante Montijo,38.705758,-8.976266,4,sul,Montijo,,Montijo,15,Setúbal,PT170,AML,100013,1.ª Fase,Interior,Instalado
+557,TML (Receção),38.717320,-9.120568,1,norte,Lisboa,1106,Lisboa,11,Lisboa,PT170,AML,162005,1.ª Fase,Interior,Instalado
