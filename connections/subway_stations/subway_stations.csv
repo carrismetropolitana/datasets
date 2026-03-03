@@ -23,7 +23,7 @@ EC,Entre Campos,38.747900,-9.148560,1,0,0,0,amarela,1,2023-08-30,Entre Campos,57
 IN,Intendente,38.722200,-9.135310,1,0,0,0,verde,1,2023-08-30,Intendente,56,Arroios,1106,Lisboa,11,Lisboa,PT170,AML,
 JZ,Jardim Zoológico,38.742200,-9.168720,1,0,0,0,azul,1,2023-08-30,Sete Rios,39,São Domingos de Benfica,1106,Lisboa,11,Lisboa,PT170,AML,060453|060454|060013|060456|060457|060458|060459
 LA,Laranjeiras,38.748500,-9.172430,1,0,0,0,azul,1,2023-08-30,Laranjeiras,39,São Domingos de Benfica,1106,Lisboa,11,Lisboa,PT170,AML,
-LU,Lumiar,38.772800,-9.159700,1,0,0,0,amarela,1,2023-08-30,Lumiar,18,Lumiar,1106,Lisboa,11,Lisboa,PT170,AML,060241|060243|060345|060159|060167
+LU,Lumiar,38.772800,-9.159700,1,0,0,0,amarela,1,2023-08-30,Lumiar,18,Lumiar,1106,Lisboa,11,Lisboa,PT170,AML,060241|060243|060345|060167
 MP,Marquês de Pombal,38.724900,-9.150810,1,0,0,0,amarela|azul,1,2023-08-30,Marquês de Pombal,66,Santo António,1106,Lisboa,11,Lisboa,PT170,AML,060033|060123|060143|060462|060149|060405
 MM,Martim Moniz,38.716800,-9.135750,1,0,0,0,verde,1,2023-08-30,Martim Moniz,65,Santa Maria Maior,1106,Lisboa,11,Lisboa,PT170,AML,
 OD,Odivelas,38.793200,-9.173220,1,0,0,0,amarela,1,2023-08-30,Odivelas,03,Odivelas,1106,Lisboa,11,Lisboa,PT170,AML,110095|110391|110393|110395|110410|111025|110661|110579|110580|111026|110097|110409
@@ -48,4 +48,5 @@ TP,Terreiro do Paço,38.707200,-9.133350,1,0,0,0,azul,1,2023-08-30,Terreiro do P
 MO,Moscavide,38.774800,-9.102660,1,0,0,0,vermelha,1,2023-08-30,Moscavide,62,Parque das Nações,1106,Lisboa,11,Lisboa,PT170,AML,060221|060223|070575|070577
 EN,Encarnação,38.775000,-9.114980,0,1,0,0,vermelha,1,2023-08-30,Encarnação,33,Olivais,1116,Odivelas,11,Lisboa,PT170,AML,
 AP,Aeroporto,38.768600,-9.128330,0,1,0,0,vermelha,1,2023-08-30,Aeroporto,33,Olivais,1116,Odivelas,11,Lisboa,PT170,AML,060273
+
 RB,Reboleira,38.752200,-9.224140,1,0,0,0,azul,1,2023-08-30,Reboleira,15,Falagueira-Venda Nova,1115,Amadora,11,Lisboa,PT170,AML,035500|030407|030408
