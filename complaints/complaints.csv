@@ -1,4 +1,4 @@
-﻿type,filter_value,total,phone,email,info_request,complaints,other,last_update
+﻿type,filter_value,total,phone,email,info_requests,complaints,other,last_update
 global,-,24201,10734,13467,8095,12562,3321,20260601
 line,1001,3,1,2,0,3,0,20260601
 line,1002,1,0,1,0,1,0,20260601
