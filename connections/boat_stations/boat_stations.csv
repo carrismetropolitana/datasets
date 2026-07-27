@@ -2,7 +2,7 @@ id,name,lat,lon,A1,A2,A3,A4,is_active,validation_date,locality,parish_id,parish_
 TTSL_2,Montijo,38.700200,-9.005999,0,0,0,1,1,2023-08-30,Montijo,150710,União das Freguesias de Montijo e Afonsoeiro,1507,Montijo,15,Setúbal,PT1B0,Península de Setúbal,100137|100138|100140|100157
 TTSL_3,Seixal,38.647270,-9.095200,0,0,1,0,1,2023-08-30,Seixal,151010,Freguesia de Seixal,1510,Seixal,15,Setúbal,PT1B0,Península de Setúbal,140073|140074|140733|149994
 TTSL_5,Cais do Sodré,38.705185,-9.144979,1,0,0,0,1,2023-08-30,Cais Sodré,150661,Freguesia da Misericórdia,1106,Lisboa,11,Lisboa,PT1A0,Grande Lisboa,060419|060451|060452
-TTSL_6,Cacilhas,38.688065,-9.147901,0,0,1,0,1,2023-08-30,Cacilhas,12,"União das freguesias de Almada, Cova da Piedade, Pragal e Cacilhas",1503,Almada,15,Setúbal,PT1B0,Península de Setúbal,020037|020113|020403|020429|020449|020489|020955|020959|020973|021007
+TTSL_6,Cacilhas,38.688065,-9.147901,0,0,1,0,1,2023-08-30,Cacilhas,150312,"União das Freguesias de Almada, Cova da Piedade, Pragal e Cacilhas",1503,Almada,15,Setúbal,PT1B0,Península de Setúbal,020037|020113|020403|020429|020449|020489|020955|020959|020973|021007
 TTSL_8,Belém,38.694970,-9.198548,1,0,0,0,1,2023-08-30,Belem,110658,Freguesia de Belém,1106,Lisboa,11,Lisboa,PT1A0,Grande Lisboa,060101|060107|060383|060384
 TTSL_9,Trafaria,38.674353,-9.230720,0,0,1,0,1,2023-08-30,Trafaria,150313,União das Freguesias de Caparica e Trafaria,1503,Almada,15,Setúbal,PT1B0,Península de Setúbal,020385|024855
 TTSL_10,Porto Brandão,38.677960,-9.206828,0,0,1,0,1,2023-08-30,Porto Brandão,150313,União das Freguesias de Caparica e Trafaria,1503,Almada,15,Setúbal,PT1B0,Península de Setúbal,020839
