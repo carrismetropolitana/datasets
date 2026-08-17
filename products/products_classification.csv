@@ -1,0 +1,999 @@
+Product_id;Name;is_person_transport_title;is_junior;is_senior
+ id-prod-emv; EMV CM Tap in;True;False;False
+ id-comissao-atm-nav-mun-set-418; Comissão ATM navegante® Mun. Setúbal 418/sub23;False;True;False
+ id-null-product; Contrato Nulo;False;False;False
+ id-prod-card-vivaviagem; navegante® ocasional;True;False;False
+ id-prod-card-vivaviagem-garantia; navegante® ocasional garantia;True;False;False
+ id-prod-card-lisboacard; LXCard;True;False;False
+ id-prod-tarifa-local-mini-42; navegante® a bordo | T1 rodinhas;True;False;False
+ id-prod-tarifa-local-voltas-42; navegante® a bordo | T1 voltas;True;False;False
+ id-prod-tarifa-local-sesimbra-43; navegante® a bordo | T1 sesimbra;True;False;False
+ id-prod-navegante-card; navegante® personalizado;True;False;False
+ id-prod-navegante-card-urgent; navegante® personalizado Urgente;True;False;False
+ id-prod-navegante-card-418; navegante® personalizado Sub18/Sub23;True;True;False
+ id-prod-navegante-card-418-urgent; navegante® personalizado Sub18/Sub23 Urgente;True;True;False
+ id-prod-navegante-card-trabalhador; navegante® personalizado Trabalhador;True;False;False
+ id-prod-navegante-card-familia-trab; navegante® personalizado Familiar Trabalhador;True;False;False
+ id-prod-navegante-card-5-anos; navegante® personalizado Especial 5 Anos;True;False;False
+ id-prod-navegante-card-oeiras; navegante® personalizado Oeiras Escola;True;False;False
+ id-prod-navegante-card-oeiras-urgen; navegante® personalizado Oeiras Escola Urgente;True;False;False
+ id-prod-navegante-card-garantia; navegante® personalizado(em garantia);True;False;False
+ id-prod-navegante-card-418-garantia; navegante® personalizado Sub18/Sub23(em garantia);True;True;False
+ id-prod-navegante-card-5-ano-garant; navegante® person. Especial 5anos(em garantia);True;False;False
+ id-prod-navegante-card-oeir-garant; navegante® person. Oeiras Escola(em garantia);True;False;False
+ id-prod-zapping; navegante® pré-pago/zapping;True;False;False
+ id-prod-navegante-metro; navegante® Metropolitano;True;False;False
+ id-prod-navegante-alcochete; navegante® Alcochete;True;False;False
+ id-prod-navegante-almada; navegante® Almada;True;False;False
+ id-prod-navegante-amadora; navegante® Amadora;True;False;False
+ id-prod-navegante-barreiro; navegante® Barreiro;True;False;False
+ id-prod-navegante-cascais; navegante® Cascais;True;False;False
+ id-prod-navegante-lisboa; navegante® Lisboa;True;False;False
+ id-prod-navegante-loures; navegante® Loures;True;False;False
+ id-prod-navegante-mafra; navegante® Mafra;True;False;False
+ id-prod-navegante-moita; navegante® Moita;True;False;False
+ id-prod-navegante-montijo; navegante® Montijo;True;False;False
+ id-prod-navegante-odivelas; navegante® Odivelas;True;False;False
+ id-prod-navegante-oeiras; navegante® Oeiras;True;False;False
+ id-prod-navegante-palmela; navegante® Palmela;True;False;False
+ id-prod-navegante-seixal; navegante® Seixal;True;False;False
+ id-prod-navegante-sesimbra; navegante® Sesimbra;True;False;False
+ id-prod-navegante-setubal; navegante® Setúbal;True;False;False
+ id-prod-navegante-setubal-residente; navegante® Setúbal Residente;True;False;False
+ id-prod-navegante-sintra; navegante® Sintra;True;False;False
+ id-prod-navegante-vfxira; navegante® Vila Franca de Xira;True;False;False
+ id-prod-tarifa-local; navegante® a bordo | T1;True;False;False
+ id-prod-tarifa-urbano; navegante® a bordo | T2;True;False;False
+ id-prod-tarifa-rapida; navegante® a bordo | T3;True;False;False
+ id-prod-tarifa-interregional-42; navegante® a bordo | T4;True;False;False
+ id-prod-tarifa-interregional-44; navegante® a bordo | T4;True;False;False
+ id-prod-tarifa-praia; navegante® a bordo | T5;True;False;False
+ id-prod-tarifa-local-bon-2029-42; navegante® a bordo | T1 bonificado 2029;True;False;False
+ id-prod-tarifa-local-bon-2030-42; navegante® a bordo | T1 bonificado 2030;True;False;False
+ id-prod-tarifa-local-bon-2031-42; navegante® a bordo | T1 bonificado 2031;True;False;False
+ id-prod-tarifa-local-bon-2212-42; navegante® a bordo | T1 bonificado 2212;True;False;False
+ id-prod-tarifa-local-bon-2220-42; navegante® a bordo | T1 bonificado 2220;True;False;False
+ id-prod-tarifa-local-bon-2222-42; navegante® a bordo | T1 bonificado 2222;True;False;False
+ id-prod-tarifa-local-bon-3223-43; navegante® a bordo | T1 bonificado 3223;True;False;False
+ id-prod-tarifa-local-bon-4477-44; navegante® a bordo | T1 bonificado 4477;True;False;False
+ id-prod-navegante-complemento; navegante® Complemento;True;False;False
+ id-prod-navegante-complemento-418; navegante® Complemento Sub18;True;False;False
+ id-prod-navegante-complemento-418a; navegante® Complemento Sub18/Sub23 (A);True;True;False
+ id-prod-navegante-complemento-cpt-a; navegante® Complemento cPT A;True;False;False
+ id-prod-navegante-complemento-cpt-b; navegante® Complemento cPT B;True;False;False
+ id-prod-navegante-12; navegante® 12;True;True;False
+ id-prod-navegante-65; navegante® +65;True;False;True
+ id-prod-navegante-acv-65; navegante® Metropolitano Antigo Combatente +65;True;False;True
+ id-prod-navegante-65-cpt-a; navegante® +65 cPT A;True;False;True
+ id-prod-navegante-65-cpt-b; navegante® +65 cPT B;True;False;True
+ id-prod-navegante-metro-familia; navegante® Metropolitano Família;True;False;False
+ id-prod-navegante-metro-acv; navegante® Metropolitano Antigo Combatente;True;False;True
+ id-prod-navegante-metro-418; navegante Metropolitano Sub18/Sub23 mensal;True;True;False
+ id-prod-navegante-metro-418-gratuito; navegante® metropolitano gratuito até aos 19;True;False;False
+ id-prod-navegante-metro-sub23-grat; navegante® metropolitano gratuito até aos 23;True;False;False
+ id-prod-navegante-metro-social; navegante® Metropolitano cPT B;True;False;False
+ id-prod-navegante-metro-sociala; navegante® Metropolitano cPT A;True;False;False
+ id-prod-navegante-metro-418a; navegante® Metropolitano Sub18/Sub23 (A);True;True;False
+ id-prod-navegante-alcochete-familia; navegante® Alcochete Família;True;False;False
+ id-prod-navegante-alcochete-acv; navegante® Alcochete Antigo Combatente;True;False;True
+ id-prod-navegante-alcochete-418; navegante® Alcochete Sub18/Sub23;True;True;False
+ id-prod-navegante-alcochete-social; navegante® Alcochete cPT B;True;False;False
+ id-prod-navegante-alcochete-sociala; navegante® Alcochete cPT A;True;False;False
+ id-prod-navegante-alcochete-418a; navegante® Alcochete Sub18/Sub23 (A);True;True;False
+ id-prod-navegante-almada-familia; navegante® Almada Família;True;False;False
+ id-prod-navegante-almada-acv; navegante® Almada Antigo Combatente;True;False;True
+ id-prod-navegante-almada-418; navegante® Almada Sub18/Sub23;True;True;False
+ id-prod-navegante-almada-social; navegante® Almada cPT B;True;False;False
+ id-prod-navegante-almada-sociala; navegante® Almada cPT A;True;False;False
+ id-prod-navegante-almada-418a; navegante® Almada Sub18/Sub23 (A);True;True;False
+ id-prod-navegante-amadora-familia; navegante® Amadora Família;True;False;False
+ id-prod-navegante-amadora-acv; navegante® Amadora Antigo Combatente;True;False;True
+ id-prod-navegante-amadora-418; navegante® Amadora Sub18/Sub23;True;True;False
+ id-prod-navegante-amadora-social; navegante® Amadora cPT B;True;False;False
+ id-prod-navegante-amadora-sociala; navegante® Amadora cPT A;True;False;False
+ id-prod-navegante-amadora-418a; navegante® Amadora Sub18/Sub23 (A);True;True;False
+ id-prod-navegante-barreiro-familia; navegante® Barreiro Família;True;False;False
+ id-prod-navegante-barreiro-acv; navegante® Barreiro Antigo Combatente;True;False;True
+ id-prod-navegante-barreiro-418; navegante® Barreiro Sub18/Sub23;True;True;False
+ id-prod-navegante-barreiro-social; navegante® Barreiro cPT B;True;False;False
+ id-prod-navegante-barreiro-sociala; navegante® Barreiro cPT A;True;False;False
+ id-prod-navegante-barreiro-418a; navegante® Barreiro Sub18/Sub23 (A);True;True;False
+ id-prod-navegante-cascais-familia; navegante® Cascais Família;True;False;False
+ id-prod-navegante-cascais-acv; navegante® Cascais Antigo Combatente;True;False;True
+ id-prod-navegante-cascais-418; navegante® Cascais Sub18/Sub23;True;True;False
+ id-prod-navegante-cascais-social; navegante® Cascais cPT B;True;False;False
+ id-prod-navegante-cascais-sociala; navegante® Cascais cPT A;True;False;False
+ id-prod-navegante-cascais-418a; navegante® Cascais Sub18/Sub23 (A);True;True;False
+ id-prod-navegante-lisboa-familia; navegante® Lisboa Família;True;False;False
+ id-prod-navegante-lisboa-acv; navegante® Lisboa Antigo Combatente;True;False;True
+ id-prod-navegante-lisboa-418; navegante® Lisboa Sub18/Sub23;True;True;False
+ id-prod-navegante-lisboa-418-gl; navegante® Lisboa Sub18/Sub23 GL;True;True;False
+ id-prod-navegante-lisboa-social; navegante® Lisboa cPT B;True;False;False
+ id-prod-navegante-lisboa-sociala; navegante® Lisboa cPT A;True;False;False
+ id-prod-navegante-lisboa-418a; navegante® Lisboa Sub18/Sub23 (A);True;True;False
+ id-prod-navegante-lisboa-418a-gl; navegante® Lisboa Sub18/Sub23 (A) GL;True;True;False
+ id-prod-navegante-loures-familia; navegante® Loures Família;True;False;False
+ id-prod-navegante-loures-acv; navegante® Loures Antigo Combatente;True;False;True
+ id-prod-navegante-loures-418; navegante® Loures Sub18/Sub23;True;True;False
+ id-prod-navegante-loures-social; navegante® Loures cPT B;True;False;False
+ id-prod-navegante-loures-sociala; navegante® Loures cPT A;True;False;False
+ id-prod-navegante-loures-418a; navegante® Loures Sub18/Sub23 (A);True;True;False
+ id-prod-navegante-mafra-familia; navegante® Mafra Família;True;False;False
+ id-prod-navegante-mafra-acv; navegante® Mafra Antigo Combatente;True;False;True
+ id-prod-navegante-mafra-418; navegante® Mafra Sub18/Sub23;True;True;False
+ id-prod-navegante-mafra-social; navegante® Mafra cPT B;True;False;False
+ id-prod-navegante-mafra-sociala; navegante® Mafra cPT A;True;False;False
+ id-prod-navegante-mafra-418a; navegante® Mafra Sub18/Sub23 (A);True;True;False
+ id-prod-navegante-moita-familia; navegante® Moita Família;True;False;False
+ id-prod-navegante-moita-acv; navegante® Moita Antigo Combatente;True;False;True
+ id-prod-navegante-moita-418; navegante® Moita Sub18/Sub23;True;True;False
+ id-prod-navegante-moita-social; navegante® Moita cPT B;True;False;False
+ id-prod-navegante-moita-sociala; navegante® Moita cPT A;True;False;False
+ id-prod-navegante-moita-418a; navegante® Moita Sub18/Sub23 (A);True;True;False
+ id-prod-navegante-montijo-familia; navegante® Montijo Família;True;False;False
+ id-prod-navegante-montijo-acv; navegante® Montijo Antigo Combatente;True;False;True
+ id-prod-navegante-montijo-418; navegante® Montijo Sub18/Sub23;True;True;False
+ id-prod-navegante-montijo-social; navegante® Montijo cPT B;True;False;False
+ id-prod-navegante-montijo-sociala; navegante® Montijo cPT A;True;False;False
+ id-prod-navegante-montijo-418a; navegante® Montijo Sub18/Sub23 (A);True;True;False
+ id-prod-navegante-odivelas-familia; navegante® Odivelas Família;True;False;False
+ id-prod-navegante-odivelas-acv; navegante® Odivelas Antigo Combatente;True;False;True
+ id-prod-navegante-odivelas-418; navegante® Odivelas Sub18/Sub23;True;True;False
+ id-prod-navegante-odivelas-social; navegante® Odivelas cPT B;True;False;False
+ id-prod-navegante-odivelas-sociala; navegante® Odivelas cPT A;True;False;False
+ id-prod-navegante-odivelas-418a; navegante® Odivelas Sub18/Sub23 (A);True;True;False
+ id-prod-navegante-oeiras-familia; navegante® Oeiras Família;True;False;False
+ id-prod-navegante-oeiras-acv; navegante® Oeiras Antigo Combatente;True;False;True
+ id-prod-navegante-oeiras-418; navegante® Oeiras Sub18/Sub23;True;True;False
+ id-prod-navegante-oeiras-social; navegante® Oeiras cPT B;True;False;False
+ id-prod-navegante-oeiras-sociala; navegante® Oeiras cPT A;True;False;False
+ id-prod-navegante-oeiras-418a; navegante® Oeiras Sub18/Sub23 (A);True;True;False
+ id-prod-navegante-palmela-familia; navegante® Palmela Família;True;False;False
+ id-prod-navegante-palmela-acv; navegante® Palmela Antigo Combatente;True;False;True
+ id-prod-navegante-palmela-418; navegante® Palmela Sub18/Sub23;True;True;False
+ id-prod-navegante-palmela-social; navegante® Palmela cPT B;True;False;False
+ id-prod-navegante-palmela-sociala; navegante® Palmela cPT A;True;False;False
+ id-prod-navegante-palmela-418a; navegante® Palmela Sub18/Sub23 (A);True;True;False
+ id-prod-navegante-seixal-familia; navegante® Seixal Família;True;False;False
+ id-prod-navegante-seixal-acv; navegante® Seixal Antigo Combatente;True;False;True
+ id-prod-navegante-seixal-418; navegante® Seixal Sub18/Sub23;True;True;False
+ id-prod-navegante-seixal-social; navegante® Seixal cPT B;True;False;False
+ id-prod-navegante-seixal-sociala; navegante® Seixal cPT A;True;False;False
+ id-prod-navegante-seixal-418a; navegante® Seixal Sub18/Sub23 (A);True;True;False
+ id-prod-navegante-sesimbra-familia; navegante® Sesimbra Família;True;False;False
+ id-prod-navegante-sesimbra-acv; navegante® Sesimbra Antigo Combatente;True;False;True
+ id-prod-navegante-sesimbra-418; navegante® Sesimbra Sub18/Sub23;True;True;False
+ id-prod-navegante-sesimbra-social; navegante® Sesimbra cPT B;True;False;False
+ id-prod-navegante-sesimbra-sociala; navegante® Sesimbra cPT A;True;False;False
+ id-prod-navegante-sesimbra-418a; navegante® Sesimbra Sub18/Sub23 (A);True;True;False
+ id-prod-navegante-setubal-familia; navegante® Setúbal Família;True;False;False
+ id-prod-navegante-setubal-acv; navegante® Setúbal Antigo Combatente;True;False;True
+ id-prod-navegante-setubal-418; navegante® Setúbal Sub18/Sub23;True;True;False
+ id-prod-navegante-setubal-social; navegante® Setúbal cPT B;True;False;False
+ id-prod-navegante-setubal-resid-cptb; navegante® Setúbal cPT B Residente;True;False;False
+ id-prod-navegante-setubal-sociala; navegante® Setúbal cPT A;True;False;False
+ id-prod-navegante-setubal-resid-cpta; navegante® Setúbal cPT A Residente;True;False;False
+ id-prod-navegante-setubal-418a; navegante® Setúbal Sub18/Sub23 (A);True;True;False
+ id-prod-navegante-sintra-familia; navegante® Sintra Família;True;False;False
+ id-prod-navegante-sintra-acv; navegante® Sintra Antigo Combatente;True;False;True
+ id-prod-navegante-sintra-418; navegante® Sintra Sub18/Sub23;True;True;False
+ id-prod-navegante-sintra-social; navegante® Sintra cPT B;True;False;False
+ id-prod-navegante-sintra-sociala; navegante® Sintra cPT A;True;False;False
+ id-prod-navegante-sintra-418a; navegante® Sintra Sub18/Sub23 (A);True;True;False
+ id-prod-navegante-vfxira-familia; navegante® Vila Franca de Xira Família;True;False;False
+ id-prod-navegante-vfxira-acv; navegante® Vila Franca de Xira Antigo Combatente;True;False;True
+ id-prod-navegante-vfxira-418; navegante® Vila Franca de Xira Sub18/Sub23;True;True;False
+ id-prod-navegante-vfxira-social; navegante® Vila Franca de Xira cPT B;True;False;False
+ id-prod-navegante-vfxira-sociala; navegante® Vila Franca de Xira cPT A;True;False;False
+ id-prod-navegante-vfxira-418a; navegante® V. Franca de Xira Sub18/Sub23 (A);True;True;False
+ id-prod-navegante-trabalhador; navegante® Trabalhador;True;False;False
+ id-prod-navegante-trabalhador-cm; navegante® Trabalhador CM;True;False;False
+ id-prod-navegante-trabalhador-nao-cm; navegante® Trabalhador não CM;True;False;False
+ id-prod-navegante-famil-trab-cm-a1; navegante® Familiar Trabalhador CM A1;True;False;False
+ id-prod-navegante-famil-trab-cm-a2; navegante® Familiar Trabalhador CM A2;True;False;False
+ id-prod-navegante-famil-trab-cm-a3; navegante® Familiar Trabalhador CM A3;True;False;False
+ id-prod-navegante-famil-trab-cm-a4; navegante® Familiar Trabalhador CM A4;True;False;False
+ id-prod-metro-caneca; Caneca Carris Metropolitana;False;False;False
+ id-prod-metro-garrafa; Garrafa Carris Metropolitana;True;False;False
+ id-prod-metro-bone; Boné Carris Metropolitana;True;False;False
+ id-prod-metro-meias; Meias Carris Metropolitana;True;False;False
+ id-prod-metro-t-shirt; T-shirt Carris Metropolitana;True;False;False
+ id-prod-metro-hoodie; Hoodie Carris Metropolitana;True;False;False
+ id-prod-portes-envio-card; Portes de envio navegante® personalizado;True;False;False
+ id-prod-cap-bilhete-diario-eletro; Bilhete Diário Eletrónico;True;False;False
+ id-prod-cap-bilhete-diario; Bilhete Diário;True;False;False
+ id-prod-cap-bilhete-diario-promo; Bilhete Diário Promocional;True;False;False
+ id-prod-cap-viver-cascais-residente; Viver Cascais Residente;True;False;False
+ id-prod-cap-viver-cascais-trab; Viver Cascais Trabalhador;True;False;False
+ id-prod-cap-viver-cascais-estudante; Viver Cascais Estudante;True;False;False
+ id-prod-cap-viver-cascais; Viver Cascais;True;False;False
+ id-prod-ca-tapngo; Cartão Bancário (Tap & Go);True;False;False
+ id-prod-ca-ml-passe-urb-estac; Passe CA/ML Urb. + Estac.;True;False;False
+ id-prod-ca-navegante-urb-3id; Navegante Urbano-3ª idade;True;False;True
+ id-prod-ca-navegante-urb-ref; Navegante Urbano-R/P;True;False;False
+ id-prod-ca-navegante-urb-3id-gl; Navegante Urbano-3ª Idade GL;True;False;True
+ id-prod-ca-navegante-oper-fam; Navegante Operador Familiar;True;False;False
+ id-prod-ca-navegante-oper-ref; Navegante Operador Reformado;True;False;False
+ id-prod-ca-carreiras-bairro; Carreiras de Bairro;True;False;False
+ id-prod-ml-passe-urb-30d; ML Urb. 30 Dias Úteis;True;False;False
+ id-prod-ticket-ca-ml; Viagem CA/ML;True;False;False
+ id-prod-ticket-24h-ca-ml; Bilhete 24 Horas CA/ML Rede;True;False;False
+ id-prod-ticket-24h-ca-ml-cp; Bilhete 24 Horas CA/ML/CP;True;False;False
+ id-prod-24horas-CA-ML-TT; Bilhete 24h CA/ML/TT;True;False;False
+ id-prod-ca-tarifa-bordo-auto; TBordo-Auto.;True;False;False
+ id-prod-ca-tarifa-bordo-elec; TBordo-Elect.;True;False;False
+ id-prod-ca-tarifa-bordo-gloria; TBordo-Glória;True;False;False
+ id-prod-ca-tarifa-bordo-lavra; TBordo-Lavra;True;False;False
+ id-prod-ca-tarifa-bordo-bica; TBordo-Bica;True;False;False
+ id-prod-ca-tarifa-bordo-graca; TBordo-Graça;True;False;False
+ id-prod-ca-tarifa-bordo-sjusta; TBordo-SJusta;True;False;False
+ id-prod-31_441; Passe LX/BT CMLT;True;False;False
+ id-prod-31_442; Passe LX/BT CMLT;True;False;False
+ id-prod-31_443; Passe LX/BT CMLT;True;False;False
+ id-prod-31_444; Passe LX/BT CMLT;True;False;False
+ id-prod-31_445; Passe LX/BT CMLT;True;False;False
+ id-prod-31_446; Passe LX/BT CMLT;True;False;False
+ id-prod-31_447; Passe LX/BT CMLT;True;False;False
+ id-prod-31_448; Passe LX/BT CMLT;True;False;False
+ id-prod-31_449; Passe LX/BT CMLT;True;False;False
+ id-prod-31_450; Passe LX/BT CMLT;True;False;False
+ id-prod-31_451; Passe LX/BT CMLT;True;False;False
+ id-prod-31_452; Passe LX/BT CMLT;True;False;False
+ id-prod-31_453; Passe LX/BT CMLT;True;False;False
+ id-prod-31_454; Passe LX/BT CMLT;True;False;False
+ id-prod-31_455; Passe LX/BT CMLT;True;False;False
+ id-prod-31_456; Passe LX/BT CMLT;True;False;False
+ id-prod-31_457; Passe LX/BT CMLT;True;False;False
+ id-prod-31_11060; Passe LX/BT CMLT cPTB;True;False;False
+ id-prod-31_11061; Passe LX/BT CMLT cPTB;True;False;False
+ id-prod-31_11062; Passe LX/BT CMLT cPTB;True;False;False
+ id-prod-31_11063; Passe LX/BT CMLT cPTB;True;False;False
+ id-prod-31_11064; Passe LX/BT CMLT cPTB;True;False;False
+ id-prod-31_11065; Passe LX/BT CMLT cPTB;True;False;False
+ id-prod-31_11066; Passe LX/BT CMLT cPTB;True;False;False
+ id-prod-31_11067; Passe LX/BT CMLT cPTB;True;False;False
+ id-prod-31_11068; Passe LX/BT CMLT cPTB;True;False;False
+ id-prod-31_11069; Passe LX/BT CMLT cPTB;True;False;False
+ id-prod-31_11070; Passe LX/BT CMLT cPTB;True;False;False
+ id-prod-31_11071; Passe LX/BT CMLT cPTB;True;False;False
+ id-prod-31_11072; Passe LX/BT CMLT cPTB;True;False;False
+ id-prod-31_11073; Passe LX/BT CMLT cPTB;True;False;False
+ id-prod-31_11074; Passe LX/BT CMLT cPTB;True;False;False
+ id-prod-31_11075; Passe LX/BT CMLT cPTB;True;False;False
+ id-prod-31_11076; Passe LX/BT CMLT cPTB;True;False;False
+ id-prod-31_11080; Passe LX/BT CMLT cPTA;True;False;False
+ id-prod-31_11081; Passe LX/BT CMLT cPTA;True;False;False
+ id-prod-31_11082; Passe LX/BT CMLT cPTA;True;False;False
+ id-prod-31_11083; Passe LX/BT CMLT cPTA;True;False;False
+ id-prod-31_11084; Passe LX/BT CMLT cPTA;True;False;False
+ id-prod-31_11085; Passe LX/BT CMLT cPTA;True;False;False
+ id-prod-31_11086; Passe LX/BT CMLT cPTA;True;False;False
+ id-prod-31_11087; Passe LX/BT CMLT cPTA;True;False;False
+ id-prod-31_11088; Passe LX/BT CMLT cPTA;True;False;False
+ id-prod-31_11089; Passe LX/BT CMLT cPTA;True;False;False
+ id-prod-31_11090; Passe LX/BT CMLT cPTA;True;False;False
+ id-prod-31_11091; Passe LX/BT CMLT cPTA;True;False;False
+ id-prod-31_11092; Passe LX/BT CMLT cPTA;True;False;False
+ id-prod-31_11093; Passe LX/BT CMLT cPTA;True;False;False
+ id-prod-31_11094; Passe LX/BT CMLT cPTA;True;False;False
+ id-prod-31_11095; Passe LX/BT CMLT cPTA;True;False;False
+ id-prod-31_11096; Passe LX/BT CMLT cPTA;True;False;False
+ id-prod-31_9690; P.LXBT IR CMTL Sub18+TP;True;False;False
+ id-prod-31_9691; P.LXBT IR CMTL Sub23+TP;True;True;False
+ id-prod-31_470; Passe M - LX;True;False;False
+ id-prod-31_473; Passe M - LX cPT B;True;False;False
+ id-prod-31_474; Passe M - LX cPT A;True;False;False
+ id-prod-31_475; Passe M - LX AC -65;True;False;False
+ id-prod-31_476; Passe M - LX AC +65;True;False;True
+ id-prod-31_471; Passe M - LX Sub18+TP;True;False;False
+ id-prod-31_472; Passe M - LX Sub23+TP;True;True;False
+ id-prod-30_466; Passe M - LX Visitante REDE;True;False;False
+ id-prod-30_5916; Passe M - LX Visitante REDE cPT B;True;False;False
+ id-prod-30_6021; Passe M - LX Visitante REDE cPT A;True;False;False
+ id-prod-31_436; Passe Lisboa Viva - Normal CIMLT;True;False;False
+ id-prod-31_437; Passe Lisboa Viva - Normal CIMLT;True;False;False
+ id-prod-31_438; Passe Lisboa Viva - Normal CIMLT;True;False;False
+ id-prod-31_600; Passe Lisboa Viva - Normal CIMLT;True;False;False
+ id-prod-30_850; Passe Lisboa Viva - Normal CIMLT;True;False;False
+ id-prod-31_6116; Passe Lisboa Viva - 4_18/Sub23 B CIMLT;True;True;False
+ id-prod-31_6117; Passe Lisboa Viva - 4_18/Sub23 B CIMLT;True;True;False
+ id-prod-31_6118; Passe Lisboa Viva - 4_18/Sub23 B CIMLT;True;True;False
+ id-prod-31_6100; Passe Lisboa Viva - 4_18/Sub23 B CIMLT;True;True;False
+ id-prod-30_6121; Passe Lisboa Viva - 4_18/Sub23 B CIMLT;True;True;False
+ id-prod-31_7616; Passe Lisboa Viva - 4_18/Sub23 A CIMLT;True;True;False
+ id-prod-31_7617; Passe Lisboa Viva - 4_18/Sub23 A CIMLT;True;True;False
+ id-prod-31_7618; Passe Lisboa Viva - 4_18/Sub23 A CIMLT;True;True;False
+ id-prod-31_7600; Passe Lisboa Viva - 4_18/Sub23 A CIMLT;True;True;False
+ id-prod-30_8990; Passe Lisboa Viva - 4_18/Sub23 A CIMLT;True;True;False
+ id-prod-31_11100; P.LXBT IR CMTL Circula PTB;True;False;False
+ id-prod-31_11101; P.LXBT IR CMTL Circula PTB;True;False;False
+ id-prod-31_11102; P.LXBT IR CMTL Circula PTB;True;False;False
+ id-prod-31_11103; P.LXBT IR CMTL Circula PTB;True;False;False
+ id-prod-31_11104; P.LXBT IR CMTL Circula PTB;True;False;False
+ id-prod-31_11110; P.LXBT IR CMTL Circula PTA;True;False;False
+ id-prod-31_11111; P.LXBT IR CMTL Circula PTA;True;False;False
+ id-prod-31_11112; P.LXBT IR CMTL Circula PTA;True;False;False
+ id-prod-31_11113; P.LXBT IR CMTL Circula PTA;True;False;False
+ id-prod-31_11114; P.LXBT IR CMTL Circula PTA;True;False;False
+ id-prod-ca-valid-perfil; Validação por perfil CA;True;False;False
+ id-lisboacard-24h-adulto; LXCard 24h;True;False;False
+ id-lisboacard-48h-adulto; LXCard 48h;True;False;False
+ id-lisboacard-72h-adulto; LXCard 72h;True;False;False
+ id-lisboacard-24h-crianca; LXCard 24h criança;True;True;False
+ id-lisboacard-48h-crianca; LXCard 48h criança;True;True;False
+ id-lisboacard-72h-crianca; LXCard 72h criança;True;True;False
+ id-prod-ml-access-period; Guia de Acesso Período;True;False;False
+ id-prod-ml-access-daily; Guia de Acesso Diária;True;False;False
+ id-prod-ml-autoridade; Lista Branca ML - Autoridade;True;False;False
+ id-prod-ml-entidade-mai-gnr; Lista Branca ML - Entidade-Pagante-MAI-GNR;True;False;False
+ id-prod-ml-servicos; Lista Branca ML - Serviços;True;False;False
+ id-prod-ml-vip-aml; Lista Branca ML - VIP AML;True;False;False
+ id-prod-ml-trabalhador-carris; Lista Branca ML - Trabalhador Carris;True;False;False
+ id-prod-ml-trabalhador-ml; Lista Branca ML - Trabalhador ML;True;False;False
+ id-prod-ml-conj-trabalhador-ml; Lista Branca ML - Conjuge Trabalhador ML;True;False;False
+ id-prod-ml-filho-trabalhador-ml; Lista Branca ML - Filho Trabalhador ML;True;False;False
+ id-prod-ml-trabalhador-ref-ml; Lista Branca ML - Trabalhador Reformado ML;True;False;False
+ id-prod-ml-pens-conj-trab-ml; Lista Branca ML - Pensionista Conjuge Trab. ML;True;False;False
+ id-prod-ml-oper-mavt; Lista Branca ML - Operação MAVT;True;False;False
+ id-prod-ml-manut-mavt; Lista Branca ML - Manutenção MAVT;True;False;False
+ id-prod-ml-conj-trab-ref-ml; Lista Branca ML - Conjuge Trab.Refor.ML;True;False;False
+ id-prod-ml-filho-trab-ref-ml; Lista Branca ML - Filho Trab.Refor.ML;True;False;False
+ id-prod-ml-admin-mavt; Lista Branca ML - Administrador MAVT;True;False;False
+ id-prod-ml-pens-filho-func-ml; Lista Branca ML - Pensionista Filho Trab. ML;True;False;False
+ id-prod-ml-fam-trab-ferconsult; Lista Branca ML - Familiar Trabalhador Ferconsult;True;False;False
+ id-prod-ml-trab-ml-canal-largo; Lista Branca ML - Trabalhador ML Canal Largo;True;False;False
+ id-prod-ml-trab-tt-ml; Lista Branca ML - Trabalhador Transtejo;True;False;False
+ id-prod-ml-trab-sl-ml; Lista Branca ML - Trabalhador Soflusa;True;False;False
+ id-prod-ml-emp-cm-a3; Lista Branca ML - Emp. CM Area 3;True;False;False
+ id-prod-ml-emp-cm-a4; Lista Branca ML - Emp. CM Area 4;True;False;False
+ id-prod-ml-emp-cm-a1; Lista Branca ML - Emp. CM Area 1;True;False;False
+ id-prod-ml-emp-cm-a2; Lista Branca ML - Emp. CM Area 2;True;False;False
+ id-prod-ml-bilhete-coima; Bilhete Coima;False;False;False
+ id-prod-ml-emel-ca-ml; Estacionamento Emel CA/ML;True;False;False
+ id-prod-ml-emparque-ca-ml; Estacionamento Emparque CA/ML;True;False;False
+ id-prod-ml-emparque-ml-30d; Estacionamento Emparque ML 30 Du;True;False;False
+ id-prod-ttsl-passe-30d-ca-cs; Cacilhas-30 Dias;True;False;False
+ id-prod-ttsl-passe-30d-3id-ca-cs; Cacilhas-3ª Idade;True;False;True
+ id-prod-ttsl-passe-30d-tr-pb-bl; Trafaria-30 Dias;True;False;False
+ id-prod-ttsl-passe-30d-3id-tr-pb-bl; Trafaria-3ª Idade;True;False;True
+ id-prod-ttsl-passe-30d-sei-cs; Seixal-30 Dias;True;False;False
+ id-prod-ttsl-passe-30d-mt-cs; Montijo-30 Dias;True;False;False
+ id-prod-ttsl-bilh-sim-mt-cs; Bilhete Simples (Mt. - C.Sodré);True;False;False
+ id-prod-sl-bilh-sim-bar-tdp; Bilhete Simples (BR - TP);True;False;False
+ id-prod-ttsl-bilh-sim-mt-cs-meio; 1/2 Bilhete (Mt. - C.Sodré);True;True;False
+ id-prod-sl-bilh-sim-bar-tdp-meio; 1/2 Bilhete (BR - TP);True;True;False
+ id-prod-ttsl-bilh-sim-mt-cs-anim; Animal de Companhia (Mt. - C.Sodré);False;False;False
+ id-prod-sl-bilh-sim-bar-tdp-anim; Animal de Companhia (BR - TP);False;False;False
+ id-prod-ttsl-bilh-sim-sei-cs; Bilhete Simples (Sx. - C.Sodré);True;False;False
+ id-prod-ttsl-bilh-sim-sei-cs-meio; 1/2 Bilhete (Sx. - C.Sodré);True;True;False
+ id-prod-ttsl-bilh-sim-sei-cs-anim; Animal de Companhia (Sx. - C.Sodré);False;False;False
+ id-prod-ttsl-bilh-sim-ca-cs; Bilhete Simples (Ca. - C.Sodré);True;False;False
+ id-prod-ttsl-bilh-sim-ca-cs-anim; Animal de Companhia (Ca. - C.Sodré);False;False;False
+ id-prod-ttsl-bilh-sim-tr-pb-bl; Bilhete Simples (Bl. - Tra. - P. B.);True;False;False
+ id-prod-ttsl-bilh-bord-tr-pb-bl; Bilhete Bordo (Bl. - Tra. - P. B.);True;False;False
+ id-prod-ttsl-bilh-sim-tr-pb-bl-anim; Animal de Companhia (B. - Tra. - P. B.);False;False;False
+ id-prod-ttsl-bilh-vei-A-tr-pb-bl; Bilhete Simples (Veículo Classe A);False;False;False
+ id-prod-ttsl-bilh-vei-B-tr-pb-bl; Bilhete Simples (Veículo Classe B);False;False;False
+ id-prod-ttsl-bilh-vei-C-tr-pb-bl; Bilhete Simples (Veículo Classe C);False;False;False
+ id-prod-ttsl-bilh-vei-D-tr-pb-bl; Bilhete Simples (Veículo Classe D);False;False;False
+ id-prod-ttsl-bilh-espec-mt-cs; Bilhete Especial MT-CS;True;False;False
+ id-prod-ttsl-bilh-espec-sei-cs; Bilhete Especial SX-CS;True;False;False
+ id-prod-ttsl-bilh-espec-ca-cs; Bilhete Especial CA-CS;True;False;False
+ id-prod-ttsl-bilh-espec-tr-pb-bl; Bilhete Especial BL-TF-PB;True;False;False
+ id-prod-ttsl-bilh-vei-A-10-tr-pb-bl; Bilhete 10 viagens (Veículo Classe A);False;False;False
+ id-prod-ttsl-bilh-vei-B-10-tr-pb-bl; Bilhete 10 viagens (Veículo Classe B);False;False;False
+ id-prod-ttsl-bilh-vei-C-10-tr-pb-bl; Bilhete 10 viagens (Veículo Classe C);False;False;False
+ id-prod-ttsl-passe-30d-bar-tdp; Barreiro-30 Dias;True;False;False
+ id-prod-sl-passe-30d-bar-tdp; Barreiro-30 Dias;True;False;False
+ id-prod-ttsl-bilh-sim-bar-tdp; Bilhete Simples (BR - TP);True;False;False
+ id-prod-ttsl-bilh-sim-bar-tdp-meio; 1/2 Bilhete (BR - TP);True;True;False
+ id-prod-ttsl-bilh-espec-bar-tdp; Bilhete Especial BR-TP;True;False;False
+ id-prod-ttsl-guia-acesso; Guia de Acesso TT/SL;True;False;False
+ id-prod-ttsl-guia-bar-tdp; Guia de Acesso - Barreiro;True;False;False
+ id-prod-ttsl-guia-tra-pb-bel; Guia de Acesso - Trafaria;True;False;False
+ id-prod-ttsl-guia-ca-cs; Guia de Acesso - Cacilhas;True;False;False
+ id-prod-ttsl-guia-sei-cs; Guia de Acesso - Seixal;True;False;False
+ id-prod-ttsl-guia-mon-cs; Guia de Acesso - Seixalinho;True;False;False
+ id-prod-ttsl-lista-branca-geral; Livre Trânsito Geral Trabalhador;True;False;False
+ id-prod-mts-complemento; Complemento MTS;True;False;False
+ id-prod-mts-complemento-crianca; Complemento MTS - Criança;True;True;False
+ id-prod-mts-complemento-3idade; Complemento MTS - 3ªIdade;True;False;True
+ id-prod-mts-complemento-ref; Complemento MTS - Ref./Pens.;True;False;True
+ id-prod-mts-complemento-418; Complemento MTS - 418/sub23(A);True;True;False
+ id-prod-mts-complemento-418m; Complemento MTS (M) - 418/sub23(A);True;True;False
+ id-prod-mts-complemento-m; Complemento MTS (M);True;False;False
+ id-prod-mts-complemento-crianca-m; Complemento MTS (M) - Criança;True;True;False
+ id-prod-mts-complemento-3idade-m; Complemento MTS (M) - 3ª idade;True;False;True
+ id-prod-mts-complemento-ref-m; Complemento MTS (M) - Ref./Pens.;True;False;True
+ id-prod-mts-complemento-418bm; Complemento MTS (M) - 418/sub23(B);True;True;False
+ id-prod-mts-complemento-418b; Complemento MTS - 418/sub23(B);True;True;False
+ id-prod-mts-passe; Passe MTS;True;False;False
+ id-prod-mts-passe-3idade; Passe MTS - 3ª idade;True;False;True
+ id-prod-mts-passe-ref; Passe MTS - Ref./Pens.;True;False;True
+ id-prod-mts-passe-418sub23; Passe MTS - 418/Sub23;True;True;False
+ id-prod-mts-passe-418sub23b; Passe MTS - 418/Sub23 (B);True;True;False
+ id-prod-mts-bilhete; Bilhete Simples MTS;True;False;False
+ id-prod-mts-lista-branca-geral; Livre Trânsito Geral MTS;True;False;False
+ id-prod-15-6009; Assinatura Mensal PE PEN;True;False;False
+ id-prod-15-6010; Assinatura Mensal PE COI;True;False;False
+ id-prod-15-6011; Assinatura Mensal PE FOG;True;False;False
+ id-prod-15-6012; Assinatura Mensal PE FRA;True;False;False
+ id-prod-15-6013; Assinatura Mensal PE COR;True;False;False
+ id-prod-15-6014; Assinatura Mensal PE PRG;True;False;False
+ id-prod-15-6015; Assinatura Mensal AS FOG;True;False;False
+ id-prod-15-6016; Assinatura Mensal AS FRA;True;False;False
+ id-prod-15-6017; Assinatura Mensal AS PRG;True;False;False
+ id-prod-15-32769; Bilhete FT PAL-SET;True;False;False
+ id-prod-15-32770; Bilhete FT PAL-SET / CRIANÇA;True;True;False
+ id-prod-15-32771; Bilhete FT PAL-SET / 3ªIDADE;True;False;True
+ id-prod-15-32772; Bilhete FT PAL-SET / REF.PENS;True;False;True
+ id-prod-15-32773; Bilhete FT VAL-SET;True;False;False
+ id-prod-15-32774; Bilhete FT VAL-SET / CRIANÇA;True;True;False
+ id-prod-15-32775; Bilhete FT VAL-SET / 3ªIDADE;True;False;True
+ id-prod-15-32776; Bilhete FT VAL-SET / REF.PENS;True;False;True
+ id-prod-15-32777; Bilhete FT PNV-SET;True;False;False
+ id-prod-15-32778; Bilhete FT PNV-SET / CRIANÇA;True;True;False
+ id-prod-15-32779; Bilhete FT PNV-SET / 3ªIDADE;True;False;True
+ id-prod-15-32780; Bilhete FT PNV-SET / REF.PENS;True;False;True
+ id-prod-15-32781; Bilhete FT PEN-SET;True;False;False
+ id-prod-15-32782; Bilhete FT PEN-SET / CRIANÇA;True;True;False
+ id-prod-15-32783; Bilhete FT PEN-SET / 3ªIDADE;True;False;True
+ id-prod-15-32784; Bilhete FT PEN-SET / REF.PENS;True;False;True
+ id-prod-15-32785; Bilhete FT COI-SET;True;False;False
+ id-prod-15-32786; Bilhete FT COI-SET / CRIANÇA;True;True;False
+ id-prod-15-32787; Bilhete FT COI-SET / 3ªIDADE;True;False;True
+ id-prod-15-32788; Bilhete FT COI-SET / REF.PENS;True;False;True
+ id-prod-15-32789; Bilhete FT FOG-SET;True;False;False
+ id-prod-15-32790; Bilhete FT FOG-SET / CRIANÇA;True;True;False
+ id-prod-15-32791; Bilhete FT FOG-SET / 3ªIDADE;True;False;True
+ id-prod-15-32792; Bilhete FT FOG-SET / REF.PENS;True;False;True
+ id-prod-15-32793; Bilhete FT FRA-SET;True;False;False
+ id-prod-15-32794; Bilhete FT FRA-SET / CRIANÇA;True;True;False
+ id-prod-15-32795; Bilhete FT FRA-SET / 3ªIDADE;True;False;True
+ id-prod-15-32796; Bilhete FT FRA-SET / REF.PENS;True;False;True
+ id-prod-15-32797; Bilhete FT COR-SET;True;False;False
+ id-prod-15-32798; Bilhete FT COR-SET / CRIANÇA;True;True;False
+ id-prod-15-32799; Bilhete FT COR-SET / 3ªIDADE;True;False;True
+ id-prod-15-32800; Bilhete FT COR-SET / REF.PENS;True;False;True
+ id-prod-15-32801; Bilhete FT PRG-SET;True;False;False
+ id-prod-15-32802; Bilhete FT PRG-SET / CRIANÇA;True;True;False
+ id-prod-15-32803; Bilhete FT PRG-SET / 3ªIDADE;True;False;True
+ id-prod-15-32804; Bilhete FT PRG-SET / REF.PENS;True;False;True
+ id-prod-15-32805; Bilhete FT LIS-SET;True;False;False
+ id-prod-15-32806; Bilhete FT LIS-SET / CRIANÇA;True;True;False
+ id-prod-15-32807; Bilhete FT LIS-SET / 3ªIDADE;True;False;True
+ id-prod-15-32808; Bilhete FT LIS-SET / REF.PENS;True;False;True
+ id-prod-15-32809; Bilhete FT VAL-PAL;True;False;False
+ id-prod-15-32810; Bilhete FT VAL-PAL / CRIANÇA;True;True;False
+ id-prod-15-32811; Bilhete FT VAL-PAL / 3ªIDADE;True;False;True
+ id-prod-15-32812; Bilhete FT VAL-PAL / REF.PENS;True;False;True
+ id-prod-15-32813; Bilhete FT PNV-PAL;True;False;False
+ id-prod-15-32814; Bilhete FT PNV-PAL / CRIANÇA;True;True;False
+ id-prod-15-32815; Bilhete FT PNV-PAL / 3ªIDADE;True;False;True
+ id-prod-15-32816; Bilhete FT PNV-PAL / REF.PENS;True;False;True
+ id-prod-15-32817; Bilhete FT PEN-PAL;True;False;False
+ id-prod-15-32818; Bilhete FT PEN-PAL / CRIANÇA;True;True;False
+ id-prod-15-32819; Bilhete FT PEN-PAL / 3ªIDADE;True;False;True
+ id-prod-15-32820; Bilhete FT PEN-PAL / REF.PENS;True;False;True
+ id-prod-15-32821; Bilhete FT COI-PAL;True;False;False
+ id-prod-15-32822; Bilhete FT COI-PAL / CRIANÇA;True;True;False
+ id-prod-15-32823; Bilhete FT COI-PAL / 3ªIDADE;True;False;True
+ id-prod-15-32824; Bilhete FT COI-PAL / REF.PENS;True;False;True
+ id-prod-15-32825; Bilhete FT FOG-PAL;True;False;False
+ id-prod-15-32826; Bilhete FT FOG-PAL / CRIANÇA;True;True;False
+ id-prod-15-32827; Bilhete FT FOG-PAL / 3ªIDADE;True;False;True
+ id-prod-15-32828; Bilhete FT FOG-PAL / REF.PENS;True;False;True
+ id-prod-15-32829; Bilhete FT FRA-PAL;True;False;False
+ id-prod-15-32830; Bilhete FT FRA-PAL / CRIANÇA;True;True;False
+ id-prod-15-32831; Bilhete FT FRA-PAL / 3ªIDADE;True;False;True
+ id-prod-15-32832; Bilhete FT FRA-PAL / REF.PENS;True;False;True
+ id-prod-15-32833; Bilhete FT COR-PAL;True;False;False
+ id-prod-15-32834; Bilhete FT COR-PAL / CRIANÇA;True;True;False
+ id-prod-15-32835; Bilhete FT COR-PAL / 3ªIDADE;True;False;True
+ id-prod-15-32836; Bilhete FT COR-PAL / REF.PENS;True;False;True
+ id-prod-15-32837; Bilhete FT PRG-PAL;True;False;False
+ id-prod-15-32838; Bilhete FT PRG-PAL / CRIANÇA;True;True;False
+ id-prod-15-32839; Bilhete FT PRG-PAL / 3ªIDADE;True;False;True
+ id-prod-15-32840; Bilhete FT PRG-PAL / REF.PENS;True;False;True
+ id-prod-15-32841; Bilhete FT LIS-PAL;True;False;False
+ id-prod-15-32842; Bilhete FT LIS-PAL / CRIANÇA;True;True;False
+ id-prod-15-32843; Bilhete FT LIS-PAL / 3ªIDADE;True;False;True
+ id-prod-15-32844; Bilhete FT LIS-PAL / REF.PENS;True;False;True
+ id-prod-15-32845; Bilhete FT PNV-VAL;True;False;False
+ id-prod-15-32846; Bilhete FT PNV-VAL / CRIANÇA;True;True;False
+ id-prod-15-32847; Bilhete FT PNV-VAL / 3ªIDADE;True;False;True
+ id-prod-15-32848; Bilhete FT PNV-VAL / REF.PENS;True;False;True
+ id-prod-15-32849; Bilhete FT PEN-VAL;True;False;False
+ id-prod-15-32850; Bilhete FT PEN-VAL / CRIANÇA;True;True;False
+ id-prod-15-32851; Bilhete FT PEN-VAL / 3ªIDADE;True;False;True
+ id-prod-15-32852; Bilhete FT PEN-VAL / REF.PENS;True;False;True
+ id-prod-15-32853; Bilhete FT COI-VAL;True;False;False
+ id-prod-15-32854; Bilhete FT COI-VAL / CRIANÇA;True;True;False
+ id-prod-15-32855; Bilhete FT COI-VAL / 3ªIDADE;True;False;True
+ id-prod-15-32856; Bilhete FT COI-VAL / REF.PENS;True;False;True
+ id-prod-15-32857; Bilhete FT FOG-VAL;True;False;False
+ id-prod-15-32858; Bilhete FT FOG-VAL / CRIANÇA;True;True;False
+ id-prod-15-32859; Bilhete FT FOG-VAL / 3ªIDADE;True;False;True
+ id-prod-15-32860; Bilhete FT FOG-VAL / REF.PENS;True;False;True
+ id-prod-15-32861; Bilhete FT FRA-VAL;True;False;False
+ id-prod-15-32862; Bilhete FT FRA-VAL / CRIANÇA;True;True;False
+ id-prod-15-32863; Bilhete FT FRA-VAL / 3ªIDADE;True;False;True
+ id-prod-15-32864; Bilhete FT FRA-VAL / REF.PENS;True;False;True
+ id-prod-15-32865; Bilhete FT COR-VAL;True;False;False
+ id-prod-15-32866; Bilhete FT COR-VAL / CRIANÇA;True;True;False
+ id-prod-15-32867; Bilhete FT COR-VAL / 3ªIDADE;True;False;True
+ id-prod-15-32868; Bilhete FT COR-VAL / REF.PENS;True;False;True
+ id-prod-15-32869; Bilhete FT PRG-VAL;True;False;False
+ id-prod-15-32870; Bilhete FT PRG-VAL / CRIANÇA;True;True;False
+ id-prod-15-32871; Bilhete FT PRG-VAL / 3ªIDADE;True;False;True
+ id-prod-15-32872; Bilhete FT PRG-VAL / REF.PENS;True;False;True
+ id-prod-15-32873; Bilhete FT LIS-VAL;True;False;False
+ id-prod-15-32874; Bilhete FT LIS-VAL / CRIANÇA;True;True;False
+ id-prod-15-32875; Bilhete FT LIS-VAL / 3ªIDADE;True;False;True
+ id-prod-15-32876; Bilhete FT LIS-VAL / REF.PENS;True;False;True
+ id-prod-15-32877; Bilhete FT PEN-PNV;True;False;False
+ id-prod-15-32878; Bilhete FT PEN-PNV / CRIANÇA;True;True;False
+ id-prod-15-32879; Bilhete FT PEN-PNV / 3ªIDADE;True;False;True
+ id-prod-15-32880; Bilhete FT PEN-PNV / REF.PENS;True;False;True
+ id-prod-15-32881; Bilhete FT COI-PNV;True;False;False
+ id-prod-15-32882; Bilhete FT COI-PNV / CRIANÇA;True;True;False
+ id-prod-15-32883; Bilhete FT COI-PNV / 3ªIDADE;True;False;True
+ id-prod-15-32884; Bilhete FT COI-PNV / REF.PENS;True;False;True
+ id-prod-15-32885; Bilhete FT FOG-PNV;True;False;False
+ id-prod-15-32886; Bilhete FT FOG-PNV / CRIANÇA;True;True;False
+ id-prod-15-32887; Bilhete FT FOG-PNV / 3ªIDADE;True;False;True
+ id-prod-15-32888; Bilhete FT FOG-PNV / REF.PENS;True;False;True
+ id-prod-15-32889; Bilhete FT FRA-PNV;True;False;False
+ id-prod-15-32890; Bilhete FT FRA-PNV / CRIANÇA;True;True;False
+ id-prod-15-32891; Bilhete FT FRA-PNV / 3ªIDADE;True;False;True
+ id-prod-15-32892; Bilhete FT FRA-PNV / REF.PENS;True;False;True
+ id-prod-15-32893; Bilhete FT COR-PNV;True;False;False
+ id-prod-15-32894; Bilhete FT COR-PNV / CRIANÇA;True;True;False
+ id-prod-15-32895; Bilhete FT COR-PNV / 3ªIDADE;True;False;True
+ id-prod-15-32896; Bilhete FT COR-PNV / REF.PENS;True;False;True
+ id-prod-15-32897; Bilhete FT PRG-PNV;True;False;False
+ id-prod-15-32898; Bilhete FT PRG-PNV / CRIANÇA;True;True;False
+ id-prod-15-32899; Bilhete FT PRG-PNV / 3ªIDADE;True;False;True
+ id-prod-15-32900; Bilhete FT PRG-PNV / REF.PENS;True;False;True
+ id-prod-15-32901; Bilhete FT LIS-PNV;True;False;False
+ id-prod-15-32902; Bilhete FT LIS-PNV / CRIANÇA;True;True;False
+ id-prod-15-32903; Bilhete FT LIS-PNV / 3ªIDADE;True;False;True
+ id-prod-15-32904; Bilhete FT LIS-PNV / REF.PENS;True;False;True
+ id-prod-15-32905; Bilhete FT COI-PEN;True;False;False
+ id-prod-15-32906; Bilhete FT COI-PEN / CRIANÇA;True;True;False
+ id-prod-15-32907; Bilhete FT COI-PEN / 3ªIDADE;True;False;True
+ id-prod-15-32908; Bilhete FT COI-PEN / REF.PENS;True;False;True
+ id-prod-15-32909; Bilhete FT FOG-PEN;True;False;False
+ id-prod-15-32910; Bilhete FT FOG-PEN / CRIANÇA;True;True;False
+ id-prod-15-32911; Bilhete FT FOG-PEN / 3ªIDADE;True;False;True
+ id-prod-15-32912; Bilhete FT FOG-PEN / REF.PENS;True;False;True
+ id-prod-15-32913; Bilhete FT FRA-PEN;True;False;False
+ id-prod-15-32914; Bilhete FT FRA-PEN / CRIANÇA;True;True;False
+ id-prod-15-32915; Bilhete FT FRA-PEN / 3ªIDADE;True;False;True
+ id-prod-15-32916; Bilhete FT FRA-PEN / REF.PENS;True;False;True
+ id-prod-15-32917; Bilhete FT COR-PEN;True;False;False
+ id-prod-15-32918; Bilhete FT COR-PEN / CRIANÇA;True;True;False
+ id-prod-15-32919; Bilhete FT COR-PEN / 3ªIDADE;True;False;True
+ id-prod-15-32920; Bilhete FT COR-PEN / REF.PENS;True;False;True
+ id-prod-15-32921; Bilhete FT PRG-PEN;True;False;False
+ id-prod-15-32922; Bilhete FT PRG-PEN / CRIANÇA;True;True;False
+ id-prod-15-32923; Bilhete FT PRG-PEN / 3ªIDADE;True;False;True
+ id-prod-15-32924; Bilhete FT PRG-PEN / REF.PENS;True;False;True
+ id-prod-15-32925; Bilhete FT LIS-PEN;True;False;False
+ id-prod-15-32926; Bilhete FT LIS-PEN / CRIANÇA;True;True;False
+ id-prod-15-32927; Bilhete FT LIS-PEN / 3ªIDADE;True;False;True
+ id-prod-15-32928; Bilhete FT LIS-PEN / REF.PENS;True;False;True
+ id-prod-15-32929; Bilhete FT FOG-COI;True;False;False
+ id-prod-15-32930; Bilhete FT FOG-COI / CRIANÇA;True;True;False
+ id-prod-15-32931; Bilhete FT FOG-COI / 3ªIDADE;True;False;True
+ id-prod-15-32932; Bilhete FT FOG-COI / REF.PENS;True;False;True
+ id-prod-15-32933; Bilhete FT FRA-COI;True;False;False
+ id-prod-15-32934; Bilhete FT FRA-COI / CRIANÇA;True;True;False
+ id-prod-15-32935; Bilhete FT FRA-COI / 3ªIDADE;True;False;True
+ id-prod-15-32936; Bilhete FT FRA-COI / REF.PENS;True;False;True
+ id-prod-15-32937; Bilhete FT COR-COI;True;False;False
+ id-prod-15-32938; Bilhete FT COR-COI / CRIANÇA;True;True;False
+ id-prod-15-32939; Bilhete FT COR-COI / 3ªIDADE;True;False;True
+ id-prod-15-32940; Bilhete FT COR-COI / REF.PENS;True;False;True
+ id-prod-15-32941; Bilhete FT PRG-COI;True;False;False
+ id-prod-15-32942; Bilhete FT PRG-COI / CRIANÇA;True;True;False
+ id-prod-15-32943; Bilhete FT PRG-COI / 3ªIDADE;True;False;True
+ id-prod-15-32944; Bilhete FT PRG-COI / REF.PENS;True;False;True
+ id-prod-15-32945; Bilhete FT LIS-COI;True;False;False
+ id-prod-15-32946; Bilhete FT LIS-COI / CRIANÇA;True;True;False
+ id-prod-15-32947; Bilhete FT LIS-COI / 3ªIDADE;True;False;True
+ id-prod-15-32948; Bilhete FT LIS-COI / REF.PENS;True;False;True
+ id-prod-15-32949; Bilhete FT FOG-FRA;True;False;False
+ id-prod-15-32950; Bilhete FT FOG-FRA / CRIANÇA;True;True;False
+ id-prod-15-32951; Bilhete FT FOG-FRA / 3ªIDADE;True;False;True
+ id-prod-15-32952; Bilhete FT FOG-FRA / REF.PENS;True;False;True
+ id-prod-15-32953; Bilhete FT FOG-COR;True;False;False
+ id-prod-15-32954; Bilhete FT FOG-COR / CRIANÇA;True;True;False
+ id-prod-15-32955; Bilhete FT FOG-COR / 3ªIDADE;True;False;True
+ id-prod-15-32956; Bilhete FT FOG-COR / REF.PENS;True;False;True
+ id-prod-15-32957; Bilhete FT FOG-PRG;True;False;False
+ id-prod-15-32958; Bilhete FT FOG-PRG / CRIANÇA;True;True;False
+ id-prod-15-32959; Bilhete FT FOG-PRG / 3ªIDADE;True;False;True
+ id-prod-15-32960; Bilhete FT FOG-PRG / REF.PENS;True;False;True
+ id-prod-15-32961; Bilhete FT FOG-LIS;True;False;False
+ id-prod-15-32962; Bilhete FT FOG-LIS / CRIANÇA;True;True;False
+ id-prod-15-32963; Bilhete FT FOG-LIS / 3ªIDADE;True;False;True
+ id-prod-15-32964; Bilhete FT FOG-LIS / REF.PENS;True;False;True
+ id-prod-15-32965; Bilhete FT FRA-COR;True;False;False
+ id-prod-15-32966; Bilhete FT FRA-COR / CRIANÇA;True;True;False
+ id-prod-15-32967; Bilhete FT FRA-COR / 3ªIDADE;True;False;True
+ id-prod-15-32968; Bilhete FT FRA-COR / REF.PENS;True;False;True
+ id-prod-15-32969; Bilhete FT FRA-PRG;True;False;False
+ id-prod-15-32970; Bilhete FT FRA-PRG / CRIANÇA;True;True;False
+ id-prod-15-32971; Bilhete FT FRA-PRG / 3ªIDADE;True;False;True
+ id-prod-15-32972; Bilhete FT FRA-PRG / REF.PENS;True;False;True
+ id-prod-15-32973; Bilhete FT FRA-LIS;True;False;False
+ id-prod-15-32974; Bilhete FT FRA-LIS / CRIANÇA;True;True;False
+ id-prod-15-32975; Bilhete FT FRA-LIS / 3ªIDADE;True;False;True
+ id-prod-15-32976; Bilhete FT FRA-LIS / REF.PENS;True;False;True
+ id-prod-15-32977; Bilhete FT COR-PRG;True;False;False
+ id-prod-15-32978; Bilhete FT COR-PRG / CRIANÇA;True;True;False
+ id-prod-15-32979; Bilhete FT COR-PRG / 3ªIDADE;True;False;True
+ id-prod-15-32980; Bilhete FT COR-PRG / REF.PENS;True;False;True
+ id-prod-15-32981; Bilhete FT COR-LIS;True;False;False
+ id-prod-15-32982; Bilhete FT COR-LIS / CRIANÇA;True;True;False
+ id-prod-15-32983; Bilhete FT COR-LIS / 3ªIDADE;True;False;True
+ id-prod-15-32984; Bilhete FT COR-LIS / REF.PENS;True;False;True
+ id-prod-15-32985; Bilhete FT PRG-LIS;True;False;False
+ id-prod-15-32986; Bilhete FT PRG-LIS / CRIANÇA;True;True;False
+ id-prod-15-32987; Bilhete FT PRG-LIS / 3ªIDADE;True;False;True
+ id-prod-15-32988; Bilhete FT PRG-LIS / REF.PENS;True;False;True
+ id-prod-15-32989; Bilhete FT CAE-LIS;True;False;False
+ id-prod-15-32990; Bilhete FT CAE-LIS / CRIANÇA;True;True;False
+ id-prod-15-32991; Bilhete FT CAE-LIS / 3ªIDADE;True;False;True
+ id-prod-15-32992; Bilhete FT CAE-LIS / REF.PENS;True;False;True
+ id-prod-15-33805; Bilhete Eventual FT VAL-SET;True;False;False
+ id-prod-15-33809; Bilhete Eventual FT PNV-SET;True;False;False
+ id-prod-15-33813; Bilhete Eventual FT PEN-SET;True;False;False
+ id-prod-15-33817; Bilhete Eventual FT COI-SET;True;False;False
+ id-prod-15-33821; Bilhete Eventual FT FOG-SET;True;False;False
+ id-prod-15-33825; Bilhete Eventual FT FRA-SET;True;False;False
+ id-prod-15-33829; Bilhete Eventual FT COR-SET;True;False;False
+ id-prod-15-33833; Bilhete Eventual FT PRG-SET;True;False;False
+ id-prod-15-33837; Bilhete Eventual FT LIS-SET;True;False;False
+ id-prod-15-33841; Bilhete Eventual FT VAL-PAL;True;False;False
+ id-prod-15-33845; Bilhete Eventual FT PNV-PAL;True;False;False
+ id-prod-15-33849; Bilhete Eventual FT PEN-PAL;True;False;False
+ id-prod-15-33853; Bilhete Eventual FT COI-PAL;True;False;False
+ id-prod-15-33857; Bilhete Eventual FT FOG-PAL;True;False;False
+ id-prod-15-33861; Bilhete Eventual FT FRA-PAL;True;False;False
+ id-prod-15-33865; Bilhete Eventual FT COR-PAL;True;False;False
+ id-prod-15-33869; Bilhete Eventual FT PRG-PAL;True;False;False
+ id-prod-15-33873; Bilhete Eventual FT LIS-PAL;True;False;False
+ id-prod-15-33801; Bilhete Eventual FT SET-PAL;True;False;False
+ id-prod-15-33877; Bilhete Eventual FT PNV-VAL;True;False;False
+ id-prod-15-33881; Bilhete Eventual FT PEN-VAL;True;False;False
+ id-prod-15-33885; Bilhete Eventual FT COI-VAL;True;False;False
+ id-prod-15-33889; Bilhete Eventual FT FOG-VAL;True;False;False
+ id-prod-15-33893; Bilhete Eventual FT FRA-VAL;True;False;False
+ id-prod-15-33897; Bilhete Eventual FT COR-VAL;True;False;False
+ id-prod-15-33901; Bilhete Eventual FT PRG-VAL;True;False;False
+ id-prod-15-33905; Bilhete Eventual FT LIS-VAL;True;False;False
+ id-prod-15-33909; Bilhete Eventual FT PEN-PNV;True;False;False
+ id-prod-15-33913; Bilhete Eventual FT COI-PNV;True;False;False
+ id-prod-15-33917; Bilhete Eventual FT FOG-PNV;True;False;False
+ id-prod-15-33921; Bilhete Eventual FT FRA-PNV;True;False;False
+ id-prod-15-33925; Bilhete Eventual FT COR-PNV;True;False;False
+ id-prod-15-33929; Bilhete Eventual FT PRG-PNV;True;False;False
+ id-prod-15-33933; Bilhete Eventual FT LIS-PNV;True;False;False
+ id-prod-15-33937; Bilhete Eventual FT COI-PEN;True;False;False
+ id-prod-15-33941; Bilhete Eventual FT FOG-PEN;True;False;False
+ id-prod-15-33945; Bilhete Eventual FT FRA-PEN;True;False;False
+ id-prod-15-33949; Bilhete Eventual FT COR-PEN;True;False;False
+ id-prod-15-33953; Bilhete Eventual FT PRG-PEN;True;False;False
+ id-prod-15-33957; Bilhete Eventual FT LIS-PEN;True;False;False
+ id-prod-15-33961; Bilhete Eventual FT FOG-COI;True;False;False
+ id-prod-15-33965; Bilhete Eventual FT FRA-COI;True;False;False
+ id-prod-15-33969; Bilhete Eventual FT COR-COI;True;False;False
+ id-prod-15-33973; Bilhete Eventual FT PRG-COI;True;False;False
+ id-prod-15-33977; Bilhete Eventual FT LIS-COI;True;False;False
+ id-prod-15-33981; Bilhete Eventual FT FOG-FRA;True;False;False
+ id-prod-15-33985; Bilhete Eventual FT FOG-COR;True;False;False
+ id-prod-15-33989; Bilhete Eventual FT FOG-PRG;True;False;False
+ id-prod-15-33993; Bilhete Eventual FT FOG-LIS;True;False;False
+ id-prod-15-33997; Bilhete Eventual FT FRA-COR;True;False;False
+ id-prod-15-34001; Bilhete Eventual FT FRA-PRG;True;False;False
+ id-prod-15-34005; Bilhete Eventual FT FRA-LIS;True;False;False
+ id-prod-15-34009; Bilhete Eventual FT COR-PRG;True;False;False
+ id-prod-15-34013; Bilhete Eventual FT COR-LIS;True;False;False
+ id-prod-15-34017; Bilhete Eventual FT PRG-LIS;True;False;False
+ id-prod-15-34021; Bilhete Eventual FT CAE-LIS;True;False;False
+ id-prod-15-49155; Pré-Comprado PE FOG;True;False;False
+ id-prod-15-49156; Pré-Comprado PE FRA;True;False;False
+ id-prod-15-49157; Pré-Comprado PE COR;True;False;False
+ id-prod-15-49158; Pré-Comprado PE PRG;True;False;False
+ id-prod-15-49159; Pré-Comprado AS FOG;True;False;False
+ id-prod-15-49160; Pré-Comprado AS FRA;True;False;False
+ id-prod-15-49161; Pré-Comprado AS PRG;True;False;False
+ id-prod-15-49472; Bilhete Eventual PE FOG;True;False;False
+ id-prod-15-49473; Bilhete Eventual PE FRA;True;False;False
+ id-prod-15-49474; Bilhete Eventual PE COR;True;False;False
+ id-prod-15-49475; Bilhete Eventual PE PRG;True;False;False
+ id-prod-15-49476; Bilhete Eventual PE COI;True;False;False
+ id-prod-15-49477; Bilhete Eventual PE PEN;True;False;False
+ id-prod-15-49478; Bilhete Eventual AS FOG;True;False;False
+ id-prod-15-49479; Bilhete Eventual AS FRA;True;False;False
+ id-prod-15-49480; Bilhete Eventual AS PRG;True;False;False
+ id-prod-15-6000; Complemento de Percurso FT PAL-SET;True;False;False
+ id-prod-15-60016; Complemento de PercursoFT COI-SET;True;False;False
+ id-prod-15-60036; Complemento de Percurso FT LIS-SET;True;False;False
+ id-prod-15-60052; Complemento de Percurso FT COI-PAL;True;False;False
+ id-prod-15-60072; Complemento de Percurso FT LIS-PAL;True;False;False
+ id-prod-15-60084; Complemento de Percurso FT COI-VAL;True;False;False
+ id-prod-15-60104; Complemento de Percurso FT LIS-VAL;True;False;False
+ id-prod-15-60112; Complemento de Percurso FT COI-PNV;True;False;False
+ id-prod-15-60132; Complemento de Percurso FT LIS-PNV;True;False;False
+ id-prod-15-60136; Complemento de Percurso FT COI-PEN;True;False;False
+ id-prod-15-60140; Complemento de Percurso FT FOG-PEN;True;False;False
+ id-prod-15-60144; Complemento de Percurso FT FRA-PEN;True;False;False
+ id-prod-15-60148; Complemento de Percurso FT COR-PEN;True;False;False
+ id-prod-15-60152; Complemento de Percurso FT PRG-PEN;True;False;False
+ id-prod-15-60156; Complemento de Percurso FT LIS-PEN;True;False;False
+ id-prod-15-60176; Complemento de Percurso FT LIS-COI;True;False;False
+ id-prod-15-60192; Complemento de Percurso FT FOG-LIS;True;False;False
+ id-prod-15-60204; Complemento de Percurso FT FRA-LIS;True;False;False
+ id-prod-15-60208; Complemento de Percurso FT COR-PRG;True;False;False
+ id-prod-15-60212; Complemento de Percurso FT COR-LIS;True;False;False
+ id-prod-15-60216; Complemento de Percurso FT PRG-LIS;True;False;False
+ id-prod-15-49169; Bilhete Grupo FT PAL-SET;True;False;False
+ id-prod-15-49170; Bilhete Grupo FT PAL-SET / CRIANÇA;True;True;False
+ id-prod-15-49171; Bilhete Grupo FT PAL-SET / 3ªIDADE;True;False;True
+ id-prod-15-49172; Bilhete Grupo FT PAL-SET / REF.PENS;True;False;True
+ id-prod-15-49173; Bilhete Grupo FT VAL-SET;True;False;False
+ id-prod-15-49174; Bilhete Grupo FT VAL-SET / CRIANÇA;True;True;False
+ id-prod-15-49175; Bilhete Grupo FT VAL-SET / 3ªIDADE;True;False;True
+ id-prod-15-49176; Bilhete Grupo FT VAL-SET / REF.PENS;True;False;True
+ id-prod-15-49177; Bilhete Grupo FT PNV-SET;True;False;False
+ id-prod-15-49178; Bilhete Grupo FT PNV-SET / CRIANÇA;True;True;False
+ id-prod-15-49179; Bilhete Grupo FT PNV-SET / 3ªIDADE;True;False;True
+ id-prod-15-49180; Bilhete Grupo FT PNV-SET / REF.PENS;True;False;True
+ id-prod-15-49181; Bilhete Grupo FT PEN-SET;True;False;False
+ id-prod-15-49182; Bilhete Grupo FT PEN-SET / CRIANÇA;True;True;False
+ id-prod-15-49183; Bilhete Grupo FT PEN-SET / 3ªIDADE;True;False;True
+ id-prod-15-49184; Bilhete Grupo FT PEN-SET / REF.PENS;True;False;True
+ id-prod-15-49185; Bilhete Grupo FT COI-SET;True;False;False
+ id-prod-15-49186; Bilhete Grupo FT COI-SET / CRIANÇA;True;True;False
+ id-prod-15-49187; Bilhete Grupo FT COI-SET / 3ªIDADE;True;False;True
+ id-prod-15-49188; Bilhete Grupo FT COI-SET / REF.PENS;True;False;True
+ id-prod-15-49189; Bilhete Grupo FT FOG-SET;True;False;False
+ id-prod-15-49190; Bilhete Grupo FT FOG-SET / CRIANÇA;True;True;False
+ id-prod-15-49191; Bilhete Grupo FT FOG-SET / 3ªIDADE;True;False;True
+ id-prod-15-49192; Bilhete Grupo FT FOG-SET / REF.PENS;True;False;True
+ id-prod-15-49193; Bilhete Grupo FT FRA-SET;True;False;False
+ id-prod-15-49194; Bilhete Grupo FT FRA-SET / CRIANÇA;True;True;False
+ id-prod-15-49195; Bilhete Grupo FT FRA-SET / 3ªIDADE;True;False;True
+ id-prod-15-49196; Bilhete Grupo FT FRA-SET / REF.PENS;True;False;True
+ id-prod-15-49197; Bilhete Grupo FT COR-SET;True;False;False
+ id-prod-15-49198; Bilhete Grupo FT COR-SET / CRIANÇA;True;True;False
+ id-prod-15-49199; Bilhete Grupo FT COR-SET / 3ªIDADE;True;False;True
+ id-prod-15-49200; Bilhete Grupo FT COR-SET / REF.PENS;True;False;True
+ id-prod-15-49201; Bilhete Grupo FT PRG-SET;True;False;False
+ id-prod-15-49202; Bilhete Grupo FT PRG-SET / CRIANÇA;True;True;False
+ id-prod-15-49203; Bilhete Grupo FT PRG-SET / 3ªIDADE;True;False;True
+ id-prod-15-49204; Bilhete Grupo FT PRG-SET / REF.PENS;True;False;True
+ id-prod-15-49205; Bilhete Grupo FT LIS-SET;True;False;False
+ id-prod-15-49206; Bilhete Grupo FT LIS-SET / CRIANÇA;True;True;False
+ id-prod-15-49207; Bilhete Grupo FT LIS-SET / 3ªIDADE;True;False;True
+ id-prod-15-49208; Bilhete Grupo FT LIS-SET / REF.PENS;True;False;True
+ id-prod-15-49209; Bilhete Grupo FT VAL-PAL;True;False;False
+ id-prod-15-49210; Bilhete Grupo FT VAL-PAL / CRIANÇA;True;True;False
+ id-prod-15-49211; Bilhete Grupo FT VAL-PAL / 3ªIDADE;True;False;True
+ id-prod-15-49212; Bilhete Grupo FT VAL-PAL / REF.PENS;True;False;True
+ id-prod-15-49213; Bilhete Grupo FT PNV-PAL;True;False;False
+ id-prod-15-49214; Bilhete Grupo FT PNV-PAL / CRIANÇA;True;True;False
+ id-prod-15-49215; Bilhete Grupo FT PNV-PAL / 3ªIDADE;True;False;True
+ id-prod-15-49216; Bilhete Grupo FT PNV-PAL / REF.PENS;True;False;True
+ id-prod-15-49217; Bilhete Grupo FT PEN-PAL;True;False;False
+ id-prod-15-49218; Bilhete Grupo FT PEN-PAL / CRIANÇA;True;True;False
+ id-prod-15-49219; Bilhete Grupo FT PEN-PAL / 3ªIDADE;True;False;True
+ id-prod-15-49220; Bilhete Grupo FT PEN-PAL / REF.PENS;True;False;True
+ id-prod-15-49221; Bilhete Grupo FT COI-PAL;True;False;False
+ id-prod-15-49222; Bilhete Grupo FT COI-PAL / CRIANÇA;True;True;False
+ id-prod-15-49223; Bilhete Grupo FT COI-PAL / 3ªIDADE;True;False;True
+ id-prod-15-49224; Bilhete Grupo FT COI-PAL / REF.PENS;True;False;True
+ id-prod-15-49225; Bilhete Grupo FT FOG-PAL;True;False;False
+ id-prod-15-49226; Bilhete Grupo FT FOG-PAL / CRIANÇA;True;True;False
+ id-prod-15-49227; Bilhete Grupo FT FOG-PAL / 3ªIDADE;True;False;True
+ id-prod-15-49228; Bilhete Grupo FT FOG-PAL / REF.PENS;True;False;True
+ id-prod-15-49229; Bilhete Grupo FT FRA-PAL;True;False;False
+ id-prod-15-49230; Bilhete Grupo FT FRA-PAL / CRIANÇA;True;True;False
+ id-prod-15-49231; Bilhete Grupo FT FRA-PAL / 3ªIDADE;True;False;True
+ id-prod-15-49232; Bilhete Grupo FT FRA-PAL / REF.PENS;True;False;True
+ id-prod-15-49233; Bilhete Grupo FT COR-PAL;True;False;False
+ id-prod-15-49234; Bilhete Grupo FT COR-PAL / CRIANÇA;True;True;False
+ id-prod-15-49235; Bilhete Grupo FT COR-PAL / 3ªIDADE;True;False;True
+ id-prod-15-49236; Bilhete Grupo FT COR-PAL / REF.PENS;True;False;True
+ id-prod-15-49237; Bilhete Grupo FT PRG-PAL;True;False;False
+ id-prod-15-49238; Bilhete Grupo FT PRG-PAL / CRIANÇA;True;True;False
+ id-prod-15-49239; Bilhete Grupo FT PRG-PAL / 3ªIDADE;True;False;True
+ id-prod-15-49240; Bilhete Grupo FT PRG-PAL / REF.PENS;True;False;True
+ id-prod-15-49241; Bilhete Grupo FT LIS-PAL;True;False;False
+ id-prod-15-49242; Bilhete Grupo FT LIS-PAL / CRIANÇA;True;True;False
+ id-prod-15-49243; Bilhete Grupo FT LIS-PAL / 3ªIDADE;True;False;True
+ id-prod-15-49244; Bilhete Grupo FT LIS-PAL / REF.PENS;True;False;True
+ id-prod-15-49245; Bilhete Grupo FT PNV-VAL;True;False;False
+ id-prod-15-49246; Bilhete Grupo FT PNV-VAL / CRIANÇA;True;True;False
+ id-prod-15-49247; Bilhete Grupo FT PNV-VAL / 3ªIDADE;True;False;True
+ id-prod-15-49248; Bilhete Grupo FT PNV-VAL / REF.PENS;True;False;True
+ id-prod-15-49249; Bilhete Grupo FT PEN-VAL;True;False;False
+ id-prod-15-49250; Bilhete Grupo FT PEN-VAL / CRIANÇA;True;True;False
+ id-prod-15-49251; Bilhete Grupo FT PEN-VAL / 3ªIDADE;True;False;True
+ id-prod-15-49252; Bilhete Grupo FT PEN-VAL / REF.PENS;True;False;True
+ id-prod-15-49253; Bilhete Grupo FT COI-VAL;True;False;False
+ id-prod-15-49254; Bilhete Grupo FT COI-VAL / CRIANÇA;True;True;False
+ id-prod-15-49255; Bilhete Grupo FT COI-VAL / 3ªIDADE;True;False;True
+ id-prod-15-49256; Bilhete Grupo FT COI-VAL / REF.PENS;True;False;True
+ id-prod-15-49257; Bilhete Grupo FT FOG-VAL;True;False;False
+ id-prod-15-49258; Bilhete Grupo FT FOG-VAL / CRIANÇA;True;True;False
+ id-prod-15-49259; Bilhete Grupo FT FOG-VAL / 3ªIDADE;True;False;True
+ id-prod-15-49260; Bilhete Grupo FT FOG-VAL / REF.PENS;True;False;True
+ id-prod-15-49261; Bilhete Grupo FT FRA-VAL;True;False;False
+ id-prod-15-49262; Bilhete Grupo FT FRA-VAL / CRIANÇA;True;True;False
+ id-prod-15-49263; Bilhete Grupo FT FRA-VAL / 3ªIDADE;True;False;True
+ id-prod-15-49264; Bilhete Grupo FT FRA-VAL / REF.PENS;True;False;True
+ id-prod-15-49265; Bilhete Grupo FT COR-VAL;True;False;False
+ id-prod-15-49266; Bilhete Grupo FT COR-VAL / CRIANÇA;True;True;False
+ id-prod-15-49267; Bilhete Grupo FT COR-VAL / 3ªIDADE;True;False;True
+ id-prod-15-49268; Bilhete Grupo FT COR-VAL / REF.PENS;True;False;True
+ id-prod-15-49269; Bilhete Grupo FT PRG-VAL;True;False;False
+ id-prod-15-49270; Bilhete Grupo FT PRG-VAL / CRIANÇA;True;True;False
+ id-prod-15-49271; Bilhete Grupo FT PRG-VAL / 3ªIDADE;True;False;True
+ id-prod-15-49272; Bilhete Grupo FT PRG-VAL / REF.PENS;True;False;True
+ id-prod-15-49273; Bilhete Grupo FT LIS-VAL;True;False;False
+ id-prod-15-49274; Bilhete Grupo FT LIS-VAL / CRIANÇA;True;True;False
+ id-prod-15-49275; Bilhete Grupo FT LIS-VAL / 3ªIDADE;True;False;True
+ id-prod-15-49276; Bilhete Grupo FT LIS-VAL / REF.PENS;True;False;True
+ id-prod-15-49277; Bilhete Grupo FT PEN-PNV;True;False;False
+ id-prod-15-49278; Bilhete Grupo FT PEN-PNV / CRIANÇA;True;True;False
+ id-prod-15-49279; Bilhete Grupo FT PEN-PNV / 3ªIDADE;True;False;True
+ id-prod-15-49280; Bilhete Grupo FT PEN-PNV / REF.PENS;True;False;True
+ id-prod-15-49281; Bilhete Grupo FT COI-PNV;True;False;False
+ id-prod-15-49282; Bilhete Grupo FT COI-PNV / CRIANÇA;True;True;False
+ id-prod-15-49283; Bilhete Grupo FT COI-PNV / 3ªIDADE;True;False;True
+ id-prod-15-49284; Bilhete Grupo FT COI-PNV / REF.PENS;True;False;True
+ id-prod-15-49285; Bilhete Grupo FT FOG-PNV;True;False;False
+ id-prod-15-49286; Bilhete Grupo FT FOG-PNV / CRIANÇA;True;True;False
+ id-prod-15-49287; Bilhete Grupo FT FOG-PNV / 3ªIDADE;True;False;True
+ id-prod-15-49288; Bilhete Grupo FT FOG-PNV / REF.PENS;True;False;True
+ id-prod-15-49289; Bilhete Grupo FT FRA-PNV;True;False;False
+ id-prod-15-49290; Bilhete Grupo FT FRA-PNV / CRIANÇA;True;True;False
+ id-prod-15-49291; Bilhete Grupo FT FRA-PNV / 3ªIDADE;True;False;True
+ id-prod-15-49292; Bilhete Grupo FT FRA-PNV / REF.PENS;True;False;True
+ id-prod-15-49293; Bilhete Grupo FT COR-PNV;True;False;False
+ id-prod-15-49294; Bilhete Grupo FT COR-PNV / CRIANÇA;True;True;False
+ id-prod-15-49295; Bilhete Grupo FT COR-PNV / 3ªIDADE;True;False;True
+ id-prod-15-49296; Bilhete Grupo FT COR-PNV / REF.PENS;True;False;True
+ id-prod-15-49297; Bilhete Grupo FT PRG-PNV;True;False;False
+ id-prod-15-49298; Bilhete Grupo FT PRG-PNV / CRIANÇA;True;True;False
+ id-prod-15-49299; Bilhete Grupo FT PRG-PNV / 3ªIDADE;True;False;True
+ id-prod-15-49300; Bilhete Grupo FT PRG-PNV / REF.PENS;True;False;True
+ id-prod-15-49301; Bilhete Grupo FT LIS-PNV;True;False;False
+ id-prod-15-49302; Bilhete Grupo FT LIS-PNV / CRIANÇA;True;True;False
+ id-prod-15-49303; Bilhete Grupo FT LIS-PNV / 3ªIDADE;True;False;True
+ id-prod-15-49304; Bilhete Grupo FT LIS-PNV / REF.PENS;True;False;True
+ id-prod-15-49305; Bilhete Grupo FT COI-PEN;True;False;False
+ id-prod-15-49306; Bilhete Grupo FT COI-PEN / CRIANÇA;True;True;False
+ id-prod-15-49307; Bilhete Grupo FT COI-PEN / 3ªIDADE;True;False;True
+ id-prod-15-49308; Bilhete Grupo FT COI-PEN / REF.PENS;True;False;True
+ id-prod-15-49309; Bilhete Grupo FT FOG-PEN;True;False;False
+ id-prod-15-49310; Bilhete Grupo FT FOG-PEN / CRIANÇA;True;True;False
+ id-prod-15-49311; Bilhete Grupo FT FOG-PEN / 3ªIDADE;True;False;True
+ id-prod-15-49312; Bilhete Grupo FT FOG-PEN / REF.PENS;True;False;True
+ id-prod-15-49313; Bilhete Grupo FT FRA-PEN;True;False;False
+ id-prod-15-49314; Bilhete Grupo FT FRA-PEN / CRIANÇA;True;True;False
+ id-prod-15-49315; Bilhete Grupo FT FRA-PEN / 3ªIDADE;True;False;True
+ id-prod-15-49316; Bilhete Grupo FT FRA-PEN / REF.PENS;True;False;True
+ id-prod-15-49317; Bilhete Grupo FT COR-PEN;True;False;False
+ id-prod-15-49318; Bilhete Grupo FT COR-PEN / CRIANÇA;True;True;False
+ id-prod-15-49319; Bilhete Grupo FT COR-PEN / 3ªIDADE;True;False;True
+ id-prod-15-49320; Bilhete Grupo FT COR-PEN / REF.PENS;True;False;True
+ id-prod-15-49321; Bilhete Grupo FT PRG-PEN;True;False;False
+ id-prod-15-49322; Bilhete Grupo FT PRG-PEN / CRIANÇA;True;True;False
+ id-prod-15-49323; Bilhete Grupo FT PRG-PEN / 3ªIDADE;True;False;True
+ id-prod-15-49324; Bilhete Grupo FT PRG-PEN / REF.PENS;True;False;True
+ id-prod-15-49325; Bilhete Grupo FT LIS-PEN;True;False;False
+ id-prod-15-49326; Bilhete Grupo FT LIS-PEN / CRIANÇA;True;True;False
+ id-prod-15-49327; Bilhete Grupo FT LIS-PEN / 3ªIDADE;True;False;True
+ id-prod-15-49328; Bilhete Grupo FT LIS-PEN / REF.PENS;True;False;True
+ id-prod-15-49329; Bilhete Grupo FT FOG-COI;True;False;False
+ id-prod-15-49330; Bilhete Grupo FT FOG-COI / CRIANÇA;True;True;False
+ id-prod-15-49331; Bilhete Grupo FT FOG-COI / 3ªIDADE;True;False;True
+ id-prod-15-49332; Bilhete Grupo FT FOG-COI / REF.PENS;True;False;True
+ id-prod-15-49333; Bilhete Grupo FT FRA-COI;True;False;False
+ id-prod-15-49334; Bilhete Grupo FT FRA-COI / CRIANÇA;True;True;False
+ id-prod-15-49335; Bilhete Grupo FT FRA-COI / 3ªIDADE;True;False;True
+ id-prod-15-49336; Bilhete Grupo FT FRA-COI / REF.PENS;True;False;True
+ id-prod-15-49337; Bilhete Grupo FT COR-COI;True;False;False
+ id-prod-15-49338; Bilhete Grupo FT COR-COI / CRIANÇA;True;True;False
+ id-prod-15-49339; Bilhete Grupo FT COR-COI / 3ªIDADE;True;False;True
+ id-prod-15-49340; Bilhete Grupo FT COR-COI / REF.PENS;True;False;True
+ id-prod-15-49341; Bilhete Grupo FT PRG-COI;True;False;False
+ id-prod-15-49342; Bilhete Grupo FT PRG-COI / CRIANÇA;True;True;False
+ id-prod-15-49343; Bilhete Grupo FT PRG-COI / 3ªIDADE;True;False;True
+ id-prod-15-49344; Bilhete Grupo FT PRG-COI / REF.PENS;True;False;True
+ id-prod-15-49345; Bilhete Grupo FT LIS-COI;True;False;False
+ id-prod-15-49346; Bilhete Grupo FT LIS-COI / CRIANÇA;True;True;False
+ id-prod-15-49347; Bilhete Grupo FT LIS-COI / 3ªIDADE;True;False;True
+ id-prod-15-49348; Bilhete Grupo FT LIS-COI / REF.PENS;True;False;True
+ id-prod-15-49349; Bilhete Grupo FT FOG-FRA;True;False;False
+ id-prod-15-49350; Bilhete Grupo FT FOG-FRA / CRIANÇA;True;True;False
+ id-prod-15-49351; Bilhete Grupo FT FOG-FRA / 3ªIDADE;True;False;True
+ id-prod-15-49352; Bilhete Grupo FT FOG-FRA / REF.PENS;True;False;True
+ id-prod-15-49353; Bilhete Grupo FT FOG-COR;True;False;False
+ id-prod-15-49354; Bilhete Grupo FT FOG-COR / CRIANÇA;True;True;False
+ id-prod-15-49355; Bilhete Grupo FT FOG-COR / 3ªIDADE;True;False;True
+ id-prod-15-49356; Bilhete Grupo FT FOG-COR / REF.PENS;True;False;True
+ id-prod-15-49357; Bilhete Grupo FT FOG-PRG;True;False;False
+ id-prod-15-49358; Bilhete Grupo FT FOG-PRG / CRIANÇA;True;True;False
+ id-prod-15-49359; Bilhete Grupo FT FOG-PRG / 3ªIDADE;True;False;True
+ id-prod-15-49360; Bilhete Grupo FT FOG-PRG / REF.PENS;True;False;True
+ id-prod-15-49361; Bilhete Grupo FT FOG-LIS;True;False;False
+ id-prod-15-49362; Bilhete Grupo FT FOG-LIS / CRIANÇA;True;True;False
+ id-prod-15-49363; Bilhete Grupo FT FOG-LIS / 3ªIDADE;True;False;True
+ id-prod-15-49364; Bilhete Grupo FT FOG-LIS / REF.PENS;True;False;True
+ id-prod-15-49365; Bilhete Grupo FT FRA-COR;True;False;False
+ id-prod-15-49366; Bilhete Grupo FT FRA-COR / CRIANÇA;True;True;False
+ id-prod-15-49367; Bilhete Grupo FT FRA-COR / 3ªIDADE;True;False;True
+ id-prod-15-49368; Bilhete Grupo FT FRA-COR / REF.PENS;True;False;True
+ id-prod-15-49369; Bilhete Grupo FT FRA-PRG;True;False;False
+ id-prod-15-49370; Bilhete Grupo FT FRA-PRG / CRIANÇA;True;True;False
+ id-prod-15-49371; Bilhete Grupo FT FRA-PRG / 3ªIDADE;True;False;True
+ id-prod-15-49372; Bilhete Grupo FT FRA-PRG / REF.PENS;True;False;True
+ id-prod-15-49373; Bilhete Grupo FT FRA-LIS;True;False;False
+ id-prod-15-49374; Bilhete Grupo FT FRA-LIS / CRIANÇA;True;True;False
+ id-prod-15-49375; Bilhete Grupo FT FRA-LIS / 3ªIDADE;True;False;True
+ id-prod-15-49376; Bilhete Grupo FT FRA-LIS / REF.PENS;True;False;True
+ id-prod-15-49377; Bilhete Grupo FT COR-PRG;True;False;False
+ id-prod-15-49378; Bilhete Grupo FT COR-PRG / CRIANÇA;True;True;False
+ id-prod-15-49379; Bilhete Grupo FT COR-PRG / 3ªIDADE;True;False;True
+ id-prod-15-49380; Bilhete Grupo FT COR-PRG / REF.PENS;True;False;True
+ id-prod-15-49381; Bilhete Grupo FT COR-LIS;True;False;False
+ id-prod-15-49382; Bilhete Grupo FT COR-LIS / CRIANÇA;True;True;False
+ id-prod-15-49383; Bilhete Grupo FT COR-LIS / 3ªIDADE;True;False;True
+ id-prod-15-49384; Bilhete Grupo FT COR-LIS / REF.PENS;True;False;True
+ id-prod-15-49385; Bilhete Grupo FT PRG-LIS;True;False;False
+ id-prod-15-49386; Bilhete Grupo FT PRG-LIS / CRIANÇA;True;True;False
+ id-prod-15-49387; Bilhete Grupo FT PRG-LIS / 3ªIDADE;True;False;True
+ id-prod-15-49388; Bilhete Grupo FT PRG-LIS / REF.PENS;True;False;True
+ id-prod-15-49389; Bilhete Grupo FT CAE-LIS;True;False;False
+ id-prod-15-49390; Bilhete Grupo FT CAE-LIS / CRIANÇA;True;True;False
+ id-prod-15-49391; Bilhete Grupo FT CAE-LIS / 3ªIDADE;True;False;True
+ id-prod-15-49392; Bilhete Grupo FT CAE-LIS / REF.PENS;True;False;True
+ id-prod-rotativo-pe-1dia; Rotativo - PE - 1º Dia;True;False;False
+ id-prod-rotativo-pe-rest-dias; Rotativo - PE - Restantes Dias;True;False;False
+ id-prod-rotativo-pe-1dia-df; Rotativo - PE - 1º Dia Desconto FT;True;False;False
+ id-prod-rotativo-pe-rest-dias-df; Rotativo - PE - Rest dias Desconto FT - Diario;True;False;False
+ id-prod-rotativo-pe-1dia-dcp; Rotativo - PE - 1º Dia Desconto CP;True;False;False
+ id-prod-rotativo-pe-rest-dias-dcp; Rotativo - PE - Rest dias Desconto CP - Diario;True;False;False
+ id-prod-rotativo-as-1dia; Rotativo - AS - 1º Dia;True;False;False
+ id-prod-rotativo-as-rest-dias; Rotativo - AS - Rest Dias - Diario;True;False;False
+ id-prod-rotativo-as-1dia-df; Rotativo - AS - 1º Dia Desconto Fertagus;True;False;False
+ id-prod-rotativo-as-rest-dias-df; Rotativo - AS - Rest dias Desconto FT - Diario;True;False;False
+ id-prod-rotativo-as-1dia-dcp; Rotativo - AS - 1º Dia Desconto CP;True;False;False
+ id-prod-rotativo-as-rest-dias-dcp; Rotativo - AS - Rest dias Desconto CP - Diario;True;False;False
+ id-prod-ft-livre-transito-sft; Livre Trânsito SFT;True;False;False
+ id-prod-ft-livre-transito-trab; Livre Trânsito Trabalhador FT;True;False;False
+ id-prod-ft-livre-transito; Livre Trânsito FT;True;False;False
+ id-prod-ft-livre-transito-parque; Livre Trânsito FT Parque;True;False;False
+ id-prod-passe-tcb-30-dias; Passe TCB 30 dias;True;False;False
+ id-prod-passe-tcb-30-dias-3a-idade; Passe TCB 30 dias 3ª idade;True;False;True
+ id-prod-tcb-bilhete-simples; TCB Bilhete Pré Comprado Simples;True;False;False
+ id-prod-tcb-bilhete-1dia; TCB Bilhete Pré Comprado 1 Dia;True;False;False
+ id-prod-tcb-bilhete-fds; TCB Bilhete Pré Comprado Fim-de-semana;True;False;False
+ id-prod-tcb-acesso-livre; TCB Acesso Livre;True;False;False
+ id-prod-req-lisboa-viva; Requisição LisboaViva;True;False;False
+ id-prod-req-lisboa-viva-urgente; Requisição LisboaViva Urgente;True;False;False
+ id-prod-renov-perfil; Renovação de Perfil;True;False;False
+ id-prod-leitor-portal-viva; Renovação de Perfil;True;False;False
+ id-prod-tarif-bordo; Tarifa de Bordo;True;False;False
+ id-prod-tarif-bordo-50; Tarifa de Bordo 50 Bilhetes;True;False;False
+ id-prod-praia-fonte-telha-adulto; Praia da Fonte da Telha Adulto;True;False;False
+ id-prod-praia-fonte-telha-crianca; Praia da Fonte da Telha Criança;True;True;False
+ id-prod-praia-comporta-adulto; Praia da Comporta Adulto;True;False;False
+ id-prod-praia-comporta-crianca; Praia da Comporta Criança;True;True;False
+ id-prod-sct-train-bus; Cascais/Sintra Train & Bus;True;False;False
